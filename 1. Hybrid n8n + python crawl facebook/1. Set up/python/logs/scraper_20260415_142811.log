@@ -1,0 +1,43 @@
+2026-04-15 14:28:11,906 - INFO - ============================================================
+2026-04-15 14:28:11,906 - INFO - FB GROUP SCRAPER - Chỉ lấy bài có EMAIL
+2026-04-15 14:28:11,906 - INFO - Thời gian: 2026-04-15 14:28:11
+2026-04-15 14:28:11,906 - INFO - ============================================================
+2026-04-15 14:28:11,953 - INFO - Sẽ cào 1 groups (KHÔNG đăng nhập)
+2026-04-15 14:28:11,953 - INFO - Chỉ lấy bài có EMAIL liên hệ
+2026-04-15 14:28:12,431 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 14:28:21,506 - INFO -   Bước 1: Scroll và lọc sơ bộ bài tuyển dụng...
+2026-04-15 14:28:24,573 - INFO -   Scroll 1/3 - Thấy 3 bài, tiềm năng: 3
+2026-04-15 14:28:27,706 - INFO -   Scroll 2/3 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:28:30,790 - INFO -   Scroll 3/3 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:28:30,790 - INFO -   Lọc sơ bộ: 7/7 bài có từ khóa tuyển dụng
+2026-04-15 14:28:30,790 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 14:28:30,791 - INFO -   [1/7] Đang xử lý...
+2026-04-15 14:28:36,976 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:28:36,976 - INFO -   [2/7] Đang xử lý...
+2026-04-15 14:28:42,443 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:28:42,443 - INFO -   [3/7] Đang xử lý...
+2026-04-15 14:28:47,770 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:28:47,771 - INFO -   [4/7] Đang xử lý...
+2026-04-15 14:28:53,418 - INFO -   ✅ Có email: trangttp@apu.edu.vn
+2026-04-15 14:28:53,923 - INFO -   [5/7] Đang xử lý...
+2026-04-15 14:28:59,407 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:28:59,407 - INFO -   [6/7] Đang xử lý...
+2026-04-15 14:29:05,346 - INFO -   ✅ Có email: trangttp@apu.edu.vn
+2026-04-15 14:29:05,847 - INFO -   [7/7] Đang xử lý...
+2026-04-15 14:29:11,628 - INFO -   ✅ Có email: hr@triphunter.vn
+2026-04-15 14:29:12,131 - INFO -   Bỏ qua 4 bài không có email
+2026-04-15 14:29:12,131 - INFO -   → Lấy được 3 bài có email từ Group tuyển dụng 1
+2026-04-15 14:29:15,219 - INFO - 
+=== KẾT QUẢ ===
+2026-04-15 14:29:15,220 - INFO - Tổng: 3 bài có email từ 1 groups
+2026-04-15 14:29:15,220 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-15 14:29:15,220 - INFO - 
+Thời gian cào: 63 giây (1.1 phút)
+2026-04-15 14:29:15,220 - INFO - 
+Đang upload lên Google Drive...
+2026-04-15 14:29:16,214 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 14:29:20,788 - INFO - Đã upload: fb_posts_20260415.json
+2026-04-15 14:29:20,788 - INFO - Link: https://drive.google.com/file/d/1BiFzFTBGOKXJfDm4ekq_DlbG9MAmwd4m/view?usp=drivesdk
+2026-04-15 14:29:20,789 - INFO - 
+=== HOÀN TẤT ===

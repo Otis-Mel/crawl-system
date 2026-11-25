@@ -1,0 +1,196 @@
+2026-04-15 15:08:10,114 - INFO - ============================================================
+2026-04-15 15:08:10,114 - INFO - FB GROUP SCRAPER - Chỉ lấy bài có EMAIL (dedup)
+2026-04-15 15:08:10,114 - INFO - Thời gian: 2026-04-15 15:08:10
+2026-04-15 15:08:10,114 - INFO - ============================================================
+2026-04-15 15:08:10,156 - INFO - Sẽ cào 5 groups (KHÔNG đăng nhập)
+2026-04-15 15:08:10,156 - INFO - Chỉ lấy bài có EMAIL liên hệ
+2026-04-15 15:08:10,665 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 15:08:34,378 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:08:37,447 - INFO -   Scroll 1/15 - Thấy 3 bài, tiềm năng: 2
+2026-04-15 15:08:40,562 - INFO -   Scroll 2/15 - Thấy 6 bài, tiềm năng: 4
+2026-04-15 15:08:43,631 - INFO -   Scroll 3/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:08:46,711 - INFO -   Scroll 4/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:08:49,781 - INFO -   Scroll 5/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:08:52,845 - INFO -   Scroll 6/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:08:55,911 - INFO -   Scroll 7/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:08:58,981 - INFO -   Scroll 8/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:02,058 - INFO -   Scroll 9/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:05,131 - INFO -   Scroll 10/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:08,196 - INFO -   Scroll 11/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:11,262 - INFO -   Scroll 12/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:14,325 - INFO -   Scroll 13/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:17,398 - INFO -   Scroll 14/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:20,462 - INFO -   Scroll 15/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:09:20,462 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-04-15 15:09:20,463 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:09:20,463 - INFO -   [1/4] Đang xử lý...
+2026-04-15 15:09:26,840 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:09:26,840 - INFO -   [2/4] Đang xử lý...
+2026-04-15 15:09:32,480 - INFO -   ✅ Email: Kimthoat264@gmail.com
+2026-04-15 15:09:32,981 - INFO -   [3/4] Đang xử lý...
+2026-04-15 15:09:39,706 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:09:39,707 - INFO -   [4/4] Đang xử lý...
+2026-04-15 15:09:45,013 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:09:45,013 - INFO -   Bỏ qua 3 bài không có email
+2026-04-15 15:09:45,013 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:09:45,013 - INFO -   → Lấy được 1 bài có email từ Group tuyển dụng 1
+2026-04-15 15:09:48,014 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-15 15:09:56,564 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:09:59,596 - INFO -   Scroll 1/15 - Thấy 1 bài, tiềm năng: 1
+2026-04-15 15:10:02,732 - INFO -   Scroll 2/15 - Thấy 7 bài, tiềm năng: 4
+2026-04-15 15:10:05,861 - INFO -   Scroll 3/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:08,980 - INFO -   Scroll 4/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:12,098 - INFO -   Scroll 5/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:15,225 - INFO -   Scroll 6/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:18,334 - INFO -   Scroll 7/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:21,447 - INFO -   Scroll 8/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:24,555 - INFO -   Scroll 9/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:27,666 - INFO -   Scroll 10/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:30,776 - INFO -   Scroll 11/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:33,892 - INFO -   Scroll 12/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:37,050 - INFO -   Scroll 13/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:40,161 - INFO -   Scroll 14/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:43,294 - INFO -   Scroll 15/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:10:43,295 - INFO -   Lọc sơ bộ: 6/10 bài có từ khóa tuyển dụng
+2026-04-15 15:10:43,295 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:10:43,295 - INFO -   [1/6] Đang xử lý...
+2026-04-15 15:10:48,780 - INFO -   ✅ Email: nuptb@mobifoneservice.com.vn
+2026-04-15 15:10:49,283 - INFO -   [2/6] Đang xử lý...
+2026-04-15 15:10:55,873 - INFO -   ⏭ Bỏ qua (email trùng: nuptb@mobifoneservice.com.vn)
+2026-04-15 15:10:55,873 - INFO -   [3/6] Đang xử lý...
+2026-04-15 15:11:02,923 - INFO -   Đã click 2 nút Xem thêm
+2026-04-15 15:11:03,295 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:11:03,296 - INFO -   [4/6] Đang xử lý...
+2026-04-15 15:11:08,628 - INFO -   ✅ Email: contact@nexholding.asia
+2026-04-15 15:11:09,131 - INFO -   [5/6] Đang xử lý...
+2026-04-15 15:11:14,629 - INFO -   ⏭ Bỏ qua (email trùng: nuptb@mobifoneservice.com.vn)
+2026-04-15 15:11:14,629 - INFO -   [6/6] Đang xử lý...
+2026-04-15 15:11:19,892 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:11:19,892 - INFO -   Bỏ qua 2 bài không có email
+2026-04-15 15:11:19,892 - INFO -   Bỏ qua 2 bài email trùng
+2026-04-15 15:11:19,892 - INFO -   → Lấy được 2 bài có email từ Group tuyển dụng 2
+2026-04-15 15:11:22,892 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-15 15:11:31,973 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:11:35,077 - INFO -   Scroll 1/15 - Thấy 7 bài, tiềm năng: 5
+2026-04-15 15:11:38,188 - INFO -   Scroll 2/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:11:41,266 - INFO -   Scroll 3/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:11:44,346 - INFO -   Scroll 4/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:11:47,437 - INFO -   Scroll 5/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:11:50,517 - INFO -   Scroll 6/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:11:53,599 - INFO -   Scroll 7/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:11:56,695 - INFO -   Scroll 8/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:11:59,782 - INFO -   Scroll 9/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:12:02,865 - INFO -   Scroll 10/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:12:05,945 - INFO -   Scroll 11/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:12:09,031 - INFO -   Scroll 12/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:12:12,111 - INFO -   Scroll 13/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:12:15,206 - INFO -   Scroll 14/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:12:18,301 - INFO -   Scroll 15/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-15 15:12:18,301 - INFO -   Lọc sơ bộ: 6/10 bài có từ khóa tuyển dụng
+2026-04-15 15:12:18,301 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:12:18,302 - INFO -   [1/6] Đang xử lý...
+2026-04-15 15:12:23,735 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:12:23,735 - INFO -   [2/6] Đang xử lý...
+2026-04-15 15:12:29,153 - INFO -   ✅ Email: trangianglong0717@gmail.com
+2026-04-15 15:12:29,667 - INFO -   [3/6] Đang xử lý...
+2026-04-15 15:12:34,985 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:12:34,985 - INFO -   [4/6] Đang xử lý...
+2026-04-15 15:12:40,288 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:12:40,288 - INFO -   [5/6] Đang xử lý...
+2026-04-15 15:12:45,681 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:12:45,681 - INFO -   [6/6] Đang xử lý...
+2026-04-15 15:12:51,207 - INFO -   ⏭ Bỏ qua (email trùng: trangianglong0717@gmail.com)
+2026-04-15 15:12:51,207 - INFO -   Bỏ qua 4 bài không có email
+2026-04-15 15:12:51,207 - INFO -   Bỏ qua 1 bài email trùng
+2026-04-15 15:12:51,207 - INFO -   → Lấy được 1 bài có email từ Group tuyển dụng 3
+2026-04-15 15:12:54,216 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-15 15:13:02,543 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:13:05,583 - INFO -   Scroll 1/15 - Thấy 1 bài, tiềm năng: 1
+2026-04-15 15:13:08,801 - INFO -   Scroll 2/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:11,952 - INFO -   Scroll 3/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:15,100 - INFO -   Scroll 4/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:18,254 - INFO -   Scroll 5/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:21,394 - INFO -   Scroll 6/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:24,548 - INFO -   Scroll 7/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:27,749 - INFO -   Scroll 8/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:30,934 - INFO -   Scroll 9/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:34,144 - INFO -   Scroll 10/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:37,398 - INFO -   Scroll 11/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:40,544 - INFO -   Scroll 12/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:43,676 - INFO -   Scroll 13/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:46,825 - INFO -   Scroll 14/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:49,962 - INFO -   Scroll 15/15 - Thấy 7 bài, tiềm năng: 6
+2026-04-15 15:13:49,963 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-04-15 15:13:49,963 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:13:49,963 - INFO -   [1/6] Đang xử lý...
+2026-04-15 15:14:02,267 - INFO -   Đã click 7 nút Xem thêm
+2026-04-15 15:14:02,527 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:14:02,527 - INFO -   [2/6] Đang xử lý...
+2026-04-15 15:15:10,993 - INFO -   Đã click 3 nút Xem thêm
+2026-04-15 15:15:11,203 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:15:11,203 - INFO -   [3/6] Đang xử lý...
+2026-04-15 15:15:21,722 - INFO -   Đã click 4 nút Xem thêm
+2026-04-15 15:15:22,014 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:15:22,014 - INFO -   [4/6] Đang xử lý...
+2026-04-15 15:15:31,207 - INFO -   Đã click 3 nút Xem thêm
+2026-04-15 15:15:31,462 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:15:31,462 - INFO -   [5/6] Đang xử lý...
+2026-04-15 15:17:41,602 - INFO -   Đã click 3 nút Xem thêm
+2026-04-15 15:17:41,743 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:17:41,744 - INFO -   [6/6] Đang xử lý...
+2026-04-15 15:17:47,358 - INFO -   ✅ Email: hr@axismediavn.com
+2026-04-15 15:17:47,865 - INFO -   Bỏ qua 5 bài không có email
+2026-04-15 15:17:47,865 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:17:47,865 - INFO -   → Lấy được 1 bài có email từ Group tuyển dụng 4
+2026-04-15 15:17:50,867 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-15 15:17:59,457 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:18:02,566 - INFO -   Scroll 1/15 - Thấy 4 bài, tiềm năng: 3
+2026-04-15 15:18:05,700 - INFO -   Scroll 2/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:08,840 - INFO -   Scroll 3/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:11,934 - INFO -   Scroll 4/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:15,049 - INFO -   Scroll 5/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:18,178 - INFO -   Scroll 6/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:21,310 - INFO -   Scroll 7/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:24,471 - INFO -   Scroll 8/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:27,595 - INFO -   Scroll 9/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:30,728 - INFO -   Scroll 10/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:33,846 - INFO -   Scroll 11/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:36,964 - INFO -   Scroll 12/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:40,098 - INFO -   Scroll 13/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:43,609 - INFO -   Scroll 14/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:46,704 - INFO -   Scroll 15/15 - Thấy 9 bài, tiềm năng: 6
+2026-04-15 15:18:46,704 - INFO -   Lọc sơ bộ: 6/9 bài có từ khóa tuyển dụng
+2026-04-15 15:18:46,705 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:18:46,705 - INFO -   [1/6] Đang xử lý...
+2026-04-15 15:18:52,135 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:18:52,135 - INFO -   [2/6] Đang xử lý...
+2026-04-15 15:18:56,981 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:18:56,982 - INFO -   [3/6] Đang xử lý...
+2026-04-15 15:19:02,368 - INFO -   ✅ Email: huyenbtn@isocert.org.vn
+2026-04-15 15:19:02,869 - INFO -   [4/6] Đang xử lý...
+2026-04-15 15:19:08,128 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:19:08,128 - INFO -   [5/6] Đang xử lý...
+2026-04-15 15:19:13,529 - INFO -   ✅ Email: hr@xenia.tech
+2026-04-15 15:19:14,031 - INFO -   [6/6] Đang xử lý...
+2026-04-15 15:19:19,250 - INFO -   ✅ Email: tuyendung@mebisoft.vn
+2026-04-15 15:19:19,757 - INFO -   Bỏ qua 3 bài không có email
+2026-04-15 15:19:19,757 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:19:19,757 - INFO -   → Lấy được 3 bài có email từ Group tuyển dụng 5
+2026-04-15 15:19:22,867 - INFO - 
+=== KẾT QUẢ ===
+2026-04-15 15:19:22,867 - INFO - Tổng: 8 bài có email từ 5 groups
+2026-04-15 15:19:22,868 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-15 15:19:22,868 - INFO - 
+Thời gian cào: 673 giây (11.2 phút)
+2026-04-15 15:19:22,868 - INFO - 
+Đang upload lên Google Drive...
+2026-04-15 15:19:23,131 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 15:19:27,182 - INFO - Đã upload: fb_posts_20260415.json
+2026-04-15 15:19:27,182 - INFO - Link: https://drive.google.com/file/d/1IkZRiwXABrCJ15ch7tVOTS3GcnwONYd8/view?usp=drivesdk
+2026-04-15 15:19:27,183 - INFO - 
+=== HOÀN TẤT ===

@@ -1,0 +1,1266 @@
+2026-04-17 13:35:20,018 - INFO - ============================================================
+2026-04-17 13:35:20,018 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-04-17 13:35:20,018 - INFO - Nhấn Ctrl+C để dừng
+2026-04-17 13:35:20,019 - INFO - ============================================================
+2026-04-17 13:35:20,019 - INFO - 
+============================================================
+2026-04-17 13:35:20,019 - INFO - LẦN CHẠY #1 | 13:35
+2026-04-17 13:35:20,019 - INFO - ============================================================
+2026-04-17 13:35:20,108 - INFO - File output: fb_posts_20260417_1335.json
+2026-04-17 13:35:20,108 - INFO - Email đã lấy từ trước: 0
+2026-04-17 13:35:26,257 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 13:35:43,602 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 13:35:44,699 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:35:44,700 - INFO -   Scroll 1/15 - Thấy 4 bài, tiềm năng: 3
+2026-04-17 13:35:45,869 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:35:45,869 - INFO -   Scroll 2/15 - Thấy 7 bài, tiềm năng: 5
+2026-04-17 13:35:54,098 - INFO -   Scroll 3/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:02,320 - INFO -   Scroll 4/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:10,553 - INFO -   Scroll 5/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:18,745 - INFO -   Scroll 6/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:26,978 - INFO -   Scroll 7/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:35,194 - INFO -   Scroll 8/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:43,398 - INFO -   Scroll 9/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:51,651 - INFO -   Scroll 10/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:36:59,849 - INFO -   Scroll 11/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:37:08,082 - INFO -   Scroll 12/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:37:16,326 - INFO -   Scroll 13/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:37:24,534 - INFO -   Scroll 14/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:37:32,748 - INFO -   Scroll 15/15 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 13:37:32,749 - INFO -   Lọc sơ bộ: 6/10 bài có từ khóa tuyển dụng
+2026-04-17 13:37:32,749 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 13:37:32,749 - INFO -   [1/6] Đang xử lý...
+2026-04-17 13:37:37,720 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:37:37,720 - INFO -   [2/6] Đang xử lý...
+2026-04-17 13:37:43,035 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:37:43,036 - INFO -   [3/6] Đang xử lý...
+2026-04-17 13:37:47,906 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:37:47,906 - INFO -   [4/6] Đang xử lý...
+2026-04-17 13:37:52,886 - INFO -   ✅ Email mới: tuyendung@giadinh.edu.vn
+2026-04-17 13:37:53,401 - INFO -   [5/6] Đang xử lý...
+2026-04-17 13:37:58,682 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:37:58,682 - INFO -   [6/6] Đang xử lý...
+2026-04-17 13:38:05,057 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 13:38:05,067 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:38:05,067 - INFO -   Bỏ qua: 5 không có email, 0 email trùng
+2026-04-17 13:38:05,067 - INFO -   → Group tuyển dụng 1: 1 bài có email mới
+2026-04-17 13:38:08,078 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 13:38:08,079 - ERROR - Lỗi group Group tuyển dụng 2: Page.goto: Connection closed while reading from the driver
+2026-04-17 13:38:08,079 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 13:38:08,079 - ERROR - Lỗi group Group tuyển dụng 3: Page.goto: Connection closed while reading from the driver
+2026-04-17 13:38:08,079 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 13:38:08,080 - ERROR - Lỗi group Group tuyển dụng 4: Page.goto: Connection closed while reading from the driver
+2026-04-17 13:38:08,080 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 13:38:08,081 - ERROR - Lỗi group Group tuyển dụng 5: Page.goto: Connection closed while reading from the driver
+2026-04-17 13:38:08,081 - WARNING - socket.send() raised exception.
+2026-04-17 13:38:08,081 - ERROR - Lỗi lần #1: Browser.close: Connection closed while reading from the driver
+2026-04-17 13:38:08,081 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 14:08
+2026-04-17 13:38:08,081 - INFO - (Ctrl+C để dừng)
+2026-04-17 13:38:34,601 - INFO - ============================================================
+2026-04-17 13:38:34,602 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-04-17 13:38:34,602 - INFO - Nhấn Ctrl+C để dừng
+2026-04-17 13:38:34,602 - INFO - ============================================================
+2026-04-17 13:38:34,602 - INFO - 
+============================================================
+2026-04-17 13:38:34,602 - INFO - LẦN CHẠY #1 | 13:38
+2026-04-17 13:38:34,602 - INFO - ============================================================
+2026-04-17 13:38:34,646 - INFO - File output: fb_posts_20260417_1338.json
+2026-04-17 13:38:34,646 - INFO - Email đã lấy từ trước: 0
+2026-04-17 13:38:35,139 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 13:38:44,633 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 13:38:45,714 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:38:45,714 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 2
+2026-04-17 13:38:46,794 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:38:46,794 - INFO -   Scroll 2/5 - Thấy 5 bài, tiềm năng: 4
+2026-04-17 13:38:47,902 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:38:47,902 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 5
+2026-04-17 13:38:49,057 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:38:49,057 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 6
+2026-04-17 13:38:57,320 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 7
+2026-04-17 13:38:57,320 - INFO -   Lọc sơ bộ: 7/10 bài có từ khóa tuyển dụng
+2026-04-17 13:38:57,320 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 13:38:57,320 - INFO -   [1/7] Đang xử lý...
+2026-04-17 13:39:02,877 - INFO -   ✅ Email mới: hr@skylineschool.edu.vn
+2026-04-17 13:39:03,386 - INFO -   [2/7] Đang xử lý...
+2026-04-17 13:39:07,904 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:39:07,904 - INFO -   [3/7] Đang xử lý...
+2026-04-17 13:39:13,314 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:39:13,315 - INFO -   [4/7] Đang xử lý...
+2026-04-17 13:39:18,676 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:39:18,677 - INFO -   [5/7] Đang xử lý...
+2026-04-17 13:39:25,836 - INFO -   ✅ Email mới: tuyendung@giadinh.edu.vn
+2026-04-17 13:39:26,340 - INFO -   [6/7] Đang xử lý...
+2026-04-17 13:39:31,868 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:39:31,869 - INFO -   [7/7] Đang xử lý...
+2026-04-17 13:39:38,836 - INFO -   Đã click 2 nút Xem thêm
+2026-04-17 13:39:39,003 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: hr@skylineschool.edu.vn)
+2026-04-17 13:39:39,004 - INFO -   Bỏ qua: 4 không có email, 1 email trùng
+2026-04-17 13:39:39,004 - INFO -   → Group tuyển dụng 1: 2 bài có email mới
+2026-04-17 13:39:42,019 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 13:39:50,173 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 13:39:51,255 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:39:51,256 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 3
+2026-04-17 13:39:59,462 - INFO -   Scroll 2/5 - Thấy 7 bài, tiềm năng: 3
+2026-04-17 13:40:07,655 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 3
+2026-04-17 13:40:15,849 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 3
+2026-04-17 13:40:24,035 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-04-17 13:40:24,035 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-04-17 13:40:24,035 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 13:40:24,036 - INFO -   [1/3] Đang xử lý...
+2026-04-17 13:40:31,124 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 13:40:31,323 - INFO -   ✅ Email mới: tuyendungnemviethan@gmail.com
+2026-04-17 13:40:31,826 - INFO -   [2/3] Đang xử lý...
+2026-04-17 13:40:36,278 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: tuyendungnemviethan@gmail.com)
+2026-04-17 13:40:36,279 - INFO -   [3/3] Đang xử lý...
+2026-04-17 13:40:44,194 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:40:44,194 - INFO -   Bỏ qua: 1 không có email, 1 email trùng
+2026-04-17 13:40:44,194 - INFO -   → Group tuyển dụng 2: 1 bài có email mới
+2026-04-17 13:40:47,208 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 13:40:56,069 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 13:40:57,182 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:40:57,182 - INFO -   Scroll 1/5 - Thấy 7 bài, tiềm năng: 7
+2026-04-17 13:40:58,349 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:40:58,349 - INFO -   Scroll 2/5 - Thấy 13 bài, tiềm năng: 11
+2026-04-17 13:41:06,570 - INFO -   Scroll 3/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 13:41:14,779 - INFO -   Scroll 4/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 13:41:22,993 - INFO -   Scroll 5/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 13:41:22,993 - INFO -   Lọc sơ bộ: 13/15 bài có từ khóa tuyển dụng
+2026-04-17 13:41:22,994 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 13:41:22,994 - INFO -   [1/13] Đang xử lý...
+2026-04-17 13:41:27,614 - INFO -   ✅ Email mới: trangianglong0717@gmail.com
+2026-04-17 13:41:28,128 - INFO -   [2/13] Đang xử lý...
+2026-04-17 13:41:33,883 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 13:41:33,883 - INFO -   [3/13] Đang xử lý...
+2026-04-17 13:41:39,455 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:41:39,455 - INFO -   [4/13] Đang xử lý...
+2026-04-17 13:41:43,891 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 13:41:43,892 - INFO -   [5/13] Đang xử lý...
+2026-04-17 13:41:48,185 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:41:48,185 - INFO -   [6/13] Đang xử lý...
+2026-04-17 13:41:52,910 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 13:41:52,910 - INFO -   [7/13] Đang xử lý...
+2026-04-17 13:41:57,311 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 13:41:57,311 - INFO -   [8/13] Đang xử lý...
+2026-04-17 13:42:01,665 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:42:01,666 - INFO -   [9/13] Đang xử lý...
+2026-04-17 13:42:06,082 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 13:42:06,082 - INFO -   [10/13] Đang xử lý...
+2026-04-17 13:42:10,619 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:42:10,619 - INFO -   [11/13] Đang xử lý...
+2026-04-17 13:42:15,043 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 13:42:15,044 - INFO -   [12/13] Đang xử lý...
+2026-04-17 13:42:19,600 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 13:42:19,600 - INFO -   [13/13] Đang xử lý...
+2026-04-17 13:42:24,001 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:42:24,001 - INFO -   Bỏ qua: 5 không có email, 7 email trùng
+2026-04-17 13:42:24,001 - INFO -   → Group tuyển dụng 3: 1 bài có email mới
+2026-04-17 13:42:27,010 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 13:42:35,245 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 13:42:36,294 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:42:36,294 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 13:42:37,415 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:42:37,416 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-04-17 13:42:38,696 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:42:38,697 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 13:42:46,971 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 9
+2026-04-17 13:42:55,243 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 9
+2026-04-17 13:42:55,244 - INFO -   Lọc sơ bộ: 9/11 bài có từ khóa tuyển dụng
+2026-04-17 13:42:55,244 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 13:42:55,244 - INFO -   [1/9] Đang xử lý...
+2026-04-17 13:43:00,689 - INFO -   ✅ Email mới: nhuquynh.hr01@gmail.com
+2026-04-17 13:43:01,190 - INFO -   [2/9] Đang xử lý...
+2026-04-17 13:44:13,181 - INFO -   Đã click 6 nút Xem thêm
+2026-04-17 13:44:13,471 - INFO -   ✅ Email mới: hanhchinhakina@gmail.com
+2026-04-17 13:44:13,975 - INFO -   [3/9] Đang xử lý...
+2026-04-17 13:44:20,060 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 13:44:20,227 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: nhuquynh.hr01@gmail.com)
+2026-04-17 13:44:20,228 - INFO -   [4/9] Đang xử lý...
+2026-04-17 13:44:24,751 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: nhuquynh.hr01@gmail.com)
+2026-04-17 13:44:24,751 - INFO -   [5/9] Đang xử lý...
+2026-04-17 13:44:29,918 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:44:29,919 - INFO -   [6/9] Đang xử lý...
+2026-04-17 13:45:37,194 - INFO -   Đã click 2 nút Xem thêm
+2026-04-17 13:45:37,419 - INFO -   ✅ Email mới: pns.cozy@gmail.com
+2026-04-17 13:45:37,936 - INFO -   [7/9] Đang xử lý...
+2026-04-17 13:47:50,954 - INFO -   Đã click 7 nút Xem thêm
+2026-04-17 13:47:51,259 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:47:51,259 - INFO -   [8/9] Đang xử lý...
+2026-04-17 13:48:59,555 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 13:48:59,921 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:48:59,922 - INFO -   [9/9] Đang xử lý...
+2026-04-17 13:52:39,575 - INFO -   Đã click 2 nút Xem thêm
+2026-04-17 13:52:40,011 - INFO -   ✅ Email mới: minhphuong18211@gmail.com
+2026-04-17 13:52:40,519 - INFO -   Bỏ qua: 3 không có email, 2 email trùng
+2026-04-17 13:52:40,519 - INFO -   → Group tuyển dụng 4: 4 bài có email mới
+2026-04-17 13:52:43,527 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 13:52:51,916 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 13:52:52,970 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:52:52,970 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-04-17 13:52:54,156 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 13:52:54,156 - INFO -   Scroll 2/5 - Thấy 6 bài, tiềm năng: 4
+2026-04-17 13:53:02,508 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 7
+2026-04-17 13:53:10,792 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 7
+2026-04-17 13:53:19,095 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 7
+2026-04-17 13:53:19,095 - INFO -   Lọc sơ bộ: 7/11 bài có từ khóa tuyển dụng
+2026-04-17 13:53:19,095 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 13:53:19,096 - INFO -   [1/7] Đang xử lý...
+2026-04-17 13:53:24,702 - INFO -   ✅ Email mới: linhlt@zodiac.com.vn
+2026-04-17 13:53:25,204 - INFO -   [2/7] Đang xử lý...
+2026-04-17 13:53:31,971 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:53:31,971 - INFO -   [3/7] Đang xử lý...
+2026-04-17 13:53:37,239 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: linhlt@zodiac.com.vn)
+2026-04-17 13:53:37,239 - INFO -   [4/7] Đang xử lý...
+2026-04-17 13:53:41,761 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: linhlt@zodiac.com.vn)
+2026-04-17 13:53:41,761 - INFO -   [5/7] Đang xử lý...
+2026-04-17 13:53:47,665 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:53:47,666 - INFO -   [6/7] Đang xử lý...
+2026-04-17 13:53:52,921 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:53:52,921 - INFO -   [7/7] Đang xử lý...
+2026-04-17 13:53:59,161 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 13:53:59,270 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 13:53:59,270 - INFO -   Bỏ qua: 4 không có email, 2 email trùng
+2026-04-17 13:53:59,270 - INFO -   → Group tuyển dụng 5: 1 bài có email mới
+2026-04-17 13:54:02,390 - INFO - Đã lưu 9 bài → fb_posts_20260417_1338.json
+2026-04-17 13:54:02,390 - INFO - Đang upload Google Drive...
+2026-04-17 13:54:04,454 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-17 13:54:07,654 - INFO - Đã upload: fb_posts_20260417_1338.json
+2026-04-17 13:54:07,654 - INFO - Link: https://drive.google.com/file/d/1kAf41AUCxebCAm7aCuFPl3-YOT_Djgzs/view?usp=drivesdk
+2026-04-17 13:54:07,654 - INFO - Xong lần #1: 9 bài mới | 933s (15.6 phút)
+2026-04-17 13:54:07,654 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 14:24
+2026-04-17 13:54:07,655 - INFO - (Ctrl+C để dừng)
+2026-04-17 14:24:07,659 - INFO - 
+============================================================
+2026-04-17 14:24:07,659 - INFO - LẦN CHẠY #2 | 14:24
+2026-04-17 14:24:07,659 - INFO - ============================================================
+2026-04-17 14:24:07,660 - INFO - File output: fb_posts_20260417_1424.json
+2026-04-17 14:24:07,660 - INFO - Email đã lấy từ trước: 9
+2026-04-17 14:24:08,173 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 14:24:24,918 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 14:24:25,973 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:24:25,974 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 14:24:27,100 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:24:27,101 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-04-17 14:24:28,261 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:24:28,262 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 7
+2026-04-17 14:24:36,504 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 9
+2026-04-17 14:24:44,711 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 9
+2026-04-17 14:24:44,711 - INFO -   Lọc sơ bộ: 9/11 bài có từ khóa tuyển dụng
+2026-04-17 14:24:44,711 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 14:24:44,711 - INFO -   [1/9] Đang xử lý...
+2026-04-17 14:24:50,521 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:24:50,521 - INFO -   [2/9] Đang xử lý...
+2026-04-17 14:24:56,014 - INFO -   ✅ Email mới: nt-thienthach@pasona.vn
+2026-04-17 14:24:56,522 - INFO -   [3/9] Đang xử lý...
+2026-04-17 14:25:01,835 - INFO -   ✅ Email mới: Helloconsen@gmail.com
+2026-04-17 14:25:02,350 - INFO -   [4/9] Đang xử lý...
+2026-04-17 14:25:07,997 - INFO -   ✅ Email mới: nhian23007@gmail.com
+2026-04-17 14:25:08,498 - INFO -   [5/9] Đang xử lý...
+2026-04-17 14:25:14,000 - INFO -   ✅ Email mới: xtho120299@gmail.com
+2026-04-17 14:25:14,509 - INFO -   [6/9] Đang xử lý...
+2026-04-17 14:25:21,276 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:25:21,276 - INFO -   [7/9] Đang xử lý...
+2026-04-17 14:25:27,016 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:25:27,016 - INFO -   [8/9] Đang xử lý...
+2026-04-17 14:25:33,575 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:25:33,861 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:25:33,861 - INFO -   [9/9] Đang xử lý...
+2026-04-17 14:25:39,325 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:25:39,325 - INFO -   Bỏ qua: 5 không có email, 0 email trùng
+2026-04-17 14:25:39,325 - INFO -   → Group tuyển dụng 1: 4 bài có email mới
+2026-04-17 14:25:42,337 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 14:25:51,674 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 14:25:52,778 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:25:52,778 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 1
+2026-04-17 14:26:00,999 - INFO -   Scroll 2/5 - Thấy 7 bài, tiềm năng: 4
+2026-04-17 14:26:09,195 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 4
+2026-04-17 14:26:17,388 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-04-17 14:26:25,606 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-04-17 14:26:25,606 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-04-17 14:26:25,606 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 14:26:25,606 - INFO -   [1/4] Đang xử lý...
+2026-04-17 14:26:31,332 - INFO -   ✅ Email mới: info.mkt@lucasta.vn
+2026-04-17 14:26:31,836 - INFO -   [2/4] Đang xử lý...
+2026-04-17 14:26:39,071 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:26:39,186 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:26:39,186 - INFO -   [3/4] Đang xử lý...
+2026-04-17 14:26:43,731 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: tuyendungnemviethan@gmail.com)
+2026-04-17 14:26:43,731 - INFO -   [4/4] Đang xử lý...
+2026-04-17 14:26:50,757 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:26:50,757 - INFO -   Bỏ qua: 2 không có email, 1 email trùng
+2026-04-17 14:26:50,757 - INFO -   → Group tuyển dụng 2: 1 bài có email mới
+2026-04-17 14:26:53,759 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 14:27:02,863 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 14:27:04,004 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:27:04,005 - INFO -   Scroll 1/5 - Thấy 7 bài, tiềm năng: 7
+2026-04-17 14:27:05,140 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:27:05,140 - INFO -   Scroll 2/5 - Thấy 12 bài, tiềm năng: 12
+2026-04-17 14:27:13,389 - INFO -   Scroll 3/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 14:27:21,619 - INFO -   Scroll 4/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 14:27:29,875 - INFO -   Scroll 5/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 14:27:29,875 - INFO -   Lọc sơ bộ: 13/15 bài có từ khóa tuyển dụng
+2026-04-17 14:27:29,875 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 14:27:29,876 - INFO -   [1/13] Đang xử lý...
+2026-04-17 14:27:36,507 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:27:36,807 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:27:36,808 - INFO -   [2/13] Đang xử lý...
+2026-04-17 14:27:43,572 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:27:43,750 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:27:43,750 - INFO -   [3/13] Đang xử lý...
+2026-04-17 14:27:49,972 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:27:50,229 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:27:50,229 - INFO -   [4/13] Đang xử lý...
+2026-04-17 14:27:57,446 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:27:57,810 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:27:57,810 - INFO -   [5/13] Đang xử lý...
+2026-04-17 14:28:04,081 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:28:04,376 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:28:04,376 - INFO -   [6/13] Đang xử lý...
+2026-04-17 14:28:09,731 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:28:09,992 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:28:09,992 - INFO -   [7/13] Đang xử lý...
+2026-04-17 14:28:16,233 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:28:16,490 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:28:16,490 - INFO -   [8/13] Đang xử lý...
+2026-04-17 14:28:21,910 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:28:22,217 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:28:22,217 - INFO -   [9/13] Đang xử lý...
+2026-04-17 14:28:27,875 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:28:27,875 - INFO -   [10/13] Đang xử lý...
+2026-04-17 14:28:35,186 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:28:35,449 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:28:35,449 - INFO -   [11/13] Đang xử lý...
+2026-04-17 14:28:41,640 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:28:41,706 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:28:41,706 - INFO -   [12/13] Đang xử lý...
+2026-04-17 14:28:47,038 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:28:47,038 - INFO -   [13/13] Đang xử lý...
+2026-04-17 14:28:52,688 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:28:53,094 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 14:28:53,094 - INFO -   Bỏ qua: 3 không có email, 10 email trùng
+2026-04-17 14:28:53,095 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-04-17 14:28:56,104 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 14:29:04,512 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 14:29:05,544 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:29:05,544 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 14:29:06,656 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:29:06,656 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-04-17 14:29:07,839 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:29:07,839 - INFO -   Scroll 3/5 - Thấy 8 bài, tiềm năng: 6
+2026-04-17 14:29:16,187 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 7
+2026-04-17 14:29:24,477 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 7
+2026-04-17 14:29:24,477 - INFO -   Lọc sơ bộ: 7/10 bài có từ khóa tuyển dụng
+2026-04-17 14:29:24,478 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 14:29:24,478 - INFO -   [1/7] Đang xử lý...
+2026-04-17 14:30:04,558 - INFO -   Đã click 5 nút Xem thêm
+2026-04-17 14:30:04,830 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: minhphuong18211@gmail.com)
+2026-04-17 14:30:04,830 - INFO -   [2/7] Đang xử lý...
+2026-04-17 14:32:18,089 - INFO -   Đã click 4 nút Xem thêm
+2026-04-17 14:32:18,408 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: minhphuong18211@gmail.com)
+2026-04-17 14:32:18,408 - INFO -   [3/7] Đang xử lý...
+2026-04-17 14:32:23,928 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:32:23,928 - INFO -   [4/7] Đang xử lý...
+2026-04-17 14:36:04,562 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 14:36:04,786 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:36:04,786 - INFO -   [5/7] Đang xử lý...
+2026-04-17 14:39:13,956 - INFO -   Đã click 2 nút Xem thêm
+2026-04-17 14:39:14,353 - INFO -   ✅ Email mới: thoanguyen26895@gmail.com
+2026-04-17 14:39:14,869 - INFO -   [6/7] Đang xử lý...
+2026-04-17 14:39:20,310 - INFO -   ✅ Email mới: hcns.vieconnect@gmail.com
+2026-04-17 14:39:20,818 - INFO -   [7/7] Đang xử lý...
+2026-04-17 14:39:57,319 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 14:39:57,437 - INFO -   ✅ Email mới: lakesidemediahr@gmail.com
+2026-04-17 14:39:57,940 - INFO -   Bỏ qua: 2 không có email, 2 email trùng
+2026-04-17 14:39:57,940 - INFO -   → Group tuyển dụng 4: 3 bài có email mới
+2026-04-17 14:40:00,941 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 14:40:09,673 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 14:40:10,708 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:40:10,708 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 14:40:11,801 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 14:40:11,801 - INFO -   Scroll 2/5 - Thấy 5 bài, tiềm năng: 5
+2026-04-17 14:40:19,977 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-04-17 14:40:28,125 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-04-17 14:40:36,303 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-04-17 14:40:36,303 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-04-17 14:40:36,304 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 14:40:36,304 - INFO -   [1/6] Đang xử lý...
+2026-04-17 14:40:41,572 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:40:41,572 - INFO -   [2/6] Đang xử lý...
+2026-04-17 14:40:47,451 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: linhlt@zodiac.com.vn)
+2026-04-17 14:40:47,451 - INFO -   [3/6] Đang xử lý...
+2026-04-17 14:40:52,927 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:40:52,927 - INFO -   [4/6] Đang xử lý...
+2026-04-17 14:40:57,496 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:40:57,497 - INFO -   [5/6] Đang xử lý...
+2026-04-17 14:41:02,060 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:41:02,061 - INFO -   [6/6] Đang xử lý...
+2026-04-17 14:41:07,352 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 14:41:07,352 - INFO -   Bỏ qua: 5 không có email, 1 email trùng
+2026-04-17 14:41:07,353 - INFO -   → Group tuyển dụng 5: 0 bài có email mới
+2026-04-17 14:41:10,446 - INFO - Đã lưu 8 bài → fb_posts_20260417_1424.json
+2026-04-17 14:41:10,446 - INFO - Đang upload Google Drive...
+2026-04-17 14:41:10,453 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-17 14:41:12,004 - INFO - Đã tạo folder 'fb_scraper_data'
+2026-04-17 14:41:14,372 - INFO - Đã upload: fb_posts_20260417_1424.json
+2026-04-17 14:41:14,372 - INFO - Link: https://drive.google.com/file/d/1f8Gc75yv6XB2RPfvy7fZn-SSuYyHASWo/view?usp=drivesdk
+2026-04-17 14:41:14,372 - INFO - Xong lần #2: 8 bài mới | 1027s (17.1 phút)
+2026-04-17 14:41:14,372 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 15:11
+2026-04-17 14:41:14,372 - INFO - (Ctrl+C để dừng)
+2026-04-17 15:11:14,378 - INFO - 
+============================================================
+2026-04-17 15:11:14,379 - INFO - LẦN CHẠY #3 | 15:11
+2026-04-17 15:11:14,379 - INFO - ============================================================
+2026-04-17 15:11:14,380 - INFO - File output: fb_posts_20260417_1511.json
+2026-04-17 15:11:14,380 - INFO - Email đã lấy từ trước: 17
+2026-04-17 15:11:14,900 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 15:11:31,665 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:11:33,741 - INFO -   ⚡ Load xong sau 2s
+2026-04-17 15:11:33,741 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 15:11:34,814 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:11:34,814 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-04-17 15:11:36,013 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:11:36,013 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-04-17 15:11:44,307 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 3
+2026-04-17 15:11:52,582 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-04-17 15:11:52,583 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-04-17 15:11:52,583 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:11:52,583 - INFO -   [1/3] Đang xử lý...
+2026-04-17 15:13:31,760 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 15:13:32,115 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:13:32,116 - INFO -   [2/3] Đang xử lý...
+2026-04-17 15:14:45,366 - INFO -   Đã click 8 nút Xem thêm
+2026-04-17 15:14:45,856 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:14:45,856 - INFO -   [3/3] Đang xử lý...
+2026-04-17 15:14:49,549 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:14:49,549 - INFO -   Bỏ qua: 3 không có email, 0 email trùng
+2026-04-17 15:14:49,549 - INFO -   → Group tuyển dụng 1: 0 bài có email mới
+2026-04-17 15:14:52,550 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 15:15:04,755 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:15:05,806 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:15:05,806 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-04-17 15:15:06,940 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:15:06,942 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 1
+2026-04-17 15:15:15,252 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 1
+2026-04-17 15:15:23,591 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 1
+2026-04-17 15:15:31,825 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-04-17 15:15:31,826 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-04-17 15:15:31,826 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:15:31,826 - INFO -   [1/1] Đang xử lý...
+2026-04-17 15:15:38,054 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: info.mkt@lucasta.vn)
+2026-04-17 15:15:38,054 - INFO -   Bỏ qua: 0 không có email, 1 email trùng
+2026-04-17 15:15:38,055 - INFO -   → Group tuyển dụng 2: 0 bài có email mới
+2026-04-17 15:15:41,065 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 15:15:49,836 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:15:50,974 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:15:50,974 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 3
+2026-04-17 15:15:52,141 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:15:52,142 - INFO -   Scroll 2/5 - Thấy 9 bài, tiềm năng: 9
+2026-04-17 15:16:00,401 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 11
+2026-04-17 15:16:08,646 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 11
+2026-04-17 15:16:16,902 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 11
+2026-04-17 15:16:16,902 - INFO -   Lọc sơ bộ: 11/11 bài có từ khóa tuyển dụng
+2026-04-17 15:16:16,902 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:16:16,902 - INFO -   [1/11] Đang xử lý...
+2026-04-17 15:16:23,302 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:16:23,568 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:16:23,569 - INFO -   [2/11] Đang xử lý...
+2026-04-17 15:16:29,037 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:16:29,296 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:16:29,296 - INFO -   [3/11] Đang xử lý...
+2026-04-17 15:16:34,738 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:16:34,954 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:16:34,954 - INFO -   [4/11] Đang xử lý...
+2026-04-17 15:16:40,414 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:16:40,620 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:16:40,621 - INFO -   [5/11] Đang xử lý...
+2026-04-17 15:16:47,710 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:16:48,068 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:16:48,068 - INFO -   [6/11] Đang xử lý...
+2026-04-17 15:16:53,591 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:16:53,888 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:16:53,888 - INFO -   [7/11] Đang xử lý...
+2026-04-17 15:17:00,158 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:17:00,427 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:17:00,427 - INFO -   [8/11] Đang xử lý...
+2026-04-17 15:17:06,583 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:17:06,928 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:17:06,928 - INFO -   [9/11] Đang xử lý...
+2026-04-17 15:17:11,447 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:17:11,447 - INFO -   [10/11] Đang xử lý...
+2026-04-17 15:17:16,904 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:17:17,233 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:17:17,233 - INFO -   [11/11] Đang xử lý...
+2026-04-17 15:17:24,548 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:17:24,834 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:17:24,834 - INFO -   Bỏ qua: 0 không có email, 11 email trùng
+2026-04-17 15:17:24,834 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-04-17 15:17:27,835 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 15:17:36,292 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:17:37,366 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:17:37,366 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 15:17:38,587 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:17:38,588 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-04-17 15:17:39,767 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:17:39,767 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-04-17 15:17:48,125 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 7
+2026-04-17 15:17:56,417 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 7
+2026-04-17 15:17:56,417 - INFO -   Lọc sơ bộ: 7/9 bài có từ khóa tuyển dụng
+2026-04-17 15:17:56,417 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:17:56,417 - INFO -   [1/7] Đang xử lý...
+2026-04-17 15:19:05,677 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 15:19:05,933 - INFO -   ✅ Email mới: haanh.pham@mecreative.vn
+2026-04-17 15:19:06,442 - INFO -   [2/7] Đang xử lý...
+2026-04-17 15:19:13,633 - INFO -   ✅ Email mới: tnamediagroup0903@gmail.com
+2026-04-17 15:19:14,138 - INFO -   [3/7] Đang xử lý...
+2026-04-17 15:19:50,639 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:19:50,811 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: haanh.pham@mecreative.vn)
+2026-04-17 15:19:50,812 - INFO -   [4/7] Đang xử lý...
+2026-04-17 15:20:31,285 - INFO -   Đã click 5 nút Xem thêm
+2026-04-17 15:20:31,598 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:20:31,598 - INFO -   [5/7] Đang xử lý...
+2026-04-17 15:20:40,411 - INFO -   ✅ Email mới: recruitment@vacons.com.vn
+2026-04-17 15:20:40,925 - INFO -   [6/7] Đang xử lý...
+2026-04-17 15:20:46,420 - INFO -   ✅ Email mới: hr.maiamaia07@gmail.com
+2026-04-17 15:20:46,923 - INFO -   [7/7] Đang xử lý...
+2026-04-17 15:20:53,251 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:20:53,309 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:20:53,309 - INFO -   Bỏ qua: 2 không có email, 1 email trùng
+2026-04-17 15:20:53,309 - INFO -   → Group tuyển dụng 4: 4 bài có email mới
+2026-04-17 15:20:56,324 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 15:21:04,811 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:21:05,863 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:21:05,863 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-04-17 15:21:07,069 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:21:07,070 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-04-17 15:21:15,277 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-04-17 15:21:23,455 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-04-17 15:21:31,666 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-04-17 15:21:31,666 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-04-17 15:21:31,666 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:21:31,666 - INFO -   [1/4] Đang xử lý...
+2026-04-17 15:21:37,569 - INFO -   ✅ Email mới: nguyenvu2905bth@gmail.com
+2026-04-17 15:21:38,080 - INFO -   [2/4] Đang xử lý...
+2026-04-17 15:21:44,195 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:21:44,195 - INFO -   [3/4] Đang xử lý...
+2026-04-17 15:21:49,185 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:21:49,186 - INFO -   [4/4] Đang xử lý...
+2026-04-17 15:21:53,776 - INFO -   ✅ Email mới: vvo837877@gmail.com
+2026-04-17 15:21:54,286 - INFO -   Bỏ qua: 2 không có email, 0 email trùng
+2026-04-17 15:21:54,286 - INFO -   → Group tuyển dụng 5: 2 bài có email mới
+2026-04-17 15:21:57,378 - INFO - Đã lưu 6 bài → fb_posts_20260417_1511.json
+2026-04-17 15:21:57,378 - INFO - Đang upload Google Drive...
+2026-04-17 15:21:57,886 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-17 15:22:01,089 - INFO - Đã upload: fb_posts_20260417_1511.json
+2026-04-17 15:22:01,089 - INFO - Link: https://drive.google.com/file/d/19LCgbR4SL3aUCl34ug4tnWdLidmC72zr/view?usp=drivesdk
+2026-04-17 15:22:01,090 - INFO - Xong lần #3: 6 bài mới | 647s (10.8 phút)
+2026-04-17 15:22:01,090 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 15:52
+2026-04-17 15:22:01,090 - INFO - (Ctrl+C để dừng)
+2026-04-17 15:54:32,464 - INFO - 
+============================================================
+2026-04-17 15:54:32,465 - INFO - LẦN CHẠY #4 | 15:54
+2026-04-17 15:54:32,465 - INFO - ============================================================
+2026-04-17 15:54:32,466 - INFO - File output: fb_posts_20260417_1554.json
+2026-04-17 15:54:32,466 - INFO - Email đã lấy từ trước: 23
+2026-04-17 15:54:33,041 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 15:55:16,417 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:55:24,503 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-04-17 15:55:32,579 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-04-17 15:55:40,661 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-04-17 15:55:47,736 - INFO -   ⚡ Load xong sau 7s
+2026-04-17 15:55:47,736 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-04-17 15:55:55,856 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-04-17 15:55:55,856 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-04-17 15:55:55,857 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:55:55,857 - INFO -   Bỏ qua: 0 không có email, 0 email trùng
+2026-04-17 15:55:55,858 - INFO -   → Group tuyển dụng 1: 0 bài có email mới
+2026-04-17 15:55:58,861 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 15:56:07,291 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:56:08,341 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:56:08,342 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 15:56:09,457 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:56:09,458 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 1
+2026-04-17 15:56:17,879 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 5
+2026-04-17 15:56:26,279 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 5
+2026-04-17 15:56:34,652 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 5
+2026-04-17 15:56:34,652 - INFO -   Lọc sơ bộ: 5/10 bài có từ khóa tuyển dụng
+2026-04-17 15:56:34,652 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:56:34,652 - INFO -   [1/5] Đang xử lý...
+2026-04-17 15:56:40,205 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:56:40,205 - INFO -   [2/5] Đang xử lý...
+2026-04-17 15:56:45,544 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: info.mkt@lucasta.vn)
+2026-04-17 15:56:45,544 - INFO -   [3/5] Đang xử lý...
+2026-04-17 15:56:51,714 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:56:51,935 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:56:51,935 - INFO -   [4/5] Đang xử lý...
+2026-04-17 15:56:57,388 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: tuyendungnemviethan@gmail.com)
+2026-04-17 15:56:57,388 - INFO -   [5/5] Đang xử lý...
+2026-04-17 15:57:02,734 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:57:02,734 - INFO -   Bỏ qua: 3 không có email, 2 email trùng
+2026-04-17 15:57:02,734 - INFO -   → Group tuyển dụng 2: 0 bài có email mới
+2026-04-17 15:57:05,738 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 15:57:14,194 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:57:15,380 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:57:15,380 - INFO -   Scroll 1/5 - Thấy 5 bài, tiềm năng: 5
+2026-04-17 15:57:16,602 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:57:16,602 - INFO -   Scroll 2/5 - Thấy 12 bài, tiềm năng: 12
+2026-04-17 15:57:24,906 - INFO -   Scroll 3/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 15:57:33,205 - INFO -   Scroll 4/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 15:57:41,510 - INFO -   Scroll 5/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 15:57:41,510 - INFO -   Lọc sơ bộ: 13/15 bài có từ khóa tuyển dụng
+2026-04-17 15:57:41,510 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:57:41,511 - INFO -   [1/13] Đang xử lý...
+2026-04-17 15:57:47,759 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:57:48,028 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:57:48,028 - INFO -   [2/13] Đang xử lý...
+2026-04-17 15:57:53,421 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:57:53,870 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:57:53,871 - INFO -   [3/13] Đang xử lý...
+2026-04-17 15:58:00,077 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:00,394 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:00,394 - INFO -   [4/13] Đang xử lý...
+2026-04-17 15:58:06,582 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:07,081 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:07,081 - INFO -   [5/13] Đang xử lý...
+2026-04-17 15:58:12,500 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:12,918 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:12,919 - INFO -   [6/13] Đang xử lý...
+2026-04-17 15:58:19,173 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:19,608 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:19,609 - INFO -   [7/13] Đang xử lý...
+2026-04-17 15:58:25,753 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:26,174 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:26,174 - INFO -   [8/13] Đang xử lý...
+2026-04-17 15:58:31,597 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:32,052 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:32,052 - INFO -   [9/13] Đang xử lý...
+2026-04-17 15:58:37,346 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:37,346 - INFO -   [10/13] Đang xử lý...
+2026-04-17 15:58:42,718 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:43,146 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:43,146 - INFO -   [11/13] Đang xử lý...
+2026-04-17 15:58:49,360 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:58:49,791 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:58:49,791 - INFO -   [12/13] Đang xử lý...
+2026-04-17 15:58:55,152 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:58:55,152 - INFO -   [13/13] Đang xử lý...
+2026-04-17 15:59:00,608 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 15:59:01,068 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 15:59:01,069 - INFO -   Bỏ qua: 1 không có email, 12 email trùng
+2026-04-17 15:59:01,069 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-04-17 15:59:04,077 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 15:59:12,556 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 15:59:13,632 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:59:13,632 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-04-17 15:59:14,806 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:59:14,806 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-04-17 15:59:16,134 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 15:59:16,134 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 8
+2026-04-17 15:59:24,508 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 9
+2026-04-17 15:59:32,836 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 9
+2026-04-17 15:59:32,837 - INFO -   Lọc sơ bộ: 9/11 bài có từ khóa tuyển dụng
+2026-04-17 15:59:32,837 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 15:59:32,837 - INFO -   [1/9] Đang xử lý...
+2026-04-17 15:59:40,889 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 15:59:41,132 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 15:59:41,132 - INFO -   [2/9] Đang xử lý...
+2026-04-17 15:59:46,736 - INFO -   ✅ Email mới: quynhmktlika@gmail.com
+2026-04-17 15:59:47,238 - INFO -   [3/9] Đang xử lý...
+2026-04-17 15:59:52,570 - INFO -   ✅ Email mới: bichngocbt11906@gmail.com
+2026-04-17 15:59:53,074 - INFO -   [4/9] Đang xử lý...
+2026-04-17 16:02:04,245 - INFO -   Đã click 5 nút Xem thêm
+2026-04-17 16:02:04,565 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: quynhmktlika@gmail.com)
+2026-04-17 16:02:04,565 - INFO -   [5/9] Đang xử lý...
+2026-04-17 16:04:15,747 - INFO -   Đã click 5 nút Xem thêm
+2026-04-17 16:04:16,067 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: quynhmktlika@gmail.com)
+2026-04-17 16:04:16,067 - INFO -   [6/9] Đang xử lý...
+2026-04-17 16:04:23,957 - INFO -   Đã click 2 nút Xem thêm
+2026-04-17 16:04:24,264 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: quynhmktlika@gmail.com)
+2026-04-17 16:04:24,264 - INFO -   [7/9] Đang xử lý...
+2026-04-17 16:07:35,690 - INFO -   Đã click 4 nút Xem thêm
+2026-04-17 16:07:36,095 - INFO -   ✅ Email mới: duong.trinhv@gmail.com
+2026-04-17 16:07:36,600 - INFO -   [8/9] Đang xử lý...
+2026-04-17 16:07:43,391 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: recruitment@vacons.com.vn)
+2026-04-17 16:07:43,391 - INFO -   [9/9] Đang xử lý...
+2026-04-17 16:07:48,709 - INFO -   ✅ Email mới: vihuonglan1@gmail.com
+2026-04-17 16:07:49,211 - INFO -   Bỏ qua: 1 không có email, 4 email trùng
+2026-04-17 16:07:49,211 - INFO -   → Group tuyển dụng 4: 4 bài có email mới
+2026-04-17 16:07:52,221 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 16:08:00,805 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 16:08:01,846 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 16:08:01,846 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-04-17 16:08:03,051 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 16:08:03,051 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 0
+2026-04-17 16:08:11,418 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 7
+2026-04-17 16:08:19,676 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 7
+2026-04-17 16:08:27,941 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 7
+2026-04-17 16:08:27,942 - INFO -   Lọc sơ bộ: 7/11 bài có từ khóa tuyển dụng
+2026-04-17 16:08:27,942 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 16:08:27,942 - INFO -   [1/7] Đang xử lý...
+2026-04-17 16:08:33,378 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 16:08:33,378 - INFO -   [2/7] Đang xử lý...
+2026-04-17 16:08:38,771 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 16:08:38,771 - INFO -   [3/7] Đang xử lý...
+2026-04-17 16:08:43,374 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 16:08:43,374 - INFO -   [4/7] Đang xử lý...
+2026-04-17 16:08:48,791 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: nguyenvu2905bth@gmail.com)
+2026-04-17 16:08:48,792 - INFO -   [5/7] Đang xử lý...
+2026-04-17 16:08:54,173 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 16:08:54,173 - INFO -   [6/7] Đang xử lý...
+2026-04-17 16:08:59,584 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 16:08:59,584 - INFO -   [7/7] Đang xử lý...
+2026-04-17 16:09:04,915 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: vvo837877@gmail.com)
+2026-04-17 16:09:04,915 - INFO -   Bỏ qua: 5 không có email, 2 email trùng
+2026-04-17 16:09:04,916 - INFO -   → Group tuyển dụng 5: 0 bài có email mới
+2026-04-17 16:09:08,041 - INFO - Đã lưu 4 bài → fb_posts_20260417_1554.json
+2026-04-17 16:09:08,041 - INFO - Đang upload Google Drive...
+2026-04-17 16:09:08,052 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-17 16:09:11,101 - INFO - Đã upload: fb_posts_20260417_1554.json
+2026-04-17 16:09:11,101 - INFO - Link: https://drive.google.com/file/d/1Q8TkggT7aOPbw0E0T7G0c5tl-n1FbLN_/view?usp=drivesdk
+2026-04-17 16:09:11,101 - INFO - Xong lần #4: 4 bài mới | 879s (14.6 phút)
+2026-04-17 16:09:11,102 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 16:39
+2026-04-17 16:09:11,102 - INFO - (Ctrl+C để dừng)
+2026-04-17 17:25:43,947 - INFO - 
+============================================================
+2026-04-17 17:25:43,948 - INFO - LẦN CHẠY #5 | 17:25
+2026-04-17 17:25:43,948 - INFO - ============================================================
+2026-04-17 17:25:43,958 - INFO - File output: fb_posts_20260417_1725.json
+2026-04-17 17:25:43,958 - INFO - Email đã lấy từ trước: 27
+2026-04-17 17:25:45,133 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 17:26:02,022 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 17:26:03,184 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:26:03,184 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 3
+2026-04-17 17:26:04,370 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:26:04,370 - INFO -   Scroll 2/5 - Thấy 6 bài, tiềm năng: 4
+2026-04-17 17:26:12,660 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 4
+2026-04-17 17:26:20,913 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-04-17 17:26:29,169 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-04-17 17:26:29,170 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-04-17 17:26:29,170 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 17:26:29,170 - INFO -   [1/4] Đang xử lý...
+2026-04-17 17:26:34,933 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:26:34,933 - INFO -   [2/4] Đang xử lý...
+2026-04-17 17:26:40,290 - INFO -   ✅ Email mới: corporationphatdat@gmail.com
+2026-04-17 17:26:40,797 - INFO -   [3/4] Đang xử lý...
+2026-04-17 17:26:46,197 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:26:46,197 - INFO -   [4/4] Đang xử lý...
+2026-04-17 17:26:51,522 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:26:51,523 - INFO -   Bỏ qua: 3 không có email, 0 email trùng
+2026-04-17 17:26:51,523 - INFO -   → Group tuyển dụng 1: 1 bài có email mới
+2026-04-17 17:26:54,527 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 17:27:02,854 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 17:27:04,001 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:27:04,002 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 0
+2026-04-17 17:27:12,325 - INFO -   Scroll 2/5 - Thấy 6 bài, tiềm năng: 1
+2026-04-17 17:27:20,617 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 1
+2026-04-17 17:27:28,901 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 1
+2026-04-17 17:27:37,183 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 1
+2026-04-17 17:27:37,184 - INFO -   Lọc sơ bộ: 1/6 bài có từ khóa tuyển dụng
+2026-04-17 17:27:37,184 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 17:27:37,185 - INFO -   [1/1] Đang xử lý...
+2026-04-17 17:27:42,526 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:27:42,527 - INFO -   Bỏ qua: 1 không có email, 0 email trùng
+2026-04-17 17:27:42,527 - INFO -   → Group tuyển dụng 2: 0 bài có email mới
+2026-04-17 17:27:45,543 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 17:27:53,958 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 17:27:55,100 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:27:55,107 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 3
+2026-04-17 17:27:56,399 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:27:56,399 - INFO -   Scroll 2/5 - Thấy 9 bài, tiềm năng: 9
+2026-04-17 17:28:04,838 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 9
+2026-04-17 17:28:13,141 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 9
+2026-04-17 17:28:21,495 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 9
+2026-04-17 17:28:21,496 - INFO -   Lọc sơ bộ: 9/9 bài có từ khóa tuyển dụng
+2026-04-17 17:28:21,496 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 17:28:21,496 - INFO -   [1/9] Đang xử lý...
+2026-04-17 17:28:27,766 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:28:27,873 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:28:27,874 - INFO -   [2/9] Đang xử lý...
+2026-04-17 17:28:33,259 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:28:33,536 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:28:33,536 - INFO -   [3/9] Đang xử lý...
+2026-04-17 17:28:38,929 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:28:39,223 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:28:39,223 - INFO -   [4/9] Đang xử lý...
+2026-04-17 17:28:45,454 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:28:45,729 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:28:45,729 - INFO -   [5/9] Đang xử lý...
+2026-04-17 17:28:51,178 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:28:51,456 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:28:51,456 - INFO -   [6/9] Đang xử lý...
+2026-04-17 17:28:56,931 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:28:57,241 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:28:57,241 - INFO -   [7/9] Đang xử lý...
+2026-04-17 17:29:03,513 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:29:03,768 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:29:03,768 - INFO -   [8/9] Đang xử lý...
+2026-04-17 17:29:09,155 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:29:09,600 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:29:09,601 - INFO -   [9/9] Đang xử lý...
+2026-04-17 17:29:14,209 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 17:29:14,209 - INFO -   Bỏ qua: 1 không có email, 8 email trùng
+2026-04-17 17:29:14,209 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-04-17 17:29:17,217 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 17:29:25,586 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 17:29:26,667 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:29:26,667 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 17:29:27,914 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:29:27,914 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-04-17 17:29:36,445 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-04-17 17:29:44,809 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-04-17 17:29:53,207 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-04-17 17:29:53,207 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-04-17 17:29:53,207 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 17:29:53,207 - INFO -   [1/6] Đang xử lý...
+2026-04-17 17:29:58,199 - INFO -   ✅ Email mới: thaotrang.nguyen@meishangcorp.com
+2026-04-17 17:29:58,708 - INFO -   [2/6] Đang xử lý...
+2026-04-17 17:30:07,157 - INFO -   Đã click 2 nút Xem thêm
+2026-04-17 17:30:07,375 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: hr.maiamaia07@gmail.com, duong.trinhv@gmail.com)
+2026-04-17 17:30:07,375 - INFO -   [3/6] Đang xử lý...
+2026-04-17 17:30:13,677 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:30:13,859 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:30:13,859 - INFO -   [4/6] Đang xử lý...
+2026-04-17 17:30:23,697 - INFO -   Đã click 5 nút Xem thêm
+2026-04-17 17:30:23,986 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:30:23,986 - INFO -   [5/6] Đang xử lý...
+2026-04-17 17:30:30,661 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:30:30,831 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: thaotrang.nguyen@meishangcorp.com)
+2026-04-17 17:30:30,832 - INFO -   [6/6] Đang xử lý...
+2026-04-17 17:30:36,142 - INFO -   ✅ Email mới: vm.recording86@gmail.com
+2026-04-17 17:30:36,654 - INFO -   Bỏ qua: 2 không có email, 2 email trùng
+2026-04-17 17:30:36,655 - INFO -   → Group tuyển dụng 4: 2 bài có email mới
+2026-04-17 17:30:39,669 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 17:30:48,161 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 17:30:49,352 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 17:30:49,352 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 4
+2026-04-17 17:30:57,753 - INFO -   Scroll 2/5 - Thấy 6 bài, tiềm năng: 6
+2026-04-17 17:31:06,084 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 6
+2026-04-17 17:31:14,402 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 6
+2026-04-17 17:31:22,719 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 6
+2026-04-17 17:31:22,719 - INFO -   Lọc sơ bộ: 6/6 bài có từ khóa tuyển dụng
+2026-04-17 17:31:22,720 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 17:31:22,720 - INFO -   [1/6] Đang xử lý...
+2026-04-17 17:31:28,344 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:31:28,344 - INFO -   [2/6] Đang xử lý...
+2026-04-17 17:31:33,801 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:31:33,801 - INFO -   [3/6] Đang xử lý...
+2026-04-17 17:31:39,114 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:31:39,114 - INFO -   [4/6] Đang xử lý...
+2026-04-17 17:31:44,547 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:31:44,547 - INFO -   [5/6] Đang xử lý...
+2026-04-17 17:31:50,746 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:31:50,828 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:31:50,829 - INFO -   [6/6] Đang xử lý...
+2026-04-17 17:31:57,016 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 17:31:57,329 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 17:31:57,329 - INFO -   Bỏ qua: 6 không có email, 0 email trùng
+2026-04-17 17:31:57,329 - INFO -   → Group tuyển dụng 5: 0 bài có email mới
+2026-04-17 17:32:00,465 - INFO - Đã lưu 3 bài → fb_posts_20260417_1725.json
+2026-04-17 17:32:00,465 - INFO - Đang upload Google Drive...
+2026-04-17 17:32:01,071 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-17 17:32:04,306 - INFO - Đã upload: fb_posts_20260417_1725.json
+2026-04-17 17:32:04,307 - INFO - Link: https://drive.google.com/file/d/1mMdGztKOf70jiaAtTiajPYercgqilv1L/view?usp=drivesdk
+2026-04-17 17:32:04,307 - INFO - Xong lần #5: 3 bài mới | 380s (6.3 phút)
+2026-04-17 17:32:04,308 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 18:02
+2026-04-17 17:32:04,309 - INFO - (Ctrl+C để dừng)
+2026-04-17 18:02:04,320 - INFO - 
+============================================================
+2026-04-17 18:02:04,321 - INFO - LẦN CHẠY #6 | 18:02
+2026-04-17 18:02:04,321 - INFO - ============================================================
+2026-04-17 18:02:04,322 - INFO - File output: fb_posts_20260417_1802.json
+2026-04-17 18:02:04,322 - INFO - Email đã lấy từ trước: 30
+2026-04-17 18:02:04,881 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 18:02:21,130 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:02:22,438 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:02:22,438 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 2
+2026-04-17 18:02:23,662 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:02:23,662 - INFO -   Scroll 2/5 - Thấy 9 bài, tiềm năng: 6
+2026-04-17 18:02:31,929 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 8
+2026-04-17 18:02:40,191 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 8
+2026-04-17 18:02:48,452 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 8
+2026-04-17 18:02:48,452 - INFO -   Lọc sơ bộ: 8/11 bài có từ khóa tuyển dụng
+2026-04-17 18:02:48,453 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:02:48,453 - INFO -   [1/8] Đang xử lý...
+2026-04-17 18:02:54,457 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:02:54,458 - INFO -   [2/8] Đang xử lý...
+2026-04-17 18:02:59,137 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:02:59,137 - INFO -   [3/8] Đang xử lý...
+2026-04-17 18:03:04,807 - INFO -   ✅ Email mới: svfc.bs.thuduc2@shinhanfinance.com.vn
+2026-04-17 18:03:05,309 - INFO -   [4/8] Đang xử lý...
+2026-04-17 18:03:09,788 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:03:09,789 - INFO -   [5/8] Đang xử lý...
+2026-04-17 18:03:20,478 - INFO -   Đã click 6 nút Xem thêm
+2026-04-17 18:03:20,828 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:03:20,828 - INFO -   [6/8] Đang xử lý...
+2026-04-17 18:03:26,121 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:03:26,121 - INFO -   [7/8] Đang xử lý...
+2026-04-17 18:03:31,349 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: corporationphatdat@gmail.com)
+2026-04-17 18:03:31,349 - INFO -   [8/8] Đang xử lý...
+2026-04-17 18:03:36,582 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:03:36,582 - INFO -   Bỏ qua: 6 không có email, 1 email trùng
+2026-04-17 18:03:36,583 - INFO -   → Group tuyển dụng 1: 1 bài có email mới
+2026-04-17 18:03:39,595 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 18:03:47,864 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:03:49,025 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:03:49,025 - INFO -   Scroll 1/5 - Thấy 7 bài, tiềm năng: 1
+2026-04-17 18:03:57,294 - INFO -   Scroll 2/5 - Thấy 10 bài, tiềm năng: 2
+2026-04-17 18:04:05,703 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 2
+2026-04-17 18:04:14,152 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 2
+2026-04-17 18:04:22,434 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 2
+2026-04-17 18:04:22,435 - INFO -   Lọc sơ bộ: 2/10 bài có từ khóa tuyển dụng
+2026-04-17 18:04:22,435 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:04:22,435 - INFO -   [1/2] Đang xử lý...
+2026-04-17 18:04:27,055 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:04:27,055 - INFO -   [2/2] Đang xử lý...
+2026-04-17 18:04:31,541 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: info.mkt@lucasta.vn)
+2026-04-17 18:04:31,542 - INFO -   Bỏ qua: 1 không có email, 1 email trùng
+2026-04-17 18:04:31,542 - INFO -   → Group tuyển dụng 2: 0 bài có email mới
+2026-04-17 18:04:34,548 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 18:04:43,096 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:04:44,288 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:04:44,288 - INFO -   Scroll 1/5 - Thấy 7 bài, tiềm năng: 7
+2026-04-17 18:04:52,587 - INFO -   Scroll 2/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 18:05:00,836 - INFO -   Scroll 3/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 18:05:09,089 - INFO -   Scroll 4/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 18:05:17,419 - INFO -   Scroll 5/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 18:05:17,419 - INFO -   Lọc sơ bộ: 13/15 bài có từ khóa tuyển dụng
+2026-04-17 18:05:17,419 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:05:17,420 - INFO -   [1/13] Đang xử lý...
+2026-04-17 18:05:23,610 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:05:23,840 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:05:23,840 - INFO -   [2/13] Đang xử lý...
+2026-04-17 18:05:30,911 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:05:31,237 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:05:31,237 - INFO -   [3/13] Đang xử lý...
+2026-04-17 18:05:36,578 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:05:36,931 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:05:36,931 - INFO -   [4/13] Đang xử lý...
+2026-04-17 18:05:42,247 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:05:42,604 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:05:42,605 - INFO -   [5/13] Đang xử lý...
+2026-04-17 18:05:47,886 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:05:48,259 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:05:48,260 - INFO -   [6/13] Đang xử lý...
+2026-04-17 18:05:53,583 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:05:53,913 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:05:53,914 - INFO -   [7/13] Đang xử lý...
+2026-04-17 18:05:59,188 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:05:59,365 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:05:59,365 - INFO -   [8/13] Đang xử lý...
+2026-04-17 18:06:04,661 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:06:04,944 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:06:04,944 - INFO -   [9/13] Đang xử lý...
+2026-04-17 18:06:10,787 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:06:10,787 - INFO -   [10/13] Đang xử lý...
+2026-04-17 18:06:16,137 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:06:16,421 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:06:16,421 - INFO -   [11/13] Đang xử lý...
+2026-04-17 18:06:21,768 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:06:22,065 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:06:22,065 - INFO -   [12/13] Đang xử lý...
+2026-04-17 18:06:27,304 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:06:27,304 - INFO -   [13/13] Đang xử lý...
+2026-04-17 18:06:32,640 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:06:33,136 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:06:33,137 - INFO -   Bỏ qua: 1 không có email, 12 email trùng
+2026-04-17 18:06:33,137 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-04-17 18:06:36,153 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 18:06:44,340 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:06:45,383 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:06:45,383 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 18:06:46,489 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:06:46,489 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-04-17 18:06:47,687 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:06:47,688 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 5
+2026-04-17 18:06:56,006 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 18:07:04,393 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 6
+2026-04-17 18:07:04,393 - INFO -   Lọc sơ bộ: 6/10 bài có từ khóa tuyển dụng
+2026-04-17 18:07:04,393 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:07:04,393 - INFO -   [1/6] Đang xử lý...
+2026-04-17 18:07:08,969 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:07:08,970 - INFO -   [2/6] Đang xử lý...
+2026-04-17 18:07:13,617 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:07:13,617 - INFO -   [3/6] Đang xử lý...
+2026-04-17 18:07:18,933 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: thaotrang.nguyen@meishangcorp.com)
+2026-04-17 18:07:18,934 - INFO -   [4/6] Đang xử lý...
+2026-04-17 18:08:58,789 - INFO -   Đã click 4 nút Xem thêm
+2026-04-17 18:08:59,052 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:08:59,052 - INFO -   [5/6] Đang xử lý...
+2026-04-17 18:09:07,762 - INFO -   Đã click 4 nút Xem thêm
+2026-04-17 18:09:07,973 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: thaotrang.nguyen@meishangcorp.com)
+2026-04-17 18:09:07,974 - INFO -   [6/6] Đang xử lý...
+2026-04-17 18:09:16,927 - INFO -   Đã click 4 nút Xem thêm
+2026-04-17 18:09:17,181 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: thaotrang.nguyen@meishangcorp.com)
+2026-04-17 18:09:17,182 - INFO -   Bỏ qua: 3 không có email, 3 email trùng
+2026-04-17 18:09:17,182 - INFO -   → Group tuyển dụng 4: 0 bài có email mới
+2026-04-17 18:09:20,186 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 18:09:29,030 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:09:30,210 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:09:30,211 - INFO -   Scroll 1/5 - Thấy 6 bài, tiềm năng: 5
+2026-04-17 18:09:38,570 - INFO -   Scroll 2/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:09:46,893 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:09:55,160 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:10:03,438 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:10:03,438 - INFO -   Lọc sơ bộ: 9/10 bài có từ khóa tuyển dụng
+2026-04-17 18:10:03,439 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:10:03,439 - INFO -   [1/9] Đang xử lý...
+2026-04-17 18:10:07,918 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:10:07,918 - INFO -   [2/9] Đang xử lý...
+2026-04-17 18:10:12,426 - INFO -   ✅ Email mới: hr@teamobi.vn
+2026-04-17 18:10:12,930 - INFO -   [3/9] Đang xử lý...
+2026-04-17 18:10:18,136 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:10:18,136 - INFO -   [4/9] Đang xử lý...
+2026-04-17 18:10:23,483 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:10:23,484 - INFO -   [5/9] Đang xử lý...
+2026-04-17 18:10:27,845 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:10:27,846 - INFO -   [6/9] Đang xử lý...
+2026-04-17 18:10:33,106 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:10:33,106 - INFO -   [7/9] Đang xử lý...
+2026-04-17 18:10:39,203 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:10:39,259 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:10:39,259 - INFO -   [8/9] Đang xử lý...
+2026-04-17 18:10:47,154 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:10:47,330 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:10:47,331 - INFO -   [9/9] Đang xử lý...
+2026-04-17 18:10:53,414 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:10:53,477 - INFO -   ✅ Email mới: Recruitment@jobsviet.vn
+2026-04-17 18:10:53,990 - INFO -   Bỏ qua: 7 không có email, 0 email trùng
+2026-04-17 18:10:53,990 - INFO -   → Group tuyển dụng 5: 2 bài có email mới
+2026-04-17 18:10:57,095 - INFO - Đã lưu 3 bài → fb_posts_20260417_1802.json
+2026-04-17 18:10:57,095 - INFO - Đang upload Google Drive...
+2026-04-17 18:10:57,104 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-17 18:11:00,136 - INFO - Đã upload: fb_posts_20260417_1802.json
+2026-04-17 18:11:00,137 - INFO - Link: https://drive.google.com/file/d/18FzIbo8kGfTVvaa1yJW1k1qzwdo9jzn3/view?usp=drivesdk
+2026-04-17 18:11:00,137 - INFO - Xong lần #6: 3 bài mới | 536s (8.9 phút)
+2026-04-17 18:11:00,137 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 18:41
+2026-04-17 18:11:00,137 - INFO - (Ctrl+C để dừng)
+2026-04-17 18:41:00,145 - INFO - 
+============================================================
+2026-04-17 18:41:00,146 - INFO - LẦN CHẠY #7 | 18:41
+2026-04-17 18:41:00,146 - INFO - ============================================================
+2026-04-17 18:41:00,146 - INFO - File output: fb_posts_20260417_1841.json
+2026-04-17 18:41:00,147 - INFO - Email đã lấy từ trước: 33
+2026-04-17 18:41:00,658 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-17 18:41:18,357 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:41:19,558 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:41:19,558 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 2
+2026-04-17 18:41:27,936 - INFO -   Scroll 2/5 - Thấy 11 bài, tiềm năng: 8
+2026-04-17 18:41:36,276 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 8
+2026-04-17 18:41:44,592 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 8
+2026-04-17 18:41:52,877 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 8
+2026-04-17 18:41:52,878 - INFO -   Lọc sơ bộ: 8/11 bài có từ khóa tuyển dụng
+2026-04-17 18:41:52,878 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:41:52,878 - INFO -   [1/8] Đang xử lý...
+2026-04-17 18:41:58,336 - INFO -   ✅ Email mới: kpackings3@gmail.com
+2026-04-17 18:41:58,851 - INFO -   [2/8] Đang xử lý...
+2026-04-17 18:42:04,123 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:42:04,124 - INFO -   [3/8] Đang xử lý...
+2026-04-17 18:42:09,455 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:42:09,455 - INFO -   [4/8] Đang xử lý...
+2026-04-17 18:42:13,943 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: kpackings3@gmail.com)
+2026-04-17 18:42:13,943 - INFO -   [5/8] Đang xử lý...
+2026-04-17 18:42:19,177 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:42:19,177 - INFO -   [6/8] Đang xử lý...
+2026-04-17 18:42:29,867 - INFO -   Đã click 6 nút Xem thêm
+2026-04-17 18:42:30,164 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:42:30,164 - INFO -   [7/8] Đang xử lý...
+2026-04-17 18:42:35,363 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:42:35,363 - INFO -   [8/8] Đang xử lý...
+2026-04-17 18:42:40,558 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: corporationphatdat@gmail.com)
+2026-04-17 18:42:40,558 - INFO -   Bỏ qua: 5 không có email, 2 email trùng
+2026-04-17 18:42:40,558 - INFO -   → Group tuyển dụng 1: 1 bài có email mới
+2026-04-17 18:42:43,568 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-17 18:42:51,874 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:42:52,932 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:42:52,932 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-04-17 18:42:54,173 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:42:54,173 - INFO -   Scroll 2/5 - Thấy 5 bài, tiềm năng: 0
+2026-04-17 18:43:02,613 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 2
+2026-04-17 18:43:10,970 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 2
+2026-04-17 18:43:19,396 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 2
+2026-04-17 18:43:19,396 - INFO -   Lọc sơ bộ: 2/11 bài có từ khóa tuyển dụng
+2026-04-17 18:43:19,396 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:43:19,396 - INFO -   [1/2] Đang xử lý...
+2026-04-17 18:44:31,749 - INFO -   Đã click 8 nút Xem thêm
+2026-04-17 18:44:32,227 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:44:32,227 - INFO -   [2/2] Đang xử lý...
+2026-04-17 18:44:37,776 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: info.mkt@lucasta.vn)
+2026-04-17 18:44:37,776 - INFO -   Bỏ qua: 1 không có email, 1 email trùng
+2026-04-17 18:44:37,776 - INFO -   → Group tuyển dụng 2: 0 bài có email mới
+2026-04-17 18:44:40,780 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-17 18:44:49,290 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:44:50,362 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:44:50,362 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 18:44:51,508 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:44:51,508 - INFO -   Scroll 2/5 - Thấy 7 bài, tiềm năng: 7
+2026-04-17 18:44:52,756 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:44:52,756 - INFO -   Scroll 3/5 - Thấy 15 bài, tiềm năng: 13
+2026-04-17 18:45:01,146 - INFO -   Scroll 4/5 - Thấy 18 bài, tiềm năng: 15
+2026-04-17 18:45:09,476 - INFO -   Scroll 5/5 - Thấy 18 bài, tiềm năng: 15
+2026-04-17 18:45:09,477 - INFO -   Lọc sơ bộ: 15/18 bài có từ khóa tuyển dụng
+2026-04-17 18:45:09,477 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:45:09,477 - INFO -   [1/15] Đang xử lý...
+2026-04-17 18:45:15,622 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:15,951 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:15,951 - INFO -   [2/15] Đang xử lý...
+2026-04-17 18:45:22,132 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:22,573 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:22,573 - INFO -   [3/15] Đang xử lý...
+2026-04-17 18:45:27,997 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:28,387 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:28,387 - INFO -   [4/15] Đang xử lý...
+2026-04-17 18:45:33,806 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:34,260 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:34,260 - INFO -   [5/15] Đang xử lý...
+2026-04-17 18:45:39,700 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:40,389 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:40,390 - INFO -   [6/15] Đang xử lý...
+2026-04-17 18:45:46,657 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:47,037 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:47,037 - INFO -   [7/15] Đang xử lý...
+2026-04-17 18:45:52,410 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:52,823 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:52,823 - INFO -   [8/15] Đang xử lý...
+2026-04-17 18:45:58,973 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:45:59,384 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:45:59,384 - INFO -   [9/15] Đang xử lý...
+2026-04-17 18:46:03,880 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:46:03,880 - INFO -   [10/15] Đang xử lý...
+2026-04-17 18:46:09,395 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:46:09,784 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:46:09,785 - INFO -   [11/15] Đang xử lý...
+2026-04-17 18:46:15,234 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:46:15,638 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:46:15,638 - INFO -   [12/15] Đang xử lý...
+2026-04-17 18:46:20,320 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:46:20,320 - INFO -   [13/15] Đang xử lý...
+2026-04-17 18:46:25,683 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:46:26,312 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:46:26,312 - INFO -   [14/15] Đang xử lý...
+2026-04-17 18:46:31,683 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:46:32,142 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: trangianglong0717@gmail.com)
+2026-04-17 18:46:32,142 - INFO -   [15/15] Đang xử lý...
+2026-04-17 18:46:37,545 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:46:37,545 - INFO -   Bỏ qua: 2 không có email, 13 email trùng
+2026-04-17 18:46:37,545 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-04-17 18:46:40,560 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-17 18:46:48,863 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:46:49,954 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:46:49,954 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-04-17 18:46:51,243 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:46:51,243 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-04-17 18:46:59,613 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 8
+2026-04-17 18:47:08,002 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 8
+2026-04-17 18:47:16,366 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 8
+2026-04-17 18:47:16,366 - INFO -   Lọc sơ bộ: 8/9 bài có từ khóa tuyển dụng
+2026-04-17 18:47:16,366 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:47:16,366 - INFO -   [1/8] Đang xử lý...
+2026-04-17 18:48:55,327 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 18:48:55,657 - INFO -   ✅ Email mới: ninhomevietnam@gmail.com
+2026-04-17 18:48:56,162 - INFO -   [2/8] Đang xử lý...
+2026-04-17 18:49:01,409 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:49:01,409 - INFO -   [3/8] Đang xử lý...
+2026-04-17 18:49:06,466 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: ninhomevietnam@gmail.com)
+2026-04-17 18:49:06,466 - INFO -   [4/8] Đang xử lý...
+2026-04-17 18:50:49,106 - INFO -   Đã click 7 nút Xem thêm
+2026-04-17 18:50:49,443 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:50:49,444 - INFO -   [5/8] Đang xử lý...
+2026-04-17 18:50:57,790 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 18:50:58,334 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: ninhomevietnam@gmail.com)
+2026-04-17 18:50:58,334 - INFO -   [6/8] Đang xử lý...
+2026-04-17 18:51:06,327 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 18:51:06,605 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: ninhomevietnam@gmail.com)
+2026-04-17 18:51:06,605 - INFO -   [7/8] Đang xử lý...
+2026-04-17 18:51:15,060 - INFO -   Đã click 3 nút Xem thêm
+2026-04-17 18:51:15,459 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: ninhomevietnam@gmail.com)
+2026-04-17 18:51:15,460 - INFO -   [8/8] Đang xử lý...
+2026-04-17 18:51:20,980 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: thaotrang.nguyen@meishangcorp.com)
+2026-04-17 18:51:20,980 - INFO -   Bỏ qua: 2 không có email, 5 email trùng
+2026-04-17 18:51:20,980 - INFO -   → Group tuyển dụng 4: 1 bài có email mới
+2026-04-17 18:51:23,996 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-17 18:51:32,538 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-17 18:51:33,861 - INFO -   ⚡ Load xong sau 1s
+2026-04-17 18:51:33,861 - INFO -   Scroll 1/5 - Thấy 5 bài, tiềm năng: 4
+2026-04-17 18:51:42,304 - INFO -   Scroll 2/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:51:50,653 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:51:59,006 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:52:07,334 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 9
+2026-04-17 18:52:07,334 - INFO -   Lọc sơ bộ: 9/10 bài có từ khóa tuyển dụng
+2026-04-17 18:52:07,334 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-04-17 18:52:07,334 - INFO -   [1/9] Đang xử lý...
+2026-04-17 18:52:12,778 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: hr@teamobi.vn)
+2026-04-17 18:52:12,779 - INFO -   [2/9] Đang xử lý...
+2026-04-17 18:52:18,066 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:52:18,066 - INFO -   [3/9] Đang xử lý...
+2026-04-17 18:52:23,458 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:52:23,459 - INFO -   [4/9] Đang xử lý...
+2026-04-17 18:52:28,093 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: hr@teamobi.vn)
+2026-04-17 18:52:28,094 - INFO -   [5/9] Đang xử lý...
+2026-04-17 18:52:33,391 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:52:33,392 - INFO -   [6/9] Đang xử lý...
+2026-04-17 18:52:39,498 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:52:39,676 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:52:39,676 - INFO -   [7/9] Đang xử lý...
+2026-04-17 18:52:45,968 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:52:46,439 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-17 18:52:46,439 - INFO -   [8/9] Đang xử lý...
+2026-04-17 18:52:52,717 - INFO -   Đã click 1 nút Xem thêm
+2026-04-17 18:52:52,827 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: Recruitment@jobsviet.vn)
+2026-04-17 18:52:52,828 - INFO -   [9/9] Đang xử lý...
+2026-04-17 18:52:58,173 - INFO -   ✅ Email mới: nganvu@rgf-hragent.asia
+2026-04-17 18:52:58,681 - INFO -   Bỏ qua: 5 không có email, 3 email trùng
+2026-04-17 18:52:58,681 - INFO -   → Group tuyển dụng 5: 1 bài có email mới
+2026-04-17 18:53:01,787 - INFO - Đã lưu 3 bài → fb_posts_20260417_1841.json
+2026-04-17 18:53:01,787 - INFO - Đang upload Google Drive...
+2026-04-17 18:53:02,209 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-17 18:53:05,157 - INFO - Đã upload: fb_posts_20260417_1841.json
+2026-04-17 18:53:05,157 - INFO - Link: https://drive.google.com/file/d/1aapYt5jXbixUad3JdBcDVrpMeOUY5lX4/view?usp=drivesdk
+2026-04-17 18:53:05,158 - INFO - Xong lần #7: 3 bài mới | 725s (12.1 phút)
+2026-04-17 18:53:05,158 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 19:23
+2026-04-17 18:53:05,158 - INFO - (Ctrl+C để dừng)

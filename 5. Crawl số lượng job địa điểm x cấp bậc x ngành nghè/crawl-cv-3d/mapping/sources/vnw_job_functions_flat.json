@@ -1,0 +1,797 @@
+[
+  {
+    "parent": "Bán Lẻ/Tiêu Dùng",
+    "child": "Quản Lý Cửa Hàng",
+    "id": 145
+  },
+  {
+    "parent": "Bán Lẻ/Tiêu Dùng",
+    "child": "Quản Lý Khu Vực",
+    "id": 142
+  },
+  {
+    "parent": "Bán Lẻ/Tiêu Dùng",
+    "child": "Thu Mua",
+    "id": 143
+  },
+  {
+    "parent": "Bán Lẻ/Tiêu Dùng",
+    "child": "Trợ Lý Bán Lẻ",
+    "id": 144
+  },
+  {
+    "parent": "Bảo Hiểm",
+    "child": "Bao Tiêu/Bảo Lãnh",
+    "id": 86
+  },
+  {
+    "parent": "Bảo Hiểm",
+    "child": "Bồi Thường Bảo Hiểm",
+    "id": 84
+  },
+  {
+    "parent": "Bảo Hiểm",
+    "child": "Định Phí Bảo Hiểm",
+    "id": 83
+  },
+  {
+    "parent": "Bảo Hiểm",
+    "child": "Tư Vấn Rủi Ro",
+    "id": 85
+  },
+  {
+    "parent": "Bất Động Sản",
+    "child": "Cho Thuê & Quản Lý Căn Hộ",
+    "id": 139
+  },
+  {
+    "parent": "Bất Động Sản",
+    "child": "Định Giá",
+    "id": 141
+  },
+  {
+    "parent": "Bất Động Sản",
+    "child": "Kinh Doanh Thương Mại, Cho Thuê & Quản Lý Tài Sản",
+    "id": 138
+  },
+  {
+    "parent": "Bất Động Sản",
+    "child": "Phân Tích Dự Án Bất Động Sản",
+    "id": 136
+  },
+  {
+    "parent": "Bất Động Sản",
+    "child": "Phát Triển Bất Động Sản",
+    "id": 140
+  },
+  {
+    "parent": "Bất Động Sản",
+    "child": "Quản Lý Cơ Sở Vật Chất",
+    "id": 137
+  },
+  {
+    "parent": "CEO & General Management",
+    "child": "CEO",
+    "id": 157
+  },
+  {
+    "parent": "CEO & General Management",
+    "child": "Quản Lý Cấp Cao",
+    "id": 158
+  },
+  {
+    "parent": "Chính Phủ/Phi Lợi Nhuận",
+    "child": "Chính sách, Quy hoạch & Quy định",
+    "id": 147
+  },
+  {
+    "parent": "Chính Phủ/Phi Lợi Nhuận",
+    "child": "NGO/Phi Lợi Nhuận",
+    "id": 146
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Bảo Mật Công Nghệ Thông Tin",
+    "id": 35
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Chuyển Đổi Số",
+    "id": 28
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Data Engineer/Data Analyst/AI",
+    "id": 27
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "IT Support/Help Desk",
+    "id": 31
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Phần Cứng Máy Tính",
+    "id": 29
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Phần Mềm Máy Tính",
+    "id": 36
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Phân Tích Kinh Doanh/Phân Tích Hệ Thống",
+    "id": 25
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "QA/QC/Software Testing",
+    "id": 34
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Quản Lý Công Nghệ Thông Tin",
+    "id": 30
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Quản Lý Dự Án Công Nghệ",
+    "id": 33
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Quản Trị Cơ Sở Dữ Liệu",
+    "id": 26
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "System/Cloud/DevOps Engineer",
+    "id": 32
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "UX/UI Design",
+    "id": 38
+  },
+  {
+    "parent": "Công Nghệ Thông Tin/Viễn Thông",
+    "child": "Viễn Thông",
+    "id": 37
+  },
+  {
+    "parent": "Dệt May/Da Giày",
+    "child": "Phát Triển Sản Phẩm May Mặc",
+    "id": 149
+  },
+  {
+    "parent": "Dệt May/Da Giày",
+    "child": "Quản Lý Đơn Hàng",
+    "id": 148
+  },
+  {
+    "parent": "Dịch Vụ Ăn Uống",
+    "child": "Đầu Bếp",
+    "id": 69
+  },
+  {
+    "parent": "Dịch Vụ Ăn Uống",
+    "child": "Quản Lý F&B",
+    "id": 70
+  },
+  {
+    "parent": "Dịch Vụ Ăn Uống",
+    "child": "Quầy Bar/Đồ Uống/Phục vụ",
+    "id": 68
+  },
+  {
+    "parent": "Dịch Vụ Khách Hàng",
+    "child": "Dịch Vụ Khách Hàng",
+    "id": 39
+  },
+  {
+    "parent": "Dịch Vụ Khách Hàng",
+    "child": "Dịch Vụ Khách Hàng - Call Center",
+    "id": 40
+  },
+  {
+    "parent": "Dịch Vụ Khách Hàng",
+    "child": "Dịch Vụ Khách Hàng - Hướng Khách Hàng",
+    "id": 41
+  },
+  {
+    "parent": "Dược",
+    "child": "Phân Phối Dược Phẩm",
+    "id": 156
+  },
+  {
+    "parent": "Giáo Dục",
+    "child": "Dịch Vụ Sinh Viên/Hỗ Trợ Học Viên",
+    "id": 4
+  },
+  {
+    "parent": "Giáo Dục",
+    "child": "Giảng Dạy/Đào Tạo",
+    "id": 5
+  },
+  {
+    "parent": "Giáo Dục",
+    "child": "Nghiên Cứu Học Thuật",
+    "id": 3
+  },
+  {
+    "parent": "Giáo Dục",
+    "child": "Quản Lý Giáo Dục",
+    "id": 2
+  },
+  {
+    "parent": "Giáo Dục",
+    "child": "Tư Vấn Giáo Dục",
+    "id": 1
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Bảo Vệ",
+    "id": 128
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Biên Phiên Dịch",
+    "id": 122
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Điều Phối",
+    "id": 121
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Hành Chính",
+    "id": 120
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Lễ Tân/Tiếp Tân",
+    "id": 125
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Quản Lý Văn Phòng",
+    "id": 123
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Thư Ký",
+    "id": 127
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Thu Mua",
+    "id": 124
+  },
+  {
+    "parent": "Hành Chính Văn Phòng",
+    "child": "Trợ Lý Kinh Doanh",
+    "id": 126
+  },
+  {
+    "parent": "Hậu Cần/Xuất Nhập Khẩu/Kho Bãi",
+    "child": "Quản Lý Chuỗi Cung Ứng",
+    "id": 81
+  },
+  {
+    "parent": "Hậu Cần/Xuất Nhập Khẩu/Kho Bãi",
+    "child": "Quản Lý Kho & Phân Phối",
+    "id": 82
+  },
+  {
+    "parent": "Hậu Cần/Xuất Nhập Khẩu/Kho Bãi",
+    "child": "Quản Lý Đội Xe",
+    "id": 77
+  },
+  {
+    "parent": "Hậu Cần/Xuất Nhập Khẩu/Kho Bãi",
+    "child": "Thu Mua & Quản Trị Hàng Tồn Kho",
+    "id": 80
+  },
+  {
+    "parent": "Hậu Cần/Xuất Nhập Khẩu/Kho Bãi",
+    "child": "Vận Tải/Giao Nhận Hàng Hóa",
+    "id": 78
+  },
+  {
+    "parent": "Hậu Cần/Xuất Nhập Khẩu/Kho Bãi",
+    "child": "Xuất Nhập Khẩu & Thủ Tục Hải Quan",
+    "id": 79
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế hoạch/Tư Vấn Doanh Nghiệp",
+    "id": 9
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Chi Phí",
+    "id": 10
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Công Nợ",
+    "id": 7
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Doanh Thu",
+    "id": 16
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Quản Trị",
+    "id": 14
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Tài Chính",
+    "id": 11
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Thanh Toán",
+    "id": 6
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Thuế",
+    "id": 15
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kế Toán Tổng Hợp",
+    "id": 13
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kiểm Soát Viên Tài Chính",
+    "id": 12
+  },
+  {
+    "parent": "Kế Toán/Kiểm Toán",
+    "child": "Kiểm Toán",
+    "id": 8
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Cơ Khí & Điện Lạnh",
+    "id": 56
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Công Nghệ Sinh Học",
+    "id": 51
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Công Nghệ Thực Phẩm",
+    "id": 55
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Điện/Nước/Chất Thải",
+    "id": 58
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Khai Thác Mỏ",
+    "id": 57
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Kỹ Thuật Hóa Học",
+    "id": 52
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Kỹ Thuật Môi Trường",
+    "id": 54
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Kỹ Thuật Ô Tô",
+    "id": 50
+  },
+  {
+    "parent": "Khoa Học & Kỹ Thuật",
+    "child": "Kỹ Thuật Điện/Điện Tử",
+    "id": 53
+  },
+  {
+    "parent": "Kiến Trúc/Xây Dựng",
+    "child": "An Toàn Lao Động",
+    "id": 21
+  },
+  {
+    "parent": "Kiến Trúc/Xây Dựng",
+    "child": "Phát Triển Dự Án/Đấu Thầu",
+    "id": 20
+  },
+  {
+    "parent": "Kiến Trúc/Xây Dựng",
+    "child": "Quản Lý Dự Án",
+    "id": 23
+  },
+  {
+    "parent": "Kiến Trúc/Xây Dựng",
+    "child": "Thiết Kế & Quy Hoạch Đô Thị",
+    "id": 24
+  },
+  {
+    "parent": "Kiến Trúc/Xây Dựng",
+    "child": "Thiết Kế Kiến Trúc/Họa Viên Kiến Trúc",
+    "id": 18
+  },
+  {
+    "parent": "Kiến Trúc/Xây Dựng",
+    "child": "Thiết Kế Nội Thất",
+    "id": 22
+  },
+  {
+    "parent": "Kiến Trúc/Xây Dựng",
+    "child": "Xây Dựng",
+    "id": 19
+  },
+  {
+    "parent": "Kinh Doanh",
+    "child": "Bán Hàng Kỹ Thuật",
+    "id": 130
+  },
+  {
+    "parent": "Kinh Doanh",
+    "child": "Bán Hàng Qua Điện Thoại",
+    "id": 131
+  },
+  {
+    "parent": "Kinh Doanh",
+    "child": "Bán Hàng/Phát Triển Kinh Doanh",
+    "id": 129
+  },
+  {
+    "parent": "Kỹ Thuật",
+    "child": "Bảo trì/Bảo Dưỡng",
+    "id": 134
+  },
+  {
+    "parent": "Kỹ Thuật",
+    "child": "Cơ Khí Tự Động Hoá",
+    "id": 132
+  },
+  {
+    "parent": "Kỹ Thuật",
+    "child": "In Ấn",
+    "id": 135
+  },
+  {
+    "parent": "Kỹ Thuật",
+    "child": "Kỹ Thuật CNC",
+    "id": 133
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Đầu Tư Tài Chính",
+    "id": 66
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Dịch Vụ Hỗ Trợ Khách Hàng",
+    "id": 61
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Môi Giới & Giao Dịch Chứng Khoán",
+    "id": 67
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Phân Tích & Báo Cáo Tài Chính",
+    "id": 60
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Quản Lý Quan Hệ Khách Hàng",
+    "id": 59
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Quản Lý Quỹ",
+    "id": 65
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Thu Hồi Nợ",
+    "id": 64
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Tín Dụng",
+    "id": 63
+  },
+  {
+    "parent": "Ngân Hàng & Dịch Vụ Tài Chính",
+    "child": "Tuân Thủ & Kiểm Soát Rủi Ro",
+    "id": 62
+  },
+  {
+    "parent": "Nghệ thuật, Truyền thông/In ấn/Xuất bản",
+    "child": "Đạo Diễn Nghệ Thuật/Nhiếp Ảnh",
+    "id": 112
+  },
+  {
+    "parent": "Nghệ thuật, Truyền thông/In ấn/Xuất bản",
+    "child": "In Ấn & Xuất Bản",
+    "id": 113
+  },
+  {
+    "parent": "Nghệ thuật, Truyền thông/In ấn/Xuất bản",
+    "child": "Sản Xuất Chương Trình",
+    "id": 114
+  },
+  {
+    "parent": "Nhà Hàng - Khách Sạn/Du Lịch",
+    "child": "Bộ Phận Tiền Sảnh & Dịch Vụ Khách Hàng",
+    "id": 87
+  },
+  {
+    "parent": "Nhà Hàng - Khách Sạn/Du Lịch",
+    "child": "Công Ty Kinh Doanh Lữ Hành",
+    "id": 90
+  },
+  {
+    "parent": "Nhà Hàng - Khách Sạn/Du Lịch",
+    "child": "Đại Lý Du Lịch",
+    "id": 92
+  },
+  {
+    "parent": "Nhà Hàng - Khách Sạn/Du Lịch",
+    "child": "Đặt Phòng Khách Sạn",
+    "id": 88
+  },
+  {
+    "parent": "Nhà Hàng - Khách Sạn/Du Lịch",
+    "child": "Hướng Dẫn Viên Du Lịch",
+    "id": 91
+  },
+  {
+    "parent": "Nhà Hàng - Khách Sạn/Du Lịch",
+    "child": "Vệ Sinh Buồng Phòng",
+    "id": 89
+  },
+  {
+    "parent": "Nhân Sự/Tuyển Dụng",
+    "child": "Đào Tạo Và Phát Triển",
+    "id": 75
+  },
+  {
+    "parent": "Nhân Sự/Tuyển Dụng",
+    "child": "Gắn Kết Nhân Viên",
+    "id": 71
+  },
+  {
+    "parent": "Nhân Sự/Tuyển Dụng",
+    "child": "Lương Thưởng & Phúc Lợi",
+    "id": 72
+  },
+  {
+    "parent": "Nhân Sự/Tuyển Dụng",
+    "child": "Nhân Sự Tổng Hợp",
+    "id": 73
+  },
+  {
+    "parent": "Nhân Sự/Tuyển Dụng",
+    "child": "Quản Trị Hiệu Suất & Sự Nghiệp",
+    "id": 74
+  },
+  {
+    "parent": "Nhân Sự/Tuyển Dụng",
+    "child": "Tuyển Dụng",
+    "id": 76
+  },
+  {
+    "parent": "Nông/Lâm/Ngư Nghiệp",
+    "child": "Nông/Lâm/Ngư nghiệp",
+    "id": 17
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Luật Lao động/Hưu Trí",
+    "id": 96
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Luật Sở Hữu Trí Tuệ",
+    "id": 97
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Luật Tài Chính Ngân Hàng Thương mại",
+    "id": 93
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Luật Thuế",
+    "id": 101
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Luật Xây Dựng",
+    "id": 94
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Quản Lý Thi Hành Pháp Luật",
+    "id": 99
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Thư Ký Luật & Trợ Lý Luật",
+    "id": 98
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Thư Ký Pháp Lý",
+    "id": 100
+  },
+  {
+    "parent": "Pháp Lý",
+    "child": "Tư Vấn Pháp Lý",
+    "id": 95
+  },
+  {
+    "parent": "Sản Xuất",
+    "child": "Đảm Bảo Chất Lượng/Kiểm Soát Chất Lượng/Quản Lý Chất Lượng",
+    "id": 154
+  },
+  {
+    "parent": "Sản Xuất",
+    "child": "Hoạch Định & Quản Lý Sản Xuất",
+    "id": 153
+  },
+  {
+    "parent": "Sản Xuất",
+    "child": "Nghiên Cứu & Phát Triển",
+    "id": 155
+  },
+  {
+    "parent": "Sản Xuất",
+    "child": "Phân Tích Sản Xuất",
+    "id": 152
+  },
+  {
+    "parent": "Sản Xuất",
+    "child": "Quy Trình & Lắp Ráp",
+    "id": 150
+  },
+  {
+    "parent": "Sản Xuất",
+    "child": "Vận Hành Máy Móc",
+    "id": 151
+  },
+  {
+    "parent": "Thiết Kế",
+    "child": "Chỉnh Sửa Video",
+    "id": 45
+  },
+  {
+    "parent": "Thiết Kế",
+    "child": "Thiết Kế Công Nghiệp/Kỹ Thuật",
+    "id": 44
+  },
+  {
+    "parent": "Thiết Kế",
+    "child": "Thiết Kế Thời Trang/Trang Sức",
+    "id": 42
+  },
+  {
+    "parent": "Thiết Kế",
+    "child": "Thiết Kế Đồ Họa",
+    "id": 43
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Nghiên Cứu & Phân Tích Thị Trường",
+    "id": 107
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Quan Hệ Công Chúng",
+    "id": 110
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Quản Lý & Phát Triển Sản Phẩm",
+    "id": 109
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Quản Lý Sự Kiện",
+    "id": 106
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Quản Lý Tài Khoản Khách Hàng",
+    "id": 102
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Quản Lý Thương Hiệu",
+    "id": 103
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Tiếp Thị",
+    "id": 108
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Tiếp Thị Nội Dung",
+    "id": 104
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Tiếp Thị Thương Mại",
+    "id": 111
+  },
+  {
+    "parent": "Tiếp Thị, Quảng Cáo/Truyền Thông",
+    "child": "Tiếp Thị Trực Tuyến",
+    "id": 105
+  },
+  {
+    "parent": "Vận Tải",
+    "child": "Dịch Vụ Hàng Không",
+    "id": 46
+  },
+  {
+    "parent": "Vận Tải",
+    "child": "Dịch Vụ Vận Tải Công Cộng",
+    "id": 47
+  },
+  {
+    "parent": "Vận Tải",
+    "child": "Vận Tải Đường Bộ",
+    "id": 49
+  },
+  {
+    "parent": "Vận Tải",
+    "child": "Vận Tải Đường Sắt & Hàng Hải",
+    "id": 48
+  },
+  {
+    "parent": "Y Tế/Chăm Sóc Sức Khoẻ",
+    "child": "Bác Sĩ/Điều Trị Đa Khoa/Điều Trị Nội Trú",
+    "id": 115
+  },
+  {
+    "parent": "Y Tế/Chăm Sóc Sức Khoẻ",
+    "child": "Dược Sĩ",
+    "id": 118
+  },
+  {
+    "parent": "Y Tế/Chăm Sóc Sức Khoẻ",
+    "child": "Kỹ Thuật Viên Y Tế",
+    "id": 116
+  },
+  {
+    "parent": "Y Tế/Chăm Sóc Sức Khoẻ",
+    "child": "Tư Vấn Tâm Lý & Công Tác Xã Hội",
+    "id": 119
+  },
+  {
+    "parent": "Y Tế/Chăm Sóc Sức Khoẻ",
+    "child": "Y Tá",
+    "id": 117
+  },
+  {
+    "parent": "Khác",
+    "child": "Khác",
+    "id": 159
+  }
+]

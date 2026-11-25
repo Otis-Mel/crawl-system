@@ -1,0 +1,21 @@
+2026-04-15 08:57:32,334 - INFO - ============================================================
+2026-04-15 08:57:32,334 - INFO - FB GROUP SCRAPER (NO LOGIN)
+2026-04-15 08:57:32,334 - INFO - Thời gian: 2026-04-15 08:57:32
+2026-04-15 08:57:32,334 - INFO - ============================================================
+2026-04-15 08:57:32,418 - INFO - Sẽ cào 1 groups (KHÔNG đăng nhập)
+2026-04-15 08:57:38,970 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 08:57:38,970 - INFO - URL: https://www.facebook.com/groups/818173552972432
+2026-04-15 09:09:00,946 - INFO -   Đã click 1 nút Xem thêm
+2026-04-15 09:09:06,484 - INFO -   Scroll 1/3 - Đã lấy 20 bài
+2026-04-15 09:09:06,484 - INFO -   Đã đủ 20 bài
+2026-04-15 09:09:06,485 - INFO -   → Lấy được 20 bài từ Group tuyển dụng 1
+2026-04-15 09:09:11,575 - INFO - 
+=== KẾT QUẢ ===
+2026-04-15 09:09:11,575 - INFO - Tổng: 20 bài post từ 1 groups
+2026-04-15 09:09:11,576 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-15 09:09:11,576 - INFO - 
+Thời gian cào: 699 giây (11.7 phút)
+2026-04-15 09:09:11,576 - INFO - 
+Đang upload lên Google Drive...
+2026-04-15 09:09:12,653 - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=178266154742-0cjmc08kfhk1nvo3abukm5tlv2kq8kpn.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A56526%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=ShNrPcFok7xSGX2X6n7GVUprO7PlY8&code_challenge=jDWwKO7yHI__cU2gWk5Pm-6s1uXfCLA5-yY9DNjnoj8&code_challenge_method=S256&access_type=offline

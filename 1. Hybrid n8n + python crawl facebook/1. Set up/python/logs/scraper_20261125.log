@@ -1,0 +1,373 @@
+2026-11-25 09:00:03,055 - INFO - ============================================================
+2026-11-25 09:00:03,055 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-25 09:00:03,055 - INFO - Nhấn Ctrl+C để dừng
+2026-11-25 09:00:03,056 - INFO - ============================================================
+2026-11-25 09:00:05,402 - INFO - Email đã có trong CSV: 6774
+2026-11-25 09:00:05,403 - INFO - 
+============================================================
+2026-11-25 09:00:05,403 - INFO - LẦN CHẠY #1 | 09:00
+2026-11-25 09:00:05,403 - INFO - ============================================================
+2026-11-25 09:00:05,514 - INFO - File output: fb_posts_20261125_0900.json
+2026-11-25 09:00:05,515 - INFO - Email đã lấy từ trước: 6774
+2026-11-25 09:00:07,048 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-11-25 09:00:49,453 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:00:57,547 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:01:03,997 - INFO - ============================================================
+2026-11-25 09:01:03,998 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-25 09:01:03,998 - INFO - Nhấn Ctrl+C để dừng
+2026-11-25 09:01:03,998 - INFO - ============================================================
+2026-11-25 09:01:04,172 - INFO - Email đã có trong CSV: 6774
+2026-11-25 09:01:04,172 - INFO - 
+============================================================
+2026-11-25 09:01:04,173 - INFO - LẦN CHẠY #1 | 09:01
+2026-11-25 09:01:04,173 - INFO - ============================================================
+2026-11-25 09:01:04,244 - INFO - File output: fb_posts_20261125_0901.json
+2026-11-25 09:01:04,245 - INFO - Email đã lấy từ trước: 6774
+2026-11-25 09:01:04,930 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-11-25 09:01:05,649 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:01:13,748 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:01:21,825 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:01:29,921 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:01:29,922 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:01:29,922 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:01:29,922 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:01:29,922 - WARNING -   Group tuyển dụng 1: thấy 0 bài (lần 1/1)
+2026-11-25 09:01:30,396 - ERROR - Bỏ qua Group tuyển dụng 1 sau 1 lần thử
+2026-11-25 09:01:30,396 - INFO -   → Group tuyển dụng 1: 0 bài có liên hệ
+2026-11-25 09:01:43,804 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-11-25 09:02:04,984 - ERROR - Lỗi group Group tuyển dụng 2 (lần 1/1): Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.facebook.com/groups/TuyenDungViecLamTaiTP.HCM", waiting until "networkidle"
+
+2026-11-25 09:02:05,175 - INFO - ============================================================
+2026-11-25 09:02:05,175 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-25 09:02:05,175 - INFO - Nhấn Ctrl+C để dừng
+2026-11-25 09:02:05,176 - INFO - ============================================================
+2026-11-25 09:02:05,428 - INFO - Email đã có trong CSV: 6774
+2026-11-25 09:02:05,429 - INFO - 
+============================================================
+2026-11-25 09:02:05,429 - INFO - LẦN CHẠY #1 | 09:02
+2026-11-25 09:02:05,429 - INFO - ============================================================
+2026-11-25 09:02:05,452 - ERROR - Bỏ qua Group tuyển dụng 2 sau 1 lần thử
+2026-11-25 09:02:05,453 - INFO -   → Group tuyển dụng 2: 0 bài có liên hệ
+2026-11-25 09:02:05,529 - INFO - File output: fb_posts_20261125_0902.json
+2026-11-25 09:02:05,530 - INFO - Email đã lấy từ trước: 6774
+2026-11-25 09:02:06,442 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-11-25 09:02:18,998 - INFO - 
+Đang cào: Tìm việc làm tại TP.HCM ✅
+2026-11-25 09:02:20,883 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:02:29,000 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:02:37,068 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:02:45,138 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:02:45,426 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:02:53,198 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:02:53,508 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:02:56,283 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:03:01,279 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:01,280 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:03:01,280 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:03:01,280 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:03:01,281 - WARNING -   Group tuyển dụng 5: thấy 0 bài (lần 1/1)
+2026-11-25 09:03:01,590 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:01,767 - ERROR - Bỏ qua Group tuyển dụng 5 sau 1 lần thử
+2026-11-25 09:03:01,768 - INFO -   → Group tuyển dụng 5: 0 bài có liên hệ
+2026-11-25 09:03:04,382 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:06,145 - INFO - ============================================================
+2026-11-25 09:03:06,145 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-25 09:03:06,145 - INFO - Nhấn Ctrl+C để dừng
+2026-11-25 09:03:06,145 - INFO - ============================================================
+2026-11-25 09:03:06,316 - INFO - Email đã có trong CSV: 6774
+2026-11-25 09:03:06,317 - INFO - 
+============================================================
+2026-11-25 09:03:06,317 - INFO - LẦN CHẠY #1 | 09:03
+2026-11-25 09:03:06,317 - INFO - ============================================================
+2026-11-25 09:03:06,389 - INFO - File output: fb_posts_20261125_0903.json
+2026-11-25 09:03:06,389 - INFO - Email đã lấy từ trước: 6774
+2026-11-25 09:03:07,073 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-11-25 09:03:09,675 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:10,149 - INFO - 
+Đang cào: TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS
+2026-11-25 09:03:12,493 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:17,764 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:20,565 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:25,834 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:25,834 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:03:25,835 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:03:25,835 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:03:25,835 - WARNING -   Group tuyển dụng 3: thấy 0 bài (lần 1/1)
+2026-11-25 09:03:26,298 - ERROR - Bỏ qua Group tuyển dụng 3 sau 1 lần thử
+2026-11-25 09:03:26,299 - INFO -   → Group tuyển dụng 3: 0 bài có liên hệ
+2026-11-25 09:03:28,651 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:36,287 - INFO - 
+Đang cào: Việc Làm Hải Dương
+2026-11-25 09:03:36,382 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:03:36,760 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:36,770 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:03:36,786 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:03:36,806 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:03:36,833 - WARNING -   Tìm việc làm tại TP.HCM ✅: thấy 0 bài (lần 1/1)
+2026-11-25 09:03:37,530 - ERROR - Bỏ qua Tìm việc làm tại TP.HCM ✅ sau 1 lần thử
+2026-11-25 09:03:37,531 - INFO -   → Tìm việc làm tại TP.HCM ✅: 0 bài có liên hệ
+2026-11-25 09:03:38,995 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:03:44,545 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:45,937 - INFO - 
+Đang cào: Việc Làm Long An
+2026-11-25 09:03:47,097 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:52,630 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:55,188 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:00,721 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:03,261 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:08,814 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:11,353 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:12,896 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:04:16,917 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:16,918 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:04:16,918 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:04:16,919 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:04:16,919 - WARNING -   Group tuyển dụng 4: thấy 0 bài (lần 1/1)
+2026-11-25 09:04:17,450 - ERROR - Bỏ qua Group tuyển dụng 4 sau 1 lần thử
+2026-11-25 09:04:17,450 - INFO -   → Group tuyển dụng 4: 0 bài có liên hệ
+2026-11-25 09:04:19,441 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:19,442 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:04:19,442 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:04:19,442 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:04:19,443 - WARNING -   TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS: thấy 0 bài (lần 1/1)
+2026-11-25 09:04:19,875 - ERROR - Bỏ qua TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS sau 1 lần thử
+2026-11-25 09:04:19,875 - INFO -   → TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS: 0 bài có liên hệ
+2026-11-25 09:04:20,987 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:23,282 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:04:26,257 - INFO - 
+Đang cào: Việc Làm Phổ Yên - Thái Nguyên
+2026-11-25 09:04:27,163 - INFO - 
+Đang cào: Việc Làm Đồng Hới - Quảng Bình
+2026-11-25 09:04:29,065 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:31,384 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:37,149 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:39,476 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:45,261 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:47,590 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:53,353 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:53,354 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:04:53,354 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:04:53,354 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:04:53,355 - WARNING -   Việc Làm Hải Dương: thấy 0 bài (lần 1/1)
+2026-11-25 09:04:53,832 - ERROR - Bỏ qua Việc Làm Hải Dương sau 1 lần thử
+2026-11-25 09:04:53,833 - INFO -   → Việc Làm Hải Dương: 0 bài có liên hệ
+2026-11-25 09:04:55,328 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:04:55,707 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:56,106 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:05:03,440 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:03,812 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:03,812 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:05:03,812 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:05:03,812 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:05:03,812 - WARNING -   Việc Làm Long An: thấy 0 bài (lần 1/1)
+2026-11-25 09:05:04,202 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:04,525 - ERROR - Bỏ qua Việc Làm Long An sau 1 lần thử
+2026-11-25 09:05:04,543 - INFO -   → Việc Làm Long An: 0 bài có liên hệ
+2026-11-25 09:05:04,683 - INFO - 
+Đang cào: Việc Làm Phú Mỹ - BRVT
+2026-11-25 09:05:11,536 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:12,281 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:13,458 - INFO - 
+Đang cào: TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅
+2026-11-25 09:05:19,641 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:20,372 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:27,744 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:28,481 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:35,599 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:05:35,839 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:35,840 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:05:35,840 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:05:35,840 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:05:35,841 - WARNING -   Việc Làm Phổ Yên - Thái Nguyên: thấy 0 bài (lần 1/1)
+2026-11-25 09:05:36,397 - ERROR - Bỏ qua Việc Làm Phổ Yên - Thái Nguyên sau 1 lần thử
+2026-11-25 09:05:36,398 - INFO -   → Việc Làm Phổ Yên - Thái Nguyên: 0 bài có liên hệ
+2026-11-25 09:05:36,583 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:36,584 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:05:36,584 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:05:36,585 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:05:36,586 - WARNING -   Việc Làm Đồng Hới - Quảng Bình: thấy 0 bài (lần 1/1)
+2026-11-25 09:05:37,124 - ERROR - Bỏ qua Việc Làm Đồng Hới - Quảng Bình sau 1 lần thử
+2026-11-25 09:05:37,124 - INFO -   → Việc Làm Đồng Hới - Quảng Bình: 0 bài có liên hệ
+2026-11-25 09:05:42,760 - INFO - 
+Đang cào: Việc Làm Hà Đông - Hà Nội
+2026-11-25 09:05:42,796 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:05:43,695 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:50,024 - INFO - 
+Đang cào: Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️
+2026-11-25 09:05:50,939 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:51,788 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:59,033 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:59,875 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:07,139 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:07,978 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:12,108 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:06:15,228 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:16,061 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:16,062 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:06:16,062 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:06:16,062 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:06:16,062 - WARNING -   Việc Làm Phú Mỹ - BRVT: thấy 0 bài (lần 1/1)
+2026-11-25 09:06:16,548 - ERROR - Bỏ qua Việc Làm Phú Mỹ - BRVT sau 1 lần thử
+2026-11-25 09:06:16,549 - INFO -   → Việc Làm Phú Mỹ - BRVT: 0 bài có liên hệ
+2026-11-25 09:06:19,274 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:06:20,213 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:23,342 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:23,342 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:06:23,343 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:06:23,343 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:06:23,343 - WARNING -   TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅: thấy 0 bài (lần 1/1)
+2026-11-25 09:06:23,808 - ERROR - Bỏ qua TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅ sau 1 lần thử
+2026-11-25 09:06:23,809 - INFO -   → TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅: 0 bài có liên hệ
+2026-11-25 09:06:24,144 - INFO - 
+Đang cào: Việc làm Chăm sóc Khách hàng
+2026-11-25 09:06:27,382 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:28,331 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:32,406 - INFO - 
+Đang cào: Việc Làm Việt Trì - Phú Thọ
+2026-11-25 09:06:35,470 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:36,435 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:43,895 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:44,899 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:51,987 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:52,995 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:52,996 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:06:52,996 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:06:52,996 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:06:52,997 - WARNING -   Việc Làm Hà Đông - Hà Nội: thấy 0 bài (lần 1/1)
+2026-11-25 09:06:53,199 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:06:53,705 - ERROR - Bỏ qua Việc Làm Hà Đông - Hà Nội sau 1 lần thử
+2026-11-25 09:06:53,706 - INFO -   → Việc Làm Hà Đông - Hà Nội: 0 bài có liên hệ
+2026-11-25 09:07:00,093 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:00,094 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:07:00,094 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:07:00,095 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:07:00,095 - WARNING -   Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️: thấy 0 bài (lần 1/1)
+2026-11-25 09:07:00,799 - ERROR - Bỏ qua Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️ sau 1 lần thử
+2026-11-25 09:07:00,800 - INFO -   → Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️: 0 bài có liên hệ
+2026-11-25 09:07:01,327 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:01,776 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:07:06,353 - INFO - 
+Đang cào: Việc làm Long Biên - Gia Lâm - Đông Anh
+2026-11-25 09:07:09,439 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:09,892 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:14,538 - INFO - 
+Đang cào: Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội
+2026-11-25 09:07:17,521 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:17,970 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:25,616 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:26,071 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:33,701 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:33,702 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:07:33,702 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:07:33,702 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:07:33,703 - WARNING -   Việc làm Chăm sóc Khách hàng: thấy 0 bài (lần 1/1)
+2026-11-25 09:07:34,152 - ERROR - Bỏ qua Việc làm Chăm sóc Khách hàng sau 1 lần thử
+2026-11-25 09:07:34,153 - INFO -   → Việc làm Chăm sóc Khách hàng: 0 bài có liên hệ
+2026-11-25 09:07:34,186 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:35,566 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:07:42,293 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:42,310 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:07:42,342 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:07:42,389 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:07:42,435 - WARNING -   Việc Làm Việt Trì - Phú Thọ: thấy 0 bài (lần 1/1)
+2026-11-25 09:07:42,521 - INFO - 
+Đang cào: Việc Làm TP.HCM
+2026-11-25 09:07:43,473 - ERROR - Bỏ qua Việc Làm Việt Trì - Phú Thọ sau 1 lần thử
+2026-11-25 09:07:43,474 - INFO -   → Việc Làm Việt Trì - Phú Thọ: 0 bài có liên hệ
+2026-11-25 09:07:43,640 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:45,965 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:07:49,571 - INFO - 
+Đang cào: TUYỂN DỤNG KẾ TOÁN
+2026-11-25 09:07:51,745 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:54,064 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:59,844 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:02,151 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:07,934 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:10,264 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:11,415 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:08:16,012 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:16,012 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:08:16,012 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:08:16,012 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:08:16,013 - WARNING -   Việc làm Long Biên - Gia Lâm - Đông Anh: thấy 0 bài (lần 1/1)
+2026-11-25 09:08:16,503 - ERROR - Bỏ qua Việc làm Long Biên - Gia Lâm - Đông Anh sau 1 lần thử
+2026-11-25 09:08:16,504 - INFO -   → Việc làm Long Biên - Gia Lâm - Đông Anh: 0 bài có liên hệ
+2026-11-25 09:08:18,370 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:18,850 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:08:19,507 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:23,638 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI
+2026-11-25 09:08:26,466 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:26,466 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:08:26,467 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:08:26,467 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:08:26,467 - WARNING -   Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội: thấy 0 bài (lần 1/1)
+2026-11-25 09:08:26,936 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:26,985 - ERROR - Bỏ qua Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội sau 1 lần thử
+2026-11-25 09:08:26,986 - INFO -   → Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội: 0 bài có liên hệ
+2026-11-25 09:08:27,601 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:35,010 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:35,697 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:40,864 - INFO - 
+Đang cào: VIỆC LÀM SALES & MARKETING
+2026-11-25 09:08:43,091 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:43,767 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:51,196 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:51,857 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:51,858 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:08:51,858 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:08:51,858 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:08:51,859 - WARNING -   Việc Làm TP.HCM: thấy 0 bài (lần 1/1)
+2026-11-25 09:08:52,353 - ERROR - Bỏ qua Việc Làm TP.HCM sau 1 lần thử
+2026-11-25 09:08:52,354 - INFO -   → Việc Làm TP.HCM: 0 bài có liên hệ
+2026-11-25 09:08:52,595 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:08:59,300 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:59,301 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:08:59,301 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:08:59,301 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:08:59,302 - WARNING -   TUYỂN DỤNG KẾ TOÁN: thấy 0 bài (lần 1/1)
+2026-11-25 09:08:59,789 - ERROR - Bỏ qua TUYỂN DỤNG KẾ TOÁN sau 1 lần thử
+2026-11-25 09:08:59,790 - INFO -   → TUYỂN DỤNG KẾ TOÁN: 0 bài có liên hệ
+2026-11-25 09:09:00,227 - INFO - 
+Đang cào: Việc Làm Tiếng Anh
+2026-11-25 09:09:00,659 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:06,353 - INFO - 
+Đang cào: Việc Làm BMT Đắk Lắk
+2026-11-25 09:09:08,757 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:10,086 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:09:16,844 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:18,175 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:24,929 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:26,257 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:29,436 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:09:33,020 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:33,021 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:09:33,021 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:09:33,021 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:09:33,021 - WARNING -   TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI: thấy 0 bài (lần 1/1)
+2026-11-25 09:09:33,566 - ERROR - Bỏ qua TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI sau 1 lần thử
+2026-11-25 09:09:33,566 - INFO -   → TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI: 0 bài có liên hệ
+2026-11-25 09:09:34,343 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:35,835 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:09:37,559 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:42,436 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:43,925 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:45,648 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:47,361 - INFO - 
+Đang cào: HỘI VIỆC LÀM TIẾNG TRUNG
+2026-11-25 09:09:50,550 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:50,550 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:09:50,551 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:09:50,551 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:09:50,551 - WARNING -   VIỆC LÀM SALES & MARKETING: thấy 0 bài (lần 1/1)
+2026-11-25 09:09:51,061 - ERROR - Bỏ qua VIỆC LÀM SALES & MARKETING sau 1 lần thử
+2026-11-25 09:09:51,061 - INFO -   → VIỆC LÀM SALES & MARKETING: 0 bài có liên hệ
+2026-11-25 09:09:52,065 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:53,723 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0

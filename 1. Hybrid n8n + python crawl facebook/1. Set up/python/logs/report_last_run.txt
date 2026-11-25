@@ -1,0 +1,1 @@
+﻿D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261124.xlsx|Lượt 3: 29 lead mới, 0 bổ sung, 21/50 group (29 lỗi). Kho 2818 cụm, verified 608. Cả ngày: 95 lead mới, 2 bổ sung qua 2 lượt.

@@ -1,0 +1,9389 @@
+[
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 42641
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 5813
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 3990
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 4703
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 2732
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 1583
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 5585
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 3838
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 1152
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 1337
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 1115
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 48
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 243
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 478
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 1372
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 1122
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 1154
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 421
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 1583
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 106
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 1031
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 140
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 503
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 845
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 858
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 79
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 1211
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 1364
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 244
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 689
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 1921
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 903
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 255
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 26
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 1002
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 305
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 340
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 1772
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 1145
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 2705
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 1374
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 433
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 1590
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 659
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 534
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 1334
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 1255
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 1358
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 627
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 234
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 167
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 1098
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 1352
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 1290
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 2541
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 1633
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 819
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 257
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 246
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 592
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 1567
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 54573
+  },
+  {
+    "crv": "Kế toán / Kiểm toán",
+    "kw": "kế toán",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 193
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 45551
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 37694
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 1252
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 554
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 883
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 474
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 313
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 3521
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 971
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 210
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 261
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 218
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 15
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 37
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 72
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 238
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 315
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 275
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 73
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 968
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 25
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 300
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 25
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 393
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 78
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 200
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 18
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 226
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 213
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 92
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 214
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 410
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 82
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 75
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 3
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 214
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 67
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 38
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 198
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 248
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 415
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 243
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 34
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 371
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 96
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 64
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 272
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 164
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 266
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 79
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 36
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 22
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 136
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 349
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 315
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 648
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 668
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 78
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 36
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 66
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 97
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 252
+  },
+  {
+    "crv": "Tiếp thị / Marketing",
+    "kw": "marketing",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 37
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 813
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 744
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 65
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 50
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 107
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 21
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 20
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 121
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 53
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 55
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 28
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 18
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 0
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 11
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 14
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 22
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 9
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 11
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 24
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 121
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 3
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 34
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 3
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 4
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 30
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 14
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 0
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 12
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 23
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 11
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 24
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 45
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 26
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 6
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 1
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 17
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 7
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 2
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 21
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 9
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 46
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 14
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 5
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 24
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 15
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 6
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 32
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 28
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 19
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 9
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 16
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 7
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 24
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 17
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 33
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 29
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 44
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 8
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 13
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 8
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 37
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 17
+  },
+  {
+    "crv": "CNTT - Phần mềm",
+    "kw": "công nghệ thông tin",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 5
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 1934
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 1805
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 127
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 27
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 67
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 21
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 16
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 184
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 35
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 41
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 31
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 15
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 2
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 16
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 13
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 28
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 36
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 32
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 20
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 118
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 2
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 51
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 6
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 30
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 16
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 42
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 2
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 12
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 46
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 10
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 9
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 32
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 23
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 16
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 20
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 9
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 5
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 22
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 12
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 48
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 10
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 16
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 17
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 27
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 19
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 36
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 31
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 28
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 28
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 9
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 6
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 25
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 6
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 24
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 43
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 64
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 19
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 9
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 5
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 26
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 30
+  },
+  {
+    "crv": "Luật / Pháp lý",
+    "kw": "luật",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 2
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 51422
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 41744
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 3555
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 1791
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 3466
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 1337
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 822
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 6628
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 2589
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 1428
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 835
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 674
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 61
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 303
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 462
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 1364
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 877
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 939
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 635
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 3135
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 107
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 1277
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 130
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 638
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 852
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 824
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 82
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 568
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 729
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 380
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 646
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 1520
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 803
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 227
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 29
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 861
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 245
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 242
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 1025
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 749
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 1431
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 729
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 312
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 1131
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 623
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 422
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 1201
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 969
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 1162
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 488
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 378
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 157
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 801
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 907
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 890
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 1885
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 1691
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 703
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 285
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 236
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 659
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 854
+  },
+  {
+    "crv": "Bán hàng / Kinh doanh",
+    "kw": "kinh doanh",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 189
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 24224
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 22290
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 2999
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 1731
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 2054
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 1046
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 565
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 2673
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 1390
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 380
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 521
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 740
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 42
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 98
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 178
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 448
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 521
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 379
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 171
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 782
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 61
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 357
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 53
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 241
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 280
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 279
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 27
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 472
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 395
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 100
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 319
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 588
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 311
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 81
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 12
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 401
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 140
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 124
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 717
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 352
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 794
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 493
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 131
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 697
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 216
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 171
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 577
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 435
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 518
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 162
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 140
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 61
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 479
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 451
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 710
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 953
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 639
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 297
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 78
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 119
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 253
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 666
+  },
+  {
+    "crv": "Nhân sự",
+    "kw": "nhân sự",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 79
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 8407
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 8417
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 376
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 109
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 345
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 111
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 74
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 913
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 205
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 36
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 57
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 53
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 0
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 7
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 28
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 60
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 54
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 31
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 16
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 290
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 5
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 53
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 4
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 56
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 28
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 37
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 2
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 41
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 19
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 25
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 59
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 67
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 36
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 17
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 49
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 12
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 6
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 53
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 47
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 71
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 36
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 7
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 73
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 12
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 15
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 63
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 31
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 37
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 33
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 24
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 3
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 27
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 57
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 91
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 97
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 137
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 23
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 11
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 13
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 48
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 52
+  },
+  {
+    "crv": "Mỹ thuật / Nghệ thuật / Thiết kế",
+    "kw": "designer",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 10
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 2327
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 2480
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 161
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 56
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 148
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 47
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 24
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 161
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 85
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 62
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 44
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 14
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 0
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 12
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 13
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 42
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 30
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 45
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 32
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 123
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 2
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 38
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 7
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 30
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 35
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 26
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 3
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 19
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 21
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 13
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 28
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 60
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 40
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 11
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 31
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 4
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 3
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 43
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 30
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 56
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 24
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 11
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 42
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 32
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 11
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 23
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 16
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 36
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 11
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 11
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 6
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 31
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 29
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 35
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 59
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 49
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 17
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 15
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 10
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 26
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 28
+  },
+  {
+    "crv": "Ngân hàng",
+    "kw": "ngân hàng",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 3
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 16563
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 16356
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 1006
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 298
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 928
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 313
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 276
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 1842
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 785
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 394
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 275
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 219
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 29
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 85
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 145
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 257
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 237
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 320
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 199
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 1001
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 28
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 317
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 43
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 224
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 211
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 244
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 32
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 147
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 307
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 116
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 239
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 517
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 282
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 60
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 11
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 301
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 165
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 86
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 273
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 175
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 480
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 155
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 106
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 386
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 156
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 97
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 308
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 213
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 387
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 129
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 88
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 42
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 316
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 306
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 373
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 482
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 458
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 187
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 97
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 99
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 244
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 192
+  },
+  {
+    "crv": "Dịch vụ khách hàng",
+    "kw": "chăm sóc khách hàng",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 49
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 21958
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 11085
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 1271
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 985
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 1168
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 588
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 486
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 2153
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 1190
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 450
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 347
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 531
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 20
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 69
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 136
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 388
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 150
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 241
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 102
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 677
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 39
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 444
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 66
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 151
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 186
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 324
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 27
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 246
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 461
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 82
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 243
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 320
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 153
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 136
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 13
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 373
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 101
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 108
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 220
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 367
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 1127
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 439
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 108
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 540
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 162
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 214
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 520
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 367
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 529
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 230
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 61
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 65
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 210
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 359
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 452
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 939
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 823
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 126
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 154
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 64
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 211
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 525
+  },
+  {
+    "crv": "Giáo dục / Đào tạo",
+    "kw": "giáo viên",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 62
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 4333
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 4027
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 394
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 459
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 355
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 440
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 200
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 552
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 252
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 62
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 89
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 247
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 0
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 13
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 32
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 100
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 67
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 66
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 43
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 134
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 13
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 41
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 10
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 21
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 51
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 47
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 3
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 124
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 100
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 11
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 52
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 72
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 45
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 13
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 3
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 42
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 11
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 9
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 100
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 110
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 219
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 120
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 35
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 148
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 78
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 47
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 180
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 162
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 74
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 64
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 16
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 10
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 68
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 152
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 142
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 189
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 131
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 48
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 29
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 23
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 64
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 125
+  },
+  {
+    "crv": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+    "kw": "điện tử",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 22
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 12739
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 10211
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 550
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 166
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 307
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 88
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 46
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 977
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 314
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 51
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 38
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 49
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 2
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 7
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 15
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 40
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 93
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 78
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 13
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 173
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 7
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 41
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 3
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 86
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 17
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 28
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 3
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 48
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 37
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 25
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 65
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 97
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 23
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 12
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 44
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 15
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 7
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 83
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 59
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 70
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 62
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 8
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 92
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 28
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 13
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 89
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 29
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 50
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 21
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 5
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 6
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 38
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 63
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 47
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 85
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 196
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 25
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 15
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 11
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 18
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 77
+  },
+  {
+    "crv": "Mới tốt nghiệp / Thực tập",
+    "kw": "thực tập sinh",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 7
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 7307
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 12893
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 636
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 315
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 592
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 132
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 137
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 1058
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 513
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 82
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 235
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 111
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 1
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 6
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 48
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 71
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 73
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 99
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 17
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 191
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 3
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 43
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 6
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 92
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 35
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 44
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 5
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 47
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 31
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 33
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 57
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 326
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 80
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 13
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 90
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 12
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 29
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 98
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 71
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 106
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 67
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 18
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 112
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 25
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 35
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 156
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 72
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 124
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 28
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 16
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 2
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 56
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 72
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 68
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 120
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 150
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 49
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 11
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 11
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 34
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 120
+  },
+  {
+    "crv": "Quản lý điều hành",
+    "kw": "manager",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 14
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 2756
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 6098
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 368
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 130
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 236
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 62
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 30
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 430
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 568
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 16
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 186
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 22
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 2
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 2
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 11
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 40
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 51
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 26
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 7
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 103
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 2
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 24
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 1
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 48
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 16
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 34
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 0
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 12
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 18
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 17
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 19
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 28
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 3
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 4
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 16
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 16
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 1
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 54
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 18
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 17
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 25
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 13
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 46
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 10
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 7
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 29
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 44
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 19
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 5
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 10
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 0
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 45
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 32
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 22
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 42
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 74
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 10
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 4
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 2
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 19
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 49
+  },
+  {
+    "crv": "Vận chuyển / Giao nhận /  Kho vận",
+    "kw": "logistics",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 0
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 5972
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 3493
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 283
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 203
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 341
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 263
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 192
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 1137
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 249
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 88
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 50
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 110
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 9
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 20
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 43
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 188
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 69
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 81
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 46
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 263
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 19
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 171
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 27
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 59
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 78
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 174
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 5
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 134
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 205
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 36
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 93
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 153
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 57
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 31
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 7
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 113
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 25
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 34
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 99
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 324
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 332
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 182
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 31
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 202
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 82
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 102
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 251
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 114
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 107
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 95
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 32
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 23
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 85
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 266
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 105
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 282
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 267
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 54
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 33
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 44
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 75
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 92
+  },
+  {
+    "crv": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+    "kw": "điều dưỡng",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 28
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 3283
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 6570
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 757
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 399
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 504
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 178
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 152
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 383
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 679
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 87
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 126
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 123
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 1
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 7
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 37
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 113
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 133
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 80
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 13
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 111
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 5
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 39
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 4
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 60
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 46
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 44
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 3
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 110
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 47
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 12
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 55
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 56
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 13
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": null
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 38
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 34
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 8
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 173
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 77
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 129
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 94
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 7
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 159
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 31
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 6
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 79
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 74
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 61
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 23
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 14
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 0
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 151
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 87
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 108
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 109
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 120
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 60
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 17
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 12
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 41
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 162
+  },
+  {
+    "crv": "Xuất nhập khẩu",
+    "kw": "xuất nhập khẩu",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 14
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 514
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 361
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 34
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 27
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 24
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 9
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 23
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 122
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 28
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 4
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 7
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 18
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 0
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 1
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 1
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 5
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 4
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 5
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 0
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 14
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 4
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 6
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 2
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 10
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 3
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 3
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 0
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 9
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 14
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 0
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 5
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 5
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 1
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 0
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 5
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 4
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 1
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 1
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 3
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 12
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 3
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 2
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 23
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 5
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 3
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 39
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 14
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 11
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 16
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 3
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 1
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 6
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 8
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 10
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 9
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 17
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 1
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 2
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 4
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 3
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 22
+  },
+  {
+    "crv": "Biên phiên dịch",
+    "kw": "biên phiên dịch",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 1
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 225
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 653
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 179
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 34
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 116
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 42
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 19
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 46
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 43
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 14
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 28
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 14
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 0
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 4
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 2
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 28
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 14
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 14
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 2
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 12
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 0
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 7
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 0
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 4
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 10
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 10
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 0
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 14
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 17
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 5
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 12
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 16
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 9
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 1
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 14
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 3
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 1
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 40
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 23
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 30
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 18
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 9
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 18
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 14
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 2
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 19
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 17
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 7
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 8
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 1
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 0
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 21
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 21
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 9
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 24
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 12
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 8
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 6
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 4
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 15
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 16
+  },
+  {
+    "crv": "Quản lý chất lượng (QA/QC)",
+    "kw": "qa qc",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 1
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 22182
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 21440
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 1846
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 470
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 1749
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 518
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 344
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 4461
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 1423
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 1125
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 612
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 258
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 57
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 288
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 416
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 554
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 468
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 641
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 612
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 2706
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 109
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 675
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 107
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 495
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 652
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 554
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 85
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 231
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 519
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 350
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 473
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 1474
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 868
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 179
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 26
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 592
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 150
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 155
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 458
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 433
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 730
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 393
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 279
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 614
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 409
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 279
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 801
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 503
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 597
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 358
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 302
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 124
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 463
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 583
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 425
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 984
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 1451
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 607
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 223
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 168
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 592
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 368
+  },
+  {
+    "crv": "Bán lẻ / Bán sỉ",
+    "kw": "bán hàng",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 142
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 1807,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 1652,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 135,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 66,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 37,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 25,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 25,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 310,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 77,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 20,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 14,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 9,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 0,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 4,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 11,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 21,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 27,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 11,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 5,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 37,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 1,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 14,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 2,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 19,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 21,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 12,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 1,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 15,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 16,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 11,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 9,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 33,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 12,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 4,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 0,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 18,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 4,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 2,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 13,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 20,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 48,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 23,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 3,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 31,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 23,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 17,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 55,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 20,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 22,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 15,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 2,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 1,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 6,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 31,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 10,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 52,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 136,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 11,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 5,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 4,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 19,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 32,
+    "status": 200
+  },
+  {
+    "crv": "Kiến trúc",
+    "kw": "kiến trúc",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 2,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hà Nội",
+    "slug": "hanoi",
+    "total": 6568,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "TP Hồ Chí Minh",
+    "slug": "hcm",
+    "total": 6893,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bình Dương",
+    "slug": "binhduong",
+    "total": 690,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bắc Ninh",
+    "slug": "bacninh",
+    "total": 311,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Đồng Nai",
+    "slug": "dongnai",
+    "total": 427,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hưng Yên",
+    "slug": "hungyen",
+    "total": 241,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hải Dương",
+    "slug": "haiduong",
+    "total": 211,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Đà Nẵng",
+    "slug": "danang",
+    "total": 1145,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hải Phòng",
+    "slug": "haiphong",
+    "total": 441,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "An Giang",
+    "slug": "angiang",
+    "total": 194,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bà Rịa Vũng Tàu",
+    "slug": "vungtau",
+    "total": 182,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bắc Giang",
+    "slug": "bacgiang",
+    "total": 147,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bắc Kạn",
+    "slug": "backan",
+    "total": 8,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bạc Liêu",
+    "slug": "baclieu",
+    "total": 61,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bến Tre",
+    "slug": "bentre",
+    "total": 94,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bình Định",
+    "slug": "binhdinh",
+    "total": 513,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bình Phước",
+    "slug": "binhphuoc",
+    "total": 181,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Bình Thuận",
+    "slug": "binhthuan",
+    "total": 213,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Cà Mau",
+    "slug": "camau",
+    "total": 135,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Cần Thơ",
+    "slug": "cantho",
+    "total": 425,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Cao Bằng",
+    "slug": "caobang",
+    "total": 15,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Đăk Lăk",
+    "slug": "daklak",
+    "total": 254,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Đăk Nông",
+    "slug": "daknong",
+    "total": 20,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Điện Biên",
+    "slug": "dienbien",
+    "total": 73,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Đồng Tháp",
+    "slug": "dongthap",
+    "total": 232,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Gia Lai",
+    "slug": "gialai",
+    "total": 209,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hà Giang",
+    "slug": "hagiang",
+    "total": 13,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hà Nam",
+    "slug": "hanam",
+    "total": 174,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hà Tĩnh",
+    "slug": "hatinh",
+    "total": 426,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hậu Giang",
+    "slug": "haugiang",
+    "total": 81,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Hoà Bình",
+    "slug": "hoabinh",
+    "total": 120,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Khánh Hòa",
+    "slug": "khanhhoa",
+    "total": 462,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Kiên Giang",
+    "slug": "kiengiang",
+    "total": 258,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Kon Tum",
+    "slug": "kontum",
+    "total": 63,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Lai Châu",
+    "slug": "laichau",
+    "total": 5,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Lâm Đồng",
+    "slug": "lamdong",
+    "total": 157,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Lạng Sơn",
+    "slug": "langson",
+    "total": 24,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Lào Cai",
+    "slug": "laocai",
+    "total": 32,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Long An",
+    "slug": "longan",
+    "total": 165,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Nam Định",
+    "slug": "namdinh",
+    "total": 437,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Nghệ An",
+    "slug": "nghean",
+    "total": 867,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Ninh Bình",
+    "slug": "ninhbinh",
+    "total": 307,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Ninh Thuận",
+    "slug": "ninhthuan",
+    "total": 124,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Phú Thọ",
+    "slug": "phutho",
+    "total": 198,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Phú yên",
+    "slug": "phuyen",
+    "total": 406,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Quảng Bình",
+    "slug": "quangbinh",
+    "total": 193,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Quảng Nam",
+    "slug": "quangnam",
+    "total": 731,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Quảng Ngãi",
+    "slug": "quangngai",
+    "total": 472,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Quảng Ninh",
+    "slug": "quangninh",
+    "total": 215,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Quảng Trị",
+    "slug": "quangtri",
+    "total": 291,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Sóc Trăng",
+    "slug": "soctrang",
+    "total": 65,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Sơn La",
+    "slug": "sonla",
+    "total": 9,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Tây Ninh",
+    "slug": "tayninh",
+    "total": 167,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Thái Bình",
+    "slug": "thaibinh",
+    "total": 386,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Thái Nguyên",
+    "slug": "thainguyen",
+    "total": 87,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Thanh Hóa",
+    "slug": "thanhhoa",
+    "total": 632,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Huế",
+    "slug": "hue",
+    "total": 402,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Tiền Giang",
+    "slug": "tiengiang",
+    "total": 161,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Trà Vinh",
+    "slug": "travinh",
+    "total": 64,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Tuyên Quang",
+    "slug": "tuyenquang",
+    "total": 30,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Vĩnh Long",
+    "slug": "vinhlong",
+    "total": 236,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Vĩnh Phúc",
+    "slug": "vinhphuc",
+    "total": 178,
+    "status": 200
+  },
+  {
+    "crv": "Xây dựng",
+    "kw": "xây dựng",
+    "tinh": "Yên Bái",
+    "slug": "yenbai",
+    "total": 23,
+    "status": 200
+  }
+]

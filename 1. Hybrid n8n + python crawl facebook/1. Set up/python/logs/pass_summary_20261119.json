@@ -1,0 +1,132 @@
+[
+ {
+  "luot": 1,
+  "bat_dau": "2026-11-19 10:24",
+  "ket_thuc": "11:24",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 29,
+  "group_loi": [
+   [
+    1,
+    "Group tuyển dụng 1"
+   ],
+   [
+    1,
+    "Group tuyển dụng 5"
+   ],
+   [
+    1,
+    "TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS"
+   ],
+   [
+    1,
+    "Việc Làm Đồng Hới - Quảng Bình"
+   ],
+   [
+    1,
+    "Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️"
+   ],
+   [
+    2,
+    "Group tuyển dụng 2"
+   ],
+   [
+    2,
+    "Tìm việc làm tại TP.HCM ✅"
+   ],
+   [
+    2,
+    "Việc Làm Long An"
+   ],
+   [
+    2,
+    "TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅"
+   ],
+   [
+    2,
+    "Việc Làm Việt Trì - Phú Thọ"
+   ],
+   [
+    3,
+    "Group tuyển dụng 3"
+   ],
+   [
+    3,
+    "Việc Làm Hải Dương"
+   ],
+   [
+    3,
+    "Việc Làm Phú Mỹ - BRVT"
+   ],
+   [
+    3,
+    "Việc làm Chăm sóc Khách hàng"
+   ],
+   [
+    3,
+    "Việc Làm TP.HCM"
+   ],
+   [
+    3,
+    "Việc Làm Tiếng Anh"
+   ],
+   [
+    4,
+    "Group tuyển dụng 4"
+   ],
+   [
+    4,
+    "Việc Làm Phổ Yên - Thái Nguyên"
+   ],
+   [
+    4,
+    "Việc Làm Hà Đông - Hà Nội"
+   ],
+   [
+    4,
+    "Việc làm Long Biên - Gia Lâm - Đông Anh"
+   ],
+   [
+    4,
+    "TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI"
+   ]
+  ],
+  "bo_qua_gio": 0,
+  "dong_ghi": 32,
+  "lead_moi": 27,
+  "bo_sung": 5,
+  "trung_bo": 27
+ },
+ {
+  "luot": 2,
+  "bat_dau": "2026-11-19 12:00",
+  "ket_thuc": "13:04",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 58,
+  "lead_moi": 49,
+  "bo_sung": 9,
+  "trung_bo": 61
+ },
+ {
+  "luot": 3,
+  "bat_dau": "2026-11-19 15:00",
+  "ket_thuc": "16:00",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 62,
+  "lead_moi": 54,
+  "bo_sung": 8,
+  "trung_bo": 65
+ }
+]

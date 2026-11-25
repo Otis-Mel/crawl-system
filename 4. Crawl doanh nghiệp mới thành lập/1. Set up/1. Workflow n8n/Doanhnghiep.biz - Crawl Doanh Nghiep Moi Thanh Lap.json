@@ -1,0 +1,767 @@
+{
+  "name": "Doanhnghiep.biz - Crawl Doanh Nghiep Moi Thanh Lap",
+  "nodes": [
+    {
+      "parameters": {
+        "url": "=https://doanhnghiep.biz/",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -3280,
+        2480
+      ],
+      "id": "a83aa4a7-227d-4c55-a37e-5836e5f0aa90",
+      "name": "Lấy html trang ",
+      "executeOnce": false,
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "19eafad0-e364-444c-a128-1924bb74b166",
+              "leftValue": "={{ $json.totalPages }}",
+              "rightValue": 0,
+              "operator": {
+                "type": "number",
+                "operation": "gt"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        -2336,
+        2608
+      ],
+      "id": "b9ab316e-8d20-4048-8bf6-45913d4bd717",
+      "name": "If2"
+    },
+    {
+      "parameters": {
+        "jsCode": "const html = $('Lấy html trang ').first().json.data || \"\";\n\nconst pageNumbers = [...html.matchAll(/[?&]p=(\\d+)/gi)]\n  .map(m => parseInt(m[1]))\n  .filter(n => !isNaN(n) && n < 9999);\n\nconst totalPages = pageNumbers.length > 0 ? Math.max(...pageNumbers) : 1;\n\nconst now = new Date();\nconst mm = String(now.getMonth() + 1).padStart(2, '0');\nconst yyyy = now.getFullYear();\nconst baseUrl = `https://doanhnghiep.biz/thang-${mm}/${yyyy}`;\nconst workerBase = `https://crawlmst.derekpham0309.workers.dev/?url=`;\n\nconst items = [];\nfor (let page = 1; page <= totalPages; page++) {\n  const targetUrl = page === 1\n    ? baseUrl\n    : `https://doanhnghiep.biz/?p=${page}`;\n\n  items.push({\n    json: {\n      page,\n      url: workerBase + encodeURIComponent(targetUrl),\n      totalPages\n    }\n  });\n}\n\nreturn items;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -2064,
+        2592
+      ],
+      "id": "7834eae3-ee0e-47e4-85dc-0287b909ebf0",
+      "name": "Tạo danh sách trang kéo dữ liệu",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "jsCode": "const html = $input.first().json.data || \"\";\n\n// Tìm tổng số trang từ pagination - pattern ?p=N\nconst pageNumbers = [...html.matchAll(/[?&]p=(\\d+)/gi)]\n  .map(m => parseInt(m[1]))\n  .filter(n => !isNaN(n) && n < 9999);\n\nconst totalPages = pageNumbers.length > 0 ? Math.max(...pageNumbers) : 1;\n\nconst now = new Date();\nconst mm = String(now.getMonth() + 1).padStart(2, '0');\nconst yyyy = now.getFullYear();\nconst baseUrl = `https://doanhnghiep.biz/thang-${mm}/${yyyy}`;\nconst workerBase = `https://crawlmst.derekpham0309.workers.dev/?url=`;\n\nconst items = [];\nfor (let page = 1; page <= totalPages; page++) {\n  // Trang 1 dùng URL tháng, trang 2+ dùng ?p=N\n  const targetUrl = page === 1\n    ? baseUrl\n    : `https://doanhnghiep.biz/?p=${page}`;\n\n  items.push({\n    json: {\n      page,\n      url: workerBase + encodeURIComponent(targetUrl),\n      totalPages\n    }\n  });\n}\n\nreturn items;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -3040,
+        2480
+      ],
+      "id": "5a73d310-c516-4ce0-acb5-c5b55dc83d9c",
+      "name": "Đọc trang cuối1"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [
+        -1792,
+        2592
+      ],
+      "id": "e5f9740c-dc31-4b9d-aa06-0857a4694869",
+      "name": "Vòng lặp trang",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.url }}",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "text"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -1552,
+        2784
+      ],
+      "id": "8665e788-3c02-4ead-83a1-2559e3f837b3",
+      "name": "Lấy detail qua web",
+      "executeOnce": false,
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "jsCode": "const html = $input.item?.json?.data || \"\";\nif (!html) return [];\n\n// Lấy tất cả link công ty - href dạng /XXXXXXXXXX-ten-cong-ty\nconst allLinks = [...html.matchAll(\n  /<a[^>]+href=[\"'](\\/\\d{10,13}-[^\"']+)[\"'][^>]*>(.*?)<\\/a>/gis\n)].map(m => ({\n  href: m[1],\n  text: m[2].replace(/<[^>]+>/g, '').trim()\n}));\n\n// Mỗi công ty có 2 link cùng href: [0]=tên công ty, [1]=MST\n// Group theo href\nconst grouped = {};\nfor (const link of allLinks) {\n  if (!grouped[link.href]) grouped[link.href] = [];\n  grouped[link.href].push(link.text);\n}\n\n// Build output - mỗi công ty 1 item\nconst companies = [];\nfor (const [href, texts] of Object.entries(grouped)) {\n  // Extract MST từ href: /0111456197-cong-ty-...\n  const mstMatch = href.match(/^\\/(\\d{10,13})-/);\n  const mst = mstMatch ? mstMatch[1] : '';\n  \n  // Tên công ty = text dài nhất (không phải số thuần)\n  const tenCongTy = texts.find(t => t.length > 10 && !/^\\d+$/.test(t)) || '';\n  \n  if (!mst || !tenCongTy) continue;\n\n  companies.push({\n    json: {\n      mst,\n      tenCongTy,\n      detailUrl: `https://doanhnghiep.biz${href}`\n    }\n  });\n}\n\nreturn companies;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1312,
+        2784
+      ],
+      "id": "8774e177-20f0-4667-a5b0-62b5b7dd9287",
+      "name": "Trích xuất dữ liệu",
+      "executeOnce": false,
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "amount": 2
+      },
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        -1072,
+        2784
+      ],
+      "id": "b08335eb-3687-4489-8a70-7d06afe10d17",
+      "name": "Wait",
+      "webhookId": "7eb90eb8-4341-4c2a-848f-54bed7a63f09",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "const html = $input.item.json.data || \"\";\n\nconst validate = (val) => {\n  const s = String(val || '').trim();\n  return (!s || s === 'null' || s === 'undefined') ? 'Chua cap nhat' : s;\n};\n\nconst stripTags = (str) => str.replace(/<[^>]+>/g, '').trim();\n\n// MST\nconst canonicalMatch = html.match(/href=[\"']https:\\/\\/doanhnghiep\\.biz\\/(\\d{10,13})-[^\"']+[\"']/);\nconst mst = canonicalMatch ? canonicalMatch[1] : '';\n\n// Tên công ty - lấy phần giữa \"MST - TÊN - DoanhNghiep.Biz\"\nconst titleMatch = html.match(/<title>([^<]+)<\\/title>/i);\nlet tenCongTy = 'Chua cap nhat';\nif (titleMatch) {\n  const parts = titleMatch[1].split(/\\s*[-–]\\s*/);\n  tenCongTy = parts.length >= 3\n    ? parts.slice(1, -1).join(' - ').trim()\n    : parts[0].trim();\n}\n\n// Người đại diện\nconst nddMatch = html.match(/Người đại diện<\\/td>\\s*<td[^>]*>[\\s\\S]*?<span[^>]*>\\s*<a[^>]*>([^<]+)<\\/a>/i);\nconst nguoiDaiDien = nddMatch ? validate(nddMatch[1].trim()) : 'Chua cap nhat';\n\n// Email decode Cloudflare\nconst cfEmailMatch = html.match(/data-cfemail=[\"']([^\"']+)[\"']/i);\nlet email = 'Chua cap nhat';\nif (cfEmailMatch) {\n  const encoded = cfEmailMatch[1];\n  const key = parseInt(encoded.substr(0, 2), 16);\n  let decoded = '';\n  for (let i = 2; i < encoded.length; i += 2) {\n    decoded += String.fromCharCode(parseInt(encoded.substr(i, 2), 16) ^ key);\n  }\n  email = validate(decoded);\n}\n\n// Các trường từ table\nconst getField = (label) => {\n  const pattern = new RegExp(label + '[^<]*<\\\\/td>\\\\s*<td[^>]*>(.*?)<\\\\/td>', 'is');\n  const match = html.match(pattern);\n  return match ? validate(stripTags(match[1])) : 'Chua cap nhat';\n};\n\nconst dienThoai = getField('Điện thoại');\nconst ngayCap   = getField('Ngày cấp');\nconst nganhNghe = getField('Ngành nghề');\nconst tinhTrang = getField('Tình trạng');\nconst loaiHinh  = getField('Loại hình DN');\n\n// Địa chỉ - không cắt ở dấu phẩy\nconst diaChiMeta = html.match(/Địa chỉ:\\s*([^\"<]+)/i);\nconst diaChi = diaChiMeta ? validate(diaChiMeta[1].trim()) : 'Chua cap nhat';\n\nconst now = new Date();\nconst ngayCrawl = `${now.getDate()}/${now.getMonth()+1}/${now.getFullYear()}`;\n\nreturn {\n  MST: validate(mst),\n  TenCongTy: validate(tenCongTy),\n  NguoiDaiDien: nguoiDaiDien,\n  DiaChi: diaChi,\n  DienThoai: dienThoai,\n  Email: email,\n  TinhTrang: tinhTrang,\n  LoaiHinhDN: loaiHinh,\n  NgayCap: ngayCap,\n  NganhNghe: nganhNghe,\n  NgayCrawl: ngayCrawl,\n  Link: `https://doanhnghiep.biz/${mst}`\n};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -352,
+        2480
+      ],
+      "id": "682aa672-8f0a-4feb-bf9f-8f4c17647c19",
+      "name": "Chuan_Hoa_Data",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "amount": 10
+      },
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        80,
+        2480
+      ],
+      "id": "7ee6a43c-b7c6-4b7c-89c7-49dd2fea3d2a",
+      "name": "Wait6",
+      "webhookId": "22f423e3-2ff3-47a1-8cc8-74a54cea33da",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "jsCode": "const currentBatch = $input.all();\n\nconst normalizeMST = (val) => {\n  let s = String(val || '')\n    .replace(/\\s+/g, '')\n    .replace(/^\"+|\"+$/g, '')\n    .trim();\n  if (s && /^\\d+$/.test(s) && s.length < 10) {\n    s = s.padStart(10, '0');\n  }\n  return s;\n};\n\nconst sheetData = $('Read Existing MST1').all();\nconst existingMSTs = new Set(\n  sheetData\n    .map(item => normalizeMST(item.json.MST))\n    .filter(Boolean)\n);\n\n// Dedup nội bộ + lọc sheet cùng lúc\nconst seenInBatch = new Set();\nconst newOnes = [];\nconst skipped = { duplicate_internal: 0, in_sheet: 0, no_mst: 0 };\n\nfor (const item of currentBatch) {\n  const mst = normalizeMST(item.json.mst || item.json.MST);\n  \n  if (!mst) {\n    skipped.no_mst++;\n    continue;\n  }\n  if (seenInBatch.has(mst)) {\n    skipped.duplicate_internal++;\n    continue;\n  }\n  if (existingMSTs.has(mst)) {\n    skipped.in_sheet++;\n    seenInBatch.add(mst);\n    continue;\n  }\n  \n  seenInBatch.add(mst);\n  newOnes.push(item);\n}\n\nconsole.log(`NEW: ${newOnes.length}`);\nconsole.log(`SKIP - in_sheet: ${skipped.in_sheet} | dup_internal: ${skipped.duplicate_internal} | no_mst: ${skipped.no_mst}`);\n\nif (newOnes.length > 0) return newOnes;\n\nreturn [{ json: {\n  status: \"No new companies found\",\n  scanned: currentBatch.length,\n  existing_mst_count: existingMSTs.size,\n  skipped\n}}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1312,
+        2480
+      ],
+      "id": "fece1a66-e721-4502-80b1-97db2b0f25b0",
+      "name": "Lọc MST khác",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "jsCode": "const currentBatch = $input.all();\n\n// ✅ Reset static data mỗi lần chạy workflow mới\nconst staticData = $getWorkflowStaticData('node');\nstaticData.seenMSTs = []; // Xóa sạch dữ liệu cũ\n\nconst seenSet = new Set(staticData.seenMSTs);\n\nconst uniqueItems = [];\nfor (const item of currentBatch) {\n  const mst = String(item.json.mst || '').replace(/\\s+/g, '').trim();\n  if (!mst || seenSet.has(mst)) continue;\n  seenSet.add(mst);\n  uniqueItems.push(item);\n}\n\nstaticData.seenMSTs = [...seenSet];\n\nreturn uniqueItems.length > 0 ? uniqueItems : [];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1552,
+        2480
+      ],
+      "id": "f9d5a16a-85a1-46f2-87c2-77bce5a73a82",
+      "name": "Lấy dữ liệu pha 1",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "batchSize": 5,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [
+        -800,
+        2464
+      ],
+      "id": "892c504b-4ac8-4c53-a06d-b2201e29fbf7",
+      "name": "Loop",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "operation": "appendOrUpdate",
+        "documentId": {
+          "__rl": true,
+          "value": "10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog",
+          "mode": "list",
+          "cachedResultName": "Tự động lấy Mã số thuế ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1073086645,
+          "mode": "list",
+          "cachedResultName": "Doanhnghiep.biz",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit#gid=1073086645"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Ngày crawl": "={{ $json.NgayCrawl }}",
+            "Link masothue": "={{ $json.Link }}",
+            "Ngành nghề": "={{ $json.NganhNghe }}",
+            "Email": "={{ $json.Email }}",
+            "SĐT": "={{ $json.DienThoai }}",
+            "Ngày cấp ": "={{ $json.NgayCap }}",
+            "Địa chỉ": "={{ $json.DiaChi }}",
+            "Người đại diện": "={{ $json.NguoiDaiDien }}",
+            "Tên công ty": "={{ $json.TenCongTy }}",
+            "MST": "={{ $json.MST }}",
+            "STT": "==row()-1"
+          },
+          "matchingColumns": [
+            "MST"
+          ],
+          "schema": [
+            {
+              "id": "STT",
+              "displayName": "STT",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "MST",
+              "displayName": "MST",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Tên công ty",
+              "displayName": "Tên công ty",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Người đại diện",
+              "displayName": "Người đại diện",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Địa chỉ",
+              "displayName": "Địa chỉ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Ngành nghề",
+              "displayName": "Ngành nghề",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Ngày cấp ",
+              "displayName": "Ngày cấp ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "SĐT",
+              "displayName": "SĐT",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Email",
+              "displayName": "Email",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Ngày crawl",
+              "displayName": "Ngày crawl",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Link masothue",
+              "displayName": "Link masothue",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        -128,
+        2480
+      ],
+      "id": "4e569884-c17b-4991-beba-8ef7a57b22b0",
+      "name": "Tự động điền",
+      "executeOnce": false,
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "v0I6RIlaIZ9QNKjH",
+          "name": "Hundrek"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "=https://crawlmst.derekpham0309.workers.dev/?url={{ encodeURIComponent($json.detailUrl) }}",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "text"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -576,
+        2480
+      ],
+      "id": "27859055-e005-4e41-803a-1a47b1c9eec8",
+      "name": "Lấy detail qua web5",
+      "executeOnce": false,
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 6
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -3552,
+        2624
+      ],
+      "id": "4c030593-5363-4daf-b0e2-40288d93d7fd",
+      "name": "Schedule Trigger1"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog",
+          "mode": "list",
+          "cachedResultName": "Tự động lấy Mã số thuế ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1073086645,
+          "mode": "list",
+          "cachedResultName": "Doanhnghiep.biz",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit#gid=1073086645"
+        },
+        "options": {
+          "dataLocationOnSheet": {
+            "values": {
+              "rangeDefinition": "specifyRangeA1",
+              "range": "B:B"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        -3168,
+        2768
+      ],
+      "id": "6c9114af-3e78-4a15-9cf2-f276886f907e",
+      "name": "Read Existing MST1",
+      "executeOnce": false,
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "v0I6RIlaIZ9QNKjH",
+          "name": "Hundrek"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "try {\n  const allItems = $input.all();\n\n  // Tách theo field đặc trưng của từng nguồn\n  const crawledPages = allItems.filter(item => item.json.totalPages !== undefined);\n  const existingMST  = allItems.filter(item => item.json.MST !== undefined);\n\n  // Dùng tiếp cho logic bên dưới\n  return crawledPages.map(item => ({ json: item.json }));\n\n} catch(e) {\n  return [{ json: { error: e.message } }];\n}"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -2576,
+        2608
+      ],
+      "id": "0cabc135-4a13-4c24-a79d-9064d1b3a3de",
+      "name": "Code in JavaScript1",
+      "alwaysOutputData": false
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        -2816,
+        2608
+      ],
+      "id": "cc6e4706-9402-4764-a2fb-e12dcd2deb76",
+      "name": "Merge1"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "d59a170e-44e0-458e-a4e7-643db44176e1",
+              "leftValue": "={{ $json.status }}",
+              "rightValue": "No new companies found",
+              "operator": {
+                "type": "string",
+                "operation": "notEquals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        -1072,
+        2480
+      ],
+      "id": "f6105bec-9757-4fda-8a06-03649a66ffeb",
+      "name": "If3"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Lấy html trang ": {
+      "main": [
+        [
+          {
+            "node": "Đọc trang cuối1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If2": {
+      "main": [
+        [
+          {
+            "node": "Tạo danh sách trang kéo dữ liệu",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Tạo danh sách trang kéo dữ liệu": {
+      "main": [
+        [
+          {
+            "node": "Vòng lặp trang",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Đọc trang cuối1": {
+      "main": [
+        [
+          {
+            "node": "Merge1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Vòng lặp trang": {
+      "main": [
+        [
+          {
+            "node": "Lấy dữ liệu pha 1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Lấy detail qua web",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lấy detail qua web": {
+      "main": [
+        [
+          {
+            "node": "Trích xuất dữ liệu",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Trích xuất dữ liệu": {
+      "main": [
+        [
+          {
+            "node": "Wait",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait": {
+      "main": [
+        [
+          {
+            "node": "Vòng lặp trang",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Chuan_Hoa_Data": {
+      "main": [
+        [
+          {
+            "node": "Tự động điền",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait6": {
+      "main": [
+        [
+          {
+            "node": "Loop",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lọc MST khác": {
+      "main": [
+        [
+          {
+            "node": "If3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lấy dữ liệu pha 1": {
+      "main": [
+        [
+          {
+            "node": "Lọc MST khác",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop": {
+      "main": [
+        [],
+        [
+          {
+            "node": "Lấy detail qua web5",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Tự động điền": {
+      "main": [
+        [
+          {
+            "node": "Wait6",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lấy detail qua web5": {
+      "main": [
+        [
+          {
+            "node": "Chuan_Hoa_Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger1": {
+      "main": [
+        [
+          {
+            "node": "Lấy html trang ",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read Existing MST1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Existing MST1": {
+      "main": [
+        [
+          {
+            "node": "Merge1",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript1": {
+      "main": [
+        [
+          {
+            "node": "If2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge1": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If3": {
+      "main": [
+        [
+          {
+            "node": "Loop",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "0a4a137a-2848-40f0-a31d-6653d3909f76",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "c9c652f57af3e8a9c90039f53fcb548ec96000345af77971219f207a5d4e2193"
+  },
+  "id": "dcRlWwEUmTWCp57p",
+  "tags": []
+}

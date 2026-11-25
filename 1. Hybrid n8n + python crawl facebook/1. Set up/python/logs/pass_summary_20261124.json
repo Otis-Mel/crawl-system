@@ -1,0 +1,149 @@
+[
+ {
+  "luot": 2,
+  "bat_dau": "2026-11-24 11:46",
+  "ket_thuc": "12:46",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 68,
+  "lead_moi": 66,
+  "bo_sung": 2,
+  "trung_bo": 68
+ },
+ {
+  "luot": 3,
+  "bat_dau": "2026-11-24 15:52",
+  "ket_thuc": "16:57",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 21,
+  "group_loi": [
+   [
+    1,
+    "TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA"
+   ],
+   [
+    1,
+    "Việc làm IT - Tuyển dụng C/C++,Java, HMTL, CSS, PHP, .Net, Android, IOS, AI"
+   ],
+   [
+    1,
+    "Group tuyển dụng 1"
+   ],
+   [
+    1,
+    "TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS"
+   ],
+   [
+    1,
+    "Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội"
+   ],
+   [
+    1,
+    "VIỆC LÀM SALES & MARKETING"
+   ],
+   [
+    1,
+    "Việc Làm Phủ Lý - Hà Nam"
+   ],
+   [
+    2,
+    "Việc Làm Quảng Ninh"
+   ],
+   [
+    2,
+    "TUYỂN DỤNG KẾ TOÁN"
+   ],
+   [
+    2,
+    "Việc Làm BMT Đắk Lắk"
+   ],
+   [
+    2,
+    "Việc Làm Sinh Viên TP.HCM"
+   ],
+   [
+    2,
+    "TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA"
+   ],
+   [
+    3,
+    "Việc Làm Bà Rịa - Vũng Tàu"
+   ],
+   [
+    3,
+    "Việc Làm Thủ Dầu Một - Bình Dương"
+   ],
+   [
+    3,
+    "Group tuyển dụng 3"
+   ],
+   [
+    3,
+    "Việc Làm Hải Dương"
+   ],
+   [
+    3,
+    "Việc Làm Phú Mỹ - BRVT"
+   ],
+   [
+    3,
+    "Việc Làm TP.HCM"
+   ],
+   [
+    3,
+    "Việc Làm Tiếng Anh"
+   ],
+   [
+    3,
+    "Việc Làm Phan Rang - Tháp Chàm - Ninh Thuận"
+   ],
+   [
+    3,
+    "Việc Làm Sông Công - Thái Nguyên"
+   ],
+   [
+    4,
+    "Việc Làm Gò Công - Tiền Giang"
+   ],
+   [
+    4,
+    "Group tuyển dụng 4"
+   ],
+   [
+    4,
+    "Việc Làm Phổ Yên - Thái Nguyên"
+   ],
+   [
+    4,
+    "Việc làm Long Biên - Gia Lâm - Đông Anh"
+   ],
+   [
+    4,
+    "TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI"
+   ],
+   [
+    4,
+    "HỘI VIỆC LÀM TIẾNG TRUNG"
+   ],
+   [
+    4,
+    "NGHIỆP VỤ XUẤT NHẬP KHẨU - LOGISTICS"
+   ],
+   [
+    4,
+    "Việc Làm Đông Triều - Quảng Ninh"
+   ]
+  ],
+  "bo_qua_gio": 0,
+  "dong_ghi": 29,
+  "lead_moi": 29,
+  "bo_sung": 0,
+  "trung_bo": 26
+ }
+]

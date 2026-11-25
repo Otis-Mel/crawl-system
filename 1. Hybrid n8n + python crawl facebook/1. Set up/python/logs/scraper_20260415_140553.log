@@ -1,0 +1,158 @@
+2026-04-15 14:05:53,963 - INFO - ============================================================
+2026-04-15 14:05:53,964 - INFO - FB GROUP SCRAPER (NO LOGIN) - Smart Filter Mode
+2026-04-15 14:05:53,964 - INFO - Thời gian: 2026-04-15 14:05:53
+2026-04-15 14:05:53,964 - INFO - ============================================================
+2026-04-15 14:05:54,003 - INFO - Sẽ cào 1 groups (KHÔNG đăng nhập)
+2026-04-15 14:05:54,508 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 14:06:05,055 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 14:06:05,077 - INFO -   ✅ Bài tiềm năng: Bích Ngân
+27 Tháng 3 lúc 14:33
+ 
+·
+Mình 2k2 tìm việc giờ hàn...
+2026-04-15 14:06:05,112 - INFO -   ✅ Bài tiềm năng: Người tham gia ẩn danh
+1 ngày
+ 
+·
+Em 206 có bằng THPT cần tì...
+2026-04-15 14:06:08,136 - INFO -   Scroll 1/15 - Tìm được 2 bài tiềm năng
+2026-04-15 14:06:08,207 - INFO -   ✅ Bài tiềm năng: Người tham gia ẩn danh
+14 Tháng 3
+ 
+·
+em tìm việc
+em tìm việ...
+2026-04-15 14:06:08,236 - INFO -   ✅ Bài tiềm năng: ScenicGrape5437
+4 ngày
+ 
+·
+em nữ 2k5 muốn tìm việc khu vực b...
+2026-04-15 14:06:08,271 - INFO -   ✅ Bài tiềm năng: Người tham gia ẩn danh
+2 Tháng 4 lúc 07:29
+ 
+·
+Dạ em là nữ e...
+2026-04-15 14:06:08,292 - INFO -   ⏭ Bỏ qua (preview không phải tuyển dụng)
+2026-04-15 14:06:08,319 - INFO -   ✅ Bài tiềm năng: Người tham gia ẩn danh
+1 ngày
+ 
+·
+Cần tìm công việc Tân Bình...
+2026-04-15 14:06:08,360 - INFO -   ✅ Bài tiềm năng: GreenBeet3147
+23 Tháng 3 lúc 23:06
+ 
+·
+em là nữ 22t tìm việc...
+2026-04-15 14:06:08,379 - INFO -   ⏭ Bỏ qua (preview không phải tuyển dụng)
+2026-04-15 14:06:08,408 - INFO -   ✅ Bài tiềm năng: Người tham gia ẩn danh
+27 Tháng 3 lúc 18:35
+ 
+·
+Nam 2005 cần...
+2026-04-15 14:06:11,437 - INFO -   Scroll 2/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:14,621 - INFO -   Scroll 3/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:17,821 - INFO -   Scroll 4/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:21,003 - INFO -   Scroll 5/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:24,221 - INFO -   Scroll 6/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:27,419 - INFO -   Scroll 7/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:30,621 - INFO -   Scroll 8/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:33,837 - INFO -   Scroll 9/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:37,086 - INFO -   Scroll 10/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:40,353 - INFO -   Scroll 11/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:43,538 - INFO -   Scroll 12/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:46,720 - INFO -   Scroll 13/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:49,904 - INFO -   Scroll 14/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:53,070 - INFO -   Scroll 15/15 - Tìm được 8 bài tiềm năng
+2026-04-15 14:06:53,070 - INFO -   Lọc sơ bộ xong: 8 bài tiềm năng
+2026-04-15 14:06:53,071 - INFO -   Bước 2: Lấy full text từ 8 bài tiềm năng...
+2026-04-15 14:06:53,071 - INFO -   [1/8] Đang lấy full text...
+2026-04-15 14:08:25,264 - INFO -   Đã click 7 nút Xem thêm
+2026-04-15 14:08:25,274 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  2 × retrying click action\n      - waiting 100ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  8 × retrying click action\n      - waiting 500ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 500ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 500ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 500ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  8 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div>…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+2026-04-15 14:08:25,786 - INFO -   [2/8] Đang lấy full text...
+2026-04-15 14:08:26,303 - INFO -   [3/8] Đang lấy full text...
+2026-04-15 14:08:26,819 - INFO -   [4/8] Đang lấy full text...
+2026-04-15 14:08:27,335 - INFO -   [5/8] Đang lấy full text...
+2026-04-15 14:08:27,837 - INFO -   [6/8] Đang lấy full text...
+2026-04-15 14:08:27,838 - WARNING - socket.send() raised exception.

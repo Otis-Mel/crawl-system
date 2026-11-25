@@ -1,0 +1,87 @@
+2026-11-25 09:02:05,175 - INFO - ============================================================
+2026-11-25 09:02:05,175 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-25 09:02:05,175 - INFO - Nhấn Ctrl+C để dừng
+2026-11-25 09:02:05,176 - INFO - ============================================================
+2026-11-25 09:02:05,428 - INFO - Email đã có trong CSV: 6774
+2026-11-25 09:02:05,429 - INFO - 
+============================================================
+2026-11-25 09:02:05,429 - INFO - LẦN CHẠY #1 | 09:02
+2026-11-25 09:02:05,429 - INFO - ============================================================
+2026-11-25 09:02:05,529 - INFO - File output: fb_posts_20261125_0902.json
+2026-11-25 09:02:05,530 - INFO - Email đã lấy từ trước: 6774
+2026-11-25 09:02:06,442 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-11-25 09:02:45,426 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:02:53,508 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:01,590 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:09,675 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:17,764 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:25,834 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:03:25,834 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:03:25,835 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:03:25,835 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:03:25,835 - WARNING -   Group tuyển dụng 3: thấy 0 bài (lần 1/1)
+2026-11-25 09:03:26,298 - ERROR - Bỏ qua Group tuyển dụng 3 sau 1 lần thử
+2026-11-25 09:03:26,299 - INFO -   → Group tuyển dụng 3: 0 bài có liên hệ
+2026-11-25 09:03:36,287 - INFO - 
+Đang cào: Việc Làm Hải Dương
+2026-11-25 09:04:12,896 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:04:20,987 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:29,065 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:37,149 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:45,261 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:53,353 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:04:53,354 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:04:53,354 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:04:53,354 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:04:53,355 - WARNING -   Việc Làm Hải Dương: thấy 0 bài (lần 1/1)
+2026-11-25 09:04:53,832 - ERROR - Bỏ qua Việc Làm Hải Dương sau 1 lần thử
+2026-11-25 09:04:53,833 - INFO -   → Việc Làm Hải Dương: 0 bài có liên hệ
+2026-11-25 09:05:04,683 - INFO - 
+Đang cào: Việc Làm Phú Mỹ - BRVT
+2026-11-25 09:05:35,599 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:05:43,695 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:51,788 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:05:59,875 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:07,978 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:16,061 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:06:16,062 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:06:16,062 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:06:16,062 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:06:16,062 - WARNING -   Việc Làm Phú Mỹ - BRVT: thấy 0 bài (lần 1/1)
+2026-11-25 09:06:16,548 - ERROR - Bỏ qua Việc Làm Phú Mỹ - BRVT sau 1 lần thử
+2026-11-25 09:06:16,549 - INFO -   → Việc Làm Phú Mỹ - BRVT: 0 bài có liên hệ
+2026-11-25 09:06:24,144 - INFO - 
+Đang cào: Việc làm Chăm sóc Khách hàng
+2026-11-25 09:06:53,199 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:07:01,327 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:09,439 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:17,521 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:25,616 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:33,701 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:07:33,702 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:07:33,702 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:07:33,702 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:07:33,703 - WARNING -   Việc làm Chăm sóc Khách hàng: thấy 0 bài (lần 1/1)
+2026-11-25 09:07:34,152 - ERROR - Bỏ qua Việc làm Chăm sóc Khách hàng sau 1 lần thử
+2026-11-25 09:07:34,153 - INFO -   → Việc làm Chăm sóc Khách hàng: 0 bài có liên hệ
+2026-11-25 09:07:42,521 - INFO - 
+Đang cào: Việc Làm TP.HCM
+2026-11-25 09:08:11,415 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:08:19,507 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:27,601 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:35,697 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:43,767 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:51,857 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:08:51,858 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-11-25 09:08:51,858 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-25 09:08:51,858 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-25 09:08:51,859 - WARNING -   Việc Làm TP.HCM: thấy 0 bài (lần 1/1)
+2026-11-25 09:08:52,353 - ERROR - Bỏ qua Việc Làm TP.HCM sau 1 lần thử
+2026-11-25 09:08:52,354 - INFO -   → Việc Làm TP.HCM: 0 bài có liên hệ
+2026-11-25 09:09:00,227 - INFO - 
+Đang cào: Việc Làm Tiếng Anh
+2026-11-25 09:09:29,436 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-25 09:09:37,559 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:45,648 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-11-25 09:09:53,723 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0

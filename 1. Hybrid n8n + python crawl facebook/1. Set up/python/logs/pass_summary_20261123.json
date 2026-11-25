@@ -1,0 +1,32 @@
+[
+ {
+  "luot": 2,
+  "bat_dau": "2026-11-23 12:00",
+  "ket_thuc": "12:48",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 57,
+  "lead_moi": 52,
+  "bo_sung": 5,
+  "trung_bo": 62
+ },
+ {
+  "luot": 3,
+  "bat_dau": "2026-11-23 15:00",
+  "ket_thuc": "15:56",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 46,
+  "lead_moi": 40,
+  "bo_sung": 6,
+  "trung_bo": 45
+ }
+]

@@ -1,0 +1,300 @@
+2026-06-22 09:04:11,427 - INFO - ============================================================
+2026-06-22 09:04:11,428 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-06-22 09:04:11,428 - INFO - Nhấn Ctrl+C để dừng
+2026-06-22 09:04:11,428 - INFO - ============================================================
+2026-06-22 09:04:11,429 - INFO - 
+============================================================
+2026-06-22 09:04:11,429 - INFO - LẦN CHẠY #1 | 09:04
+2026-06-22 09:04:11,429 - INFO - ============================================================
+2026-06-22 09:04:11,774 - INFO - File output: fb_posts_20260622_0904.json
+2026-06-22 09:04:11,775 - INFO - Email đã lấy từ trước: 0
+2026-06-22 09:04:20,693 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-06-22 09:04:39,499 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 09:04:40,702 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:04:40,702 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-06-22 09:04:41,964 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:04:41,964 - INFO -   Scroll 2/5 - Thấy 5 bài, tiềm năng: 4
+2026-06-22 09:04:50,366 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 5
+2026-06-22 09:04:58,774 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-06-22 09:05:07,100 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-06-22 09:05:07,100 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-06-22 09:05:07,100 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 09:05:07,100 - INFO -   [1/5] Đang xử lý...
+2026-06-22 09:05:12,795 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:05:12,796 - INFO -   [2/5] Đang xử lý...
+2026-06-22 09:05:18,726 - INFO -   ✅ Email mới: phongnhansuthienkhaigroup@gmail.com
+2026-06-22 09:05:19,237 - INFO -   [3/5] Đang xử lý...
+2026-06-22 09:05:24,123 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:05:24,124 - INFO -   [4/5] Đang xử lý...
+2026-06-22 09:05:29,653 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:05:29,653 - INFO -   [5/5] Đang xử lý...
+2026-06-22 09:05:34,520 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:05:34,520 - INFO -   Bỏ qua: 4 không có email, 0 email trùng
+2026-06-22 09:05:34,521 - INFO -   → Group tuyển dụng 1: 1 bài có email mới
+2026-06-22 09:05:37,521 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-06-22 09:05:47,298 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 09:05:48,738 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:05:48,738 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 3
+2026-06-22 09:05:50,628 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:05:50,628 - INFO -   Scroll 2/5 - Thấy 9 bài, tiềm năng: 8
+2026-06-22 09:06:00,124 - INFO -   Scroll 3/5 - Thấy 13 bài, tiềm năng: 12
+2026-06-22 09:06:09,090 - INFO -   Scroll 4/5 - Thấy 13 bài, tiềm năng: 12
+2026-06-22 09:06:17,907 - INFO -   Scroll 5/5 - Thấy 13 bài, tiềm năng: 12
+2026-06-22 09:06:17,907 - INFO -   Lọc sơ bộ: 12/13 bài có từ khóa tuyển dụng
+2026-06-22 09:06:17,907 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 09:06:17,907 - INFO -   [1/12] Đang xử lý...
+2026-06-22 09:06:23,481 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:06:23,481 - INFO -   [2/12] Đang xử lý...
+2026-06-22 09:06:28,185 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:06:28,185 - INFO -   [3/12] Đang xử lý...
+2026-06-22 09:06:32,854 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:06:32,854 - INFO -   [4/12] Đang xử lý...
+2026-06-22 09:06:38,469 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:06:38,469 - INFO -   [5/12] Đang xử lý...
+2026-06-22 09:06:44,664 - INFO -   Đã click 1 nút Xem thêm
+2026-06-22 09:06:44,793 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:06:44,794 - INFO -   [6/12] Đang xử lý...
+2026-06-22 09:06:54,012 - INFO -   Đã click 4 nút Xem thêm
+2026-06-22 09:06:55,001 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:06:55,002 - INFO -   [7/12] Đang xử lý...
+2026-06-22 09:07:00,755 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:07:00,755 - INFO -   [8/12] Đang xử lý...
+2026-06-22 09:07:07,003 - INFO -   Đã click 1 nút Xem thêm
+2026-06-22 09:07:07,325 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:07:07,325 - INFO -   [9/12] Đang xử lý...
+2026-06-22 09:07:13,483 - INFO -   Đã click 1 nút Xem thêm
+2026-06-22 09:07:13,722 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:07:13,722 - INFO -   [10/12] Đang xử lý...
+2026-06-22 09:07:19,853 - INFO -   Đã click 1 nút Xem thêm
+2026-06-22 09:07:20,153 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:07:20,153 - INFO -   [11/12] Đang xử lý...
+2026-06-22 09:07:25,673 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:07:25,673 - INFO -   [12/12] Đang xử lý...
+2026-06-22 09:07:30,992 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:07:30,992 - INFO -   Bỏ qua: 12 không có email, 0 email trùng
+2026-06-22 09:07:30,992 - INFO -   → Group tuyển dụng 2: 0 bài có email mới
+2026-06-22 09:07:33,996 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-06-22 09:07:43,526 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 09:07:44,687 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:07:44,687 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 2
+2026-06-22 09:07:45,952 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:07:45,953 - INFO -   Scroll 2/5 - Thấy 6 bài, tiềm năng: 3
+2026-06-22 09:07:47,248 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:07:47,248 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 4
+2026-06-22 09:07:55,739 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 5
+2026-06-22 09:08:04,218 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 5
+2026-06-22 09:08:04,218 - INFO -   Lọc sơ bộ: 5/10 bài có từ khóa tuyển dụng
+2026-06-22 09:08:04,218 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 09:08:04,218 - INFO -   [1/5] Đang xử lý...
+2026-06-22 09:08:10,953 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:08:10,954 - INFO -   [2/5] Đang xử lý...
+2026-06-22 09:08:16,458 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:08:16,458 - INFO -   [3/5] Đang xử lý...
+2026-06-22 09:08:24,939 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:08:24,939 - INFO -   [4/5] Đang xử lý...
+2026-06-22 09:08:30,462 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:08:30,462 - INFO -   [5/5] Đang xử lý...
+2026-06-22 09:08:35,258 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:08:35,258 - INFO -   Bỏ qua: 5 không có email, 0 email trùng
+2026-06-22 09:08:35,258 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-06-22 09:08:38,276 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-06-22 09:08:46,710 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 09:08:47,884 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:08:47,885 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 1
+2026-06-22 09:08:49,317 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:08:49,317 - INFO -   Scroll 2/5 - Thấy 8 bài, tiềm năng: 4
+2026-06-22 09:08:58,096 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 5
+2026-06-22 09:09:06,878 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 5
+2026-06-22 09:09:15,616 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 5
+2026-06-22 09:09:15,617 - INFO -   Lọc sơ bộ: 5/11 bài có từ khóa tuyển dụng
+2026-06-22 09:09:15,617 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 09:09:15,617 - INFO -   [1/5] Đang xử lý...
+2026-06-22 09:09:24,020 - INFO -   Đã click 3 nút Xem thêm
+2026-06-22 09:09:24,619 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:09:24,619 - INFO -   [2/5] Đang xử lý...
+2026-06-22 09:09:30,934 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:09:30,934 - INFO -   [3/5] Đang xử lý...
+2026-06-22 09:10:39,847 - INFO -   Đã click 3 nút Xem thêm
+2026-06-22 09:10:40,392 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:10:40,393 - INFO -   [4/5] Đang xử lý...
+2026-06-22 09:10:45,877 - INFO -   ✅ Email mới: hr@honviet.vn
+2026-06-22 09:10:46,380 - INFO -   [5/5] Đang xử lý...
+2026-06-22 09:10:52,245 - INFO -   ✅ Email mới: tuyendung@lttech.vn
+2026-06-22 09:10:52,746 - INFO -   Bỏ qua: 3 không có email, 0 email trùng
+2026-06-22 09:10:52,746 - INFO -   → Group tuyển dụng 4: 2 bài có email mới
+2026-06-22 09:10:55,762 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-06-22 09:11:06,835 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 09:11:08,179 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:11:08,179 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 2
+2026-06-22 09:11:09,841 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 09:11:09,841 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-22 09:11:18,639 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 5
+2026-06-22 09:11:27,332 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 5
+2026-06-22 09:11:36,055 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 5
+2026-06-22 09:11:36,055 - INFO -   Lọc sơ bộ: 5/5 bài có từ khóa tuyển dụng
+2026-06-22 09:11:36,055 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 09:11:36,056 - INFO -   [1/5] Đang xử lý...
+2026-06-22 09:16:53,037 - INFO -   Đã click 7 nút Xem thêm
+2026-06-22 09:16:54,427 - INFO -   ✅ Email mới: dungpt@lla.net.vn, huyenltt@amitech.vn
+2026-06-22 09:16:54,939 - INFO -   [2/5] Đang xử lý...
+2026-06-22 09:21:07,117 - INFO -   Đã click 4 nút Xem thêm
+2026-06-22 09:21:08,392 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:21:08,393 - INFO -   [3/5] Đang xử lý...
+2026-06-22 09:27:23,590 - INFO -   Đã click 4 nút Xem thêm
+2026-06-22 09:27:25,079 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 09:27:25,079 - INFO -   [4/5] Đang xử lý...
+2026-06-22 09:33:38,739 - INFO -   Đã click 4 nút Xem thêm
+2026-06-22 09:33:40,335 - INFO -   ✅ Email mới: phuongntc@technica.ai, thuyngan17102004@gmail.com
+2026-06-22 09:33:40,837 - INFO -   [5/5] Đang xử lý...
+2026-06-22 09:39:25,837 - INFO -   Đã click 6 nút Xem thêm
+2026-06-22 09:39:27,448 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: huyenltt@amitech.vn)
+2026-06-22 09:39:27,448 - INFO -   Bỏ qua: 2 không có email, 1 email trùng
+2026-06-22 09:39:27,449 - INFO -   → Group tuyển dụng 5: 2 bài có email mới
+2026-06-22 09:39:30,597 - INFO - Đã lưu 5 bài → fb_posts_20260622_0904.json
+2026-06-22 09:39:30,597 - INFO - Đang upload Google Drive...
+2026-06-22 09:39:32,941 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-06-22 09:39:38,296 - INFO - Đã upload: fb_posts_20260622_0904.json
+2026-06-22 09:39:38,296 - INFO - Link: https://drive.google.com/file/d/19deFRSlg-zRLJm-dxZPCsHpOGIYsnKsm/view?usp=drivesdk
+2026-06-22 09:39:38,298 - INFO - Xong lần #1: 5 bài mới | 2127s (35.4 phút)
+2026-06-22 09:39:38,298 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 10:09
+2026-06-22 09:39:38,298 - INFO - (Ctrl+C để dừng)
+2026-06-22 10:09:38,332 - INFO - 
+============================================================
+2026-06-22 10:09:38,332 - INFO - LẦN CHẠY #2 | 10:09
+2026-06-22 10:09:38,332 - INFO - ============================================================
+2026-06-22 10:09:38,333 - INFO - File output: fb_posts_20260622_1009.json
+2026-06-22 10:09:38,333 - INFO - Email đã lấy từ trước: 7
+2026-06-22 10:09:39,039 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-06-22 10:09:58,259 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 10:09:59,614 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 10:09:59,614 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-22 10:10:08,150 - INFO -   Scroll 2/5 - Thấy 8 bài, tiềm năng: 7
+2026-06-22 10:10:16,594 - INFO -   Scroll 3/5 - Thấy 8 bài, tiềm năng: 7
+2026-06-22 10:10:25,042 - INFO -   Scroll 4/5 - Thấy 8 bài, tiềm năng: 7
+2026-06-22 10:10:33,458 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 7
+2026-06-22 10:10:33,458 - INFO -   Lọc sơ bộ: 7/8 bài có từ khóa tuyển dụng
+2026-06-22 10:10:33,458 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 10:10:33,458 - INFO -   [1/7] Đang xử lý...
+2026-06-22 10:10:39,577 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:10:39,578 - INFO -   [2/7] Đang xử lý...
+2026-06-22 10:10:44,673 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:10:44,674 - INFO -   [3/7] Đang xử lý...
+2026-06-22 10:10:50,295 - INFO -   ✅ Email mới: maiduongquynh2606@gmail.com
+2026-06-22 10:10:50,801 - INFO -   [4/7] Đang xử lý...
+2026-06-22 10:10:55,848 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:10:55,849 - INFO -   [5/7] Đang xử lý...
+2026-06-22 10:11:02,008 - INFO -   Đã click 1 nút Xem thêm
+2026-06-22 10:11:02,596 - INFO -   ✅ Email mới: bangcvn.adsplus@gmail.com
+2026-06-22 10:11:03,096 - INFO -   [6/7] Đang xử lý...
+2026-06-22 10:11:08,999 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:11:08,999 - INFO -   [7/7] Đang xử lý...
+2026-06-22 10:11:13,628 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:11:13,628 - INFO -   Bỏ qua: 5 không có email, 0 email trùng
+2026-06-22 10:11:13,629 - INFO -   → Group tuyển dụng 1: 2 bài có email mới
+2026-06-22 10:11:16,632 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-06-22 10:11:25,039 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 10:11:26,431 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 10:11:26,431 - INFO -   Scroll 1/5 - Thấy 7 bài, tiềm năng: 6
+2026-06-22 10:11:34,859 - INFO -   Scroll 2/5 - Thấy 10 bài, tiềm năng: 7
+2026-06-22 10:11:43,257 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 7
+2026-06-22 10:11:51,752 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 7
+2026-06-22 10:12:00,182 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 7
+2026-06-22 10:12:00,183 - INFO -   Lọc sơ bộ: 7/10 bài có từ khóa tuyển dụng
+2026-06-22 10:12:00,183 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 10:12:00,183 - INFO -   [1/7] Đang xử lý...
+2026-06-22 10:12:05,782 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:12:05,782 - INFO -   [2/7] Đang xử lý...
+2026-06-22 10:12:10,399 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:12:10,399 - INFO -   [3/7] Đang xử lý...
+2026-06-22 10:12:16,569 - INFO -   Đã click 1 nút Xem thêm
+2026-06-22 10:12:16,920 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:12:16,920 - INFO -   [4/7] Đang xử lý...
+2026-06-22 10:12:22,887 - INFO -   ✅ Email mới: thaigiaphattgp@gmail.com
+2026-06-22 10:12:23,389 - INFO -   [5/7] Đang xử lý...
+2026-06-22 10:12:28,720 - INFO -   ✅ Email mới: hr.yphuc@gmail.com
+2026-06-22 10:12:29,221 - INFO -   [6/7] Đang xử lý...
+2026-06-22 10:12:34,655 - INFO -   ✅ Email mới: tan.huynh@weddingbook.com
+2026-06-22 10:12:35,161 - INFO -   [7/7] Đang xử lý...
+2026-06-22 10:12:39,961 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:12:39,962 - INFO -   Bỏ qua: 4 không có email, 0 email trùng
+2026-06-22 10:12:39,962 - INFO -   → Group tuyển dụng 2: 3 bài có email mới
+2026-06-22 10:12:42,973 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-06-22 10:12:53,276 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 10:12:54,432 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 10:12:54,432 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 2
+2026-06-22 10:12:55,671 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 10:12:55,671 - INFO -   Scroll 2/5 - Thấy 8 bài, tiềm năng: 4
+2026-06-22 10:13:04,061 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 4
+2026-06-22 10:13:12,565 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 4
+2026-06-22 10:13:21,079 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 4
+2026-06-22 10:13:21,079 - INFO -   Lọc sơ bộ: 4/9 bài có từ khóa tuyển dụng
+2026-06-22 10:13:21,079 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 10:13:21,079 - INFO -   [1/4] Đang xử lý...
+2026-06-22 10:13:29,704 - INFO -   Đã click 3 nút Xem thêm
+2026-06-22 10:13:30,556 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:13:30,556 - INFO -   [2/4] Đang xử lý...
+2026-06-22 10:13:35,256 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:13:35,256 - INFO -   [3/4] Đang xử lý...
+2026-06-22 10:13:39,831 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:13:39,831 - INFO -   [4/4] Đang xử lý...
+2026-06-22 10:13:46,722 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:13:46,723 - INFO -   Bỏ qua: 4 không có email, 0 email trùng
+2026-06-22 10:13:46,723 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-06-22 10:13:49,726 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-06-22 10:13:58,202 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 10:13:59,487 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 10:13:59,487 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 2
+2026-06-22 10:14:00,975 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 10:14:00,975 - INFO -   Scroll 2/5 - Thấy 7 bài, tiềm năng: 4
+2026-06-22 10:14:09,732 - INFO -   Scroll 3/5 - Thấy 10 bài, tiềm năng: 6
+2026-06-22 10:14:18,412 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 6
+2026-06-22 10:14:27,047 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 6
+2026-06-22 10:14:27,047 - INFO -   Lọc sơ bộ: 6/10 bài có từ khóa tuyển dụng
+2026-06-22 10:14:27,047 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 10:14:27,047 - INFO -   [1/6] Đang xử lý...
+2026-06-22 10:14:37,225 - INFO -   Đã click 5 nút Xem thêm
+2026-06-22 10:14:38,221 - INFO -   ✅ Email mới: thukysaigonnewhouse@gmail.com
+2026-06-22 10:14:38,723 - INFO -   [2/6] Đang xử lý...
+2026-06-22 10:14:43,364 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:14:43,365 - INFO -   [3/6] Đang xử lý...
+2026-06-22 10:14:48,699 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:14:48,699 - INFO -   [4/6] Đang xử lý...
+2026-06-22 10:14:54,175 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:14:54,175 - INFO -   [5/6] Đang xử lý...
+2026-06-22 10:17:34,309 - INFO -   Đã click 2 nút Xem thêm
+2026-06-22 10:17:35,072 - INFO -   ✅ Email mới: tuyendung@wowcontent.com.vn
+2026-06-22 10:17:35,576 - INFO -   [6/6] Đang xử lý...
+2026-06-22 10:17:41,216 - INFO -   ✅ Email mới: teknovngroup@gmail.com
+2026-06-22 10:17:41,730 - INFO -   Bỏ qua: 3 không có email, 0 email trùng
+2026-06-22 10:17:41,730 - INFO -   → Group tuyển dụng 4: 3 bài có email mới
+2026-06-22 10:17:44,741 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-06-22 10:17:55,095 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-22 10:17:56,552 - INFO -   ⚡ Load xong sau 1s
+2026-06-22 10:17:56,552 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-22 10:18:05,253 - INFO -   Scroll 2/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-22 10:18:13,854 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-22 10:18:22,499 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-22 10:18:31,096 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-22 10:18:31,097 - INFO -   Lọc sơ bộ: 7/7 bài có từ khóa tuyển dụng
+2026-06-22 10:18:31,097 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-22 10:18:31,097 - INFO -   [1/7] Đang xử lý...
+2026-06-22 10:23:46,228 - INFO -   Đã click 7 nút Xem thêm
+2026-06-22 10:23:47,823 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: dungpt@lla.net.vn, huyenltt@amitech.vn)
+2026-06-22 10:23:47,824 - INFO -   [2/7] Đang xử lý...
+2026-06-22 10:30:02,263 - INFO -   Đã click 5 nút Xem thêm
+2026-06-22 10:30:03,732 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:30:03,732 - INFO -   [3/7] Đang xử lý...
+2026-06-22 10:36:17,317 - INFO -   Đã click 4 nút Xem thêm
+2026-06-22 10:36:18,829 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-22 10:36:18,829 - INFO -   [4/7] Đang xử lý...

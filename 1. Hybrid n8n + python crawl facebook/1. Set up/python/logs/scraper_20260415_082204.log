@@ -1,0 +1,66 @@
+2026-04-15 08:22:04,760 - INFO - ============================================================
+2026-04-15 08:22:04,760 - INFO - FB GROUP SCRAPER (NO LOGIN)
+2026-04-15 08:22:04,760 - INFO - Thời gian: 2026-04-15 08:22:04
+2026-04-15 08:22:04,761 - INFO - ============================================================
+2026-04-15 08:22:04,810 - INFO - Sẽ cào 5 groups (KHÔNG đăng nhập)
+2026-04-15 08:22:06,004 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 08:22:06,004 - INFO - URL: https://www.facebook.com/groups/818173552972432
+2026-04-15 08:26:58,384 - INFO -   Đã click 1 nút Xem thêm
+2026-04-15 08:27:03,797 - INFO -   Scroll 1/15 - Đã lấy 18 bài
+2026-04-15 08:34:13,367 - INFO -   Scroll 2/15 - Đã lấy 23 bài
+2026-04-15 08:41:23,365 - INFO -   Scroll 3/15 - Đã lấy 28 bài
+2026-04-15 08:48:33,379 - INFO -   Scroll 4/15 - Đã lấy 33 bài
+2026-04-15 08:52:23,248 - ERROR - Lỗi khi cào group Group tuyển dụng 1: Page.query_selector_all: Target page, context or browser has been closed
+2026-04-15 08:52:23,249 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-15 08:52:23,249 - INFO - URL: https://www.facebook.com/groups/timvieclamhanoi0
+2026-04-15 08:52:23,250 - ERROR - Lỗi khi cào group Group tuyển dụng 2: Page.goto: Target page, context or browser has been closed
+2026-04-15 08:52:23,250 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-15 08:52:23,251 - INFO - URL: https://www.facebook.com/groups/469383163393248
+2026-04-15 08:52:23,252 - ERROR - Lỗi khi cào group Group tuyển dụng 3: Page.goto: Target page, context or browser has been closed
+2026-04-15 08:52:23,253 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-15 08:52:23,253 - INFO - URL: https://www.facebook.com/groups/1415057285819366
+2026-04-15 08:52:23,254 - ERROR - Lỗi khi cào group Group tuyển dụng 4: Page.goto: Target page, context or browser has been closed
+2026-04-15 08:52:23,255 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-15 08:52:23,255 - INFO - URL: https://www.facebook.com/groups/239507464916811
+2026-04-15 08:52:23,256 - ERROR - Lỗi khi cào group Group tuyển dụng 5: Page.goto: Target page, context or browser has been closed
+2026-04-15 08:52:23,408 - INFO - 
+=== KẾT QUẢ ===
+2026-04-15 08:52:23,408 - INFO - Tổng: 0 bài post từ 5 groups
+2026-04-15 08:52:23,409 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-15 08:52:23,409 - INFO - 
+Thời gian cào: 1819 giây (30.3 phút)
+2026-04-15 08:52:23,409 - INFO - Không tìm thấy bài post nào.
+2026-04-15 08:52:23,409 - INFO - 
+=== HOÀN TẤT ===
+2026-04-15 08:52:23,422 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k xshlqvt">…</div> from <div class="__fb-light-mode x1n2onr6 x1vjfegm">…</div> subtree intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k xshlqvt">…</div> from <div class="__fb-light-mode x1n2onr6 x1vjfegm">…</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    33 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k xshlqvt">…</div> from <div class="__fb-light-mode x1n2onr6 x1vjfegm">…</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k xshlqvt">…</div> from <div class="__fb-light-mode x1n2onr6 x1vjfegm">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k xshlqvt">…</div> from <div class="__fb-light-mode x1n2onr6 x1vjfegm">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    33 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k xshlqvt">…</div> from <div class="__fb-light-mode x1n2onr6 x1vjfegm">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+

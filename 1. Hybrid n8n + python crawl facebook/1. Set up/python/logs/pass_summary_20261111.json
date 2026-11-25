@@ -1,0 +1,47 @@
+[
+ {
+  "luot": 1,
+  "bat_dau": "2026-11-11 09:00",
+  "ket_thuc": "09:55",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 54,
+  "lead_moi": 50,
+  "bo_sung": 4,
+  "trung_bo": 73
+ },
+ {
+  "luot": 2,
+  "bat_dau": "2026-11-11 12:00",
+  "ket_thuc": "12:40",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 60,
+  "lead_moi": 55,
+  "bo_sung": 5,
+  "trung_bo": 64
+ },
+ {
+  "luot": 3,
+  "bat_dau": "2026-11-11 15:00",
+  "ket_thuc": "15:39",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 71,
+  "lead_moi": 64,
+  "bo_sung": 7,
+  "trung_bo": 73
+ }
+]

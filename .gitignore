@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+venv/
+.venv/
+node_modules/
+.DS_Store
+cookies.json
+credentials.json
+secrets/
+1. Hybrid n8n + python crawl facebook/1. Set up/token.json
+**/token.json
+**/credentials.json

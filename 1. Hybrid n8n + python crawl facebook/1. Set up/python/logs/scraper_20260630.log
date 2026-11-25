@@ -1,0 +1,366 @@
+2026-06-30 08:39:30,141 - INFO - ============================================================
+2026-06-30 08:39:30,142 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-06-30 08:39:30,145 - INFO - Nhấn Ctrl+C để dừng
+2026-06-30 08:39:30,146 - INFO - ============================================================
+2026-06-30 08:39:30,149 - INFO - 
+============================================================
+2026-06-30 08:39:30,151 - INFO - LẦN CHẠY #1 | 08:39
+2026-06-30 08:39:30,153 - INFO - ============================================================
+2026-06-30 08:39:30,382 - INFO - File output: fb_posts_20260630_0839.json
+2026-06-30 08:39:30,384 - INFO - Email đã lấy từ trước: 0
+2026-06-30 08:39:32,415 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-06-30 08:39:50,770 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 08:39:52,986 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 08:39:52,999 - INFO -   Scroll 1/5 - Thấy 5 bài, tiềm năng: 5
+2026-06-30 08:40:03,226 - INFO -   Scroll 2/5 - Thấy 11 bài, tiềm năng: 10
+2026-06-30 08:40:12,848 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 10
+2026-06-30 08:40:22,929 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 10
+2026-06-30 08:40:32,839 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 10
+2026-06-30 08:40:32,841 - INFO -   Lọc sơ bộ: 10/11 bài có từ khóa tuyển dụng
+2026-06-30 08:40:32,843 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 08:40:32,845 - INFO -   [1/10] Đang xử lý...
+2026-06-30 08:46:50,853 - INFO -   Đã click 7 nút Xem thêm
+2026-06-30 08:46:58,625 - INFO -   ✅ Email mới: phongninh132@gmail.com
+2026-06-30 08:46:59,146 - INFO -   [2/10] Đang xử lý...
+2026-06-30 08:51:45,489 - INFO -   Đã click 7 nút Xem thêm
+2026-06-30 08:51:48,024 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:51:48,026 - INFO -   [3/10] Đang xử lý...
+2026-06-30 08:51:53,595 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:51:53,598 - INFO -   [4/10] Đang xử lý...
+2026-06-30 08:53:38,253 - INFO -   Đã click 8 nút Xem thêm
+2026-06-30 08:53:41,301 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:53:41,303 - INFO -   [5/10] Đang xử lý...
+2026-06-30 08:53:47,586 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:53:47,587 - INFO -   [6/10] Đang xử lý...
+2026-06-30 08:55:31,262 - INFO -   Đã click 7 nút Xem thêm
+2026-06-30 08:55:34,307 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:55:34,316 - INFO -   [7/10] Đang xử lý...
+2026-06-30 08:55:39,877 - INFO -   ✅ Email mới: tdanh5813@gmail.com
+2026-06-30 08:55:40,388 - INFO -   [8/10] Đang xử lý...
+2026-06-30 08:55:45,306 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:55:45,312 - INFO -   [9/10] Đang xử lý...
+2026-06-30 08:55:50,199 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:55:50,215 - INFO -   [10/10] Đang xử lý...
+2026-06-30 08:55:55,287 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:55:55,318 - INFO -   Bỏ qua: 8 không có email, 0 email trùng
+2026-06-30 08:55:55,323 - INFO -   → Group tuyển dụng 1: 2 bài có email mới
+2026-06-30 08:55:58,370 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-06-30 08:56:07,168 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 08:56:09,311 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 08:56:09,316 - INFO -   Scroll 1/5 - Thấy 7 bài, tiềm năng: 6
+2026-06-30 08:56:19,410 - INFO -   Scroll 2/5 - Thấy 13 bài, tiềm năng: 10
+2026-06-30 08:56:29,063 - INFO -   Scroll 3/5 - Thấy 13 bài, tiềm năng: 10
+2026-06-30 08:56:38,641 - INFO -   Scroll 4/5 - Thấy 13 bài, tiềm năng: 10
+2026-06-30 08:56:48,425 - INFO -   Scroll 5/5 - Thấy 13 bài, tiềm năng: 10
+2026-06-30 08:56:48,428 - INFO -   Lọc sơ bộ: 10/13 bài có từ khóa tuyển dụng
+2026-06-30 08:56:48,429 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 08:56:48,431 - INFO -   [1/10] Đang xử lý...
+2026-06-30 08:56:54,596 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:56:54,599 - INFO -   [2/10] Đang xử lý...
+2026-06-30 08:57:02,705 - INFO -   ✅ Email mới: ops.csv2@pacica.vn
+2026-06-30 08:57:03,233 - INFO -   [3/10] Đang xử lý...
+2026-06-30 08:57:10,275 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:57:10,287 - INFO -   [4/10] Đang xử lý...
+2026-06-30 08:57:16,854 - INFO -   ✅ Email mới: Acc1.dept@sbit.vn
+2026-06-30 08:57:17,376 - INFO -   [5/10] Đang xử lý...
+2026-06-30 08:57:22,618 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: Acc1.dept@sbit.vn)
+2026-06-30 08:57:22,620 - INFO -   [6/10] Đang xử lý...
+2026-06-30 08:57:27,774 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:57:27,776 - INFO -   [7/10] Đang xử lý...
+2026-06-30 08:57:35,303 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: Acc1.dept@sbit.vn)
+2026-06-30 08:57:35,394 - INFO -   [8/10] Đang xử lý...
+2026-06-30 08:57:42,575 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:57:42,609 - INFO -   [9/10] Đang xử lý...
+2026-06-30 08:57:53,248 - INFO -   Đã click 5 nút Xem thêm
+2026-06-30 08:57:55,466 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:57:55,469 - INFO -   [10/10] Đang xử lý...
+2026-06-30 08:58:01,523 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:58:01,526 - INFO -   Bỏ qua: 6 không có email, 2 email trùng
+2026-06-30 08:58:01,528 - INFO -   → Group tuyển dụng 2: 2 bài có email mới
+2026-06-30 08:58:04,542 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-06-30 08:58:15,796 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 08:58:19,294 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 08:58:19,319 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 2
+2026-06-30 08:58:30,575 - INFO -   Scroll 2/5 - Thấy 8 bài, tiềm năng: 2
+2026-06-30 08:58:40,140 - INFO -   Scroll 3/5 - Thấy 8 bài, tiềm năng: 2
+2026-06-30 08:58:49,417 - INFO -   Scroll 4/5 - Thấy 8 bài, tiềm năng: 2
+2026-06-30 08:58:58,532 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 2
+2026-06-30 08:58:58,535 - INFO -   Lọc sơ bộ: 2/8 bài có từ khóa tuyển dụng
+2026-06-30 08:58:58,537 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 08:58:58,538 - INFO -   [1/2] Đang xử lý...
+2026-06-30 08:59:07,219 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 08:59:10,369 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:59:10,371 - INFO -   [2/2] Đang xử lý...
+2026-06-30 08:59:48,621 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 08:59:51,763 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 08:59:51,767 - INFO -   Bỏ qua: 2 không có email, 0 email trùng
+2026-06-30 08:59:51,768 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-06-30 08:59:54,778 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-06-30 09:00:03,311 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 09:00:04,707 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 09:00:04,709 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-06-30 09:00:14,773 - INFO -   Scroll 2/5 - Thấy 6 bài, tiềm năng: 3
+2026-06-30 09:00:24,181 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 3
+2026-06-30 09:00:33,541 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 3
+2026-06-30 09:00:42,829 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-06-30 09:00:42,833 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-06-30 09:00:42,836 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 09:00:42,838 - INFO -   [1/3] Đang xử lý...
+2026-06-30 09:02:24,124 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 09:02:26,815 - INFO -   ✅ Email mới: huyennn.hr.mido@gmail.com
+2026-06-30 09:02:27,324 - INFO -   [2/3] Đang xử lý...
+2026-06-30 09:02:32,974 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 09:02:32,976 - INFO -   [3/3] Đang xử lý...
+2026-06-30 09:04:12,818 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 09:04:14,384 - INFO -   ✅ Email mới: lethangcontenttekno@gmail.com
+2026-06-30 09:04:14,903 - INFO -   Bỏ qua: 1 không có email, 0 email trùng
+2026-06-30 09:04:14,905 - INFO -   → Group tuyển dụng 4: 2 bài có email mới
+2026-06-30 09:04:17,921 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-06-30 09:04:27,536 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 09:04:29,958 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 09:04:29,968 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-30 09:04:40,544 - INFO -   Scroll 2/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-30 09:04:50,913 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-30 09:05:01,081 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-30 09:05:12,083 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 7
+2026-06-30 09:05:12,086 - INFO -   Lọc sơ bộ: 7/7 bài có từ khóa tuyển dụng
+2026-06-30 09:05:12,088 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 09:05:12,090 - INFO -   [1/7] Đang xử lý...
+2026-06-30 09:10:27,608 - INFO -   Đã click 6 nút Xem thêm
+2026-06-30 09:10:34,393 - INFO -   ✅ Email mới: dungpt@lla.net.vn, huyenltt@amitech.vn
+2026-06-30 09:10:34,895 - INFO -   [2/7] Đang xử lý...
+2026-06-30 09:15:51,127 - INFO -   Đã click 6 nút Xem thêm
+2026-06-30 09:15:57,976 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: dungpt@lla.net.vn, huyenltt@amitech.vn)
+2026-06-30 09:15:57,982 - INFO -   [3/7] Đang xử lý...
+2026-06-30 09:21:44,612 - INFO -   Đã click 5 nút Xem thêm
+2026-06-30 09:21:50,356 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 09:21:50,361 - INFO -   [4/7] Đang xử lý...
+2026-06-30 09:22:00,850 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 09:22:04,373 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 09:22:04,375 - INFO -   [5/7] Đang xử lý...
+2026-06-30 09:27:19,390 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 09:27:22,968 - INFO -   ✅ Email mới: phuongntc@technica.ai, thuyngan17102004@gmail.com
+2026-06-30 09:27:23,480 - INFO -   [6/7] Đang xử lý...
+2026-06-30 09:32:38,942 - INFO -   Đã click 6 nút Xem thêm
+2026-06-30 09:32:45,710 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: huyenltt@amitech.vn)
+2026-06-30 09:32:45,712 - INFO -   [7/7] Đang xử lý...
+2026-06-30 09:38:00,784 - INFO -   Đã click 5 nút Xem thêm
+2026-06-30 09:38:05,797 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: huyenltt@amitech.vn)
+2026-06-30 09:38:05,799 - INFO -   Bỏ qua: 2 không có email, 3 email trùng
+2026-06-30 09:38:05,800 - INFO -   → Group tuyển dụng 5: 2 bài có email mới
+2026-06-30 09:38:08,985 - INFO - Đã lưu 8 bài → fb_posts_20260630_0839.json
+2026-06-30 09:38:08,987 - INFO - Đang upload Google Drive...
+2026-06-30 09:38:12,303 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-06-30 09:38:15,799 - INFO - Đã upload: fb_posts_20260630_0839.json
+2026-06-30 09:38:15,802 - INFO - Link: https://drive.google.com/file/d/1eZhJvmxFharh9URchwbI8Cq9KOXy2axH/view?usp=drivesdk
+2026-06-30 09:38:15,805 - INFO - Xong lần #1: 8 bài mới | 3526s (58.8 phút)
+2026-06-30 09:38:15,806 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 10:08
+2026-06-30 09:38:15,809 - INFO - (Ctrl+C để dừng)
+2026-06-30 10:08:15,846 - INFO - 
+============================================================
+2026-06-30 10:08:15,861 - INFO - LẦN CHẠY #2 | 10:08
+2026-06-30 10:08:15,884 - INFO - ============================================================
+2026-06-30 10:08:15,988 - INFO - File output: fb_posts_20260630_1008.json
+2026-06-30 10:08:15,993 - INFO - Email đã lấy từ trước: 10
+2026-06-30 10:08:24,289 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-06-30 10:08:46,745 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 10:08:49,837 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 10:08:49,858 - INFO -   Scroll 1/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-30 10:09:01,179 - INFO -   Scroll 2/5 - Thấy 9 bài, tiềm năng: 7
+2026-06-30 10:09:10,836 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 7
+2026-06-30 10:09:20,917 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 7
+2026-06-30 10:09:30,507 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 7
+2026-06-30 10:09:30,512 - INFO -   Lọc sơ bộ: 7/9 bài có từ khóa tuyển dụng
+2026-06-30 10:09:30,519 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 10:09:30,525 - INFO -   [1/7] Đang xử lý...
+2026-06-30 10:09:37,091 - INFO -   ✅ Email mới: hienltt@lighthuman.vn
+2026-06-30 10:09:37,599 - INFO -   [2/7] Đang xử lý...
+2026-06-30 10:09:45,926 - INFO -   ✅ Email mới: kieugiang10cv@gmail.com
+2026-06-30 10:09:46,440 - INFO -   [3/7] Đang xử lý...
+2026-06-30 10:09:53,145 - INFO -   ✅ Email mới: hr@instulink.edu.vn
+2026-06-30 10:09:53,667 - INFO -   [4/7] Đang xử lý...
+2026-06-30 10:10:01,388 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:10:01,414 - INFO -   [5/7] Đang xử lý...
+2026-06-30 10:10:12,926 - INFO -   Đã click 5 nút Xem thêm
+2026-06-30 10:10:17,327 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:10:17,335 - INFO -   [6/7] Đang xử lý...
+2026-06-30 10:10:23,385 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:10:23,392 - INFO -   [7/7] Đang xử lý...
+2026-06-30 10:10:30,810 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: hr@instulink.edu.vn)
+2026-06-30 10:10:30,818 - INFO -   Bỏ qua: 3 không có email, 1 email trùng
+2026-06-30 10:10:30,828 - INFO -   → Group tuyển dụng 1: 3 bài có email mới
+2026-06-30 10:10:33,853 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-06-30 10:10:46,138 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 10:10:47,757 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 10:10:47,775 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-06-30 10:10:51,591 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 10:10:51,686 - INFO -   Scroll 2/5 - Thấy 5 bài, tiềm năng: 3
+2026-06-30 10:11:05,256 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 7
+2026-06-30 10:11:16,158 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 7
+2026-06-30 10:11:26,254 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 7
+2026-06-30 10:11:26,264 - INFO -   Lọc sơ bộ: 7/9 bài có từ khóa tuyển dụng
+2026-06-30 10:11:26,267 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 10:11:26,268 - INFO -   [1/7] Đang xử lý...
+2026-06-30 10:11:37,475 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 10:11:39,346 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:11:39,349 - INFO -   [2/7] Đang xử lý...
+2026-06-30 10:11:49,038 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 10:11:51,858 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:11:51,866 - INFO -   [3/7] Đang xử lý...
+2026-06-30 10:11:58,265 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:11:58,272 - INFO -   [4/7] Đang xử lý...
+2026-06-30 10:12:08,754 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 10:12:12,398 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:12:12,413 - INFO -   [5/7] Đang xử lý...
+2026-06-30 10:12:32,275 - INFO -   Đã click 12 nút Xem thêm
+2026-06-30 10:12:35,886 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:12:35,890 - INFO -   [6/7] Đang xử lý...
+2026-06-30 10:12:46,030 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 10:12:48,208 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:12:48,211 - INFO -   [7/7] Đang xử lý...
+2026-06-30 10:12:57,113 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 10:13:00,821 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:13:00,823 - INFO -   Bỏ qua: 7 không có email, 0 email trùng
+2026-06-30 10:13:00,833 - INFO -   → Group tuyển dụng 2: 0 bài có email mới
+2026-06-30 10:13:03,849 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-06-30 10:13:15,931 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 10:13:18,327 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 10:13:18,337 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-06-30 10:13:27,889 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-06-30 10:13:37,268 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-06-30 10:13:46,785 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 2
+2026-06-30 10:13:56,164 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 2
+2026-06-30 10:13:56,169 - INFO -   Lọc sơ bộ: 2/4 bài có từ khóa tuyển dụng
+2026-06-30 10:13:56,173 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 10:13:56,190 - INFO -   [1/2] Đang xử lý...
+2026-06-30 10:14:06,170 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 10:14:12,457 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:14:12,473 - INFO -   [2/2] Đang xử lý...
+2026-06-30 10:14:52,547 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 10:15:02,113 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:15:02,153 - INFO -   Bỏ qua: 2 không có email, 0 email trùng
+2026-06-30 10:15:02,160 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-06-30 10:15:05,221 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-06-30 10:15:13,900 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 10:15:17,008 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 10:15:17,053 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 3
+2026-06-30 10:15:27,020 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-06-30 10:15:36,573 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-06-30 10:15:46,544 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-06-30 10:15:57,051 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-06-30 10:15:57,074 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-06-30 10:15:57,085 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 10:15:57,112 - INFO -   [1/3] Đang xử lý...
+2026-06-30 10:17:08,323 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 10:17:12,362 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:17:12,367 - INFO -   [2/3] Đang xử lý...
+2026-06-30 10:18:23,335 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 10:18:26,476 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:18:26,485 - INFO -   [3/3] Đang xử lý...
+2026-06-30 10:18:33,037 - INFO -   ✅ Email mới: job@artez.co
+2026-06-30 10:18:33,545 - INFO -   Bỏ qua: 2 không có email, 0 email trùng
+2026-06-30 10:18:33,562 - INFO -   → Group tuyển dụng 4: 1 bài có email mới
+2026-06-30 10:18:36,567 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-06-30 10:18:45,624 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 10:18:48,022 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 10:18:48,025 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 3
+2026-06-30 10:18:57,684 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-30 10:19:07,167 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-30 10:19:16,618 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-30 10:19:25,926 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 4
+2026-06-30 10:19:25,928 - INFO -   Lọc sơ bộ: 4/4 bài có từ khóa tuyển dụng
+2026-06-30 10:19:25,930 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 10:19:25,932 - INFO -   [1/4] Đang xử lý...
+2026-06-30 10:21:37,739 - INFO -   Đã click 4 nút Xem thêm
+2026-06-30 10:21:41,374 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:21:41,376 - INFO -   [2/4] Đang xử lý...
+2026-06-30 10:23:24,151 - INFO -   Đã click 5 nút Xem thêm
+2026-06-30 10:23:28,913 - INFO -   ✅ Email mới: manshon@esafe360.com
+2026-06-30 10:23:29,437 - INFO -   [3/4] Đang xử lý...
+2026-06-30 10:24:09,550 - INFO -   Đã click 3 nút Xem thêm
+2026-06-30 10:24:15,195 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 10:24:15,218 - INFO -   [4/4] Đang xử lý...
+2026-06-30 10:26:29,318 - INFO -   Đã click 6 nút Xem thêm
+2026-06-30 10:26:35,374 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: dungpt@lla.net.vn, huyenltt@amitech.vn)
+2026-06-30 10:26:35,384 - INFO -   Bỏ qua: 2 không có email, 1 email trùng
+2026-06-30 10:26:35,388 - INFO -   → Group tuyển dụng 5: 1 bài có email mới
+2026-06-30 10:26:38,622 - INFO - Đã lưu 5 bài → fb_posts_20260630_1008.json
+2026-06-30 10:26:38,625 - INFO - Đang upload Google Drive...
+2026-06-30 10:26:38,675 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-06-30 10:26:42,229 - INFO - Đã upload: fb_posts_20260630_1008.json
+2026-06-30 10:26:42,233 - INFO - Link: https://drive.google.com/file/d/17D9mA8T0QbdxwJFngRsg4WjHdso4l0vn/view?usp=drivesdk
+2026-06-30 10:26:42,238 - INFO - Xong lần #2: 5 bài mới | 1106s (18.4 phút)
+2026-06-30 10:26:42,244 - INFO - 
+Chờ 30 phút... Lần tiếp theo lúc 10:56
+2026-06-30 10:26:42,248 - INFO - (Ctrl+C để dừng)
+2026-06-30 14:41:08,992 - INFO - ============================================================
+2026-06-30 14:41:09,019 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-06-30 14:41:09,034 - INFO - Nhấn Ctrl+C để dừng
+2026-06-30 14:41:09,058 - INFO - ============================================================
+2026-06-30 14:41:09,124 - INFO - 
+============================================================
+2026-06-30 14:41:09,174 - INFO - LẦN CHẠY #1 | 14:41
+2026-06-30 14:41:09,203 - INFO - ============================================================
+2026-06-30 14:41:11,018 - INFO - File output: fb_posts_20260630_1441.json
+2026-06-30 14:41:11,037 - INFO - Email đã lấy từ trước: 0
+2026-06-30 14:41:19,829 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-06-30 14:41:37,841 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-06-30 14:41:41,019 - INFO -   ⚡ Load xong sau 1s
+2026-06-30 14:41:41,042 - INFO -   Scroll 1/5 - Thấy 6 bài, tiềm năng: 4
+2026-06-30 14:41:52,749 - INFO -   Scroll 2/5 - Thấy 11 bài, tiềm năng: 7
+2026-06-30 14:42:04,250 - INFO -   Scroll 3/5 - Thấy 11 bài, tiềm năng: 7
+2026-06-30 14:42:17,620 - INFO -   Scroll 4/5 - Thấy 11 bài, tiềm năng: 7
+2026-06-30 14:42:29,961 - INFO -   Scroll 5/5 - Thấy 11 bài, tiềm năng: 7
+2026-06-30 14:42:30,001 - INFO -   Lọc sơ bộ: 7/11 bài có từ khóa tuyển dụng
+2026-06-30 14:42:30,080 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-06-30 14:42:30,103 - INFO -   [1/7] Đang xử lý...
+2026-06-30 14:42:43,665 - INFO -   Đã click 5 nút Xem thêm
+2026-06-30 14:42:47,000 - INFO -   ✅ Email mới: hr@umedia.vn
+2026-06-30 14:42:47,516 - INFO -   [2/7] Đang xử lý...
+2026-06-30 14:42:53,712 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: hr@umedia.vn)
+2026-06-30 14:42:53,723 - INFO -   [3/7] Đang xử lý...
+2026-06-30 14:43:01,261 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 14:43:01,279 - INFO -   [4/7] Đang xử lý...
+2026-06-30 14:43:10,968 - INFO -   ✅ Email mới: ketoan@vsupchain.com
+2026-06-30 14:43:11,510 - INFO -   [5/7] Đang xử lý...
+2026-06-30 14:44:26,356 - INFO -   Đã click 6 nút Xem thêm
+2026-06-30 14:44:38,665 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 14:44:38,675 - INFO -   [6/7] Đang xử lý...
+2026-06-30 14:44:45,690 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 14:44:45,696 - INFO -   [7/7] Đang xử lý...
+2026-06-30 14:44:50,340 - INFO -   ⏭ Bỏ qua (không có email)
+2026-06-30 14:44:50,354 - INFO -   Bỏ qua: 4 không có email, 1 email trùng
+2026-06-30 14:44:50,367 - INFO -   → Group tuyển dụng 1: 2 bài có email mới
+2026-06-30 14:44:53,384 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-06-30 14:45:00,753 - ERROR - Lỗi group Group tuyển dụng 2: Page.content: Target crashed 
+2026-06-30 14:45:00,759 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-06-30 14:45:00,811 - ERROR - Lỗi group Group tuyển dụng 3: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.facebook.com/groups/334085046061658", waiting until "networkidle"
+
+2026-06-30 14:45:00,816 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-06-30 14:45:00,842 - ERROR - Lỗi group Group tuyển dụng 4: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.facebook.com/groups/1190634981870080/", waiting until "networkidle"
+
+2026-06-30 14:45:00,860 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-06-30 14:45:00,908 - ERROR - Lỗi group Group tuyển dụng 5: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.facebook.com/groups/445083081399121", waiting until "networkidle"
+

@@ -1,0 +1,109 @@
+2026-04-14 08:55:13,462 - INFO - ============================================================
+2026-04-14 08:55:13,462 - INFO - FB GROUP SCRAPER (NO LOGIN)
+2026-04-14 08:55:13,462 - INFO - Thời gian: 2026-04-14 08:55:13
+2026-04-14 08:55:13,463 - INFO - ============================================================
+2026-04-14 08:55:13,538 - INFO - Sẽ cào 5 groups (KHÔNG đăng nhập)
+2026-04-14 08:55:14,804 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-14 08:55:14,804 - INFO - URL: https://www.facebook.com/groups/818173552972432
+2026-04-14 08:56:35,413 - INFO -   Scroll 1/15 - Đã lấy 3 bài
+2026-04-14 08:57:40,488 - INFO -   Scroll 2/15 - Đã lấy 3 bài
+2026-04-14 08:58:45,554 - INFO -   Scroll 3/15 - Đã lấy 3 bài
+2026-04-14 08:59:50,621 - INFO -   Scroll 4/15 - Đã lấy 3 bài
+2026-04-14 09:00:55,703 - INFO -   Scroll 5/15 - Đã lấy 3 bài
+2026-04-14 09:02:00,768 - INFO -   Scroll 6/15 - Đã lấy 3 bài
+2026-04-14 09:03:05,815 - INFO -   Scroll 7/15 - Đã lấy 3 bài
+2026-04-14 09:04:10,889 - INFO -   Scroll 8/15 - Đã lấy 3 bài
+2026-04-14 09:05:15,957 - INFO -   Scroll 9/15 - Đã lấy 3 bài
+2026-04-14 09:06:21,022 - INFO -   Scroll 10/15 - Đã lấy 3 bài
+2026-04-14 09:07:26,091 - INFO -   Scroll 11/15 - Đã lấy 3 bài
+2026-04-14 09:08:31,156 - INFO -   Scroll 12/15 - Đã lấy 3 bài
+2026-04-14 09:09:36,219 - INFO -   Scroll 13/15 - Đã lấy 3 bài
+2026-04-14 09:10:41,315 - INFO -   Scroll 14/15 - Đã lấy 3 bài
+2026-04-14 09:11:46,399 - INFO -   Scroll 15/15 - Đã lấy 3 bài
+2026-04-14 09:11:46,400 - INFO -   → Lấy được 3 bài từ Group tuyển dụng 1
+2026-04-14 09:11:51,403 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-14 09:11:51,404 - INFO - URL: https://www.facebook.com/groups/timvieclamhanoi0
+2026-04-14 09:13:08,543 - INFO -   Scroll 1/15 - Đã lấy 3 bài
+2026-04-14 09:14:13,599 - INFO -   Scroll 2/15 - Đã lấy 3 bài
+2026-04-14 09:15:18,673 - INFO -   Scroll 3/15 - Đã lấy 3 bài
+2026-04-14 09:16:23,735 - INFO -   Scroll 4/15 - Đã lấy 3 bài
+2026-04-14 09:17:28,795 - INFO -   Scroll 5/15 - Đã lấy 3 bài
+2026-04-14 09:18:33,900 - INFO -   Scroll 6/15 - Đã lấy 3 bài
+2026-04-14 09:19:38,961 - INFO -   Scroll 7/15 - Đã lấy 3 bài
+2026-04-14 09:20:44,034 - INFO -   Scroll 8/15 - Đã lấy 3 bài
+2026-04-14 09:21:49,093 - INFO -   Scroll 9/15 - Đã lấy 3 bài
+2026-04-14 09:22:54,172 - INFO -   Scroll 10/15 - Đã lấy 3 bài
+2026-04-14 09:23:59,250 - INFO -   Scroll 11/15 - Đã lấy 3 bài
+2026-04-14 09:25:04,321 - INFO -   Scroll 12/15 - Đã lấy 3 bài
+2026-04-14 09:26:09,388 - INFO -   Scroll 13/15 - Đã lấy 3 bài
+2026-04-14 09:27:14,445 - INFO -   Scroll 14/15 - Đã lấy 3 bài
+2026-04-14 09:28:19,498 - INFO -   Scroll 15/15 - Đã lấy 3 bài
+2026-04-14 09:28:19,498 - INFO -   → Lấy được 3 bài từ Group tuyển dụng 2
+2026-04-14 09:28:24,498 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-14 09:28:24,498 - INFO - URL: https://www.facebook.com/groups/469383163393248
+2026-04-14 09:29:07,137 - INFO -   Scroll 1/15 - Đã lấy 1 bài
+2026-04-14 09:29:42,164 - INFO -   Scroll 2/15 - Đã lấy 1 bài
+2026-04-14 09:30:17,189 - INFO -   Scroll 3/15 - Đã lấy 1 bài
+2026-04-14 09:30:52,234 - INFO -   Scroll 4/15 - Đã lấy 2 bài
+2026-04-14 09:31:27,267 - INFO -   Scroll 5/15 - Đã lấy 2 bài
+2026-04-14 09:32:02,316 - INFO -   Scroll 6/15 - Đã lấy 3 bài
+2026-04-14 09:32:37,364 - INFO -   Scroll 7/15 - Đã lấy 4 bài
+2026-04-14 09:33:12,412 - INFO -   Scroll 8/15 - Đã lấy 4 bài
+2026-04-14 09:33:47,457 - INFO -   Scroll 9/15 - Đã lấy 5 bài
+2026-04-14 09:34:22,499 - INFO -   Scroll 10/15 - Đã lấy 5 bài
+2026-04-14 09:34:57,551 - INFO -   Scroll 11/15 - Đã lấy 6 bài
+2026-04-14 09:35:32,591 - INFO -   Scroll 12/15 - Đã lấy 7 bài
+2026-04-14 09:36:07,625 - INFO -   Scroll 13/15 - Đã lấy 7 bài
+2026-04-14 09:36:42,666 - INFO -   Scroll 14/15 - Đã lấy 8 bài
+2026-04-14 09:37:17,695 - INFO -   Scroll 15/15 - Đã lấy 8 bài
+2026-04-14 09:37:17,696 - INFO -   → Lấy được 8 bài từ Group tuyển dụng 3
+2026-04-14 09:37:22,707 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-14 09:37:22,707 - INFO - URL: https://www.facebook.com/groups/1415057285819366
+2026-04-14 09:39:05,245 - INFO -   Scroll 1/15 - Đã lấy 1 bài
+2026-04-14 09:40:40,331 - INFO -   Scroll 2/15 - Đã lấy 2 bài
+2026-04-14 09:42:15,396 - INFO -   Scroll 3/15 - Đã lấy 3 bài
+2026-04-14 09:43:50,469 - INFO -   Scroll 4/15 - Đã lấy 4 bài
+2026-04-14 09:45:25,551 - INFO -   Scroll 5/15 - Đã lấy 5 bài
+2026-04-14 09:47:00,615 - INFO -   Scroll 6/15 - Đã lấy 6 bài
+2026-04-14 09:48:35,679 - INFO -   Scroll 7/15 - Đã lấy 7 bài
+2026-04-14 09:50:10,753 - INFO -   Scroll 8/15 - Đã lấy 8 bài
+2026-04-14 09:51:45,824 - INFO -   Scroll 9/15 - Đã lấy 9 bài
+2026-04-14 09:53:20,885 - INFO -   Scroll 10/15 - Đã lấy 10 bài
+2026-04-14 09:54:55,948 - INFO -   Scroll 11/15 - Đã lấy 11 bài
+2026-04-14 09:56:31,031 - INFO -   Scroll 12/15 - Đã lấy 12 bài
+2026-04-14 09:58:06,113 - INFO -   Scroll 13/15 - Đã lấy 13 bài
+2026-04-14 09:59:41,199 - INFO -   Scroll 14/15 - Đã lấy 14 bài
+2026-04-14 10:01:16,258 - INFO -   Scroll 15/15 - Đã lấy 15 bài
+2026-04-14 10:01:16,258 - INFO -   → Lấy được 15 bài từ Group tuyển dụng 4
+2026-04-14 10:01:21,266 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-14 10:01:21,267 - INFO - URL: https://www.facebook.com/groups/239507464916811
+2026-04-14 10:02:33,926 - INFO -   Scroll 1/15 - Đã lấy 1 bài
+2026-04-14 10:03:39,004 - INFO -   Scroll 2/15 - Đã lấy 2 bài
+2026-04-14 10:04:44,066 - INFO -   Scroll 3/15 - Đã lấy 2 bài
+2026-04-14 10:05:49,125 - INFO -   Scroll 4/15 - Đã lấy 2 bài
+2026-04-14 10:06:54,165 - INFO -   Scroll 5/15 - Đã lấy 2 bài
+2026-04-14 10:07:59,222 - INFO -   Scroll 6/15 - Đã lấy 2 bài
+2026-04-14 10:09:04,278 - INFO -   Scroll 7/15 - Đã lấy 2 bài
+2026-04-14 10:10:09,342 - INFO -   Scroll 8/15 - Đã lấy 2 bài
+2026-04-14 10:11:14,410 - INFO -   Scroll 9/15 - Đã lấy 2 bài
+2026-04-14 10:12:19,475 - INFO -   Scroll 10/15 - Đã lấy 2 bài
+2026-04-14 10:13:24,535 - INFO -   Scroll 11/15 - Đã lấy 2 bài
+2026-04-14 10:14:29,574 - INFO -   Scroll 12/15 - Đã lấy 2 bài
+2026-04-14 10:15:34,641 - INFO -   Scroll 13/15 - Đã lấy 2 bài
+2026-04-14 10:16:39,711 - INFO -   Scroll 14/15 - Đã lấy 2 bài
+2026-04-14 10:17:44,772 - INFO -   Scroll 15/15 - Đã lấy 2 bài
+2026-04-14 10:17:44,772 - INFO -   → Lấy được 2 bài từ Group tuyển dụng 5
+2026-04-14 10:17:49,895 - INFO - 
+=== KẾT QUẢ ===
+2026-04-14 10:17:49,895 - INFO - Tổng: 31 bài post từ 5 groups
+2026-04-14 10:17:49,895 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-14 10:17:49,896 - INFO - 
+Thời gian cào: 4956 giây (82.6 phút)
+2026-04-14 10:17:49,896 - INFO - 
+Đang upload lên Google Drive...
+2026-04-14 10:17:53,624 - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=178266154742-fhtuabjrthsigs3k1o79nb6hdclbolkp.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A54149%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=gCSVTh9I3nLKj1stweINqHVn5qhuyf&code_challenge=IKGJJ5qiWiXi34RCFrgKAlUyeO6OrpPEWbSJeLIgz5s&code_challenge_method=S256&access_type=offline

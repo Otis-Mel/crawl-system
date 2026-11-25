@@ -1,0 +1,11 @@
+2026-04-13 16:39:29,360 - INFO - ============================================================
+2026-04-13 16:39:29,360 - INFO - FB GROUP SCRAPER - Bắt đầu
+2026-04-13 16:39:29,360 - INFO - Thời gian: 2026-04-13 16:39:29
+2026-04-13 16:39:29,360 - INFO - ============================================================
+2026-04-13 16:39:29,361 - INFO - Đã tạo file C:\fb_scraper\groups.json
+2026-04-13 16:39:29,361 - INFO - >>> MỞ FILE groups.json VÀ THAY URL_GROUP BẰNG LINK GROUP THẬT <<<
+2026-04-13 16:39:29,362 - INFO - 
+Đã tạo file groups.json mẫu.
+2026-04-13 16:39:29,362 - INFO - Mở file C:\fb_scraper\groups.json
+2026-04-13 16:39:29,362 - INFO - Thay URL_GROUP_1, URL_GROUP_2... bằng link group Facebook thật.
+2026-04-13 16:39:29,362 - INFO - Sau đó chạy lại script.

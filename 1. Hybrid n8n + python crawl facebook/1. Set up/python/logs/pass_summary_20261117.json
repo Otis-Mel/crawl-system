@@ -1,0 +1,221 @@
+[
+ {
+  "luot": 1,
+  "bat_dau": "2026-11-17 09:00",
+  "ket_thuc": "09:26",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 50,
+  "group_loi": [],
+  "bo_qua_gio": 0,
+  "dong_ghi": 54,
+  "lead_moi": 48,
+  "bo_sung": 6,
+  "trung_bo": 52
+ },
+ {
+  "luot": 2,
+  "bat_dau": "2026-11-17 12:00",
+  "ket_thuc": "12:38",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 33,
+  "group_loi": [
+   [
+    1,
+    "Group tuyển dụng 4"
+   ],
+   [
+    1,
+    "Việc Làm Phổ Yên - Thái Nguyên"
+   ],
+   [
+    1,
+    "Việc Làm Hà Đông - Hà Nội"
+   ],
+   [
+    1,
+    "Việc làm Long Biên - Gia Lâm - Đông Anh"
+   ],
+   [
+    2,
+    "Group tuyển dụng 1"
+   ],
+   [
+    2,
+    "Group tuyển dụng 5"
+   ],
+   [
+    2,
+    "TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS"
+   ],
+   [
+    2,
+    "Việc Làm Đồng Hới - Quảng Bình"
+   ],
+   [
+    2,
+    "Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️"
+   ],
+   [
+    3,
+    "Tìm việc làm tại TP.HCM ✅"
+   ],
+   [
+    3,
+    "Việc Làm Long An"
+   ],
+   [
+    3,
+    "TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅"
+   ],
+   [
+    4,
+    "Việc Làm BMT - Đắk Lắk"
+   ],
+   [
+    4,
+    "Group tuyển dụng 3"
+   ],
+   [
+    4,
+    "Việc Làm Hải Dương"
+   ],
+   [
+    4,
+    "Việc Làm Phú Mỹ - BRVT"
+   ],
+   [
+    4,
+    "Việc làm Chăm sóc Khách hàng"
+   ]
+  ],
+  "bo_qua_gio": 0,
+  "dong_ghi": 28,
+  "lead_moi": 26,
+  "bo_sung": 2,
+  "trung_bo": 49
+ },
+ {
+  "luot": 3,
+  "bat_dau": "2026-11-17 15:00",
+  "ket_thuc": "15:58",
+  "so_phan": 4,
+  "phan_hong": 0,
+  "group_tong": 50,
+  "group_xong": 24,
+  "group_loi": [
+   [
+    1,
+    "Việc Làm Đồng Hới - Quảng Bình"
+   ],
+   [
+    1,
+    "Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️"
+   ],
+   [
+    1,
+    "Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội"
+   ],
+   [
+    1,
+    "VIỆC LÀM SALES & MARKETING"
+   ],
+   [
+    1,
+    "Việc Làm Phủ Lý - Hà Nam"
+   ],
+   [
+    1,
+    "Việc Làm Bỉm Sơn - Thanh Hóa"
+   ],
+   [
+    2,
+    "TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅"
+   ],
+   [
+    2,
+    "TUYỂN DỤNG KẾ TOÁN"
+   ],
+   [
+    2,
+    "Việc Làm BMT Đắk Lắk"
+   ],
+   [
+    2,
+    "Việc Làm Sinh Viên TP.HCM"
+   ],
+   [
+    2,
+    "TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA"
+   ],
+   [
+    3,
+    "Group tuyển dụng 3"
+   ],
+   [
+    3,
+    "Việc Làm Hải Dương"
+   ],
+   [
+    3,
+    "Việc Làm Phú Mỹ - BRVT"
+   ],
+   [
+    3,
+    "Việc làm Chăm sóc Khách hàng"
+   ],
+   [
+    3,
+    "Việc Làm TP.HCM"
+   ],
+   [
+    3,
+    "Việc Làm Tiếng Anh"
+   ],
+   [
+    3,
+    "Việc Làm Phan Rang - Tháp Chàm - Ninh Thuận"
+   ],
+   [
+    3,
+    "Việc Làm Sông Công - Thái Nguyên"
+   ],
+   [
+    4,
+    "Việc Làm Phổ Yên - Thái Nguyên"
+   ],
+   [
+    4,
+    "Việc Làm Hà Đông - Hà Nội"
+   ],
+   [
+    4,
+    "Việc làm Long Biên - Gia Lâm - Đông Anh"
+   ],
+   [
+    4,
+    "TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI"
+   ],
+   [
+    4,
+    "HỘI VIỆC LÀM TIẾNG TRUNG"
+   ],
+   [
+    4,
+    "NGHIỆP VỤ XUẤT NHẬP KHẨU - LOGISTICS"
+   ],
+   [
+    4,
+    "Việc Làm Đông Triều - Quảng Ninh"
+   ]
+  ],
+  "bo_qua_gio": 0,
+  "dong_ghi": 31,
+  "lead_moi": 26,
+  "bo_sung": 5,
+  "trung_bo": 29
+ }
+]

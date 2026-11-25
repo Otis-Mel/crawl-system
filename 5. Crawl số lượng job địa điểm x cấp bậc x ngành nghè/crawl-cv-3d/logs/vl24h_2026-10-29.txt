@@ -1,0 +1,33 @@
+
+============================================================
+  Vieclam24h CV Crawler — 2026-10-29 23:44 [FULL]
+============================================================
+
+[1/3] Kiểm tra session...
+[vl24h/auth] OK (Bearer token) — toàn quốc: 4,233,516 ứng viên
+
+[2/3] Lấy danh sách ngành, địa điểm, kinh nghiệm...
+[vl24h/mappings] Ngành nghề: 53
+[vl24h/mappings] Địa điểm: 63
+[vl24h/mappings] Kinh nghiệm: 8 mức
+      53 ngành — 63 địa điểm — 8 mức kinh nghiệm
+      ~3339 cặp (Ngành × ĐĐ), ước tính ~139 phút
+
+[3/3] Bắt đầu crawl (checkpoint mỗi 200 hàng)...
+
+[vl24h] Crawl VL24h (53 Ngành × 63 ĐĐ × 8 KN)...
+  [1/3339] Hành chính - Thư ký × Hà Nội: probe=190185 → 190,170
+  [2/3339] Hành chính - Thư ký × TP.HCM: probe=239138 → 239,097
+  [3/3339] Hành chính - Thư ký × An Giang: probe=3702 → 3,701
+  [4/3339] Hành chính - Thư ký × Bà Rịa - Vũng Tàu: probe=7752 → 7,751
+  [5/3339] Hành chính - Thư ký × Bắc Giang: probe=5003 → 5,003
+  [6/3339] Hành chính - Thư ký × Bắc Kạn: probe=283 → 283
+  [7/3339] Hành chính - Thư ký × Bạc Liêu: probe=1230 → 1,230
+  [8/3339] Hành chính - Thư ký × Bắc Ninh: probe=9837 → 9,836
+  [9/3339] Hành chính - Thư ký × Bến Tre: probe=2236 → 2,236
+  [10/3339] Hành chính - Thư ký × Bình Dương: probe=34987 → 34,983
+  [11/3339] Hành chính - Thư ký × Bình Phước: probe=2044 → 2,043
+  [12/3339] Hành chính - Thư ký × Bình Thuận: probe=2335 → 2,335
+  [13/3339] Hành chính - Thư ký × Bình Định: probe=3884 → 3,884
+  [14/3339] Hành chính - Thư ký × Cà Mau: probe=1771 → 1,770
+  [15/3339] Hành chính - Thư ký × Cần Thơ: probe=9080 → 9,077

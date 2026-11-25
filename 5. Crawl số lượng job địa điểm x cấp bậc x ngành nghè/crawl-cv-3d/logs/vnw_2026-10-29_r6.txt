@@ -1,0 +1,25 @@
+
+============================================================
+  VietnamWorks CV Crawler — 2026-10-30 13:34
+============================================================
+
+[1/3] Kiểm tra session...
+[vnw/auth] Cookie hợp lệ.
+
+[2/3] Lấy danh sách lĩnh vực, ngành, địa điểm, cấp bậc...
+[vnw/mappings] Lĩnh vực: 49 industries (V3)
+[vnw/mappings] Ngành nghề: 159 job-functions (V3)
+[vnw/mappings] Địa điểm: 66 cities
+      49 lĩnh vực — 159 ngành — 66 địa điểm — 4 cấp bậc
+      ~13728 cặp tổng, ước tính ~274 phút
+
+[3/3] Bắt đầu crawl (checkpoint mỗi 200 hàng)...
+
+[vnw] Crawl VietnamWorks_LV (49 LV × 66 ĐĐ)...
+[vnw] VietnamWorks_LV resume: đã có 3234 cặp — skip
+
+[vnw] Crawl VietnamWorks_Ngành (159 Ngành × 66 ĐĐ)...
+[vnw] VietnamWorks_Ngành resume: đã có 10428 cặp — skip
+
+  Hoàn thành trong 0 phút.
+============================================================

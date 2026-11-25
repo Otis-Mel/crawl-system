@@ -1,0 +1,28 @@
+2026-04-15 09:57:27,840 - INFO - ============================================================
+2026-04-15 09:57:27,840 - INFO - FB GROUP SCRAPER (NO LOGIN)
+2026-04-15 09:57:27,841 - INFO - Thời gian: 2026-04-15 09:57:27
+2026-04-15 09:57:27,841 - INFO - ============================================================
+2026-04-15 09:57:27,888 - INFO - Sẽ cào 1 groups (KHÔNG đăng nhập)
+2026-04-15 09:57:28,333 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 09:57:28,334 - INFO - URL: https://www.facebook.com/groups/818173552972432
+2026-04-15 10:13:28,580 - INFO -   Đã click 1 nút Xem thêm
+2026-04-15 10:13:34,047 - INFO -   Scroll 1/3 - Đã lấy 20 bài
+2026-04-15 10:13:34,047 - INFO -   Đã đủ 20 bài
+2026-04-15 10:13:34,048 - INFO -   → Lấy được 20 bài từ Group tuyển dụng 1
+2026-04-15 10:13:39,151 - INFO - 
+=== KẾT QUẢ ===
+2026-04-15 10:13:39,151 - INFO - Tổng: 20 bài post từ 1 groups
+2026-04-15 10:13:39,152 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-15 10:13:39,152 - INFO - 
+Thời gian cào: 971 giây (16.2 phút)
+2026-04-15 10:13:39,152 - INFO - 
+Đang upload lên Google Drive...
+2026-04-15 10:13:39,599 - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=178266154742-0cjmc08kfhk1nvo3abukm5tlv2kq8kpn.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=e615x06oEDbbe72PT2N00nW8HmiSAi&code_challenge=e_hC4utPUD5JkPDVAiIq57AE3a38tJhL-lFdeW_9X7A&code_challenge_method=S256&access_type=offline
+2026-04-15 10:13:47,436 - INFO - "GET /?state=e615x06oEDbbe72PT2N00nW8HmiSAi&iss=https://accounts.google.com&code=4/0Aci98E-DVnv_g5_uWwqFf_kEOt6MneVFOKutQdlqj3uBHt8eFuYvpkn7FkPv1Occ5eD8WQ&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2026-04-15 10:13:47,943 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 10:13:50,114 - INFO - Đã tạo folder 'fb_scraper_data' trên Google Drive
+2026-04-15 10:13:52,736 - INFO - Đã upload: fb_posts_20260415.json
+2026-04-15 10:13:52,736 - INFO - Link: https://drive.google.com/file/d/1Z_whOJBt7s_wwHxSXcQTiBCYXX0nytj4/view?usp=drivesdk
+2026-04-15 10:13:52,737 - INFO - 
+=== HOÀN TẤT ===

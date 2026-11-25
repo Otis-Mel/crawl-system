@@ -1,0 +1,2455 @@
+2026-10-30 10:11:25,667 - INFO - ============================================================
+2026-10-30 10:11:25,667 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 10:11:25,667 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 10:11:25,667 - INFO - ============================================================
+2026-10-30 10:11:25,680 - INFO - Email đã có trong CSV: 3
+2026-10-30 10:11:25,680 - INFO - 
+============================================================
+2026-10-30 10:11:25,680 - INFO - LẦN CHẠY #1 | 10:11
+2026-10-30 10:11:25,680 - INFO - ============================================================
+2026-10-30 10:11:25,796 - INFO - File output: fb_posts_20261030_1011.json
+2026-10-30 10:11:25,796 - INFO - Email đã lấy từ trước: 3
+2026-10-30 10:11:27,177 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-10-30 10:11:40,356 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:11:43,472 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:11:43,473 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 10:11:44,527 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:11:44,528 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 10:11:46,630 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:11:46,630 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 10:11:54,874 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 10:12:03,137 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 10:12:03,137 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-10-30 10:12:03,137 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:12:03,137 - INFO -   [1/4] Đang xử lý...
+2026-10-30 10:12:12,954 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:12:13,221 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:12:13,221 - INFO -   [2/4] Đang xử lý...
+2026-10-30 10:12:18,724 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:12:18,724 - INFO -   [3/4] Đang xử lý...
+2026-10-30 10:12:24,228 - INFO -   ✅ Email mới: shuixian.hr.22@gmail.com
+2026-10-30 10:12:24,743 - INFO -   [4/4] Đang xử lý...
+2026-10-30 10:12:32,351 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 10:12:32,459 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:12:32,459 - INFO -   Bỏ qua: 3 không có email, 0 email trùng
+2026-10-30 10:12:32,937 - INFO -   → Group tuyển dụng 1: 1 bài có email mới
+2026-10-30 10:12:36,353 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-10-30 10:12:47,478 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:12:49,608 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:12:49,608 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 10:12:51,674 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:12:51,674 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 10:12:53,843 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:12:53,843 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 7
+2026-10-30 10:12:54,967 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:12:54,967 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 8
+2026-10-30 10:12:56,118 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:12:56,119 - INFO -   Scroll 5/5 - Thấy 13 bài, tiềm năng: 10
+2026-10-30 10:12:56,119 - INFO -   Lọc sơ bộ: 10/13 bài có từ khóa tuyển dụng
+2026-10-30 10:12:56,119 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:12:56,119 - INFO -   [1/10] Đang xử lý...
+2026-10-30 10:13:01,804 - INFO -   ✅ Email mới: haliousbeauty@gmail.com
+2026-10-30 10:13:02,317 - INFO -   [2/10] Đang xử lý...
+2026-10-30 10:13:07,827 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: haliousbeauty@gmail.com)
+2026-10-30 10:13:07,827 - INFO -   [3/10] Đang xử lý...
+2026-10-30 10:13:12,572 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:13:12,572 - INFO -   [4/10] Đang xử lý...
+2026-10-30 10:13:17,161 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: haliousbeauty@gmail.com)
+2026-10-30 10:13:17,161 - INFO -   [5/10] Đang xử lý...
+2026-10-30 10:13:22,795 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:13:22,795 - INFO -   [6/10] Đang xử lý...
+2026-10-30 10:13:28,217 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:13:28,217 - INFO -   [7/10] Đang xử lý...
+2026-10-30 10:13:32,918 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:13:32,918 - INFO -   [8/10] Đang xử lý...
+2026-10-30 10:13:38,589 - INFO -   ✅ Email mới: phongnhansu.tamlongthienphu@gmail.com
+2026-10-30 10:13:39,103 - INFO -   [9/10] Đang xử lý...
+2026-10-30 10:13:44,780 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:13:44,780 - INFO -   [10/10] Đang xử lý...
+2026-10-30 10:13:50,418 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:13:50,418 - INFO -   Bỏ qua: 6 không có email, 2 email trùng
+2026-10-30 10:13:50,875 - INFO -   → Group tuyển dụng 2: 2 bài có email mới
+2026-10-30 10:13:54,249 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-10-30 10:14:06,395 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:14:09,493 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:14:09,493 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 10:14:10,543 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:14:10,544 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 10:14:11,607 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:14:11,607 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 10:14:12,692 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:14:12,692 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 10:14:13,778 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:14:13,778 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-10-30 10:14:13,778 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-10-30 10:14:13,778 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:14:13,778 - INFO -   [1/3] Đang xử lý...
+2026-10-30 10:14:20,373 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:14:20,373 - INFO -   [2/3] Đang xử lý...
+2026-10-30 10:14:25,913 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:14:25,913 - INFO -   [3/3] Đang xử lý...
+2026-10-30 10:14:31,321 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: careers@supership.vn)
+2026-10-30 10:14:31,322 - INFO -   Bỏ qua: 2 không có email, 1 email trùng
+2026-10-30 10:14:31,777 - INFO -   → Group tuyển dụng 3: 0 bài có email mới
+2026-10-30 10:14:35,214 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 10:14:47,371 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:14:50,479 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:14:50,479 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 10:14:51,557 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:14:51,558 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 10:14:53,682 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:14:53,682 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 10:15:02,057 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 10:15:10,499 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 10:15:10,499 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-10-30 10:15:10,500 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:15:10,500 - INFO -   [1/4] Đang xử lý...
+2026-10-30 10:15:19,306 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:15:19,680 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:15:19,680 - INFO -   [2/4] Đang xử lý...
+2026-10-30 10:15:28,044 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:15:28,453 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:15:28,453 - INFO -   [3/4] Đang xử lý...
+2026-10-30 10:15:33,102 - INFO -   ✅ Email mới: ketoan.phuctuonggold@gmail.com
+2026-10-30 10:15:33,607 - INFO -   [4/4] Đang xử lý...
+2026-10-30 10:15:42,654 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 10:15:43,171 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:15:43,171 - INFO -   Bỏ qua: 3 không có email, 0 email trùng
+2026-10-30 10:15:43,751 - INFO -   → Group tuyển dụng 4: 1 bài có email mới
+2026-10-30 10:15:47,230 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-10-30 10:16:00,471 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:16:03,587 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:16:03,588 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 10:16:05,814 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:16:05,815 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 10:16:14,228 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 10:16:22,546 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 10:16:30,834 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 10:16:30,834 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-10-30 10:16:30,834 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:16:30,834 - INFO -   [1/6] Đang xử lý...
+2026-10-30 10:16:36,547 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:16:36,548 - INFO -   [2/6] Đang xử lý...
+2026-10-30 10:16:42,898 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 10:16:43,099 - INFO -   ✅ Email mới: pnhansu@phuongnammed.com
+2026-10-30 10:16:43,604 - INFO -   [3/6] Đang xử lý...
+2026-10-30 10:17:51,448 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 10:17:51,656 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:17:51,656 - INFO -   [4/6] Đang xử lý...
+2026-10-30 10:17:59,031 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 10:17:59,396 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:17:59,397 - INFO -   [5/6] Đang xử lý...
+2026-10-30 10:18:04,973 - INFO -   ⏭ Bỏ qua (không có email)
+2026-10-30 10:18:04,973 - INFO -   [6/6] Đang xử lý...
+2026-10-30 10:18:13,696 - INFO -   ⏭ Bỏ qua (email đã lấy trước đó: taxis.com@gmail.com)
+2026-10-30 10:18:13,696 - INFO -   Bỏ qua: 4 không có email, 1 email trùng
+2026-10-30 10:18:14,198 - INFO -   → Group tuyển dụng 5: 1 bài có email mới
+2026-10-30 10:18:17,227 - INFO - Đã lưu 5 bài → fb_posts_20261030_1011.json
+2026-10-30 10:18:17,789 - INFO - Đã xuất 5 dòng mới → D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\fb_leads\fb_leads_20261030_1011.csv
+2026-10-30 10:18:17,789 - INFO - Xong lần #1: 5 bài mới | 412s (6.9 phút)
+2026-10-30 10:29:19,270 - INFO - ============================================================
+2026-10-30 10:29:19,271 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 10:29:19,271 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 10:29:19,271 - INFO - ============================================================
+2026-10-30 10:29:19,272 - INFO - Email đã có trong CSV: 8
+2026-10-30 10:29:19,272 - INFO - 
+============================================================
+2026-10-30 10:29:19,272 - INFO - LẦN CHẠY #1 | 10:29
+2026-10-30 10:29:19,273 - INFO - ============================================================
+2026-10-30 10:29:19,365 - INFO - File output: fb_posts_20261030_1029.json
+2026-10-30 10:29:19,365 - INFO - Email đã lấy từ trước: 8
+2026-10-30 10:29:20,065 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-10-30 10:29:32,201 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:29:35,314 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:29:35,314 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 10:29:36,420 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:29:36,421 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 10:29:37,556 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:29:37,557 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 10:29:39,714 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:29:39,715 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 10:29:40,913 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:29:40,913 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 6
+2026-10-30 10:29:40,913 - INFO -   Lọc sơ bộ: 6/8 bài có từ khóa tuyển dụng
+2026-10-30 10:29:40,913 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:29:40,914 - INFO -   [1/6] Đang xử lý...
+2026-10-30 10:29:46,914 - INFO -   ✅ Liên hệ mới: danhtramanh3@gmail.com
+2026-10-30 10:29:47,422 - INFO -   [2/6] Đang xử lý...
+2026-10-30 10:29:53,131 - INFO -   ✅ Liên hệ mới: 0848853992
+2026-10-30 10:29:53,641 - INFO -   [3/6] Đang xử lý...
+2026-10-30 10:30:01,613 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:30:01,871 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 10:30:01,871 - INFO -   [4/6] Đang xử lý...
+2026-10-30 10:30:07,475 - INFO -   ✅ Liên hệ mới: 0973791344
+2026-10-30 10:30:07,977 - INFO -   [5/6] Đang xử lý...
+2026-10-30 10:30:13,334 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: shuixian.hr.22@gmail.com)
+2026-10-30 10:30:13,335 - INFO -   [6/6] Đang xử lý...
+2026-10-30 10:30:19,648 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 10:30:19,770 - INFO -   ✅ Liên hệ mới: 0707262858
+2026-10-30 10:30:20,274 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 10:30:20,761 - INFO -   → Group tuyển dụng 1: 4 bài có liên hệ mới
+2026-10-30 10:30:24,221 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-10-30 10:30:36,354 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:30:39,434 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:30:39,434 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 10:30:41,560 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:30:41,560 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 10:30:49,821 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 10:30:58,062 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 10:31:06,282 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 10:31:06,282 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-10-30 10:31:06,282 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:31:06,282 - INFO -   [1/4] Đang xử lý...
+2026-10-30 10:31:12,056 - INFO -   ✅ Liên hệ mới: 0779385494
+2026-10-30 10:31:12,568 - INFO -   [2/4] Đang xử lý...
+2026-10-30 10:31:18,039 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: haliousbeauty@gmail.com)
+2026-10-30 10:31:18,039 - INFO -   [3/4] Đang xử lý...
+2026-10-30 10:31:23,448 - INFO -   ✅ Liên hệ mới: 0564553989
+2026-10-30 10:31:23,960 - INFO -   [4/4] Đang xử lý...
+2026-10-30 10:31:28,676 - INFO -   ✅ Liên hệ mới: 0917181951
+2026-10-30 10:31:29,184 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 10:31:29,554 - INFO -   → Group tuyển dụng 2: 3 bài có liên hệ mới
+2026-10-30 10:31:33,045 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-10-30 10:31:45,213 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:31:48,303 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:31:48,303 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 10:31:50,369 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:31:50,369 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 10:31:51,438 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:31:51,438 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 10:31:52,510 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:31:52,510 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 10:31:53,584 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:31:53,584 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-10-30 10:31:53,584 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-10-30 10:31:53,585 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:31:53,585 - INFO -   [1/5] Đang xử lý...
+2026-10-30 10:31:59,181 - INFO -   ✅ Liên hệ mới: 0779955232
+2026-10-30 10:31:59,688 - INFO -   [2/5] Đang xử lý...
+2026-10-30 10:32:06,206 - INFO -   ✅ Liên hệ mới: 0708250228
+2026-10-30 10:32:06,722 - INFO -   [3/5] Đang xử lý...
+2026-10-30 10:32:12,103 - INFO -   ✅ Liên hệ mới: 0563107885
+2026-10-30 10:32:12,611 - INFO -   [4/5] Đang xử lý...
+2026-10-30 10:32:18,233 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: careers@supership.vn)
+2026-10-30 10:32:18,233 - INFO -   [5/5] Đang xử lý...
+2026-10-30 10:32:23,661 - INFO -   ✅ Liên hệ mới: 0973354462
+2026-10-30 10:32:24,177 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 10:32:24,571 - INFO -   → Group tuyển dụng 3: 4 bài có liên hệ mới
+2026-10-30 10:32:28,076 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 10:32:40,255 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:32:41,319 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:32:41,319 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 10:32:43,393 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:32:43,393 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 10:32:45,469 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:32:45,469 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 10:32:46,539 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:32:46,540 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-10-30 10:32:54,725 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 5
+2026-10-30 10:32:54,725 - INFO -   Lọc sơ bộ: 5/9 bài có từ khóa tuyển dụng
+2026-10-30 10:32:54,725 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:32:54,725 - INFO -   [1/5] Đang xử lý...
+2026-10-30 10:33:03,146 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:33:03,438 - INFO -   ✅ Liên hệ mới: hrmqskin@gmail.com
+2026-10-30 10:33:03,946 - INFO -   [2/5] Đang xử lý...
+2026-10-30 10:33:11,261 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:33:11,546 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: hrmqskin@gmail.com)
+2026-10-30 10:33:11,546 - INFO -   [3/5] Đang xử lý...
+2026-10-30 10:33:19,467 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:33:19,744 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: hrmqskin@gmail.com)
+2026-10-30 10:33:19,744 - INFO -   [4/5] Đang xử lý...
+2026-10-30 10:33:24,379 - INFO -   ✅ Liên hệ mới: hanhchinh@socymedia.com.vn
+2026-10-30 10:33:24,881 - INFO -   [5/5] Đang xử lý...
+2026-10-30 10:33:32,101 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 10:33:32,356 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: hrmqskin@gmail.com)
+2026-10-30 10:33:32,356 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 liên hệ trùng
+2026-10-30 10:33:32,717 - INFO -   → Group tuyển dụng 4: 2 bài có liên hệ mới
+2026-10-30 10:33:36,191 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-10-30 10:33:48,340 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:33:51,440 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:33:51,440 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 10:33:53,591 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 10:33:53,591 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 10:34:01,880 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 10:34:10,143 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 10:34:18,389 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 10:34:18,389 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-10-30 10:34:18,389 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:34:18,389 - INFO -   [1/6] Đang xử lý...
+2026-10-30 10:34:23,918 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 10:34:23,918 - INFO -   [2/6] Đang xử lý...
+2026-10-30 10:34:30,382 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 10:34:30,431 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: pnhansu@phuongnammed.com)
+2026-10-30 10:34:30,431 - INFO -   [3/6] Đang xử lý...
+2026-10-30 10:35:38,298 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 10:35:38,436 - INFO -   ✅ Liên hệ mới: 0921002944
+2026-10-30 10:35:38,942 - INFO -   [4/6] Đang xử lý...
+2026-10-30 10:36:46,930 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 10:36:47,094 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 10:36:47,094 - INFO -   [5/6] Đang xử lý...
+2026-10-30 10:36:53,559 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 10:36:53,559 - INFO -   [6/6] Đang xử lý...
+2026-10-30 10:36:59,031 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: taxis.com@gmail.com)
+2026-10-30 10:36:59,032 - INFO -   Bỏ qua: 3 không có email/SĐT, 2 liên hệ trùng
+2026-10-30 10:36:59,519 - INFO -   → Group tuyển dụng 5: 1 bài có liên hệ mới
+2026-10-30 10:37:02,560 - INFO - Đã lưu 14 bài → fb_posts_20261030_1029.json
+2026-10-30 10:37:02,924 - INFO - Đã xuất 13 dòng mới → D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\fb_leads\fb_leads_20261030_1029.csv
+2026-10-30 10:37:02,924 - INFO - Xong lần #1: 14 bài mới | 464s (7.7 phút)
+2026-10-30 10:54:29,697 - INFO - ============================================================
+2026-10-30 10:54:29,697 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 10:54:29,697 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 10:54:29,698 - INFO - ============================================================
+2026-10-30 10:54:29,698 - INFO - Email đã có trong CSV: 0
+2026-10-30 10:54:29,698 - INFO - 
+============================================================
+2026-10-30 10:54:29,698 - INFO - LẦN CHẠY #1 | 10:54
+2026-10-30 10:54:29,699 - INFO - ============================================================
+2026-10-30 10:54:29,794 - INFO - File output: fb_posts_20261030_1054.json
+2026-10-30 10:54:29,794 - INFO - Email đã lấy từ trước: 0
+2026-10-30 10:54:30,547 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K)
+2026-10-30 10:54:40,659 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:54:48,754 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:54:56,831 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:55:04,932 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:55:13,030 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:55:21,128 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:55:21,129 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 10:55:21,129 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:55:21,129 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 10:55:21,129 - WARNING -   TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K): thấy 0 bài (lần 1/3)
+2026-10-30 10:56:21,974 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K)
+2026-10-30 10:56:32,071 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:56:40,160 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:56:48,248 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:56:56,338 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:57:04,436 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:57:12,528 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:57:12,528 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 10:57:12,529 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:57:12,529 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 10:57:12,529 - WARNING -   TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K): thấy 0 bài (lần 2/3)
+2026-10-30 10:58:13,339 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K)
+2026-10-30 10:58:23,474 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:58:31,591 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:58:39,700 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:58:47,799 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:58:55,900 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:59:03,985 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 10:59:03,985 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 10:59:03,985 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:59:03,986 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 10:59:03,986 - WARNING -   TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K): thấy 0 bài (lần 3/3)
+2026-10-30 10:59:04,343 - ERROR - Bỏ qua TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K) sau 3 lần thử
+2026-10-30 10:59:04,343 - INFO -   → TUYỂN DỤNG - TÌM VIỆC LÀM UY TÍN (171.9K): 0 bài có liên hệ mới
+2026-10-30 10:59:07,834 - INFO - 
+Đang cào: Việc Làm Thêm Sinh Viên TP.HCM (176.1K)
+2026-10-30 10:59:19,987 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 10:59:23,080 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 10:59:23,080 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 10:59:24,160 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:59:24,160 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 10:59:25,237 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 10:59:25,237 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 10:59:33,443 - INFO -   Scroll 4/5 - Thấy 8 bài, tiềm năng: 5
+2026-10-30 10:59:41,630 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 5
+2026-10-30 10:59:41,631 - INFO -   Lọc sơ bộ: 5/8 bài có từ khóa tuyển dụng
+2026-10-30 10:59:41,631 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 10:59:41,631 - INFO -   [1/5] Đang xử lý...
+2026-10-30 10:59:47,234 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 10:59:47,234 - INFO -   [2/5] Đang xử lý...
+2026-10-30 10:59:52,722 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 10:59:52,722 - INFO -   [3/5] Đang xử lý...
+2026-10-30 10:59:58,194 - INFO -   ✅ Liên hệ mới: bk271100@gmail.com
+2026-10-30 10:59:58,697 - INFO -   [4/5] Đang xử lý...
+2026-10-30 11:00:04,407 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:00:04,408 - INFO -   [5/5] Đang xử lý...
+2026-10-30 11:00:09,821 - INFO -   ✅ Liên hệ mới: qkp.coffee@gmail.com
+2026-10-30 11:00:10,322 - INFO -   Bỏ qua: 3 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:00:10,690 - INFO -   → Việc Làm Thêm Sinh Viên TP.HCM (176.1K): 2 bài có liên hệ mới
+2026-10-30 11:00:14,300 - INFO - 
+Đang cào: HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K)
+2026-10-30 11:00:24,401 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:00:32,504 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:00:40,593 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:00:48,681 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:00:56,783 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:01:04,879 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:01:04,879 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:01:04,879 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:01:04,879 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:01:04,879 - WARNING -   HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K): thấy 0 bài (lần 1/3)
+2026-10-30 11:02:06,065 - INFO - 
+Đang cào: HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K)
+2026-10-30 11:02:18,189 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:02:26,298 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:02:34,380 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:02:42,490 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:02:50,579 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:02:58,667 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:02:58,667 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:02:58,667 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:02:58,667 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:02:58,667 - WARNING -   HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K): thấy 0 bài (lần 2/3)
+2026-10-30 11:03:59,623 - INFO - 
+Đang cào: HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K)
+2026-10-30 11:04:09,756 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:04:17,852 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:04:25,929 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:04:34,021 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:04:42,093 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:04:50,193 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:04:50,193 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:04:50,193 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:04:50,194 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:04:50,194 - WARNING -   HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K): thấy 0 bài (lần 3/3)
+2026-10-30 11:04:50,536 - ERROR - Bỏ qua HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K) sau 3 lần thử
+2026-10-30 11:04:50,536 - INFO -   → HR - TUYỂN DỤNG - VIỆC LÀM - NGHỀ NHÂN SỰ (204.3K): 0 bài có liên hệ mới
+2026-10-30 11:04:54,000 - INFO - 
+Đang cào: TUYỂN DỤNG NHÂN SỰ - TÌM VIỆC LÀM (67.2K)
+2026-10-30 11:05:06,156 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:05:09,233 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 11:05:09,233 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 11:05:10,272 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:05:10,272 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 11:05:11,313 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:05:11,313 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 11:05:19,482 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 11:05:27,605 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 11:05:27,605 - INFO -   Lọc sơ bộ: 1/4 bài có từ khóa tuyển dụng
+2026-10-30 11:05:27,605 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:05:27,605 - INFO -   [1/1] Đang xử lý...
+2026-10-30 11:05:33,100 - INFO -   ✅ Liên hệ mới: songhausecurity@gmail.com
+2026-10-30 11:05:33,603 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:05:33,950 - INFO -   → TUYỂN DỤNG NHÂN SỰ - TÌM VIỆC LÀM (67.2K): 1 bài có liên hệ mới
+2026-10-30 11:05:37,440 - INFO - 
+Đang cào: TUYỂN DỤNG TOÀN QUỐC (76.8K)
+2026-10-30 11:05:47,615 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:05:55,708 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:06:03,780 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:06:11,868 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:06:19,940 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:06:28,019 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:06:28,019 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:06:28,019 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:06:28,019 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:06:28,019 - WARNING -   TUYỂN DỤNG TOÀN QUỐC (76.8K): thấy 0 bài (lần 1/3)
+2026-10-30 11:07:28,801 - INFO - 
+Đang cào: TUYỂN DỤNG TOÀN QUỐC (76.8K)
+2026-10-30 11:07:40,967 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:07:49,054 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:07:57,145 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:08:05,220 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:08:13,316 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:08:21,399 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:08:21,399 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:08:21,399 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:08:21,399 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:08:21,399 - WARNING -   TUYỂN DỤNG TOÀN QUỐC (76.8K): thấy 0 bài (lần 2/3)
+2026-10-30 11:09:22,188 - INFO - 
+Đang cào: TUYỂN DỤNG TOÀN QUỐC (76.8K)
+2026-10-30 11:09:32,312 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:09:40,398 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:09:48,467 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:09:56,561 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:10:04,650 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:10:12,725 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:10:12,725 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:10:12,725 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:10:12,725 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:10:12,725 - WARNING -   TUYỂN DỤNG TOÀN QUỐC (76.8K): thấy 0 bài (lần 3/3)
+2026-10-30 11:10:13,058 - ERROR - Bỏ qua TUYỂN DỤNG TOÀN QUỐC (76.8K) sau 3 lần thử
+2026-10-30 11:10:13,058 - INFO -   → TUYỂN DỤNG TOÀN QUỐC (76.8K): 0 bài có liên hệ mới
+2026-10-30 11:10:16,500 - INFO - 
+Đang cào: Sales và giám sát bán hàng Miền Bắc (62.6K)
+2026-10-30 11:10:26,618 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:10:34,722 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:10:42,799 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:10:50,884 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:10:58,983 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:11:07,076 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:11:07,077 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:11:07,077 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:11:07,077 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:11:07,077 - WARNING -   Sales và giám sát bán hàng Miền Bắc (62.6K): thấy 0 bài (lần 1/3)
+2026-10-30 11:12:07,872 - INFO - 
+Đang cào: Sales và giám sát bán hàng Miền Bắc (62.6K)
+2026-10-30 11:12:21,024 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:12:29,120 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:12:37,216 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:12:45,302 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:12:53,392 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:13:01,477 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:13:01,477 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:13:01,477 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:13:01,477 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:13:01,477 - WARNING -   Sales và giám sát bán hàng Miền Bắc (62.6K): thấy 0 bài (lần 2/3)
+2026-10-30 11:14:02,295 - INFO - 
+Đang cào: Sales và giám sát bán hàng Miền Bắc (62.6K)
+2026-10-30 11:14:12,435 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:14:20,529 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:14:28,606 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:14:36,701 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:14:44,796 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:14:52,893 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:14:52,893 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:14:52,893 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:14:52,893 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:14:52,893 - WARNING -   Sales và giám sát bán hàng Miền Bắc (62.6K): thấy 0 bài (lần 3/3)
+2026-10-30 11:14:53,227 - ERROR - Bỏ qua Sales và giám sát bán hàng Miền Bắc (62.6K) sau 3 lần thử
+2026-10-30 11:14:53,227 - INFO -   → Sales và giám sát bán hàng Miền Bắc (62.6K): 0 bài có liên hệ mới
+2026-10-30 11:14:56,682 - INFO - 
+Đang cào: Việc làm - Kinh doanh - Phát triển Dự án (47.1K)
+2026-10-30 11:15:08,815 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:15:11,904 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 11:15:11,904 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 11:15:14,003 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 11:15:14,003 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 11:15:22,218 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 11:15:30,380 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 11:15:38,562 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 11:15:38,562 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-10-30 11:15:38,562 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:15:38,562 - INFO -   [1/6] Đang xử lý...
+2026-10-30 11:15:44,306 - INFO -   ✅ Liên hệ mới: kimloan@cgco.com.vn
+2026-10-30 11:15:44,817 - INFO -   [2/6] Đang xử lý...
+2026-10-30 11:15:50,367 - INFO -   ✅ Liên hệ mới: chung.nguyen@solutionias.com
+2026-10-30 11:15:50,876 - INFO -   [3/6] Đang xử lý...
+2026-10-30 11:15:56,332 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: kimloan@cgco.com.vn)
+2026-10-30 11:15:56,333 - INFO -   [4/6] Đang xử lý...
+2026-10-30 11:16:01,818 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: kimloan@cgco.com.vn)
+2026-10-30 11:16:01,818 - INFO -   [5/6] Đang xử lý...
+2026-10-30 11:16:07,224 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: kimloan@cgco.com.vn)
+2026-10-30 11:16:07,225 - INFO -   [6/6] Đang xử lý...
+2026-10-30 11:16:12,657 - INFO -   ✅ Liên hệ mới: trang.le@amavigroup.vn
+2026-10-30 11:16:13,157 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 liên hệ trùng
+2026-10-30 11:16:13,500 - INFO -   → Việc làm - Kinh doanh - Phát triển Dự án (47.1K): 3 bài có liên hệ mới
+2026-10-30 11:16:16,954 - INFO - 
+Đang cào: HR - International Human Resources Club (263.4K)
+2026-10-30 11:16:29,124 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:16:32,172 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 11:16:32,172 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 11:16:33,220 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:16:33,220 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-10-30 11:16:34,283 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:16:34,283 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 11:16:42,418 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-10-30 11:16:50,559 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-10-30 11:16:50,560 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-10-30 11:16:50,560 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:16:50,560 - INFO -   [1/2] Đang xử lý...
+2026-10-30 11:16:56,034 - INFO -   ✅ Liên hệ mới: tuyendung@tpiland.com
+2026-10-30 11:16:56,549 - INFO -   [2/2] Đang xử lý...
+2026-10-30 11:17:02,086 - INFO -   ✅ Liên hệ mới: jyslearn@gmail.com
+2026-10-30 11:17:02,596 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:17:02,944 - INFO -   → HR - International Human Resources Club (263.4K): 2 bài có liên hệ mới
+2026-10-30 11:17:06,394 - INFO - 
+Đang cào: HR - International Human Resource VN (193.3K)
+2026-10-30 11:17:18,543 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:17:26,639 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:17:34,743 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:17:42,840 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:17:50,942 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:17:59,039 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:17:59,039 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:17:59,039 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:17:59,039 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:17:59,039 - WARNING -   HR - International Human Resource VN (193.3K): thấy 0 bài (lần 1/3)
+2026-10-30 11:18:59,824 - INFO - 
+Đang cào: HR - International Human Resource VN (193.3K)
+2026-10-30 11:19:10,971 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:19:19,075 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:19:27,159 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:19:35,252 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:19:43,341 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:19:51,440 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:19:51,441 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:19:51,441 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:19:51,441 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:19:51,441 - WARNING -   HR - International Human Resource VN (193.3K): thấy 0 bài (lần 2/3)
+2026-10-30 11:20:52,266 - INFO - 
+Đang cào: HR - International Human Resource VN (193.3K)
+2026-10-30 11:21:02,380 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:21:10,481 - INFO -   Scroll 1/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:21:18,578 - INFO -   Scroll 2/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:21:26,680 - INFO -   Scroll 3/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:21:34,747 - INFO -   Scroll 4/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:21:42,828 - INFO -   Scroll 5/5 - Thấy 0 bài, tiềm năng: 0
+2026-10-30 11:21:42,829 - INFO -   Lọc sơ bộ: 0/0 bài có từ khóa tuyển dụng
+2026-10-30 11:21:42,829 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:21:42,829 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:21:42,829 - WARNING -   HR - International Human Resource VN (193.3K): thấy 0 bài (lần 3/3)
+2026-10-30 11:21:43,183 - ERROR - Bỏ qua HR - International Human Resource VN (193.3K) sau 3 lần thử
+2026-10-30 11:21:43,183 - INFO -   → HR - International Human Resource VN (193.3K): 0 bài có liên hệ mới
+2026-10-30 11:21:46,211 - INFO - Đã lưu 8 bài → fb_posts_20261030_1054.json
+2026-10-30 11:21:46,623 - INFO - Đã xuất 8 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\13d76a15-118e-42fe-b7e4-4998ef8f84d6\scratchpad\gtest\out\fb_leads_20261030_1054.csv
+2026-10-30 11:21:46,623 - INFO - Xong lần #1: 8 bài mới | 1637s (27.3 phút)
+2026-10-30 11:39:56,203 - INFO - ============================================================
+2026-10-30 11:39:56,203 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 11:39:56,203 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 11:39:56,204 - INFO - ============================================================
+2026-10-30 11:39:56,204 - INFO - Email đã có trong CSV: 0
+2026-10-30 11:39:56,204 - INFO - 
+============================================================
+2026-10-30 11:39:56,204 - INFO - LẦN CHẠY #1 | 11:39
+2026-10-30 11:39:56,204 - INFO - ============================================================
+2026-10-30 11:39:56,312 - INFO - File output: fb_posts_20261030_1139.json
+2026-10-30 11:39:56,312 - INFO - Email đã lấy từ trước: 0
+2026-10-30 11:39:57,099 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 11:40:57,113 - ERROR - Lỗi group Group tuyển dụng 4 (lần 1/3): Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.facebook.com/groups/1190634981870080/", waiting until "networkidle"
+
+2026-10-30 11:41:57,983 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 11:42:57,999 - ERROR - Lỗi group Group tuyển dụng 4 (lần 2/3): Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.facebook.com/groups/1190634981870080/", waiting until "networkidle"
+
+2026-10-30 11:43:58,866 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 11:44:58,881 - ERROR - Lỗi group Group tuyển dụng 4 (lần 3/3): Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.facebook.com/groups/1190634981870080/", waiting until "networkidle"
+
+2026-10-30 11:44:59,219 - ERROR - Bỏ qua Group tuyển dụng 4 sau 3 lần thử
+2026-10-30 11:44:59,220 - INFO -   → Group tuyển dụng 4: 0 bài có liên hệ mới
+2026-10-30 11:45:02,240 - INFO - Đã lưu 0 bài → fb_posts_20261030_1139.json
+2026-10-30 11:45:02,240 - INFO - Không có bài mới → không xuất CSV
+2026-10-30 11:45:02,240 - INFO - Xong lần #1: 0 bài mới | 306s (5.1 phút)
+2026-10-30 11:45:26,622 - INFO - ============================================================
+2026-10-30 11:45:26,623 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 11:45:26,623 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 11:45:26,623 - INFO - ============================================================
+2026-10-30 11:45:26,624 - INFO - Email đã có trong CSV: 0
+2026-10-30 11:45:26,624 - INFO - 
+============================================================
+2026-10-30 11:45:26,624 - INFO - LẦN CHẠY #1 | 11:45
+2026-10-30 11:45:26,624 - INFO - ============================================================
+2026-10-30 11:45:26,723 - INFO - File output: fb_posts_20261030_1145.json
+2026-10-30 11:45:26,723 - INFO - Email đã lấy từ trước: 0
+2026-10-30 11:45:27,491 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 11:45:34,300 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 11:45:38,387 - INFO -   ⚡ Load xong sau 4s
+2026-10-30 11:45:38,387 - INFO -   Scroll 1/60 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 11:45:41,473 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 11:45:41,474 - INFO -   Scroll 2/60 - Thấy 2 bài, tiềm năng: 0
+2026-10-30 11:45:49,611 - INFO -   Scroll 3/60 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 11:45:57,728 - INFO -   Scroll 4/60 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 11:46:05,877 - INFO -   Scroll 5/60 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 11:46:06,926 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:06,926 - INFO -   Scroll 6/60 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 11:46:07,988 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:07,989 - INFO -   Scroll 7/60 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 11:46:16,141 - INFO -   Scroll 8/60 - Thấy 5 bài, tiềm năng: 1
+2026-10-30 11:46:17,191 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:17,191 - INFO -   Scroll 9/60 - Thấy 5 bài, tiềm năng: 1
+2026-10-30 11:46:25,364 - INFO -   Scroll 10/60 - Thấy 6 bài, tiềm năng: 1
+2026-10-30 11:46:26,431 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:26,432 - INFO -   Scroll 11/60 - Thấy 6 bài, tiềm năng: 1
+2026-10-30 11:46:27,486 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:27,486 - INFO -   Scroll 12/60 - Thấy 7 bài, tiềm năng: 1
+2026-10-30 11:46:28,573 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:28,573 - INFO -   Scroll 13/60 - Thấy 7 bài, tiềm năng: 1
+2026-10-30 11:46:29,645 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:29,645 - INFO -   Scroll 14/60 - Thấy 8 bài, tiềm năng: 1
+2026-10-30 11:46:37,782 - INFO -   Scroll 15/60 - Thấy 9 bài, tiềm năng: 1
+2026-10-30 11:46:38,859 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:46:38,859 - INFO -   Scroll 16/60 - Thấy 9 bài, tiềm năng: 1
+2026-10-30 11:46:47,036 - INFO -   Scroll 17/60 - Thấy 9 bài, tiềm năng: 1
+2026-10-30 11:46:55,148 - INFO -   Scroll 18/60 - Thấy 9 bài, tiềm năng: 1
+2026-10-30 11:47:03,258 - INFO -   Scroll 19/60 - Thấy 9 bài, tiềm năng: 1
+2026-10-30 11:47:04,315 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:47:04,315 - INFO -   Scroll 20/60 - Thấy 9 bài, tiềm năng: 1
+2026-10-30 11:47:12,452 - INFO -   Scroll 21/60 - Thấy 10 bài, tiềm năng: 1
+2026-10-30 11:47:20,591 - INFO -   Scroll 22/60 - Thấy 10 bài, tiềm năng: 1
+2026-10-30 11:47:28,735 - INFO -   Scroll 23/60 - Thấy 10 bài, tiềm năng: 1
+2026-10-30 11:47:36,865 - INFO -   Scroll 24/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:47:45,022 - INFO -   Scroll 25/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:47:53,161 - INFO -   Scroll 26/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:48:01,275 - INFO -   Scroll 27/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:48:09,370 - INFO -   Scroll 28/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:48:17,502 - INFO -   Scroll 29/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:48:18,555 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:48:18,555 - INFO -   Scroll 30/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:48:19,613 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:48:19,613 - INFO -   Scroll 31/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:48:20,680 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:48:20,680 - INFO -   Scroll 32/60 - Thấy 11 bài, tiềm năng: 2
+2026-10-30 11:48:28,812 - INFO -   Scroll 33/60 - Thấy 12 bài, tiềm năng: 2
+2026-10-30 11:48:29,849 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:48:29,849 - INFO -   Scroll 34/60 - Thấy 12 bài, tiềm năng: 2
+2026-10-30 11:48:38,053 - INFO -   Scroll 35/60 - Thấy 13 bài, tiềm năng: 2
+2026-10-30 11:48:39,112 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:48:39,112 - INFO -   Scroll 36/60 - Thấy 13 bài, tiềm năng: 2
+2026-10-30 11:48:47,307 - INFO -   Scroll 37/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:48:55,504 - INFO -   Scroll 38/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:49:03,635 - INFO -   Scroll 39/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:49:11,753 - INFO -   Scroll 40/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:49:19,891 - INFO -   Scroll 41/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:49:28,009 - INFO -   Scroll 42/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:49:36,133 - INFO -   Scroll 43/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:49:37,180 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:49:37,180 - INFO -   Scroll 44/60 - Thấy 14 bài, tiềm năng: 3
+2026-10-30 11:49:38,248 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:49:38,248 - INFO -   Scroll 45/60 - Thấy 15 bài, tiềm năng: 3
+2026-10-30 11:49:39,311 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:49:39,311 - INFO -   Scroll 46/60 - Thấy 16 bài, tiềm năng: 3
+2026-10-30 11:49:47,505 - INFO -   Scroll 47/60 - Thấy 17 bài, tiềm năng: 4
+2026-10-30 11:49:55,678 - INFO -   Scroll 48/60 - Thấy 17 bài, tiềm năng: 4
+2026-10-30 11:50:03,830 - INFO -   Scroll 49/60 - Thấy 17 bài, tiềm năng: 4
+2026-10-30 11:50:11,954 - INFO -   Scroll 50/60 - Thấy 17 bài, tiềm năng: 4
+2026-10-30 11:50:12,992 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:50:12,992 - INFO -   Scroll 51/60 - Thấy 17 bài, tiềm năng: 4
+2026-10-30 11:50:14,041 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:50:14,041 - INFO -   Scroll 52/60 - Thấy 18 bài, tiềm năng: 4
+2026-10-30 11:50:22,191 - INFO -   Scroll 53/60 - Thấy 19 bài, tiềm năng: 5
+2026-10-30 11:50:30,345 - INFO -   Scroll 54/60 - Thấy 19 bài, tiềm năng: 5
+2026-10-30 11:50:38,483 - INFO -   Scroll 55/60 - Thấy 20 bài, tiềm năng: 6
+2026-10-30 11:50:39,524 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:50:39,524 - INFO -   Scroll 56/60 - Thấy 20 bài, tiềm năng: 6
+2026-10-30 11:50:40,585 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:50:40,586 - INFO -   Scroll 57/60 - Thấy 21 bài, tiềm năng: 7
+2026-10-30 11:50:41,679 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:50:41,679 - INFO -   Scroll 58/60 - Thấy 22 bài, tiềm năng: 7
+2026-10-30 11:50:49,840 - INFO -   Scroll 59/60 - Thấy 23 bài, tiềm năng: 7
+2026-10-30 11:50:50,924 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 11:50:50,924 - INFO -   Scroll 60/60 - Thấy 24 bài, tiềm năng: 8
+2026-10-30 11:50:50,924 - INFO -   Lọc sơ bộ: 8/24 bài có từ khóa tuyển dụng
+2026-10-30 11:50:50,924 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 11:50:50,924 - INFO -   [1/8] Đang xử lý...
+2026-10-30 11:51:00,079 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 11:51:00,083 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:51:00,083 - INFO -   [2/8] Đang xử lý...
+2026-10-30 11:51:08,799 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 11:51:08,803 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:51:08,803 - INFO -   [3/8] Đang xử lý...
+2026-10-30 11:51:17,727 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 11:51:17,730 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:51:17,730 - INFO -   [4/8] Đang xử lý...
+2026-10-30 11:51:26,943 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 11:51:26,947 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:51:26,947 - INFO -   [5/8] Đang xử lý...
+2026-10-30 11:51:36,604 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 11:51:36,608 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:51:36,608 - INFO -   [6/8] Đang xử lý...
+2026-10-30 11:51:46,521 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 11:51:46,525 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:51:46,525 - INFO -   [7/8] Đang xử lý...
+2026-10-30 11:51:56,223 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 11:51:56,227 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:51:56,227 - INFO -   [8/8] Đang xử lý...
+2026-10-30 11:52:05,984 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 11:52:05,987 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 11:52:05,988 - INFO -   Bỏ qua: 8 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 11:52:06,365 - INFO -   → Group tuyển dụng 4: 0 bài có liên hệ mới
+2026-10-30 11:52:09,395 - INFO - Đã lưu 0 bài → fb_posts_20261030_1145.json
+2026-10-30 11:52:09,396 - INFO - Không có bài mới → không xuất CSV
+2026-10-30 11:52:09,396 - INFO - Xong lần #1: 0 bài mới | 403s (6.7 phút)
+2026-10-30 12:00:01,199 - INFO - ============================================================
+2026-10-30 12:00:01,199 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 12:00:01,199 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 12:00:01,199 - INFO - ============================================================
+2026-10-30 12:00:01,239 - INFO - Email đã có trong CSV: 21
+2026-10-30 12:00:01,239 - INFO - 
+============================================================
+2026-10-30 12:00:01,240 - INFO - LẦN CHẠY #1 | 12:00
+2026-10-30 12:00:01,240 - INFO - ============================================================
+2026-10-30 12:00:01,315 - INFO - File output: fb_posts_20261030_1200.json
+2026-10-30 12:00:01,315 - INFO - Email đã lấy từ trước: 21
+2026-10-30 12:00:01,963 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-10-30 12:00:14,121 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 12:00:17,197 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 12:00:17,197 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 12:00:18,264 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:00:18,264 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-10-30 12:00:19,306 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:00:19,306 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 12:00:20,361 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:00:20,361 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 12:00:21,421 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:00:21,421 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 5
+2026-10-30 12:00:21,421 - INFO -   Lọc sơ bộ: 5/5 bài có từ khóa tuyển dụng
+2026-10-30 12:00:21,421 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 12:00:21,421 - INFO -   [1/5] Đang xử lý...
+2026-10-30 12:00:27,462 - INFO -   ✅ Liên hệ mới: 0988304226
+2026-10-30 12:00:27,968 - INFO -   [2/5] Đang xử lý...
+2026-10-30 12:00:34,680 - INFO -   ✅ Liên hệ mới: tranmai1010.98@gmail.com
+2026-10-30 12:00:35,190 - INFO -   [3/5] Đang xử lý...
+2026-10-30 12:00:40,965 - INFO -   ✅ Liên hệ mới: hr1@mtcollectionhotel.com
+2026-10-30 12:00:41,474 - INFO -   [4/5] Đang xử lý...
+2026-10-30 12:00:47,290 - INFO -   ✅ Liên hệ mới: 0986659042
+2026-10-30 12:00:47,804 - INFO -   [5/5] Đang xử lý...
+2026-10-30 12:00:53,417 - INFO -   ✅ Liên hệ mới: t@vinarack.vn, vinarackmarketing@gmail.com
+2026-10-30 12:00:53,926 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 12:00:54,297 - INFO -   → Group tuyển dụng 1: 5 bài có liên hệ mới
+2026-10-30 12:00:57,715 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-10-30 12:01:08,863 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 12:01:11,919 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 12:01:11,919 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 12:01:20,063 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 12:01:28,186 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 12:01:36,328 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 12:01:44,449 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 12:01:44,450 - INFO -   Lọc sơ bộ: 4/4 bài có từ khóa tuyển dụng
+2026-10-30 12:01:44,450 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 12:01:44,450 - INFO -   [1/4] Đang xử lý...
+2026-10-30 12:01:50,770 - INFO -   ✅ Liên hệ mới: 0338685322
+2026-10-30 12:01:51,277 - INFO -   [2/4] Đang xử lý...
+2026-10-30 12:01:57,580 - INFO -   ✅ Liên hệ mới: 0865906474
+2026-10-30 12:01:58,088 - INFO -   [3/4] Đang xử lý...
+2026-10-30 12:02:03,620 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: 0564553989)
+2026-10-30 12:02:03,620 - INFO -   [4/4] Đang xử lý...
+2026-10-30 12:02:09,225 - INFO -   ✅ Liên hệ mới: 0792133261
+2026-10-30 12:02:09,734 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 12:02:10,073 - INFO -   → Group tuyển dụng 2: 3 bài có liên hệ mới
+2026-10-30 12:02:13,448 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-10-30 12:02:25,599 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 12:02:26,646 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:02:26,646 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 12:02:29,712 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 12:02:29,712 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 12:02:30,753 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:02:30,754 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 12:02:32,813 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 12:02:32,813 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 12:02:33,866 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:02:33,866 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 12:02:33,866 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-10-30 12:02:33,866 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 12:02:33,866 - INFO -   [1/4] Đang xử lý...
+2026-10-30 12:02:39,865 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: 0779955232)
+2026-10-30 12:02:39,865 - INFO -   [2/4] Đang xử lý...
+2026-10-30 12:02:45,690 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: 0708250228)
+2026-10-30 12:02:45,690 - INFO -   [3/4] Đang xử lý...
+2026-10-30 12:02:51,282 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: 0779955232)
+2026-10-30 12:02:51,282 - INFO -   [4/4] Đang xử lý...
+2026-10-30 12:02:56,897 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: careers@supership.vn)
+2026-10-30 12:02:56,897 - INFO -   Bỏ qua: 0 không có email/SĐT, 4 liên hệ trùng
+2026-10-30 12:02:57,237 - INFO -   → Group tuyển dụng 3: 0 bài có liên hệ mới
+2026-10-30 12:03:00,664 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 12:03:12,825 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 12:03:15,893 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 12:03:15,893 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 12:03:16,939 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:03:16,939 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 12:03:18,059 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:03:18,059 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 12:03:19,154 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:03:19,154 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 12:03:20,276 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:03:20,276 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 12:03:20,276 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-10-30 12:03:20,276 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 12:03:20,276 - INFO -   [1/6] Đang xử lý...
+2026-10-30 12:03:25,869 - INFO -   ✅ Liên hệ mới: Vungocthuong386@gmail.com
+2026-10-30 12:03:26,382 - INFO -   [2/6] Đang xử lý...
+2026-10-30 12:03:32,039 - INFO -   ✅ Liên hệ mới: haingan.ttmgroup@gmail.com
+2026-10-30 12:03:32,546 - INFO -   [3/6] Đang xử lý...
+2026-10-30 12:03:37,985 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 12:03:37,985 - INFO -   [4/6] Đang xử lý...
+2026-10-30 12:03:43,382 - INFO -   ✅ Liên hệ mới: nguyenhien789.nth@gmail.com
+2026-10-30 12:03:43,885 - INFO -   [5/6] Đang xử lý...
+2026-10-30 12:03:51,966 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 12:03:52,118 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: hanhchinh@socymedia.com.vn)
+2026-10-30 12:03:52,118 - INFO -   [6/6] Đang xử lý...
+2026-10-30 12:03:57,581 - INFO -   ✅ Liên hệ mới: 0898491852
+2026-10-30 12:03:58,088 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 12:03:58,477 - INFO -   → Group tuyển dụng 4: 4 bài có liên hệ mới
+2026-10-30 12:04:01,889 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-10-30 12:04:14,057 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 12:04:17,172 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 12:04:17,172 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 12:04:18,261 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 12:04:18,261 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 12:04:26,460 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 5
+2026-10-30 12:04:34,662 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 5
+2026-10-30 12:04:42,832 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 5
+2026-10-30 12:04:42,832 - INFO -   Lọc sơ bộ: 5/5 bài có từ khóa tuyển dụng
+2026-10-30 12:04:42,832 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 12:04:42,832 - INFO -   [1/5] Đang xử lý...
+2026-10-30 12:05:52,195 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 12:05:52,291 - INFO -   ✅ Liên hệ mới: nguyenthingochuyen18022004@gmail.com, yenbinh.neverlandedu@gmail.com
+2026-10-30 12:05:52,794 - INFO -   [2/5] Đang xử lý...
+2026-10-30 12:06:00,984 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 12:06:01,072 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-10-30 12:06:01,072 - INFO -   [3/5] Đang xử lý...
+2026-10-30 12:07:08,996 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 12:07:09,074 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-10-30 12:07:09,074 - INFO -   [4/5] Đang xử lý...
+2026-10-30 12:08:18,380 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 12:08:18,504 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: nguyenthingochuyen18022004@gmail.com, yenbinh.neverlandedu@gmail.com)
+2026-10-30 12:08:18,504 - INFO -   [5/5] Đang xử lý...
+2026-10-30 12:09:27,745 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 12:09:27,866 - INFO -   ⏭ Bỏ qua (liên hệ đã lấy trước đó: nguyenthingochuyen18022004@gmail.com, yenbinh.neverlandedu@gmail.com)
+2026-10-30 12:09:27,866 - INFO -   Bỏ qua: 0 không có email/SĐT, 4 liên hệ trùng
+2026-10-30 12:09:28,209 - INFO -   → Group tuyển dụng 5: 1 bài có liên hệ mới
+2026-10-30 12:09:31,247 - INFO - Đã lưu 13 bài → fb_posts_20261030_1200.json
+2026-10-30 12:09:31,506 - INFO - Đã xuất 13 dòng mới → D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\fb_leads\fb_leads_20261030_1200.csv
+2026-10-30 12:09:31,506 - INFO - Xong lần #1: 13 bài mới | 570s (9.5 phút)
+2026-10-30 13:17:01,499 - INFO - ============================================================
+2026-10-30 13:17:01,499 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 13:17:01,500 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 13:17:01,500 - INFO - ============================================================
+2026-10-30 13:17:01,500 - INFO - Email đã có trong CSV: 0
+2026-10-30 13:17:01,500 - INFO - 
+============================================================
+2026-10-30 13:17:01,500 - INFO - LẦN CHẠY #1 | 13:17
+2026-10-30 13:17:01,501 - INFO - ============================================================
+2026-10-30 13:17:01,595 - INFO - File output: fb_posts_20261030_1317.json
+2026-10-30 13:17:01,595 - INFO - Email đã lấy từ trước: 0
+2026-10-30 13:17:02,339 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-10-30 13:17:14,462 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 13:17:17,527 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 13:17:17,527 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 13:17:18,570 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:17:18,571 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-10-30 13:17:26,755 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 13:17:34,905 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 13:17:43,053 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 13:17:43,053 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-10-30 13:17:43,053 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 13:17:43,053 - INFO -   [1/4] Đang xử lý...
+2026-10-30 13:17:48,807 - INFO -   ✅ Lead mới: (không có liên hệ)
+2026-10-30 13:17:49,310 - INFO -   [2/4] Đang xử lý...
+2026-10-30 13:17:54,836 - INFO -   ✅ Lead mới: thaotrangmai77@gmail.com
+2026-10-30 13:17:55,341 - INFO -   [3/4] Đang xử lý...
+2026-10-30 13:18:00,891 - INFO -   ✅ Lead mới: (không có liên hệ)
+2026-10-30 13:18:01,398 - INFO -   [4/4] Đang xử lý...
+2026-10-30 13:18:06,707 - INFO -   ✅ Lead mới: 0325191486
+2026-10-30 13:18:07,209 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 13:18:07,572 - INFO -   → Group tuyển dụng 1: 4 bài có liên hệ mới
+2026-10-30 13:18:11,034 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-10-30 13:18:23,203 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 13:18:26,273 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 13:18:26,273 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 13:18:28,344 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 13:18:28,344 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 13:18:36,530 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 13:18:44,680 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 13:18:52,881 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 13:18:52,881 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-10-30 13:18:52,881 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 13:18:52,881 - INFO -   [1/4] Đang xử lý...
+2026-10-30 13:18:58,654 - INFO -   ✅ Lead mới: 0829599056
+2026-10-30 13:18:59,167 - INFO -   [2/4] Đang xử lý...
+2026-10-30 13:19:04,987 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0829599056)
+2026-10-30 13:19:04,987 - INFO -   [3/4] Đang xử lý...
+2026-10-30 13:19:09,595 - INFO -   ✅ Lead mới: 0373386274
+2026-10-30 13:19:10,106 - INFO -   [4/4] Đang xử lý...
+2026-10-30 13:19:14,766 - INFO -   ✅ Lead mới: 0338685322
+2026-10-30 13:19:15,267 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 13:19:15,770 - INFO -   → Group tuyển dụng 2: 3 bài có liên hệ mới
+2026-10-30 13:19:19,247 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-10-30 13:19:31,398 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 13:19:34,487 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 13:19:34,487 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 13:19:35,533 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:19:35,533 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 13:19:36,598 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:19:36,598 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 13:19:37,728 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:19:37,728 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 13:19:38,804 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:19:38,804 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 13:19:38,804 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-10-30 13:19:38,804 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 13:19:38,804 - INFO -   [1/4] Đang xử lý...
+2026-10-30 13:19:44,367 - INFO -   ✅ Lead mới: 0779955232
+2026-10-30 13:19:44,870 - INFO -   [2/4] Đang xử lý...
+2026-10-30 13:19:50,255 - INFO -   ✅ Lead mới: (không có liên hệ)
+2026-10-30 13:19:50,760 - INFO -   [3/4] Đang xử lý...
+2026-10-30 13:19:56,153 - INFO -   ✅ Lead mới: 0563107885
+2026-10-30 13:19:56,665 - INFO -   [4/4] Đang xử lý...
+2026-10-30 13:20:03,186 - INFO -   ✅ Lead mới: careers@supership.vn
+2026-10-30 13:20:03,694 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 13:20:04,053 - INFO -   → Group tuyển dụng 3: 4 bài có liên hệ mới
+2026-10-30 13:20:07,584 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 13:20:19,710 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 13:20:22,802 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 13:20:22,802 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 13:20:23,880 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:20:23,881 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 13:20:24,992 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:20:24,992 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 13:20:33,236 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-10-30 13:20:41,499 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-10-30 13:20:41,499 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-10-30 13:20:41,499 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 13:20:41,499 - INFO -   [1/5] Đang xử lý...
+2026-10-30 13:21:52,544 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 13:21:52,740 - INFO -   ✅ Lead mới: 0383584617, 0987494685, 0868154271, 0398596306, 0774576945, 0386052557, 0353199555
+2026-10-30 13:21:53,254 - INFO -   [2/5] Đang xử lý...
+2026-10-30 13:22:00,584 - INFO -   ✅ Lead mới: 0902843004
+2026-10-30 13:22:01,085 - INFO -   [3/5] Đang xử lý...
+2026-10-30 13:22:08,749 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 13:22:08,916 - INFO -   ✅ Lead mới: hanhchinh@socymedia.com.vn
+2026-10-30 13:22:09,426 - INFO -   [4/5] Đang xử lý...
+2026-10-30 13:22:15,795 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 13:22:15,962 - INFO -   ✅ Lead mới: hcns@toptrendvn.com
+2026-10-30 13:22:16,472 - INFO -   [5/5] Đang xử lý...
+2026-10-30 13:24:47,163 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 13:24:47,324 - INFO -   ✅ Lead mới: (không có liên hệ)
+2026-10-30 13:24:47,832 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 13:24:48,185 - INFO -   → Group tuyển dụng 4: 5 bài có liên hệ mới
+2026-10-30 13:24:51,654 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-10-30 13:25:02,798 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 13:25:05,896 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 13:25:05,896 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 13:25:07,008 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:25:07,008 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 13:25:09,197 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 13:25:09,197 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 6
+2026-10-30 13:25:10,401 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:25:10,401 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 8
+2026-10-30 13:25:11,650 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 13:25:11,650 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 9
+2026-10-30 13:25:11,650 - INFO -   Lọc sơ bộ: 9/10 bài có từ khóa tuyển dụng
+2026-10-30 13:25:11,650 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 13:25:11,650 - INFO -   [1/9] Đang xử lý...
+2026-10-30 13:27:12,021 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 13:27:12,161 - INFO -   ✅ Lead mới: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com
+2026-10-30 13:27:12,669 - INFO -   [2/9] Đang xử lý...
+2026-10-30 13:27:20,639 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 13:27:20,772 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-10-30 13:27:20,772 - INFO -   [3/9] Đang xử lý...
+2026-10-30 13:28:27,598 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 13:28:27,712 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-10-30 13:28:27,712 - INFO -   [4/9] Đang xử lý...
+2026-10-30 13:30:28,057 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 13:30:28,229 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com)
+2026-10-30 13:30:28,230 - INFO -   [5/9] Đang xử lý...
+2026-10-30 13:33:29,299 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 13:33:29,667 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com)
+2026-10-30 13:33:29,667 - INFO -   [6/9] Đang xử lý...
+2026-10-30 13:33:34,945 - INFO -   ✅ Lead mới: taxis.com@gmail.com
+2026-10-30 13:33:35,460 - INFO -   [7/9] Đang xử lý...
+2026-10-30 13:35:35,815 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 13:35:36,099 - INFO -   ✅ Lead mới: recruitment@aonvina.com, huyenltt@amitech.vn
+2026-10-30 13:35:36,603 - INFO -   [8/9] Đang xử lý...
+2026-10-30 13:38:07,319 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 13:38:07,849 - INFO -   ✅ Lead mới: thuyngan17102004@gmail.com
+2026-10-30 13:38:08,355 - INFO -   [9/9] Đang xử lý...
+2026-10-30 13:39:51,672 - INFO -   Đã click 6 nút Xem thêm
+2026-10-30 13:39:52,060 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: huyenltt@amitech.vn)
+2026-10-30 13:39:52,060 - INFO -   Bỏ qua: 0 không có email/SĐT, 5 liên hệ trùng
+2026-10-30 13:39:52,412 - INFO -   → Group tuyển dụng 5: 4 bài có liên hệ mới
+2026-10-30 13:39:55,454 - INFO - Đã lưu 20 bài → fb_posts_20261030_1317.json
+2026-10-30 13:39:55,798 - INFO - Đã xuất 20 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\13d76a15-118e-42fe-b7e4-4998ef8f84d6\scratchpad\gtest\out_nc\fb_leads_20261030_1317.csv
+2026-10-30 13:39:55,798 - INFO - Xong lần #1: 20 bài mới | 1374s (22.9 phút)
+2026-10-30 14:40:45,731 - INFO - ============================================================
+2026-10-30 14:40:45,731 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 14:40:45,731 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 14:40:45,731 - INFO - ============================================================
+2026-10-30 14:40:45,732 - INFO - Email đã có trong CSV: 0
+2026-10-30 14:40:45,732 - INFO - 
+============================================================
+2026-10-30 14:40:45,732 - INFO - LẦN CHẠY #1 | 14:40
+2026-10-30 14:40:45,732 - INFO - ============================================================
+2026-10-30 14:40:45,748 - INFO - ============================================================
+2026-10-30 14:40:45,749 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 14:40:45,749 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 14:40:45,749 - INFO - ============================================================
+2026-10-30 14:40:45,750 - INFO - Email đã có trong CSV: 0
+2026-10-30 14:40:45,750 - INFO - 
+============================================================
+2026-10-30 14:40:45,750 - INFO - LẦN CHẠY #1 | 14:40
+2026-10-30 14:40:45,750 - INFO - ============================================================
+2026-10-30 14:40:45,764 - INFO - ============================================================
+2026-10-30 14:40:45,764 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 14:40:45,765 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 14:40:45,765 - INFO - ============================================================
+2026-10-30 14:40:45,765 - INFO - Email đã có trong CSV: 0
+2026-10-30 14:40:45,765 - INFO - 
+============================================================
+2026-10-30 14:40:45,765 - INFO - LẦN CHẠY #1 | 14:40
+2026-10-30 14:40:45,766 - INFO - ============================================================
+2026-10-30 14:40:45,785 - INFO - ============================================================
+2026-10-30 14:40:45,785 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 14:40:45,785 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 14:40:45,786 - INFO - ============================================================
+2026-10-30 14:40:45,786 - INFO - Email đã có trong CSV: 0
+2026-10-30 14:40:45,786 - INFO - 
+============================================================
+2026-10-30 14:40:45,787 - INFO - LẦN CHẠY #1 | 14:40
+2026-10-30 14:40:45,787 - INFO - ============================================================
+2026-10-30 14:40:45,887 - INFO - File output: fb_posts_20261030_1440.json
+2026-10-30 14:40:45,888 - INFO - Email đã lấy từ trước: 0
+2026-10-30 14:40:45,905 - INFO - File output: fb_posts_20261030_1440.json
+2026-10-30 14:40:45,906 - INFO - Email đã lấy từ trước: 0
+2026-10-30 14:40:45,912 - INFO - File output: fb_posts_20261030_1440.json
+2026-10-30 14:40:45,912 - INFO - Email đã lấy từ trước: 0
+2026-10-30 14:40:45,935 - INFO - File output: fb_posts_20261030_1440.json
+2026-10-30 14:40:45,935 - INFO - Email đã lấy từ trước: 0
+2026-10-30 14:40:47,360 - INFO - 
+Đang cào: Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội
+2026-10-30 14:40:47,411 - INFO - 
+Đang cào: Việc làm Long Biên - Gia Lâm - Đông Anh
+2026-10-30 14:40:47,423 - INFO - 
+Đang cào: Việc Làm Phú Mỹ - BRVT
+2026-10-30 14:40:47,518 - INFO - 
+Đang cào: Tìm việc làm tại TP.HCM ✅
+2026-10-30 14:41:00,404 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:41:01,077 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:41:01,657 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:41:03,504 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:41:03,504 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 14:41:04,160 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:41:04,160 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 14:41:04,160 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:41:04,160 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:41:04,737 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:41:04,737 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:41:05,592 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:41:05,592 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:41:05,783 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:41:05,783 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-10-30 14:41:06,257 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:41:06,257 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:41:06,292 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:41:06,292 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:41:06,685 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:41:06,685 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 14:41:06,842 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:41:06,842 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 0
+2026-10-30 14:41:07,478 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:41:07,479 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 14:41:07,832 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:41:07,833 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-10-30 14:41:07,959 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:41:07,959 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 14:41:14,494 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 14:41:15,726 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 14:41:16,022 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 6
+2026-10-30 14:41:16,022 - INFO -   Lọc sơ bộ: 6/8 bài có từ khóa tuyển dụng
+2026-10-30 14:41:16,022 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:41:16,023 - INFO -   [1/6] Đang xử lý...
+2026-10-30 14:41:16,115 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 0
+2026-10-30 14:41:16,115 - INFO -   Lọc sơ bộ: 0/5 bài có từ khóa tuyển dụng
+2026-10-30 14:41:16,115 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:41:16,115 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:41:16,522 - INFO -   → Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội: 0 bài có liên hệ mới
+2026-10-30 14:41:19,970 - INFO - 
+Đang cào: TUYỂN DỤNG KẾ TOÁN
+2026-10-30 14:41:21,974 - INFO -   ✅ Lead mới: 0972444986
+2026-10-30 14:41:22,489 - INFO -   [2/6] Đang xử lý...
+2026-10-30 14:41:22,683 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 14:41:23,960 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 14:41:23,960 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-10-30 14:41:23,960 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:41:23,960 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:41:28,004 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0972444986)
+2026-10-30 14:41:28,004 - INFO -   [3/6] Đang xử lý...
+2026-10-30 14:41:29,910 - INFO -   ✅ Lead mới: van.nguyenngoc@manpower.com.vn
+2026-10-30 14:41:30,412 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:41:30,855 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 14:41:30,855 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-10-30 14:41:30,855 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:41:30,855 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:41:33,514 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0972444986)
+2026-10-30 14:41:33,514 - INFO -   [4/6] Đang xử lý...
+2026-10-30 14:41:33,708 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:41:36,797 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:41:36,797 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 14:41:36,967 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:41:36,967 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:41:37,013 - INFO -   ✅ Lead mới: 0961585365
+2026-10-30 14:41:37,525 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:41:38,969 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0972444986)
+2026-10-30 14:41:38,969 - INFO -   [5/6] Đang xử lý...
+2026-10-30 14:41:43,539 - INFO -   ✅ Lead mới: 0899452811
+2026-10-30 14:41:44,045 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:41:45,007 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 14:41:51,649 - INFO -   Đã click 7 nút Xem thêm
+2026-10-30 14:41:51,989 - INFO -   ✅ Lead mới: 0923533686, 0888976994, 0981419233
+2026-10-30 14:41:52,105 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 14:41:52,292 - INFO -   ✅ Lead mới: phamlongketoan@gmail.com, phamlongseal@gmail.com
+2026-10-30 14:41:52,501 - INFO -   [6/6] Đang xử lý...
+2026-10-30 14:41:52,794 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:41:53,204 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 14:41:53,323 - INFO -   → Việc Làm Phú Mỹ - BRVT: 3 bài có liên hệ mới
+2026-10-30 14:41:56,840 - INFO - 
+Đang cào: Việc Làm Hà Đông - Hà Nội
+2026-10-30 14:41:58,124 - INFO -   ✅ Lead mới: 0966164490
+2026-10-30 14:41:58,639 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 liên hệ trùng
+2026-10-30 14:41:59,376 - INFO -   → Việc làm Long Biên - Gia Lâm - Đông Anh: 3 bài có liên hệ mới
+2026-10-30 14:42:01,458 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 14:42:02,880 - INFO - 
+Đang cào: Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️
+2026-10-30 14:42:09,633 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 14:42:09,633 - INFO -   Lọc sơ bộ: 4/4 bài có từ khóa tuyển dụng
+2026-10-30 14:42:09,633 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:42:09,633 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:42:09,971 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:42:13,094 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:42:13,094 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 14:42:14,158 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:14,158 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 14:42:15,052 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:42:15,231 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:15,231 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 14:42:16,341 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:16,341 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:42:17,922 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:42:17,922 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:42:18,136 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:42:18,136 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:42:19,215 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:19,216 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 14:42:20,309 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:20,309 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 14:42:22,622 - INFO -   ✅ Lead mới: thanhhien.hr.hanoi@gmail.com
+2026-10-30 14:42:23,127 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:42:24,546 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 14:42:24,546 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-10-30 14:42:24,546 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:42:24,546 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:42:28,581 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 14:42:28,802 - INFO -   ✅ Lead mới: hcns.minhnguyen@gmail.com
+2026-10-30 14:42:29,308 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:42:30,481 - INFO -   ✅ Lead mới: 0972021288
+2026-10-30 14:42:30,985 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:42:34,839 - INFO -   ✅ Lead mới: tuongvy.301104@gmail.com
+2026-10-30 14:42:35,349 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:42:35,871 - INFO -   → TUYỂN DỤNG KẾ TOÁN: 3 bài có liên hệ mới
+2026-10-30 14:42:36,610 - INFO -   ✅ Lead mới: 0869384894
+2026-10-30 14:42:36,784 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 14:42:36,784 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-10-30 14:42:36,784 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:42:36,784 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:42:37,116 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:42:39,370 - INFO - 
+Đang cào: Việc Làm Tiếng Anh
+2026-10-30 14:42:43,047 - INFO -   ✅ Lead mới: 0365142447
+2026-10-30 14:42:43,059 - INFO -   ✅ Lead mới: tuyendung@edufit.vn
+2026-10-30 14:42:43,548 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:42:43,564 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:42:49,191 - INFO -   ✅ Lead mới: 0382505767
+2026-10-30 14:42:49,265 - INFO -   ✅ Lead mới: 0902046148
+2026-10-30 14:42:49,695 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:42:49,772 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:42:50,326 - INFO -   → Việc Làm Hà Đông - Hà Nội: 4 bài có liên hệ mới
+2026-10-30 14:42:50,477 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:42:53,604 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:42:53,605 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:42:53,808 - INFO - 
+Đang cào: Việc Làm Đồng Hới - Quảng Bình
+2026-10-30 14:42:54,810 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:54,810 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 14:42:55,403 - INFO -   ✅ Lead mới: glx.pgd.tungtran@gmail.com
+2026-10-30 14:42:55,918 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:42:55,919 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:55,919 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 14:42:57,122 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:42:57,122 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 14:43:01,608 - INFO -   ✅ Lead mới: 0858361861
+2026-10-30 14:43:02,120 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:43:02,686 - INFO -   → Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️: 4 bài có liên hệ mới
+2026-10-30 14:43:05,397 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-10-30 14:43:05,397 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-10-30 14:43:05,397 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:43:05,397 - INFO -   [1/5] Đang xử lý...
+2026-10-30 14:43:05,966 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:43:06,260 - INFO - 
+Đang cào: Việc Làm Việt Trì - Phú Thọ
+2026-10-30 14:43:09,358 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:43:09,358 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:43:10,447 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:43:10,447 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-10-30 14:43:11,556 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:43:11,557 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 14:43:12,652 - INFO -   ✅ Lead mới: alabletsgo@gmail.com
+2026-10-30 14:43:13,164 - INFO -   [2/5] Đang xử lý...
+2026-10-30 14:43:18,390 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:43:19,519 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 14:43:19,778 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 0
+2026-10-30 14:43:19,928 - INFO -   ✅ Lead mới: 0972383051, 0707199978
+2026-10-30 14:43:20,430 - INFO -   [3/5] Đang xử lý...
+2026-10-30 14:43:21,499 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:43:21,499 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:43:22,573 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:43:22,573 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 14:43:26,111 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:43:26,112 - INFO -   [4/5] Đang xử lý...
+2026-10-30 14:43:27,988 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 0
+2026-10-30 14:43:27,988 - INFO -   Lọc sơ bộ: 0/5 bài có từ khóa tuyển dụng
+2026-10-30 14:43:27,988 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:43:27,988 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:43:28,483 - INFO -   → Việc Làm Đồng Hới - Quảng Bình: 0 bài có liên hệ mới
+2026-10-30 14:43:30,767 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 14:43:31,675 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 14:43:31,981 - INFO - 
+Đang cào: TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅
+2026-10-30 14:43:32,293 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0972383051, 0707199978)
+2026-10-30 14:43:32,294 - INFO -   [5/5] Đang xử lý...
+2026-10-30 14:43:37,776 - INFO -   ✅ Lead mới: Maiiianh02@gmail.com
+2026-10-30 14:43:38,288 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 14:43:38,825 - INFO -   → Việc Làm Tiếng Anh: 3 bài có liên hệ mới
+2026-10-30 14:43:38,988 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 14:43:42,299 - INFO - 
+Đang cào: HỘI VIỆC LÀM TIẾNG TRUNG
+2026-10-30 14:43:43,216 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:43:46,294 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:43:46,294 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:43:47,221 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 14:43:47,221 - INFO -   Lọc sơ bộ: 1/4 bài có từ khóa tuyển dụng
+2026-10-30 14:43:47,221 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:43:47,221 - INFO -   [1/1] Đang xử lý...
+2026-10-30 14:43:47,376 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:43:47,376 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 14:43:52,150 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:43:55,234 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:43:55,234 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:43:55,627 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 14:43:56,636 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 14:43:57,046 - INFO -   ✅ Lead mới: 0879225588
+2026-10-30 14:43:57,337 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:43:57,338 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-10-30 14:43:57,558 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:43:58,081 - INFO -   → Việc Làm Việt Trì - Phú Thọ: 1 bài có liên hệ mới
+2026-10-30 14:43:58,524 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:43:58,524 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 14:43:59,603 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:43:59,603 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 0
+2026-10-30 14:44:01,572 - INFO - 
+Đang cào: Việc Làm TP.HCM
+2026-10-30 14:44:01,744 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:44:01,744 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 2
+2026-10-30 14:44:01,745 - INFO -   Lọc sơ bộ: 2/7 bài có từ khóa tuyển dụng
+2026-10-30 14:44:01,745 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:44:01,745 - INFO -   [1/2] Đang xử lý...
+2026-10-30 14:44:03,902 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 14:44:07,895 - INFO -   ✅ Lead mới: 0989543912
+2026-10-30 14:44:08,405 - INFO -   [2/2] Đang xử lý...
+2026-10-30 14:44:12,254 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 14:44:12,254 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-10-30 14:44:12,254 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:44:12,254 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:44:14,244 - INFO -   ✅ Lead mới: 0989626323
+2026-10-30 14:44:14,759 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:44:15,293 - INFO -   → HỘI VIỆC LÀM TIẾNG TRUNG: 2 bài có liên hệ mới
+2026-10-30 14:44:17,933 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:44:17,933 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:44:17,965 - INFO -   ✅ Lead mới: quynhpn@itsol.vn
+2026-10-30 14:44:18,477 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:44:18,881 - INFO - 
+Đang cào: VIỆC LÀM SALES & MARKETING
+2026-10-30 14:44:19,100 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:44:19,100 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 14:44:20,563 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:44:20,563 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 14:44:24,514 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: quynhpn@itsol.vn)
+2026-10-30 14:44:24,514 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:44:28,903 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-10-30 14:44:30,174 - INFO -   ✅ Lead mới: 0379550755
+2026-10-30 14:44:30,688 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:44:31,999 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:44:35,105 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:44:35,105 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 14:44:36,171 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:44:36,171 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 14:44:36,204 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: quynhpn@itsol.vn)
+2026-10-30 14:44:36,204 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 liên hệ trùng
+2026-10-30 14:44:36,720 - INFO -   → TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅: 2 bài có liên hệ mới
+2026-10-30 14:44:37,136 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-10-30 14:44:37,137 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-10-30 14:44:37,137 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:44:37,137 - INFO -   [1/2] Đang xử lý...
+2026-10-30 14:44:37,245 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:44:37,245 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:44:40,208 - INFO - 
+Đang cào: Việc làm Chăm sóc Khách hàng
+2026-10-30 14:44:45,447 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 14:44:52,366 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:44:53,630 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 14:44:53,630 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-10-30 14:44:53,630 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:44:53,630 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:44:55,485 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:44:55,485 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 14:44:56,572 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:44:56,572 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 14:44:59,528 - INFO -   ✅ Lead mới: 0971178398
+2026-10-30 14:45:00,039 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:45:04,826 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:45:05,600 - INFO -   ✅ Lead mới: 0838241659
+2026-10-30 14:45:06,113 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:45:11,557 - INFO -   ✅ Lead mới: 0966638812
+2026-10-30 14:45:12,063 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:45:13,031 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:45:17,503 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:45:17,503 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:45:17,958 - INFO -   → VIỆC LÀM SALES & MARKETING: 3 bài có liên hệ mới
+2026-10-30 14:45:20,992 - INFO - Đã lưu 11 bài → fb_posts_20261030_1440.json
+2026-10-30 14:45:21,227 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 14:45:21,227 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-10-30 14:45:21,227 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:45:21,227 - INFO -   [1/3] Đang xử lý...
+2026-10-30 14:45:21,337 - INFO - Đã xuất 11 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\13d76a15-118e-42fe-b7e4-4998ef8f84d6\scratchpad\g20\out3\fb_leads_20261030_1440.csv
+2026-10-30 14:45:21,337 - INFO - Xong lần #1: 11 bài mới | 276s (4.6 phút)
+2026-10-30 14:47:51,941 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 14:47:52,245 - INFO -   ✅ Lead mới: phuong.nguyen@apsaigonpetro.com.vn
+2026-10-30 14:47:52,751 - INFO -   [2/3] Đang xử lý...
+2026-10-30 14:48:10,940 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 14:48:11,734 - INFO -   ✅ Lead mới: 0965411224, 0347863728, 0946332384, 0942823456
+2026-10-30 14:48:12,250 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:48:17,767 - INFO -   ✅ Lead mới: luongkimthuynt@gmail.com
+2026-10-30 14:48:18,271 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:48:22,921 - INFO -   ✅ Lead mới: 0763218788
+2026-10-30 14:48:23,428 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:48:23,943 - INFO -   → Tìm việc làm tại TP.HCM ✅: 4 bài có liên hệ mới
+2026-10-30 14:48:27,414 - INFO - 
+Đang cào: Việc Làm Hải Dương
+2026-10-30 14:48:39,563 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:48:42,665 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:48:42,665 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 14:48:43,724 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:48:43,724 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 14:48:44,802 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:48:44,802 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 14:48:46,921 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:48:46,922 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 3
+2026-10-30 14:48:55,131 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 4
+2026-10-30 14:48:55,131 - INFO -   Lọc sơ bộ: 4/8 bài có từ khóa tuyển dụng
+2026-10-30 14:48:55,132 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:48:55,132 - INFO -   [1/4] Đang xử lý...
+2026-10-30 14:49:01,737 - INFO -   ✅ Lead mới: 0896600048
+2026-10-30 14:49:02,249 - INFO -   [2/4] Đang xử lý...
+2026-10-30 14:49:07,929 - INFO -   ✅ Lead mới: 0981475280
+2026-10-30 14:49:08,435 - INFO -   [3/4] Đang xử lý...
+2026-10-30 14:49:09,245 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 14:49:09,666 - INFO -   ✅ Lead mới: cafelia2024@gmail.com
+2026-10-30 14:49:10,179 - INFO -   [2/2] Đang xử lý...
+2026-10-30 14:49:14,019 - INFO -   ✅ Lead mới: 0984576002
+2026-10-30 14:49:14,534 - INFO -   [4/4] Đang xử lý...
+2026-10-30 14:49:15,880 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:49:15,880 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:49:16,385 - INFO -   → Việc Làm TP.HCM: 1 bài có liên hệ mới
+2026-10-30 14:49:19,894 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI
+2026-10-30 14:49:20,047 - INFO -   ✅ Lead mới: 0704655547
+2026-10-30 14:49:20,556 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:49:21,085 - INFO -   → Việc Làm Hải Dương: 4 bài có liên hệ mới
+2026-10-30 14:49:24,583 - INFO - 
+Đang cào: Việc Làm Phổ Yên - Thái Nguyên
+2026-10-30 14:49:31,050 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:49:33,863 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:49:34,156 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:49:34,156 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 14:49:36,000 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:49:36,001 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 14:49:36,281 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:49:36,281 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 14:49:37,124 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:49:37,124 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 14:49:38,251 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:49:38,251 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 14:49:38,425 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 14:49:38,425 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 7
+2026-10-30 14:49:39,415 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:49:39,415 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-10-30 14:49:39,605 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:49:39,606 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 10
+2026-10-30 14:49:40,624 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:49:40,624 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-10-30 14:49:40,624 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-10-30 14:49:40,624 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:49:40,624 - INFO -   [1/3] Đang xử lý...
+2026-10-30 14:49:40,814 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:49:40,815 - INFO -   Scroll 5/5 - Thấy 13 bài, tiềm năng: 13
+2026-10-30 14:49:40,815 - INFO -   Lọc sơ bộ: 13/13 bài có từ khóa tuyển dụng
+2026-10-30 14:49:40,815 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:49:40,815 - INFO -   [1/13] Đang xử lý...
+2026-10-30 14:49:46,613 - INFO -   ✅ Lead mới: 0986368359, 0862088604
+2026-10-30 14:49:47,117 - INFO -   [2/13] Đang xử lý...
+2026-10-30 14:49:51,824 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 14:49:52,114 - INFO -   ✅ Lead mới: 0326656266, 0969261292, 0969259183
+2026-10-30 14:49:52,629 - INFO -   [2/3] Đang xử lý...
+2026-10-30 14:49:52,925 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0986368359, 0862088604)
+2026-10-30 14:49:52,925 - INFO -   [3/13] Đang xử lý...
+2026-10-30 14:49:58,519 - INFO -   ✅ Lead mới: 0877533330, 0868012386
+2026-10-30 14:49:59,031 - INFO -   [4/13] Đang xử lý...
+2026-10-30 14:50:03,774 - INFO -   ✅ Lead mới: 0931731988
+2026-10-30 14:50:04,278 - INFO -   [5/13] Đang xử lý...
+2026-10-30 14:50:08,978 - INFO -   ✅ Lead mới: 0797660168
+2026-10-30 14:50:09,480 - INFO -   [6/13] Đang xử lý...
+2026-10-30 14:50:14,380 - INFO -   ✅ Lead mới: 0333698135, 0981010264
+2026-10-30 14:50:14,895 - INFO -   [7/13] Đang xử lý...
+2026-10-30 14:50:20,755 - INFO -   ✅ Lead mới: 0931472966, 0903896356, 0868594025
+2026-10-30 14:50:21,266 - INFO -   [8/13] Đang xử lý...
+2026-10-30 14:50:25,942 - INFO -   ✅ Lead mới: hrcaominhgroup@gmail.com
+2026-10-30 14:50:26,443 - INFO -   [9/13] Đang xử lý...
+2026-10-30 14:50:30,395 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 14:50:30,759 - INFO -   ✅ Lead mới: 0382208833, 0395641589
+2026-10-30 14:50:31,269 - INFO -   [3/3] Đang xử lý...
+2026-10-30 14:50:32,283 - INFO -   ✅ Lead mới: info@vietlaoaz.com
+2026-10-30 14:50:32,789 - INFO -   [10/13] Đang xử lý...
+2026-10-30 14:50:36,757 - INFO -   ✅ Lead mới: 0353123669
+2026-10-30 14:50:37,259 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:50:37,792 - INFO -   → Việc Làm Phổ Yên - Thái Nguyên: 3 bài có liên hệ mới
+2026-10-30 14:50:38,541 - INFO -   ✅ Lead mới: quynhnguyen84tq@gmail.com
+2026-10-30 14:50:39,042 - INFO -   [11/13] Đang xử lý...
+2026-10-30 14:50:41,303 - INFO - 
+Đang cào: TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS
+2026-10-30 14:50:44,660 - INFO -   ✅ Lead mới: 0344392956, 0353483789
+2026-10-30 14:50:45,171 - INFO -   [12/13] Đang xử lý...
+2026-10-30 14:50:49,980 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0333698135, 0981010264)
+2026-10-30 14:50:49,980 - INFO -   [13/13] Đang xử lý...
+2026-10-30 14:50:53,454 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:50:54,927 - INFO -   ✅ Lead mới: 0329942422
+2026-10-30 14:50:55,440 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 liên hệ trùng
+2026-10-30 14:50:55,926 - INFO -   → TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI: 11 bài có liên hệ mới
+2026-10-30 14:50:56,549 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:50:56,549 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 14:50:57,648 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:50:57,648 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-10-30 14:50:58,964 - INFO - Đã lưu 20 bài → fb_posts_20261030_1440.json
+2026-10-30 14:50:59,407 - INFO - Đã xuất 20 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\13d76a15-118e-42fe-b7e4-4998ef8f84d6\scratchpad\g20\out2\fb_leads_20261030_1440.csv
+2026-10-30 14:50:59,408 - INFO - Xong lần #1: 20 bài mới | 614s (10.2 phút)
+2026-10-30 14:51:05,889 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 14:51:14,083 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 14:51:22,267 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 14:51:22,268 - INFO -   Lọc sơ bộ: 0/4 bài có từ khóa tuyển dụng
+2026-10-30 14:51:22,268 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:51:22,269 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:51:22,654 - INFO -   → TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS: 0 bài có liên hệ mới
+2026-10-30 14:51:26,099 - INFO - 
+Đang cào: Việc Làm Long An
+2026-10-30 14:51:38,234 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 14:51:41,351 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 14:51:41,351 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 14:51:42,470 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:51:42,471 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 14:51:43,572 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:51:43,572 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 14:51:44,683 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 14:51:44,684 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 5
+2026-10-30 14:51:52,937 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 14:51:52,937 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-10-30 14:51:52,938 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 14:51:52,938 - INFO -   [1/6] Đang xử lý...
+2026-10-30 14:51:58,892 - INFO -   ✅ Lead mới: QuocNM@duytan.com
+2026-10-30 14:51:59,404 - INFO -   [2/6] Đang xử lý...
+2026-10-30 14:52:05,011 - INFO -   ✅ Lead mới: 0901396547
+2026-10-30 14:52:05,519 - INFO -   [3/6] Đang xử lý...
+2026-10-30 14:52:10,188 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:52:10,189 - INFO -   [4/6] Đang xử lý...
+2026-10-30 14:52:14,965 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:52:14,965 - INFO -   [5/6] Đang xử lý...
+2026-10-30 14:52:19,681 - INFO -   ✅ Lead mới: 0888667042
+2026-10-30 14:52:20,189 - INFO -   [6/6] Đang xử lý...
+2026-10-30 14:52:24,776 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 14:52:24,776 - INFO -   Bỏ qua: 3 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 14:52:25,142 - INFO -   → Việc Làm Long An: 3 bài có liên hệ mới
+2026-10-30 14:52:28,176 - INFO - Đã lưu 14 bài → fb_posts_20261030_1440.json
+2026-10-30 14:52:28,419 - INFO - Đã xuất 14 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\13d76a15-118e-42fe-b7e4-4998ef8f84d6\scratchpad\g20\out0\fb_leads_20261030_1440.csv
+2026-10-30 14:52:28,419 - INFO - Xong lần #1: 14 bài mới | 703s (11.7 phút)
+2026-10-30 14:52:55,178 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 14:52:55,517 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: phuong.nguyen@apsaigonpetro.com.vn)
+2026-10-30 14:52:55,518 - INFO -   [3/3] Đang xử lý...
+2026-10-30 14:53:01,093 - INFO -   ✅ Lead mới: 0396405400
+2026-10-30 14:53:01,599 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 14:53:01,951 - INFO -   → Việc làm Chăm sóc Khách hàng: 2 bài có liên hệ mới
+2026-10-30 14:53:04,995 - INFO - Đã lưu 11 bài → fb_posts_20261030_1440.json
+2026-10-30 14:53:05,313 - INFO - Đã xuất 11 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\13d76a15-118e-42fe-b7e4-4998ef8f84d6\scratchpad\g20\out1\fb_leads_20261030_1440.csv
+2026-10-30 14:53:05,313 - INFO - Xong lần #1: 11 bài mới | 740s (12.3 phút)
+2026-10-30 15:00:01,214 - INFO - ============================================================
+2026-10-30 15:00:01,214 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 15:00:01,215 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 15:00:01,215 - INFO - ============================================================
+2026-10-30 15:00:01,231 - INFO - Email đã có trong CSV: 70
+2026-10-30 15:00:01,231 - INFO - 
+============================================================
+2026-10-30 15:00:01,232 - INFO - LẦN CHẠY #1 | 15:00
+2026-10-30 15:00:01,232 - INFO - ============================================================
+2026-10-30 15:00:01,302 - INFO - File output: fb_posts_20261030_1500.json
+2026-10-30 15:00:01,302 - INFO - Email đã lấy từ trước: 70
+2026-10-30 15:00:01,942 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-10-30 15:00:04,150 - ERROR - Lỗi group Group tuyển dụng 1 (lần 1/3): Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.facebook.com/groups/999517283774780", waiting until "networkidle"
+
+2026-10-30 15:01:06,152 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:01:08,255 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:01:10,399 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:01:11,543 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:01:13,724 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:24:37,283 - INFO - ============================================================
+2026-10-30 15:24:37,284 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 15:24:37,284 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 15:24:37,284 - INFO - ============================================================
+2026-10-30 15:24:37,285 - INFO - Email đã có trong CSV: 0
+2026-10-30 15:24:37,285 - INFO - 
+============================================================
+2026-10-30 15:24:37,285 - INFO - LẦN CHẠY #1 | 15:24
+2026-10-30 15:24:37,285 - INFO - ============================================================
+2026-10-30 15:24:37,392 - INFO - File output: fb_posts_20261030_1524.json
+2026-10-30 15:24:37,392 - INFO - Email đã lấy từ trước: 0
+2026-10-30 15:24:38,083 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-10-30 15:24:50,250 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:24:53,335 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:24:53,335 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:24:54,454 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:24:54,454 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 15:24:56,576 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:24:56,576 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 15:24:58,740 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:24:58,740 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 6
+2026-10-30 15:24:59,927 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:24:59,927 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 7
+2026-10-30 15:24:59,927 - INFO -   Lọc sơ bộ: 7/7 bài có từ khóa tuyển dụng
+2026-10-30 15:24:59,927 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:24:59,927 - INFO -   [1/7] Đang xử lý...
+2026-10-30 15:25:05,630 - INFO -   ✅ Lead mới: 0779624626
+2026-10-30 15:25:06,133 - INFO -   [2/7] Đang xử lý...
+2026-10-30 15:25:11,550 - INFO -   ✅ Lead mới: tuyendung@dharma.com.vn
+2026-10-30 15:25:12,063 - INFO -   [3/7] Đang xử lý...
+2026-10-30 15:25:18,241 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 15:25:18,353 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: tuyendung@dharma.com.vn)
+2026-10-30 15:25:18,354 - INFO -   [4/7] Đang xử lý...
+2026-10-30 15:25:27,203 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 15:25:27,392 - INFO -   ✅ Lead mới: 0779189189
+2026-10-30 15:25:27,902 - INFO -   [5/7] Đang xử lý...
+2026-10-30 15:27:28,285 - INFO -   Đã click 6 nút Xem thêm
+2026-10-30 15:27:28,708 - INFO -   ✅ Lead mới: 0779189189, 0327639166
+2026-10-30 15:27:29,221 - INFO -   [6/7] Đang xử lý...
+2026-10-30 15:27:34,802 - INFO -   ✅ Lead mới: 0376870419
+2026-10-30 15:27:35,314 - INFO -   [7/7] Đang xử lý...
+2026-10-30 15:27:41,696 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 15:27:41,784 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0376870419)
+2026-10-30 15:27:41,784 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 liên hệ trùng
+2026-10-30 15:27:42,248 - INFO -   → Group tuyển dụng 1: 5 bài có liên hệ mới
+2026-10-30 15:27:45,689 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-10-30 15:27:57,850 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:28:00,939 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:28:00,939 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:28:09,143 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:28:17,289 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:28:25,432 - INFO -   Scroll 4/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:28:33,585 - INFO -   Scroll 5/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:28:33,586 - INFO -   Lọc sơ bộ: 2/3 bài có từ khóa tuyển dụng
+2026-10-30 15:28:33,586 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:28:33,586 - INFO -   [1/2] Đang xử lý...
+2026-10-30 15:28:39,640 - INFO -   ✅ Lead mới: 0708865278
+2026-10-30 15:28:40,152 - INFO -   [2/2] Đang xử lý...
+2026-10-30 15:28:47,185 - INFO -   ✅ Lead mới: 0368601388
+2026-10-30 15:28:47,700 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:28:48,181 - INFO -   → Group tuyển dụng 2: 2 bài có liên hệ mới
+2026-10-30 15:28:51,624 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-10-30 15:29:03,766 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:29:06,853 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:29:06,853 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 15:29:07,913 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:29:07,914 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 15:29:08,993 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:29:08,993 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 15:29:10,102 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:29:10,103 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 15:29:11,212 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:29:11,212 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-10-30 15:29:11,212 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-10-30 15:29:11,212 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:29:11,212 - INFO -   [1/3] Đang xử lý...
+2026-10-30 15:29:16,884 - INFO -   ✅ Lead mới: 0779955232
+2026-10-30 15:29:17,388 - INFO -   [2/3] Đang xử lý...
+2026-10-30 15:29:22,926 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0779955232)
+2026-10-30 15:29:22,926 - INFO -   [3/3] Đang xử lý...
+2026-10-30 15:29:28,350 - INFO -   ✅ Lead mới: careers@supership.vn
+2026-10-30 15:29:28,863 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 15:29:29,206 - INFO -   → Group tuyển dụng 3: 2 bài có liên hệ mới
+2026-10-30 15:29:32,673 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-10-30 15:29:44,840 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:29:47,927 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:29:47,927 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:29:50,072 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:29:50,072 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:29:51,145 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:29:51,145 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 15:29:59,357 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 15:30:07,554 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 15:30:07,554 - INFO -   Lọc sơ bộ: 3/5 bài có từ khóa tuyển dụng
+2026-10-30 15:30:07,554 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:30:07,554 - INFO -   [1/3] Đang xử lý...
+2026-10-30 15:30:14,077 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 15:30:14,245 - INFO -   ✅ Lead mới: hcns@toptrendvn.com
+2026-10-30 15:30:14,756 - INFO -   [2/3] Đang xử lý...
+2026-10-30 15:30:20,323 - INFO -   ✅ Lead mới: Ducdd.2909@gmail.com
+2026-10-30 15:30:20,829 - INFO -   [3/3] Đang xử lý...
+2026-10-30 15:30:29,081 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 15:30:29,336 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 15:30:29,337 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:30:29,707 - INFO -   → Group tuyển dụng 4: 2 bài có liên hệ mới
+2026-10-30 15:30:33,171 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-10-30 15:30:44,293 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:30:47,400 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:30:47,400 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:30:48,512 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:30:48,512 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 15:30:56,810 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 6
+2026-10-30 15:31:05,057 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 6
+2026-10-30 15:31:13,290 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 6
+2026-10-30 15:31:13,290 - INFO -   Lọc sơ bộ: 6/6 bài có từ khóa tuyển dụng
+2026-10-30 15:31:13,290 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:31:13,290 - INFO -   [1/6] Đang xử lý...
+2026-10-30 15:32:21,253 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 15:32:21,478 - INFO -   ✅ Lead mới: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com
+2026-10-30 15:32:21,981 - INFO -   [2/6] Đang xử lý...
+2026-10-30 15:32:30,991 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 15:32:31,162 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-10-30 15:32:31,162 - INFO -   [3/6] Đang xử lý...
+2026-10-30 15:33:39,072 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 15:33:39,227 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-10-30 15:33:39,228 - INFO -   [4/6] Đang xử lý...
+2026-10-30 15:34:48,237 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 15:34:48,423 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com)
+2026-10-30 15:34:48,423 - INFO -   [5/6] Đang xử lý...
+2026-10-30 15:35:56,480 - INFO -   Đã click 2 nút Xem thêm
+2026-10-30 15:35:56,685 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com)
+2026-10-30 15:35:56,685 - INFO -   [6/6] Đang xử lý...
+2026-10-30 15:36:02,107 - INFO -   ✅ Lead mới: taxis.com@gmail.com
+2026-10-30 15:36:02,620 - INFO -   Bỏ qua: 0 không có email/SĐT, 4 liên hệ trùng
+2026-10-30 15:36:02,972 - INFO -   → Group tuyển dụng 5: 2 bài có liên hệ mới
+2026-10-30 15:36:06,007 - INFO - Đã lưu 13 bài → fb_posts_20261030_1524.json
+2026-10-30 15:36:06,568 - INFO - Đã xuất 13 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\d3e6b49e-2bb1-4e31-af58-55470a2fd599\scratchpad\mst\out_real\fb_leads_20261030_1524.csv
+2026-10-30 15:36:06,568 - INFO - Xong lần #1: 13 bài mới | 689s (11.5 phút)
+2026-10-30 15:52:19,567 - INFO - ============================================================
+2026-10-30 15:52:19,568 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 15:52:19,568 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 15:52:19,568 - INFO - ============================================================
+2026-10-30 15:52:19,569 - INFO - Email đã có trong CSV: 0
+2026-10-30 15:52:19,570 - INFO - 
+============================================================
+2026-10-30 15:52:19,570 - INFO - LẦN CHẠY #1 | 15:52
+2026-10-30 15:52:19,570 - INFO - ============================================================
+2026-10-30 15:52:19,572 - INFO - ============================================================
+2026-10-30 15:52:19,573 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 15:52:19,573 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 15:52:19,573 - INFO - ============================================================
+2026-10-30 15:52:19,574 - INFO - Email đã có trong CSV: 0
+2026-10-30 15:52:19,574 - INFO - 
+============================================================
+2026-10-30 15:52:19,574 - INFO - LẦN CHẠY #1 | 15:52
+2026-10-30 15:52:19,574 - INFO - ============================================================
+2026-10-30 15:52:19,581 - INFO - ============================================================
+2026-10-30 15:52:19,582 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 15:52:19,583 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 15:52:19,583 - INFO - ============================================================
+2026-10-30 15:52:19,584 - INFO - Email đã có trong CSV: 0
+2026-10-30 15:52:19,585 - INFO - 
+============================================================
+2026-10-30 15:52:19,585 - INFO - LẦN CHẠY #1 | 15:52
+2026-10-30 15:52:19,586 - INFO - ============================================================
+2026-10-30 15:52:19,609 - INFO - ============================================================
+2026-10-30 15:52:19,610 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 15:52:19,610 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 15:52:19,611 - INFO - ============================================================
+2026-10-30 15:52:19,612 - INFO - Email đã có trong CSV: 0
+2026-10-30 15:52:19,612 - INFO - 
+============================================================
+2026-10-30 15:52:19,612 - INFO - LẦN CHẠY #1 | 15:52
+2026-10-30 15:52:19,613 - INFO - ============================================================
+2026-10-30 15:52:19,728 - INFO - File output: fb_posts_20261030_1552.json
+2026-10-30 15:52:19,729 - INFO - Email đã lấy từ trước: 0
+2026-10-30 15:52:19,731 - INFO - File output: fb_posts_20261030_1552.json
+2026-10-30 15:52:19,731 - INFO - Email đã lấy từ trước: 0
+2026-10-30 15:52:19,744 - INFO - File output: fb_posts_20261030_1552.json
+2026-10-30 15:52:19,744 - INFO - Email đã lấy từ trước: 0
+2026-10-30 15:52:19,766 - INFO - File output: fb_posts_20261030_1552.json
+2026-10-30 15:52:19,766 - INFO - Email đã lấy từ trước: 0
+2026-10-30 15:52:21,395 - INFO - 
+Đang cào: Việc Làm Phú Mỹ - BRVT
+2026-10-30 15:52:21,399 - INFO - 
+Đang cào: Việc làm Long Biên - Gia Lâm - Đông Anh
+2026-10-30 15:52:21,402 - INFO - 
+Đang cào: Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội
+2026-10-30 15:52:21,414 - INFO - 
+Đang cào: Tìm việc làm tại TP.HCM ✅
+2026-10-30 15:52:30,991 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:52:33,056 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:52:33,056 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:52:33,579 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:52:33,595 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:52:33,863 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:52:34,118 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:34,118 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-10-30 15:52:35,228 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:35,228 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 0
+2026-10-30 15:52:36,441 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:36,442 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 0
+2026-10-30 15:52:36,706 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:52:36,707 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:52:37,020 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:52:37,021 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 0
+2026-10-30 15:52:37,630 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:37,630 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 0
+2026-10-30 15:52:37,630 - INFO -   Lọc sơ bộ: 0/5 bài có từ khóa tuyển dụng
+2026-10-30 15:52:37,630 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:52:37,630 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:52:37,740 - INFO -   ⚡ Load xong sau 4s
+2026-10-30 15:52:37,740 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:52:38,224 - INFO -   → Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội: 0 bài có liên hệ mới
+2026-10-30 15:52:38,936 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:38,936 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 15:52:38,936 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:52:38,936 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 15:52:39,236 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:52:39,236 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 15:52:40,144 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:40,144 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:52:41,284 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:41,285 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 15:52:41,798 - INFO - 
+Đang cào: TUYỂN DỤNG KẾ TOÁN
+2026-10-30 15:52:42,495 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:42,496 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 15:52:42,496 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-10-30 15:52:42,496 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:52:42,496 - INFO -   [1/4] Đang xử lý...
+2026-10-30 15:52:47,250 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 5
+2026-10-30 15:52:47,501 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 1
+2026-10-30 15:52:52,093 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 15:52:52,302 - INFO -   ✅ Lead mới: 0909618881
+2026-10-30 15:52:52,806 - INFO -   [2/4] Đang xử lý...
+2026-10-30 15:52:52,916 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:52:55,475 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-10-30 15:52:55,757 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 1
+2026-10-30 15:52:56,021 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:52:56,021 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:52:58,150 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:52:58,150 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 15:52:59,290 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:52:59,290 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 7
+2026-10-30 15:53:00,435 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:53:00,435 - INFO -   Scroll 4/5 - Thấy 8 bài, tiềm năng: 8
+2026-10-30 15:53:03,693 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-10-30 15:53:03,693 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-10-30 15:53:03,693 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:53:03,693 - INFO -   [1/5] Đang xử lý...
+2026-10-30 15:53:03,972 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 1
+2026-10-30 15:53:03,972 - INFO -   Lọc sơ bộ: 1/6 bài có từ khóa tuyển dụng
+2026-10-30 15:53:03,972 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:53:03,972 - INFO -   [1/1] Đang xử lý...
+2026-10-30 15:53:08,751 - INFO -   Scroll 5/5 - Thấy 10 bài, tiềm năng: 10
+2026-10-30 15:53:08,751 - INFO -   Lọc sơ bộ: 10/10 bài có từ khóa tuyển dụng
+2026-10-30 15:53:08,751 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:53:08,751 - INFO -   [1/10] Đang xử lý...
+2026-10-30 15:53:09,316 - INFO -   ✅ Lead mới: 0949179832
+2026-10-30 15:53:09,822 - INFO -   [2/5] Đang xử lý...
+2026-10-30 15:53:12,576 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 15:53:12,843 - INFO -   ✅ Lead mới: phamlongketoan@gmail.com, phamlongseal@gmail.com
+2026-10-30 15:53:13,350 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:53:13,883 - INFO -   → Việc Làm Phú Mỹ - BRVT: 1 bài có liên hệ mới
+2026-10-30 15:53:14,528 - INFO -   ✅ Lead mới: nmloan25072005@gmail.com
+2026-10-30 15:53:15,035 - INFO -   [2/10] Đang xử lý...
+2026-10-30 15:53:17,409 - INFO - 
+Đang cào: Việc Làm Hà Đông - Hà Nội
+2026-10-30 15:53:20,499 - INFO -   ✅ Lead mới: tilersvietnam@gmail.com
+2026-10-30 15:53:21,012 - INFO -   [3/10] Đang xử lý...
+2026-10-30 15:53:25,730 - INFO -   ✅ Lead mới: 0914044886
+2026-10-30 15:53:26,235 - INFO -   [4/10] Đang xử lý...
+2026-10-30 15:53:28,543 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:53:30,830 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: nmloan25072005@gmail.com)
+2026-10-30 15:53:30,831 - INFO -   [5/10] Đang xử lý...
+2026-10-30 15:53:31,678 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:53:31,679 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 2
+2026-10-30 15:53:32,760 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:53:32,760 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 15:53:33,852 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:53:33,852 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 15:53:34,944 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:53:34,944 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 15:53:36,058 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:53:36,058 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-10-30 15:53:36,058 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-10-30 15:53:36,058 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:53:36,058 - INFO -   [1/5] Đang xử lý...
+2026-10-30 15:53:36,186 - INFO -   ✅ Lead mới: 0963645439
+2026-10-30 15:53:36,689 - INFO -   [6/10] Đang xử lý...
+2026-10-30 15:53:41,276 - INFO -   ✅ Lead mới: 0854764747
+2026-10-30 15:53:41,659 - INFO -   ✅ Lead mới: 0942760558
+2026-10-30 15:53:41,792 - INFO -   [7/10] Đang xử lý...
+2026-10-30 15:53:42,171 - INFO -   [2/5] Đang xử lý...
+2026-10-30 15:53:47,171 - INFO -   ✅ Lead mới: tinhbvt@tbsland.vn
+2026-10-30 15:53:47,681 - INFO -   [8/10] Đang xử lý...
+2026-10-30 15:53:47,762 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0942760558)
+2026-10-30 15:53:47,762 - INFO -   [3/5] Đang xử lý...
+2026-10-30 15:53:52,465 - INFO -   ✅ Lead mới: 0984800089
+2026-10-30 15:53:52,938 - INFO -   ✅ Lead mới: minhpt.worklink@gmail.com
+2026-10-30 15:53:52,968 - INFO -   [4/5] Đang xử lý...
+2026-10-30 15:53:53,451 - INFO -   [9/10] Đang xử lý...
+2026-10-30 15:53:57,879 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0942760558)
+2026-10-30 15:53:57,880 - INFO -   [5/5] Đang xử lý...
+2026-10-30 15:53:59,600 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 15:53:59,704 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: minhpt.worklink@gmail.com)
+2026-10-30 15:53:59,704 - INFO -   [10/10] Đang xử lý...
+2026-10-30 15:54:03,196 - INFO -   ✅ Lead mới: 0869384894
+2026-10-30 15:54:03,313 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 15:54:03,624 - INFO -   ✅ Lead mới: 0878701986
+2026-10-30 15:54:03,712 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 liên hệ trùng
+2026-10-30 15:54:04,126 - INFO -   [3/4] Đang xử lý...
+2026-10-30 15:54:04,187 - INFO -   → Việc Làm Hà Đông - Hà Nội: 3 bài có liên hệ mới
+2026-10-30 15:54:04,216 - INFO -   ✅ Lead mới: 0911659398
+2026-10-30 15:54:04,722 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 liên hệ trùng
+2026-10-30 15:54:05,197 - INFO -   → TUYỂN DỤNG KẾ TOÁN: 8 bài có liên hệ mới
+2026-10-30 15:54:07,665 - INFO - 
+Đang cào: Việc Làm Đồng Hới - Quảng Bình
+2026-10-30 15:54:08,895 - INFO - 
+Đang cào: Việc Làm Tiếng Anh
+2026-10-30 15:54:19,837 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:54:20,072 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:54:22,970 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:54:22,970 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:54:23,156 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:54:23,156 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:54:24,049 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:54:24,049 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-10-30 15:54:24,222 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:54:24,222 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 15:54:25,165 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:54:25,165 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:54:25,307 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:54:25,307 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 15:54:26,348 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:54:26,348 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-10-30 15:54:27,537 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:54:27,537 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-10-30 15:54:27,537 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-10-30 15:54:27,537 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:54:27,537 - INFO -   [1/5] Đang xử lý...
+2026-10-30 15:54:33,552 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 3
+2026-10-30 15:54:41,774 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-10-30 15:54:41,774 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-10-30 15:54:41,775 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:54:41,775 - INFO -   [1/3] Đang xử lý...
+2026-10-30 15:54:47,320 - INFO -   ✅ Lead mới: 0813638994
+2026-10-30 15:54:47,829 - INFO -   [2/3] Đang xử lý...
+2026-10-30 15:54:52,565 - INFO -   ✅ Lead mới: hdlanguagecenter@gmail.com
+2026-10-30 15:54:53,080 - INFO -   [3/3] Đang xử lý...
+2026-10-30 15:54:58,533 - INFO -   ✅ Lead mới: Toanau94@gmail.com
+2026-10-30 15:54:59,039 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:54:59,543 - INFO -   → Việc Làm Tiếng Anh: 3 bài có liên hệ mới
+2026-10-30 15:55:03,006 - INFO - 
+Đang cào: HỘI VIỆC LÀM TIẾNG TRUNG
+2026-10-30 15:55:14,148 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:55:17,277 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:55:17,278 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:55:19,413 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:55:19,413 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 15:55:27,633 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 15:55:34,146 - INFO -   Đã click 7 nút Xem thêm
+2026-10-30 15:55:34,420 - INFO -   ✅ Lead mới: 0878701986, 0914211111
+2026-10-30 15:55:34,922 - INFO -   [4/4] Đang xử lý...
+2026-10-30 15:55:35,821 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 15:55:44,023 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-10-30 15:55:44,023 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-10-30 15:55:44,023 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:55:44,023 - INFO -   [1/4] Đang xử lý...
+2026-10-30 15:55:50,526 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 15:55:50,671 - INFO -   ✅ Lead mới: 0367796081, 0337502245
+2026-10-30 15:55:51,177 - INFO -   [2/4] Đang xử lý...
+2026-10-30 15:55:57,550 - INFO -   Đã click 6 nút Xem thêm
+2026-10-30 15:55:57,567 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 15:55:57,633 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0367796081, 0337502245)
+2026-10-30 15:55:57,633 - INFO -   [3/4] Đang xử lý...
+2026-10-30 15:55:57,937 - INFO -   ✅ Lead mới: 0982094020, 0935069123
+2026-10-30 15:55:58,452 - INFO -   [2/5] Đang xử lý...
+2026-10-30 15:56:02,169 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0367796081, 0337502245)
+2026-10-30 15:56:02,169 - INFO -   [4/4] Đang xử lý...
+2026-10-30 15:56:08,157 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0337502245)
+2026-10-30 15:56:08,157 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 liên hệ trùng
+2026-10-30 15:56:08,519 - INFO -   → HỘI VIỆC LÀM TIẾNG TRUNG: 1 bài có liên hệ mới
+2026-10-30 15:56:11,975 - INFO - 
+Đang cào: VIỆC LÀM SALES & MARKETING
+2026-10-30 15:56:24,153 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:56:27,216 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:56:27,216 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:56:28,266 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:56:28,266 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 15:56:29,326 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:56:29,326 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-10-30 15:56:30,389 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:56:30,389 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 15:56:31,451 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:56:31,451 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 15:56:31,451 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-10-30 15:56:31,451 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:56:31,451 - INFO -   [1/4] Đang xử lý...
+2026-10-30 15:56:36,769 - INFO -   ✅ Lead mới: 0973395690
+2026-10-30 15:56:37,283 - INFO -   [2/4] Đang xử lý...
+2026-10-30 15:56:42,032 - INFO -   ✅ Lead mới: 0784661666
+2026-10-30 15:56:42,533 - INFO -   [3/4] Đang xử lý...
+2026-10-30 15:56:47,087 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0973395690)
+2026-10-30 15:56:47,087 - INFO -   [4/4] Đang xử lý...
+2026-10-30 15:56:51,694 - INFO -   ✅ Lead mới: tuyendung@thinhphatict.com
+2026-10-30 15:56:52,202 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 15:56:52,595 - INFO -   → VIỆC LÀM SALES & MARKETING: 3 bài có liên hệ mới
+2026-10-30 15:56:55,622 - INFO - Đã lưu 15 bài → fb_posts_20261030_1552.json
+2026-10-30 15:56:58,211 - INFO - Đã xuất 15 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\d3e6b49e-2bb1-4e31-af58-55470a2fd599\scratchpad\g20b\out3\fb_leads_20261030_1552.csv
+2026-10-30 15:56:58,211 - INFO - Xong lần #1: 15 bài mới | 279s (4.6 phút)
+2026-10-30 15:57:04,941 - INFO -   Đã click 7 nút Xem thêm
+2026-10-30 15:57:05,205 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0878701986, 0914211111)
+2026-10-30 15:57:05,205 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 15:57:05,561 - INFO -   → Việc làm Long Biên - Gia Lâm - Đông Anh: 3 bài có liên hệ mới
+2026-10-30 15:57:09,004 - INFO - 
+Đang cào: Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️
+2026-10-30 15:57:11,524 - INFO -   Đã click 3 nút Xem thêm
+2026-10-30 15:57:11,972 - INFO -   ✅ Lead mới: 0949170128, 0374404770, 0388453132, 0906639254, 0862431361, 0933777037
+2026-10-30 15:57:12,485 - INFO -   [3/5] Đang xử lý...
+2026-10-30 15:57:17,866 - INFO -   ✅ Lead mới: 0909000702
+2026-10-30 15:57:18,369 - INFO -   [4/5] Đang xử lý...
+2026-10-30 15:57:21,161 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:57:23,053 - INFO -   ✅ Lead mới: 0908351997
+2026-10-30 15:57:23,566 - INFO -   [5/5] Đang xử lý...
+2026-10-30 15:57:24,229 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:57:24,230 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:57:25,275 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:57:25,275 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 15:57:28,473 - INFO -   Đã click 6 nút Xem thêm
+2026-10-30 15:57:28,703 - INFO -   ✅ Lead mới: 0345211225
+2026-10-30 15:57:28,872 - INFO -   ✅ Lead mới: 0933337898
+2026-10-30 15:57:29,215 - INFO -   [3/5] Đang xử lý...
+2026-10-30 15:57:29,384 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:57:29,766 - INFO -   → Tìm việc làm tại TP.HCM ✅: 5 bài có liên hệ mới
+2026-10-30 15:57:33,216 - INFO - 
+Đang cào: Việc Làm Hải Dương
+2026-10-30 15:57:33,438 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 15:57:41,607 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 15:57:43,348 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:57:46,430 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:57:46,431 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:57:47,477 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:57:47,477 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 15:57:48,526 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:57:48,526 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 15:57:49,603 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:57:49,603 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-10-30 15:57:49,758 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 15:57:49,758 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-10-30 15:57:49,758 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:57:49,758 - INFO -   [1/3] Đang xử lý...
+2026-10-30 15:57:50,667 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:57:50,667 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-10-30 15:57:50,668 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-10-30 15:57:50,668 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:57:50,668 - INFO -   [1/1] Đang xử lý...
+2026-10-30 15:57:54,616 - INFO -   ✅ Lead mới: tuyendungvienthongdangkhoi@gmail.com
+2026-10-30 15:57:55,123 - INFO -   [2/3] Đang xử lý...
+2026-10-30 15:57:56,276 - INFO -   ✅ Lead mới: 0348908859
+2026-10-30 15:57:56,791 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:57:57,169 - INFO -   → Việc Làm Hải Dương: 1 bài có liên hệ mới
+2026-10-30 15:58:00,450 - INFO -   ✅ Lead mới: tuyendung@edufit.vn
+2026-10-30 15:58:00,679 - INFO - 
+Đang cào: Việc Làm Phổ Yên - Thái Nguyên
+2026-10-30 15:58:00,954 - INFO -   [3/3] Đang xử lý...
+2026-10-30 15:58:06,470 - INFO -   ✅ Lead mới: 0382505767
+2026-10-30 15:58:06,986 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:58:07,369 - INFO -   → Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️: 3 bài có liên hệ mới
+2026-10-30 15:58:10,096 - INFO -   Đã click 6 nút Xem thêm
+2026-10-30 15:58:10,305 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0345211225)
+2026-10-30 15:58:10,306 - INFO -   [4/5] Đang xử lý...
+2026-10-30 15:58:10,916 - INFO - 
+Đang cào: Việc Làm Việt Trì - Phú Thọ
+2026-10-30 15:58:12,879 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:58:16,020 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:58:16,021 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:58:17,090 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:58:17,090 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 15:58:18,172 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:58:18,172 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-10-30 15:58:19,263 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:58:19,264 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-10-30 15:58:23,080 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:58:26,141 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:58:26,141 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:58:27,174 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:58:27,174 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-10-30 15:58:27,469 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-10-30 15:58:27,469 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-10-30 15:58:27,469 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:58:27,469 - INFO -   [1/3] Đang xử lý...
+2026-10-30 15:58:29,276 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:58:29,276 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 0
+2026-10-30 15:58:30,369 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:58:30,370 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 1
+2026-10-30 15:58:32,817 - INFO -   ✅ Lead mới: 0865547211
+2026-10-30 15:58:33,326 - INFO -   [2/3] Đang xử lý...
+2026-10-30 15:58:38,598 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 1
+2026-10-30 15:58:38,598 - INFO -   Lọc sơ bộ: 1/6 bài có từ khóa tuyển dụng
+2026-10-30 15:58:38,599 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:58:38,599 - INFO -   [1/1] Đang xử lý...
+2026-10-30 15:58:38,711 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 15:58:38,911 - INFO -   ✅ Lead mới: 0349850959
+2026-10-30 15:58:39,424 - INFO -   [3/3] Đang xử lý...
+2026-10-30 15:58:44,355 - INFO -   ✅ Lead mới: 0865836199, 0364925388
+2026-10-30 15:58:44,867 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 15:58:45,394 - INFO -   → Việc Làm Việt Trì - Phú Thọ: 1 bài có liên hệ mới
+2026-10-30 15:58:48,848 - INFO -   Đã click 4 nút Xem thêm
+2026-10-30 15:58:49,093 - INFO - 
+Đang cào: Việc Làm TP.HCM
+2026-10-30 15:58:49,880 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0349850959)
+2026-10-30 15:58:49,880 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 15:58:50,878 - INFO -   → Việc Làm Phổ Yên - Thái Nguyên: 2 bài có liên hệ mới
+2026-10-30 15:58:51,350 - INFO -   Đã click 6 nút Xem thêm
+2026-10-30 15:58:52,009 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0345211225)
+2026-10-30 15:58:52,009 - INFO -   [5/5] Đang xử lý...
+2026-10-30 15:58:54,494 - INFO - 
+Đang cào: TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS
+2026-10-30 15:59:01,235 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:59:04,365 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:59:04,365 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:59:05,441 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:59:05,441 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-10-30 15:59:06,644 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:59:07,547 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:59:07,547 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 15:59:08,641 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:59:08,641 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 5
+2026-10-30 15:59:09,719 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:59:09,719 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 6
+2026-10-30 15:59:09,719 - INFO -   Lọc sơ bộ: 6/6 bài có từ khóa tuyển dụng
+2026-10-30 15:59:09,719 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:59:09,719 - INFO -   [1/6] Đang xử lý...
+2026-10-30 15:59:09,734 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 15:59:09,734 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 15:59:11,840 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:59:11,840 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-10-30 15:59:13,962 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:59:13,962 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 4
+2026-10-30 15:59:15,089 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:59:15,089 - INFO -   Scroll 4/5 - Thấy 10 bài, tiềm năng: 6
+2026-10-30 15:59:16,265 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:59:16,265 - INFO -   Scroll 5/5 - Thấy 13 bài, tiềm năng: 9
+2026-10-30 15:59:16,265 - INFO -   Lọc sơ bộ: 9/13 bài có từ khóa tuyển dụng
+2026-10-30 15:59:16,265 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 15:59:16,266 - INFO -   [1/9] Đang xử lý...
+2026-10-30 15:59:21,659 - INFO -   ✅ Lead mới: 0901368629
+2026-10-30 15:59:22,168 - INFO -   [2/9] Đang xử lý...
+2026-10-30 15:59:26,888 - INFO -   ✅ Lead mới: annie@thuongphatlogistics.com.vn
+2026-10-30 15:59:27,401 - INFO -   [3/9] Đang xử lý...
+2026-10-30 15:59:32,039 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0901368629)
+2026-10-30 15:59:32,039 - INFO -   [4/9] Đang xử lý...
+2026-10-30 15:59:33,242 - INFO -   Đã click 6 nút Xem thêm
+2026-10-30 15:59:33,451 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0345211225)
+2026-10-30 15:59:33,451 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 liên hệ trùng
+2026-10-30 15:59:33,835 - INFO -   → Việc Làm Đồng Hới - Quảng Bình: 2 bài có liên hệ mới
+2026-10-30 15:59:37,303 - INFO - 
+Đang cào: TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅
+2026-10-30 15:59:38,795 - INFO -   ✅ Lead mới: hrd.han@fflogistics.vn
+2026-10-30 15:59:39,306 - INFO -   [5/9] Đang xử lý...
+2026-10-30 15:59:44,003 - INFO -   ✅ Lead mới: 0971444761
+2026-10-30 15:59:44,510 - INFO -   [6/9] Đang xử lý...
+2026-10-30 15:59:47,467 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 15:59:48,507 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 15:59:48,507 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 15:59:49,269 - INFO -   ✅ Lead mới: admin.han@ivtrans.com
+2026-10-30 15:59:49,780 - INFO -   [7/9] Đang xử lý...
+2026-10-30 15:59:50,573 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 15:59:50,574 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-10-30 15:59:54,343 - INFO -   ✅ Lead mới: pthouse.hcns@gmail.com
+2026-10-30 15:59:54,850 - INFO -   [8/9] Đang xử lý...
+2026-10-30 15:59:58,730 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 16:00:00,180 - INFO -   ✅ Lead mới: acc1@city-ocean.com
+2026-10-30 16:00:00,691 - INFO -   [9/9] Đang xử lý...
+2026-10-30 16:00:06,871 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 16:00:07,300 - INFO -   Đã click 1 nút Xem thêm
+2026-10-30 16:00:07,371 - INFO -   ✅ Lead mới: quangthaiqt2003@gmail.com
+2026-10-30 16:00:07,873 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 16:00:08,383 - INFO -   → TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS: 8 bài có liên hệ mới
+2026-10-30 16:00:11,825 - INFO - 
+Đang cào: Việc Làm Long An
+2026-10-30 16:00:15,055 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 16:00:15,055 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-10-30 16:00:15,055 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 16:00:15,055 - INFO -   [1/3] Đang xử lý...
+2026-10-30 16:00:19,723 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 16:00:20,519 - INFO -   ✅ Lead mới: tuyendung@fssc.com.vn
+2026-10-30 16:00:21,028 - INFO -   [2/3] Đang xử lý...
+2026-10-30 16:00:21,785 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 16:00:21,785 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-10-30 16:00:22,852 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 16:00:22,853 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-10-30 16:00:24,953 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 16:00:24,953 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-10-30 16:00:26,033 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 16:00:26,033 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-10-30 16:00:26,745 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: tuyendung@fssc.com.vn)
+2026-10-30 16:00:26,745 - INFO -   [3/3] Đang xử lý...
+2026-10-30 16:00:27,188 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 16:00:27,188 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-10-30 16:00:27,188 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-10-30 16:00:27,188 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 16:00:27,188 - INFO -   [1/5] Đang xử lý...
+2026-10-30 16:00:32,573 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 16:00:32,573 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 16:00:32,710 - INFO -   ✅ Lead mới: hrdunnguyen@gmail.com
+2026-10-30 16:00:33,066 - INFO -   → TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅: 1 bài có liên hệ mới
+2026-10-30 16:00:33,218 - INFO -   [2/5] Đang xử lý...
+2026-10-30 16:00:36,515 - INFO - 
+Đang cào: Việc làm Chăm sóc Khách hàng
+2026-10-30 16:00:38,900 - INFO -   ✅ Lead mới: 0327827806
+2026-10-30 16:00:39,409 - INFO -   [3/5] Đang xử lý...
+2026-10-30 16:00:44,121 - INFO -   ✅ Lead mới: phongtuyendungbivholding@gmail.com
+2026-10-30 16:00:44,629 - INFO -   [4/5] Đang xử lý...
+2026-10-30 16:00:46,658 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 16:00:49,765 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 16:00:49,765 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 16:00:50,098 - INFO -   ✅ Lead mới: 0856444223
+2026-10-30 16:00:50,612 - INFO -   [5/5] Đang xử lý...
+2026-10-30 16:00:50,841 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 16:00:50,841 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-10-30 16:00:51,976 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 16:00:51,976 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-10-30 16:00:53,121 - INFO -   ⚡ Load xong sau 1s
+2026-10-30 16:00:53,121 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 5
+2026-10-30 16:00:57,065 - INFO -   ✅ Lead mới: 0901396547
+2026-10-30 16:00:57,574 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 liên hệ trùng
+2026-10-30 16:00:58,079 - INFO -   → Việc Làm Long An: 5 bài có liên hệ mới
+2026-10-30 16:01:01,125 - INFO - Đã lưu 21 bài → fb_posts_20261030_1552.json
+2026-10-30 16:01:01,383 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-10-30 16:01:01,383 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-10-30 16:01:01,383 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 16:01:01,384 - INFO -   [1/6] Đang xử lý...
+2026-10-30 16:01:01,559 - INFO - Đã xuất 21 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\d3e6b49e-2bb1-4e31-af58-55470a2fd599\scratchpad\g20b\out0\fb_leads_20261030_1552.csv
+2026-10-30 16:01:01,559 - INFO - Xong lần #1: 21 bài mới | 522s (8.7 phút)
+2026-10-30 16:01:40,425 - INFO -   Đã click 10 nút Xem thêm
+2026-10-30 16:01:40,973 - INFO -   ✅ Lead mới: 0934895388, 0777980334
+2026-10-30 16:01:41,479 - INFO -   [2/6] Đang xử lý...
+2026-10-30 16:01:46,855 - INFO -   ✅ Lead mới: 0903028613, 0389970029
+2026-10-30 16:01:47,370 - INFO -   [3/6] Đang xử lý...
+2026-10-30 16:01:56,379 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 16:01:56,873 - INFO -   ✅ Lead mới: 0348333524, 0867384863, 0798754851
+2026-10-30 16:01:57,379 - INFO -   [4/6] Đang xử lý...
+2026-10-30 16:02:02,759 - INFO -   ✅ Lead mới: lananh.nguyen@thesentry.com.vn
+2026-10-30 16:02:03,264 - INFO -   [5/6] Đang xử lý...
+2026-10-30 16:02:13,379 - INFO -   Đã click 5 nút Xem thêm
+2026-10-30 16:02:14,004 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0348333524, 0867384863, 0798754851)
+2026-10-30 16:02:14,004 - INFO -   [6/6] Đang xử lý...
+2026-10-30 16:02:18,594 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-10-30 16:02:18,594 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 16:02:18,959 - INFO -   → Việc Làm TP.HCM: 4 bài có liên hệ mới
+2026-10-30 16:02:22,413 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI
+2026-10-30 16:02:31,398 - INFO -   Đã click 13 nút Xem thêm
+2026-10-30 16:02:31,757 - INFO -   ✅ Lead mới: 0972455656, 0896610096, 0338086663, 0941111286
+2026-10-30 16:02:32,262 - INFO -   [2/6] Đang xử lý...
+2026-10-30 16:02:33,562 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-10-30 16:02:36,653 - INFO -   ⚡ Load xong sau 3s
+2026-10-30 16:02:36,653 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-10-30 16:02:38,125 - INFO -   ✅ Lead mới: 0362078478
+2026-10-30 16:02:38,630 - INFO -   [3/6] Đang xử lý...
+2026-10-30 16:02:38,744 - INFO -   ⚡ Load xong sau 2s
+2026-10-30 16:02:38,744 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-10-30 16:02:46,938 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 7
+2026-10-30 16:02:55,092 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 7
+2026-10-30 16:03:03,251 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 7
+2026-10-30 16:03:03,251 - INFO -   Lọc sơ bộ: 7/7 bài có từ khóa tuyển dụng
+2026-10-30 16:03:03,251 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-10-30 16:03:03,252 - INFO -   [1/7] Đang xử lý...
+2026-10-30 16:03:08,640 - INFO -   ✅ Lead mới: 0394185025
+2026-10-30 16:03:09,149 - INFO -   [2/7] Đang xử lý...
+2026-10-30 16:03:14,508 - INFO -   ✅ Lead mới: 0986368359, 0862088604
+2026-10-30 16:03:15,020 - INFO -   [3/7] Đang xử lý...
+2026-10-30 16:03:20,383 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0394185025)
+2026-10-30 16:03:20,384 - INFO -   [4/7] Đang xử lý...
+2026-10-30 16:03:26,289 - INFO -   ✅ Lead mới: 0877533330, 0868012386
+2026-10-30 16:03:26,796 - INFO -   [5/7] Đang xử lý...
+2026-10-30 16:03:32,137 - INFO -   ✅ Lead mới: 0931731988
+2026-10-30 16:03:32,651 - INFO -   [6/7] Đang xử lý...
+2026-10-30 16:03:37,969 - INFO -   ✅ Lead mới: 0797660168
+2026-10-30 16:03:38,481 - INFO -   [7/7] Đang xử lý...
+2026-10-30 16:03:43,562 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0394185025)
+2026-10-30 16:03:43,562 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 liên hệ trùng
+2026-10-30 16:03:43,907 - INFO -   → TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI: 5 bài có liên hệ mới
+2026-10-30 16:03:46,945 - INFO - Đã lưu 16 bài → fb_posts_20261030_1552.json
+2026-10-30 16:03:49,466 - INFO - Đã xuất 16 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\d3e6b49e-2bb1-4e31-af58-55470a2fd599\scratchpad\g20b\out2\fb_leads_20261030_1552.csv
+2026-10-30 16:03:49,467 - INFO - Xong lần #1: 16 bài mới | 690s (11.5 phút)
+2026-10-30 16:05:09,316 - INFO -   Đã click 8 nút Xem thêm
+2026-10-30 16:05:09,646 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0972455656, 0896610096, 0941111286)
+2026-10-30 16:05:09,646 - INFO -   [4/6] Đang xử lý...
+2026-10-30 16:05:15,202 - INFO -   ✅ Lead mới: ngantran@thichcay.com
+2026-10-30 16:05:15,710 - INFO -   [5/6] Đang xử lý...
+2026-10-30 16:05:21,123 - INFO -   ✅ Lead mới: sttuyendunghcm2@gmail.com
+2026-10-30 16:05:21,638 - INFO -   [6/6] Đang xử lý...
+2026-10-30 16:05:27,123 - INFO -   ✅ Lead mới: lananh.nguyen@thesentry.com.vn
+2026-10-30 16:05:27,629 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-10-30 16:05:27,971 - INFO -   → Việc làm Chăm sóc Khách hàng: 5 bài có liên hệ mới
+2026-10-30 16:05:31,006 - INFO - Đã lưu 12 bài → fb_posts_20261030_1552.json
+2026-10-30 16:05:31,549 - INFO - Đã xuất 12 dòng mới → C:\Users\minh.cao\AppData\Local\Temp\claude\D--OneDrive---Kariera-Group-handover---MinhCao-Crawl-System\d3e6b49e-2bb1-4e31-af58-55470a2fd599\scratchpad\g20b\out1\fb_leads_20261030_1552.csv
+2026-10-30 16:05:31,550 - INFO - Xong lần #1: 12 bài mới | 792s (13.2 phút)
+2026-10-30 21:45:09,142 - INFO - ============================================================
+2026-10-30 21:45:09,142 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-10-30 21:45:09,142 - INFO - Nhấn Ctrl+C để dừng
+2026-10-30 21:45:09,143 - INFO - ============================================================
+2026-10-30 21:45:09,150 - INFO - Email đã có trong CSV: 70
+2026-10-30 21:45:09,150 - INFO - 
+============================================================
+2026-10-30 21:45:09,150 - INFO - LẦN CHẠY #1 | 21:45
+2026-10-30 21:45:09,151 - INFO - ============================================================
+2026-10-30 21:45:09,272 - INFO - File output: fb_posts_20261030_2145.json
+2026-10-30 21:45:09,272 - INFO - Email đã lấy từ trước: 70
+2026-10-30 21:45:09,997 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-10-30 21:45:10,024 - ERROR - Lỗi group Group tuyển dụng 1 (lần 1/3): Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.facebook.com/groups/999517283774780
+Call log:
+  - navigating to "https://www.facebook.com/groups/999517283774780", waiting until "networkidle"
+
+2026-11-02 08:55:44,133 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-11-02 08:55:56,277 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-02 08:55:59,364 - INFO -   ⚡ Load xong sau 3s
+2026-11-02 08:55:59,365 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-02 08:56:00,423 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:56:00,423 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-02 08:56:01,483 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:56:01,484 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-02 08:56:02,559 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:56:02,560 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-02 08:56:10,772 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 6
+2026-11-02 08:56:10,772 - INFO -   Lọc sơ bộ: 6/6 bài có từ khóa tuyển dụng
+2026-11-02 08:56:10,773 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-02 08:56:10,773 - INFO -   [1/6] Đang xử lý...
+2026-11-02 08:56:16,566 - INFO -   ✅ Lead mới: 0869390052
+2026-11-02 08:56:17,079 - INFO -   [2/6] Đang xử lý...
+2026-11-02 08:56:23,614 - INFO -   Đã click 1 nút Xem thêm
+2026-11-02 08:56:23,743 - INFO -   ✅ Lead mới: 0981184288
+2026-11-02 08:56:24,250 - INFO -   [3/6] Đang xử lý...
+2026-11-02 08:56:29,745 - INFO -   ✅ Lead mới: 0326631596
+2026-11-02 08:56:30,254 - INFO -   [4/6] Đang xử lý...
+2026-11-02 08:56:38,209 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-02 08:56:38,209 - INFO -   [5/6] Đang xử lý...
+2026-11-02 08:56:43,902 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-02 08:56:43,902 - INFO -   [6/6] Đang xử lý...
+2026-11-02 08:56:50,417 - INFO -   ✅ Lead mới: 0938155930
+2026-11-02 08:56:50,931 - INFO -   Bỏ qua: 2 không có email/SĐT, 0 liên hệ trùng
+2026-11-02 08:56:51,483 - INFO -   → Group tuyển dụng 1: 4 bài có liên hệ mới
+2026-11-02 08:56:55,155 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-11-02 08:57:08,050 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-02 08:57:12,232 - INFO -   ⚡ Load xong sau 4s
+2026-11-02 08:57:12,232 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-02 08:57:14,367 - INFO -   ⚡ Load xong sau 2s
+2026-11-02 08:57:14,367 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-02 08:57:22,572 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-02 08:57:30,715 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-02 08:57:38,882 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-02 08:57:38,882 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-11-02 08:57:38,882 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-02 08:57:38,882 - INFO -   [1/4] Đang xử lý...
+2026-11-02 08:57:44,510 - INFO -   ✅ Lead mới: 0375839535
+2026-11-02 08:57:45,024 - INFO -   [2/4] Đang xử lý...
+2026-11-02 08:57:50,384 - INFO -   ✅ Lead mới: 0708865278
+2026-11-02 08:57:50,885 - INFO -   [3/4] Đang xử lý...
+2026-11-02 08:57:56,269 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0708865278)
+2026-11-02 08:57:56,270 - INFO -   [4/4] Đang xử lý...
+2026-11-02 08:58:01,601 - INFO -   ✅ Lead mới: 0933061833
+2026-11-02 08:58:02,104 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 liên hệ trùng
+2026-11-02 08:58:02,580 - INFO -   → Group tuyển dụng 2: 3 bài có liên hệ mới
+2026-11-02 08:58:06,188 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-11-02 08:58:18,334 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-02 08:58:20,417 - INFO -   ⚡ Load xong sau 2s
+2026-11-02 08:58:20,417 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-02 08:58:21,481 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:58:21,481 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-02 08:58:22,557 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:58:22,557 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-02 08:58:23,623 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:58:23,624 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-02 08:58:24,730 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:58:24,730 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-02 08:58:24,730 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-11-02 08:58:24,730 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-02 08:58:24,730 - INFO -   [1/3] Đang xử lý...
+2026-11-02 08:58:30,388 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0779955232)
+2026-11-02 08:58:30,389 - INFO -   [2/3] Đang xử lý...
+2026-11-02 08:58:35,867 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: 0779955232)
+2026-11-02 08:58:35,868 - INFO -   [3/3] Đang xử lý...
+2026-11-02 08:58:41,279 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: careers@supership.vn)
+2026-11-02 08:58:41,280 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 liên hệ trùng
+2026-11-02 08:58:41,870 - INFO -   → Group tuyển dụng 3: 0 bài có liên hệ mới
+2026-11-02 08:58:45,321 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-11-02 08:58:57,433 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-02 08:59:00,524 - INFO -   ⚡ Load xong sau 3s
+2026-11-02 08:59:00,524 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-02 08:59:01,857 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:59:01,858 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-02 08:59:03,225 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 08:59:03,226 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-02 08:59:11,509 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-02 08:59:19,681 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-02 08:59:19,681 - INFO -   Lọc sơ bộ: 4/4 bài có từ khóa tuyển dụng
+2026-11-02 08:59:19,681 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-02 08:59:19,681 - INFO -   [1/4] Đang xử lý...
+2026-11-02 08:59:25,232 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: haingan.ttmgroup@gmail.com)
+2026-11-02 08:59:25,232 - INFO -   [2/4] Đang xử lý...
+2026-11-02 08:59:29,734 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-02 08:59:29,734 - INFO -   [3/4] Đang xử lý...
+2026-11-02 08:59:38,085 - INFO -   Đã click 3 nút Xem thêm
+2026-11-02 08:59:38,306 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-02 08:59:38,306 - INFO -   [4/4] Đang xử lý...
+2026-11-02 08:59:43,972 - INFO -   ✅ Lead mới: 0362133111
+2026-11-02 08:59:44,476 - INFO -   Bỏ qua: 2 không có email/SĐT, 1 liên hệ trùng
+2026-11-02 08:59:45,075 - INFO -   → Group tuyển dụng 4: 1 bài có liên hệ mới
+2026-11-02 08:59:48,513 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-11-02 09:00:01,669 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-02 09:00:04,766 - INFO -   ⚡ Load xong sau 3s
+2026-11-02 09:00:04,766 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-02 09:00:05,862 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 09:00:05,862 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-02 09:00:06,983 - INFO -   ⚡ Load xong sau 1s
+2026-11-02 09:00:06,983 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-02 09:00:15,343 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 6
+2026-11-02 09:00:23,574 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 6
+2026-11-02 09:00:23,574 - INFO -   Lọc sơ bộ: 6/6 bài có từ khóa tuyển dụng
+2026-11-02 09:00:23,574 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-02 09:00:23,574 - INFO -   [1/6] Đang xử lý...
+2026-11-02 09:03:23,528 - INFO -   Đã click 2 nút Xem thêm
+2026-11-02 09:03:23,900 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com)
+2026-11-02 09:03:23,900 - INFO -   [2/6] Đang xử lý...
+2026-11-02 09:03:33,307 - INFO -   Đã click 3 nút Xem thêm
+2026-11-02 09:03:33,564 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-11-02 09:03:33,564 - INFO -   [3/6] Đang xử lý...
+2026-11-02 09:03:39,838 - INFO -   Đã click 2 nút Xem thêm
+2026-11-02 09:03:39,971 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com)
+2026-11-02 09:03:39,972 - INFO -   [4/6] Đang xử lý...
+2026-11-02 09:05:39,712 - INFO -   Đã click 3 nút Xem thêm
+2026-11-02 09:05:40,006 - INFO -   ⏭ Bỏ qua (đã lấy trước đó: yenbinh.neverlandedu@gmail.com, nguyenthingochuyen18022004@gmail.com)
+2026-11-02 09:05:40,007 - INFO -   [5/6] Đang xử lý...
+2026-11-02 09:06:05,913 - INFO -   Đã click 2 nút Xem thêm
+2026-11-02 09:06:05,915 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-02 09:06:05,915 - INFO -   [6/6] Đang xử lý...
+2026-11-02 09:06:05,916 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-02 09:06:05,917 - INFO -   Bỏ qua: 2 không có email/SĐT, 4 liên hệ trùng
+2026-11-02 09:06:05,918 - INFO -   → Group tuyển dụng 5: 0 bài có liên hệ mới

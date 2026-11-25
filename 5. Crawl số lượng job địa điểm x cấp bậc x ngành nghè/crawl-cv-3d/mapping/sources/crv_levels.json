@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Success",
+  "data": [
+    {
+      "level_id": 1,
+      "level_name_vn": "Sinh viên/ Thực tập sinh",
+      "level_name_en": "Student / Internship"
+    },
+    {
+      "level_id": 2,
+      "level_name_vn": "Mới tốt nghiệp",
+      "level_name_en": "Entry Level"
+    },
+    {
+      "level_id": 3,
+      "level_name_vn": "Nhân viên",
+      "level_name_en": "Experienced (Non - Manager)"
+    },
+    {
+      "level_id": 4,
+      "level_name_vn": "Trưởng nhóm / Giám sát",
+      "level_name_en": "Team Leader / Supervisor"
+    },
+    {
+      "level_id": 5,
+      "level_name_vn": "Quản lý",
+      "level_name_en": "Manager"
+    },
+    {
+      "level_id": 11,
+      "level_name_vn": "Quản lý cấp cao",
+      "level_name_en": "Senior Management"
+    },
+    {
+      "level_id": 12,
+      "level_name_vn": "Điều hành cấp cao",
+      "level_name_en": "Executive Management"
+    }
+  ],
+  "metadata": {
+    "timestamp": 1780752716358,
+    "version": "prd-05062601",
+    "path": "/api/v1/cs/jsk/levels/searches"
+  }
+}

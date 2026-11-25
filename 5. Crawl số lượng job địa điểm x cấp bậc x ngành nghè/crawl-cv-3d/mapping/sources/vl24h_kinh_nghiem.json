@@ -1,0 +1,15 @@
+{
+  "_note": "8 muc Kinh nghiem — duoc dung lam 'chieu thu 2' thay cho 'Cap bac' cua CareerViet/VNW",
+  "_url_param": "experience[]=<value>",
+  "_verified": "?occupation_ids[]=17&province_ids[]=73&experience[]=3 = 13,147 (Ke toan x Ha Noi x 1 nam)",
+  "experience_levels": [
+    {"value": "1", "name": "Chưa có kinh nghiệm"},
+    {"value": "2", "name": "Dưới 1 năm"},
+    {"value": "3", "name": "1 năm"},
+    {"value": "4", "name": "2 năm"},
+    {"value": "5", "name": "3 năm"},
+    {"value": "6", "name": "4 năm"},
+    {"value": "7", "name": "5 năm"},
+    {"value": "8", "name": "Hơn 5 năm"}
+  ]
+}

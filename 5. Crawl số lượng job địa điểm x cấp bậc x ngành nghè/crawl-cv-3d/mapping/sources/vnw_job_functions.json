@@ -1,0 +1,224 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "Bán Lẻ/Tiêu Dùng": {
+      "Quản Lý Cửa Hàng": 145,
+      "Quản Lý Khu Vực": 142,
+      "Thu Mua": 143,
+      "Trợ Lý Bán Lẻ": 144
+    },
+    "Bảo Hiểm": {
+      "Bao Tiêu/Bảo Lãnh": 86,
+      "Bồi Thường Bảo Hiểm": 84,
+      "Định Phí Bảo Hiểm": 83,
+      "Tư Vấn Rủi Ro": 85
+    },
+    "Bất Động Sản": {
+      "Cho Thuê & Quản Lý Căn Hộ": 139,
+      "Định Giá": 141,
+      "Kinh Doanh Thương Mại, Cho Thuê & Quản Lý Tài Sản": 138,
+      "Phân Tích Dự Án Bất Động Sản": 136,
+      "Phát Triển Bất Động Sản": 140,
+      "Quản Lý Cơ Sở Vật Chất": 137
+    },
+    "CEO & General Management": {
+      "CEO": 157,
+      "Quản Lý Cấp Cao": 158
+    },
+    "Chính Phủ/Phi Lợi Nhuận": {
+      "Chính sách, Quy hoạch & Quy định": 147,
+      "NGO/Phi Lợi Nhuận": 146
+    },
+    "Công Nghệ Thông Tin/Viễn Thông": {
+      "Bảo Mật Công Nghệ Thông Tin": 35,
+      "Chuyển Đổi Số": 28,
+      "Data Engineer/Data Analyst/AI": 27,
+      "IT Support/Help Desk": 31,
+      "Phần Cứng Máy Tính": 29,
+      "Phần Mềm Máy Tính": 36,
+      "Phân Tích Kinh Doanh/Phân Tích Hệ Thống": 25,
+      "QA/QC/Software Testing": 34,
+      "Quản Lý Công Nghệ Thông Tin": 30,
+      "Quản Lý Dự Án Công Nghệ": 33,
+      "Quản Trị Cơ Sở Dữ Liệu": 26,
+      "System/Cloud/DevOps Engineer": 32,
+      "UX/UI Design": 38,
+      "Viễn Thông": 37
+    },
+    "Dệt May/Da Giày": {
+      "Phát Triển Sản Phẩm May Mặc": 149,
+      "Quản Lý Đơn Hàng": 148
+    },
+    "Dịch Vụ Ăn Uống": {
+      "Đầu Bếp": 69,
+      "Quản Lý F&B": 70,
+      "Quầy Bar/Đồ Uống/Phục vụ": 68
+    },
+    "Dịch Vụ Khách Hàng": {
+      "Dịch Vụ Khách Hàng": 39,
+      "Dịch Vụ Khách Hàng - Call Center": 40,
+      "Dịch Vụ Khách Hàng - Hướng Khách Hàng": 41
+    },
+    "Dược": {
+      "Phân Phối Dược Phẩm": 156
+    },
+    "Giáo Dục": {
+      "Dịch Vụ Sinh Viên/Hỗ Trợ Học Viên": 4,
+      "Giảng Dạy/Đào Tạo": 5,
+      "Nghiên Cứu Học Thuật": 3,
+      "Quản Lý Giáo Dục": 2,
+      "Tư Vấn Giáo Dục": 1
+    },
+    "Hành Chính Văn Phòng": {
+      "Bảo Vệ": 128,
+      "Biên Phiên Dịch": 122,
+      "Điều Phối": 121,
+      "Hành Chính": 120,
+      "Lễ Tân/Tiếp Tân": 125,
+      "Quản Lý Văn Phòng": 123,
+      "Thư Ký": 127,
+      "Thu Mua": 124,
+      "Trợ Lý Kinh Doanh": 126
+    },
+    "Hậu Cần/Xuất Nhập Khẩu/Kho Bãi": {
+      "Quản Lý Chuỗi Cung Ứng": 81,
+      "Quản Lý Kho & Phân Phối": 82,
+      "Quản Lý Đội Xe": 77,
+      "Thu Mua & Quản Trị Hàng Tồn Kho": 80,
+      "Vận Tải/Giao Nhận Hàng Hóa": 78,
+      "Xuất Nhập Khẩu & Thủ Tục Hải Quan": 79
+    },
+    "Kế Toán/Kiểm Toán": {
+      "Kế hoạch/Tư Vấn Doanh Nghiệp": 9,
+      "Kế Toán Chi Phí": 10,
+      "Kế Toán Công Nợ": 7,
+      "Kế Toán Doanh Thu": 16,
+      "Kế Toán Quản Trị": 14,
+      "Kế Toán Tài Chính": 11,
+      "Kế Toán Thanh Toán": 6,
+      "Kế Toán Thuế": 15,
+      "Kế Toán Tổng Hợp": 13,
+      "Kiểm Soát Viên Tài Chính": 12,
+      "Kiểm Toán": 8
+    },
+    "Khoa Học & Kỹ Thuật": {
+      "Cơ Khí & Điện Lạnh": 56,
+      "Công Nghệ Sinh Học": 51,
+      "Công Nghệ Thực Phẩm": 55,
+      "Điện/Nước/Chất Thải": 58,
+      "Khai Thác Mỏ": 57,
+      "Kỹ Thuật Hóa Học": 52,
+      "Kỹ Thuật Môi Trường": 54,
+      "Kỹ Thuật Ô Tô": 50,
+      "Kỹ Thuật Điện/Điện Tử": 53
+    },
+    "Kiến Trúc/Xây Dựng": {
+      "An Toàn Lao Động": 21,
+      "Phát Triển Dự Án/Đấu Thầu": 20,
+      "Quản Lý Dự Án": 23,
+      "Thiết Kế & Quy Hoạch Đô Thị": 24,
+      "Thiết Kế Kiến Trúc/Họa Viên Kiến Trúc": 18,
+      "Thiết Kế Nội Thất": 22,
+      "Xây Dựng": 19
+    },
+    "Kinh Doanh": {
+      "Bán Hàng Kỹ Thuật": 130,
+      "Bán Hàng Qua Điện Thoại": 131,
+      "Bán Hàng/Phát Triển Kinh Doanh": 129
+    },
+    "Kỹ Thuật": {
+      "Bảo trì/Bảo Dưỡng": 134,
+      "Cơ Khí Tự Động Hoá": 132,
+      "In Ấn": 135,
+      "Kỹ Thuật CNC": 133
+    },
+    "Ngân Hàng & Dịch Vụ Tài Chính": {
+      "Đầu Tư Tài Chính": 66,
+      "Dịch Vụ Hỗ Trợ Khách Hàng": 61,
+      "Môi Giới & Giao Dịch Chứng Khoán": 67,
+      "Phân Tích & Báo Cáo Tài Chính": 60,
+      "Quản Lý Quan Hệ Khách Hàng": 59,
+      "Quản Lý Quỹ": 65,
+      "Thu Hồi Nợ": 64,
+      "Tín Dụng": 63,
+      "Tuân Thủ & Kiểm Soát Rủi Ro": 62
+    },
+    "Nghệ thuật, Truyền thông/In ấn/Xuất bản": {
+      "Đạo Diễn Nghệ Thuật/Nhiếp Ảnh": 112,
+      "In Ấn & Xuất Bản": 113,
+      "Sản Xuất Chương Trình": 114
+    },
+    "Nhà Hàng - Khách Sạn/Du Lịch": {
+      "Bộ Phận Tiền Sảnh & Dịch Vụ Khách Hàng": 87,
+      "Công Ty Kinh Doanh Lữ Hành": 90,
+      "Đại Lý Du Lịch": 92,
+      "Đặt Phòng Khách Sạn": 88,
+      "Hướng Dẫn Viên Du Lịch": 91,
+      "Vệ Sinh Buồng Phòng": 89
+    },
+    "Nhân Sự/Tuyển Dụng": {
+      "Đào Tạo Và Phát Triển": 75,
+      "Gắn Kết Nhân Viên": 71,
+      "Lương Thưởng & Phúc Lợi": 72,
+      "Nhân Sự Tổng Hợp": 73,
+      "Quản Trị Hiệu Suất & Sự Nghiệp": 74,
+      "Tuyển Dụng": 76
+    },
+    "Nông/Lâm/Ngư Nghiệp": {
+      "Nông/Lâm/Ngư nghiệp": 17
+    },
+    "Pháp Lý": {
+      "Luật Lao động/Hưu Trí": 96,
+      "Luật Sở Hữu Trí Tuệ": 97,
+      "Luật Tài Chính Ngân Hàng Thương mại": 93,
+      "Luật Thuế": 101,
+      "Luật Xây Dựng": 94,
+      "Quản Lý Thi Hành Pháp Luật": 99,
+      "Thư Ký Luật & Trợ Lý Luật": 98,
+      "Thư Ký Pháp Lý": 100,
+      "Tư Vấn Pháp Lý": 95
+    },
+    "Sản Xuất": {
+      "Đảm Bảo Chất Lượng/Kiểm Soát Chất Lượng/Quản Lý Chất Lượng": 154,
+      "Hoạch Định & Quản Lý Sản Xuất": 153,
+      "Nghiên Cứu & Phát Triển": 155,
+      "Phân Tích Sản Xuất": 152,
+      "Quy Trình & Lắp Ráp": 150,
+      "Vận Hành Máy Móc": 151
+    },
+    "Thiết Kế": {
+      "Chỉnh Sửa Video": 45,
+      "Thiết Kế Công Nghiệp/Kỹ Thuật": 44,
+      "Thiết Kế Thời Trang/Trang Sức": 42,
+      "Thiết Kế Đồ Họa": 43
+    },
+    "Tiếp Thị, Quảng Cáo/Truyền Thông": {
+      "Nghiên Cứu & Phân Tích Thị Trường": 107,
+      "Quan Hệ Công Chúng": 110,
+      "Quản Lý & Phát Triển Sản Phẩm": 109,
+      "Quản Lý Sự Kiện": 106,
+      "Quản Lý Tài Khoản Khách Hàng": 102,
+      "Quản Lý Thương Hiệu": 103,
+      "Tiếp Thị": 108,
+      "Tiếp Thị Nội Dung": 104,
+      "Tiếp Thị Thương Mại": 111,
+      "Tiếp Thị Trực Tuyến": 105
+    },
+    "Vận Tải": {
+      "Dịch Vụ Hàng Không": 46,
+      "Dịch Vụ Vận Tải Công Cộng": 47,
+      "Vận Tải Đường Bộ": 49,
+      "Vận Tải Đường Sắt & Hàng Hải": 48
+    },
+    "Y Tế/Chăm Sóc Sức Khoẻ": {
+      "Bác Sĩ/Điều Trị Đa Khoa/Điều Trị Nội Trú": 115,
+      "Dược Sĩ": 118,
+      "Kỹ Thuật Viên Y Tế": 116,
+      "Tư Vấn Tâm Lý & Công Tác Xã Hội": 119,
+      "Y Tá": 117
+    },
+    "Khác": {
+      "Khác": 159
+    }
+  }
+}

@@ -1,0 +1,1368 @@
+{
+  "success": true,
+  "message": "Success",
+  "data": {
+    "results": [
+      {
+        "country_id": 1,
+        "country_name": "Vietnam",
+        "locations": [
+          {
+            "location_id": 4,
+            "location_name": "Ha Noi",
+            "country_id": 1
+          },
+          {
+            "location_id": 8,
+            "location_name": "Ho Chi Minh",
+            "country_id": 1
+          },
+          {
+            "location_id": 76,
+            "location_name": "An Giang",
+            "country_id": 1
+          },
+          {
+            "location_id": 64,
+            "location_name": "Ba Ria-VT",
+            "country_id": 1
+          },
+          {
+            "location_id": 281,
+            "location_name": "Bac Can",
+            "country_id": 1
+          },
+          {
+            "location_id": 240,
+            "location_name": "Bac Giang",
+            "country_id": 1
+          },
+          {
+            "location_id": 781,
+            "location_name": "Bac Lieu",
+            "country_id": 1
+          },
+          {
+            "location_id": 241,
+            "location_name": "Bac Ninh",
+            "country_id": 1
+          },
+          {
+            "location_id": 75,
+            "location_name": "Ben Tre",
+            "country_id": 1
+          },
+          {
+            "location_id": 56,
+            "location_name": "Binh Dinh",
+            "country_id": 1
+          },
+          {
+            "location_id": 650,
+            "location_name": "Binh Duong",
+            "country_id": 1
+          },
+          {
+            "location_id": 651,
+            "location_name": "Binh Phuoc",
+            "country_id": 1
+          },
+          {
+            "location_id": 62,
+            "location_name": "Binh Thuan",
+            "country_id": 1
+          },
+          {
+            "location_id": 78,
+            "location_name": "Ca Mau",
+            "country_id": 1
+          },
+          {
+            "location_id": 71,
+            "location_name": "Can Tho",
+            "country_id": 1
+          },
+          {
+            "location_id": 26,
+            "location_name": "Cao Bang",
+            "country_id": 1
+          },
+          {
+            "location_id": 1072,
+            "location_name": "Central Highlands",
+            "country_id": 1
+          },
+          {
+            "location_id": 511,
+            "location_name": "Da Nang",
+            "country_id": 1
+          },
+          {
+            "location_id": 1042,
+            "location_name": "Dak Nông",
+            "country_id": 1
+          },
+          {
+            "location_id": 50,
+            "location_name": "DakLak",
+            "country_id": 1
+          },
+          {
+            "location_id": 900,
+            "location_name": "Dien Bien",
+            "country_id": 1
+          },
+          {
+            "location_id": 61,
+            "location_name": "Dong Nai",
+            "country_id": 1
+          },
+          {
+            "location_id": 67,
+            "location_name": "Dong Thap",
+            "country_id": 1
+          },
+          {
+            "location_id": 59,
+            "location_name": "Gia Lai",
+            "country_id": 1
+          },
+          {
+            "location_id": 19,
+            "location_name": "Ha Giang",
+            "country_id": 1
+          },
+          {
+            "location_id": 351,
+            "location_name": "Ha Nam",
+            "country_id": 1
+          },
+          {
+            "location_id": 39,
+            "location_name": "Ha Tinh",
+            "country_id": 1
+          },
+          {
+            "location_id": 320,
+            "location_name": "Hai Duong",
+            "country_id": 1
+          },
+          {
+            "location_id": 31,
+            "location_name": "Hai Phong",
+            "country_id": 1
+          },
+          {
+            "location_id": 780,
+            "location_name": "Hau Giang",
+            "country_id": 1
+          },
+          {
+            "location_id": 18,
+            "location_name": "Hoa Binh",
+            "country_id": 1
+          },
+          {
+            "location_id": 321,
+            "location_name": "Hung Yen",
+            "country_id": 1
+          },
+          {
+            "location_id": 58,
+            "location_name": "Khanh Hoa",
+            "country_id": 1
+          },
+          {
+            "location_id": 77,
+            "location_name": "Kien Giang",
+            "country_id": 1
+          },
+          {
+            "location_id": 60,
+            "location_name": "Kon Tum",
+            "country_id": 1
+          },
+          {
+            "location_id": 23,
+            "location_name": "Lai Chau",
+            "country_id": 1
+          },
+          {
+            "location_id": 63,
+            "location_name": "Lam Dong",
+            "country_id": 1
+          },
+          {
+            "location_id": 25,
+            "location_name": "Lang Son",
+            "country_id": 1
+          },
+          {
+            "location_id": 20,
+            "location_name": "Lao Cai",
+            "country_id": 1
+          },
+          {
+            "location_id": 72,
+            "location_name": "Long An",
+            "country_id": 1
+          },
+          {
+            "location_id": 1064,
+            "location_name": "Mekong Delta",
+            "country_id": 1
+          },
+          {
+            "location_id": 350,
+            "location_name": "Nam Dinh",
+            "country_id": 1
+          },
+          {
+            "location_id": 1065,
+            "location_name": "Nationwide",
+            "country_id": 1
+          },
+          {
+            "location_id": 38,
+            "location_name": "Nghe An",
+            "country_id": 1
+          },
+          {
+            "location_id": 30,
+            "location_name": "Ninh Binh",
+            "country_id": 1
+          },
+          {
+            "location_id": 68,
+            "location_name": "Ninh Thuan",
+            "country_id": 1
+          },
+          {
+            "location_id": 1071,
+            "location_name": "North Central Coast",
+            "country_id": 1
+          },
+          {
+            "location_id": 901,
+            "location_name": "Other",
+            "country_id": 1
+          },
+          {
+            "location_id": 210,
+            "location_name": "Phu Tho",
+            "country_id": 1
+          },
+          {
+            "location_id": 57,
+            "location_name": "Phu Yen",
+            "country_id": 1
+          },
+          {
+            "location_id": 52,
+            "location_name": "Quang Binh",
+            "country_id": 1
+          },
+          {
+            "location_id": 510,
+            "location_name": "Quang Nam",
+            "country_id": 1
+          },
+          {
+            "location_id": 55,
+            "location_name": "Quang Ngai",
+            "country_id": 1
+          },
+          {
+            "location_id": 33,
+            "location_name": "Quang Ninh",
+            "country_id": 1
+          },
+          {
+            "location_id": 53,
+            "location_name": "Quang Tri",
+            "country_id": 1
+          },
+          {
+            "location_id": 1372,
+            "location_name": "Red Line Delta",
+            "country_id": 1
+          },
+          {
+            "location_id": 79,
+            "location_name": "Soc Trang",
+            "country_id": 1
+          },
+          {
+            "location_id": 22,
+            "location_name": "Son La",
+            "country_id": 1
+          },
+          {
+            "location_id": 1070,
+            "location_name": "South Central Coast",
+            "country_id": 1
+          },
+          {
+            "location_id": 1069,
+            "location_name": "Southeast",
+            "country_id": 1
+          },
+          {
+            "location_id": 54,
+            "location_name": "T. Thien Hue",
+            "country_id": 1
+          },
+          {
+            "location_id": 66,
+            "location_name": "Tay Ninh",
+            "country_id": 1
+          },
+          {
+            "location_id": 36,
+            "location_name": "Thai Binh",
+            "country_id": 1
+          },
+          {
+            "location_id": 280,
+            "location_name": "Thai Nguyen",
+            "country_id": 1
+          },
+          {
+            "location_id": 37,
+            "location_name": "Thanh Hoa",
+            "country_id": 1
+          },
+          {
+            "location_id": 73,
+            "location_name": "Tien Giang",
+            "country_id": 1
+          },
+          {
+            "location_id": 74,
+            "location_name": "Tra Vinh",
+            "country_id": 1
+          },
+          {
+            "location_id": 27,
+            "location_name": "Tuyen Quang",
+            "country_id": 1
+          },
+          {
+            "location_id": 70,
+            "location_name": "Vinh Long",
+            "country_id": 1
+          },
+          {
+            "location_id": 211,
+            "location_name": "Vinh Phuc",
+            "country_id": 1
+          },
+          {
+            "location_id": 29,
+            "location_name": "Yen Bai",
+            "country_id": 1
+          }
+        ]
+      },
+      {
+        "country_id": 2,
+        "country_name": "Japan",
+        "locations": [
+          {
+            "location_id": 1043,
+            "location_name": "Hokkaido",
+            "country_id": 2
+          },
+          {
+            "location_id": 1001,
+            "location_name": "Tokyo",
+            "country_id": 2
+          },
+          {
+            "location_id": 1002,
+            "location_name": "Yokohama",
+            "country_id": 2
+          }
+        ]
+      },
+      {
+        "country_id": 3,
+        "country_name": "Australia",
+        "locations": []
+      },
+      {
+        "country_id": 4,
+        "country_name": "Canada",
+        "locations": []
+      },
+      {
+        "country_id": 5,
+        "country_name": "China",
+        "locations": []
+      },
+      {
+        "country_id": 8,
+        "country_name": "Korea (South)",
+        "locations": []
+      },
+      {
+        "country_id": 9,
+        "country_name": "Malaysia",
+        "locations": [
+          {
+            "location_id": 1019,
+            "location_name": "Kuala Lumpur",
+            "country_id": 9
+          },
+          {
+            "location_id": 1078,
+            "location_name": "Malaysia",
+            "country_id": 9
+          }
+        ]
+      },
+      {
+        "country_id": 10,
+        "country_name": "Singapore",
+        "locations": [
+          {
+            "location_id": 1040,
+            "location_name": "Singapore",
+            "country_id": 10
+          }
+        ]
+      },
+      {
+        "country_id": 11,
+        "country_name": "Thailand",
+        "locations": [
+          {
+            "location_id": 1020,
+            "location_name": "Bangkok",
+            "country_id": 11
+          }
+        ]
+      },
+      {
+        "country_id": 13,
+        "country_name": "America",
+        "locations": [
+          {
+            "location_id": 1034,
+            "location_name": "Chicago",
+            "country_id": 13
+          },
+          {
+            "location_id": 1077,
+            "location_name": "Florida",
+            "country_id": 13
+          },
+          {
+            "location_id": 1033,
+            "location_name": "Miami",
+            "country_id": 13
+          },
+          {
+            "location_id": 1193,
+            "location_name": "New Jersey",
+            "country_id": 13
+          },
+          {
+            "location_id": 1039,
+            "location_name": "San Diego",
+            "country_id": 13
+          }
+        ]
+      },
+      {
+        "country_id": 14,
+        "country_name": "Cambodia",
+        "locations": [
+          {
+            "location_id": 1098,
+            "location_name": "Banteay Meanchey",
+            "country_id": 14
+          },
+          {
+            "location_id": 1096,
+            "location_name": "Battambang",
+            "country_id": 14
+          },
+          {
+            "location_id": 1092,
+            "location_name": "Kampong Chhnang",
+            "country_id": 14
+          },
+          {
+            "location_id": 1090,
+            "location_name": "Kampong Speu",
+            "country_id": 14
+          },
+          {
+            "location_id": 1085,
+            "location_name": "Kampot",
+            "country_id": 14
+          },
+          {
+            "location_id": 1088,
+            "location_name": "Kandal",
+            "country_id": 14
+          },
+          {
+            "location_id": 1084,
+            "location_name": "Kep",
+            "country_id": 14
+          },
+          {
+            "location_id": 1091,
+            "location_name": "Koh Kong",
+            "country_id": 14
+          },
+          {
+            "location_id": 1093,
+            "location_name": "Kratie",
+            "country_id": 14
+          },
+          {
+            "location_id": 1104,
+            "location_name": "Otdar Meanchey",
+            "country_id": 14
+          },
+          {
+            "location_id": 1103,
+            "location_name": "Pailin",
+            "country_id": 14
+          },
+          {
+            "location_id": 1041,
+            "location_name": "Phnompenh",
+            "country_id": 14
+          },
+          {
+            "location_id": 1099,
+            "location_name": "Preah Vihear",
+            "country_id": 14
+          },
+          {
+            "location_id": 1089,
+            "location_name": "Prey Veng",
+            "country_id": 14
+          },
+          {
+            "location_id": 1097,
+            "location_name": "Siem Reap",
+            "country_id": 14
+          },
+          {
+            "location_id": 1100,
+            "location_name": "Stung Treng",
+            "country_id": 14
+          },
+          {
+            "location_id": 1087,
+            "location_name": "Svay Rieng",
+            "country_id": 14
+          },
+          {
+            "location_id": 1082,
+            "location_name": "Tbong Khmum",
+            "country_id": 14
+          }
+        ]
+      },
+      {
+        "country_id": 15,
+        "country_name": "Philippines",
+        "locations": [
+          {
+            "location_id": 1044,
+            "location_name": "Philippines",
+            "country_id": 15
+          }
+        ]
+      },
+      {
+        "country_id": 16,
+        "country_name": "Ukraine",
+        "locations": [
+          {
+            "location_id": 1053,
+            "location_name": "Kharkiv",
+            "country_id": 16
+          }
+        ]
+      },
+      {
+        "country_id": 17,
+        "country_name": "Qatar",
+        "locations": [
+          {
+            "location_id": 1055,
+            "location_name": "Qatar",
+            "country_id": 17
+          }
+        ]
+      },
+      {
+        "country_id": 19,
+        "country_name": "Laos",
+        "locations": [
+          {
+            "location_id": 1106,
+            "location_name": "Attapeu",
+            "country_id": 19
+          },
+          {
+            "location_id": 1107,
+            "location_name": "Bokeo",
+            "country_id": 19
+          },
+          {
+            "location_id": 1109,
+            "location_name": "Champasak",
+            "country_id": 19
+          },
+          {
+            "location_id": 1110,
+            "location_name": "Houaphanh",
+            "country_id": 19
+          },
+          {
+            "location_id": 1111,
+            "location_name": "Khammouane",
+            "country_id": 19
+          },
+          {
+            "location_id": 1113,
+            "location_name": "Luang Prabang",
+            "country_id": 19
+          },
+          {
+            "location_id": 1115,
+            "location_name": "Phongsaly",
+            "country_id": 19
+          },
+          {
+            "location_id": 1059,
+            "location_name": "Vientiane",
+            "country_id": 19
+          },
+          {
+            "location_id": 1120,
+            "location_name": "Xiangkhouang",
+            "country_id": 19
+          }
+        ]
+      },
+      {
+        "country_id": 20,
+        "country_name": "Taiwan",
+        "locations": []
+      },
+      {
+        "country_id": 21,
+        "country_name": "Myanmar",
+        "locations": [
+          {
+            "location_id": 1320,
+            "location_name": "Yangon",
+            "country_id": 21
+          }
+        ]
+      },
+      {
+        "country_id": 22,
+        "country_name": "Bangladesh",
+        "locations": []
+      },
+      {
+        "country_id": 23,
+        "country_name": "International",
+        "locations": [
+          {
+            "location_id": 1073,
+            "location_name": "Oversea",
+            "country_id": 23
+          }
+        ]
+      },
+      {
+        "country_id": 24,
+        "country_name": "Hong Kong",
+        "locations": [
+          {
+            "location_id": 1079,
+            "location_name": "HongKong",
+            "country_id": 24
+          }
+        ]
+      },
+      {
+        "country_id": 25,
+        "country_name": "Republic of Congo",
+        "locations": []
+      },
+      {
+        "country_id": 113,
+        "country_name": "Indonesia",
+        "locations": [
+          {
+            "location_id": 1322,
+            "location_name": "Indonesia",
+            "country_id": 113
+          },
+          {
+            "location_id": 1368,
+            "location_name": "Jakarta",
+            "country_id": 113
+          }
+        ]
+      },
+      {
+        "country_id": 126,
+        "country_name": "Kyrgyzstan",
+        "locations": [
+          {
+            "location_id": 1373,
+            "location_name": "Kyrgyzstan",
+            "country_id": 126
+          }
+        ]
+      },
+      {
+        "country_id": 153,
+        "country_name": "Mozambique",
+        "locations": [
+          {
+            "location_id": 1374,
+            "location_name": "Mozambique",
+            "country_id": 153
+          }
+        ]
+      },
+      {
+        "country_id": 169,
+        "country_name": "Others",
+        "locations": [
+          {
+            "location_id": 1318,
+            "location_name": "Other",
+            "country_id": 169
+          }
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "location_id": 4,
+        "location_name": "Ha Noi",
+        "country_id": 1
+      },
+      {
+        "location_id": 8,
+        "location_name": "Ho Chi Minh",
+        "country_id": 1
+      },
+      {
+        "location_id": 76,
+        "location_name": "An Giang",
+        "country_id": 1
+      },
+      {
+        "location_id": 64,
+        "location_name": "Ba Ria-VT",
+        "country_id": 1
+      },
+      {
+        "location_id": 281,
+        "location_name": "Bac Can",
+        "country_id": 1
+      },
+      {
+        "location_id": 240,
+        "location_name": "Bac Giang",
+        "country_id": 1
+      },
+      {
+        "location_id": 781,
+        "location_name": "Bac Lieu",
+        "country_id": 1
+      },
+      {
+        "location_id": 241,
+        "location_name": "Bac Ninh",
+        "country_id": 1
+      },
+      {
+        "location_id": 75,
+        "location_name": "Ben Tre",
+        "country_id": 1
+      },
+      {
+        "location_id": 56,
+        "location_name": "Binh Dinh",
+        "country_id": 1
+      },
+      {
+        "location_id": 650,
+        "location_name": "Binh Duong",
+        "country_id": 1
+      },
+      {
+        "location_id": 651,
+        "location_name": "Binh Phuoc",
+        "country_id": 1
+      },
+      {
+        "location_id": 62,
+        "location_name": "Binh Thuan",
+        "country_id": 1
+      },
+      {
+        "location_id": 78,
+        "location_name": "Ca Mau",
+        "country_id": 1
+      },
+      {
+        "location_id": 71,
+        "location_name": "Can Tho",
+        "country_id": 1
+      },
+      {
+        "location_id": 26,
+        "location_name": "Cao Bang",
+        "country_id": 1
+      },
+      {
+        "location_id": 1072,
+        "location_name": "Central Highlands",
+        "country_id": 1
+      },
+      {
+        "location_id": 511,
+        "location_name": "Da Nang",
+        "country_id": 1
+      },
+      {
+        "location_id": 1042,
+        "location_name": "Dak Nông",
+        "country_id": 1
+      },
+      {
+        "location_id": 50,
+        "location_name": "DakLak",
+        "country_id": 1
+      },
+      {
+        "location_id": 900,
+        "location_name": "Dien Bien",
+        "country_id": 1
+      },
+      {
+        "location_id": 61,
+        "location_name": "Dong Nai",
+        "country_id": 1
+      },
+      {
+        "location_id": 67,
+        "location_name": "Dong Thap",
+        "country_id": 1
+      },
+      {
+        "location_id": 59,
+        "location_name": "Gia Lai",
+        "country_id": 1
+      },
+      {
+        "location_id": 19,
+        "location_name": "Ha Giang",
+        "country_id": 1
+      },
+      {
+        "location_id": 351,
+        "location_name": "Ha Nam",
+        "country_id": 1
+      },
+      {
+        "location_id": 39,
+        "location_name": "Ha Tinh",
+        "country_id": 1
+      },
+      {
+        "location_id": 320,
+        "location_name": "Hai Duong",
+        "country_id": 1
+      },
+      {
+        "location_id": 31,
+        "location_name": "Hai Phong",
+        "country_id": 1
+      },
+      {
+        "location_id": 780,
+        "location_name": "Hau Giang",
+        "country_id": 1
+      },
+      {
+        "location_id": 18,
+        "location_name": "Hoa Binh",
+        "country_id": 1
+      },
+      {
+        "location_id": 321,
+        "location_name": "Hung Yen",
+        "country_id": 1
+      },
+      {
+        "location_id": 58,
+        "location_name": "Khanh Hoa",
+        "country_id": 1
+      },
+      {
+        "location_id": 77,
+        "location_name": "Kien Giang",
+        "country_id": 1
+      },
+      {
+        "location_id": 60,
+        "location_name": "Kon Tum",
+        "country_id": 1
+      },
+      {
+        "location_id": 23,
+        "location_name": "Lai Chau",
+        "country_id": 1
+      },
+      {
+        "location_id": 63,
+        "location_name": "Lam Dong",
+        "country_id": 1
+      },
+      {
+        "location_id": 25,
+        "location_name": "Lang Son",
+        "country_id": 1
+      },
+      {
+        "location_id": 20,
+        "location_name": "Lao Cai",
+        "country_id": 1
+      },
+      {
+        "location_id": 72,
+        "location_name": "Long An",
+        "country_id": 1
+      },
+      {
+        "location_id": 1064,
+        "location_name": "Mekong Delta",
+        "country_id": 1
+      },
+      {
+        "location_id": 350,
+        "location_name": "Nam Dinh",
+        "country_id": 1
+      },
+      {
+        "location_id": 1065,
+        "location_name": "Nationwide",
+        "country_id": 1
+      },
+      {
+        "location_id": 38,
+        "location_name": "Nghe An",
+        "country_id": 1
+      },
+      {
+        "location_id": 30,
+        "location_name": "Ninh Binh",
+        "country_id": 1
+      },
+      {
+        "location_id": 68,
+        "location_name": "Ninh Thuan",
+        "country_id": 1
+      },
+      {
+        "location_id": 1071,
+        "location_name": "North Central Coast",
+        "country_id": 1
+      },
+      {
+        "location_id": 901,
+        "location_name": "Other",
+        "country_id": 1
+      },
+      {
+        "location_id": 210,
+        "location_name": "Phu Tho",
+        "country_id": 1
+      },
+      {
+        "location_id": 57,
+        "location_name": "Phu Yen",
+        "country_id": 1
+      },
+      {
+        "location_id": 52,
+        "location_name": "Quang Binh",
+        "country_id": 1
+      },
+      {
+        "location_id": 510,
+        "location_name": "Quang Nam",
+        "country_id": 1
+      },
+      {
+        "location_id": 55,
+        "location_name": "Quang Ngai",
+        "country_id": 1
+      },
+      {
+        "location_id": 33,
+        "location_name": "Quang Ninh",
+        "country_id": 1
+      },
+      {
+        "location_id": 53,
+        "location_name": "Quang Tri",
+        "country_id": 1
+      },
+      {
+        "location_id": 1372,
+        "location_name": "Red Line Delta",
+        "country_id": 1
+      },
+      {
+        "location_id": 79,
+        "location_name": "Soc Trang",
+        "country_id": 1
+      },
+      {
+        "location_id": 22,
+        "location_name": "Son La",
+        "country_id": 1
+      },
+      {
+        "location_id": 1070,
+        "location_name": "South Central Coast",
+        "country_id": 1
+      },
+      {
+        "location_id": 1069,
+        "location_name": "Southeast",
+        "country_id": 1
+      },
+      {
+        "location_id": 54,
+        "location_name": "T. Thien Hue",
+        "country_id": 1
+      },
+      {
+        "location_id": 66,
+        "location_name": "Tay Ninh",
+        "country_id": 1
+      },
+      {
+        "location_id": 36,
+        "location_name": "Thai Binh",
+        "country_id": 1
+      },
+      {
+        "location_id": 280,
+        "location_name": "Thai Nguyen",
+        "country_id": 1
+      },
+      {
+        "location_id": 37,
+        "location_name": "Thanh Hoa",
+        "country_id": 1
+      },
+      {
+        "location_id": 73,
+        "location_name": "Tien Giang",
+        "country_id": 1
+      },
+      {
+        "location_id": 74,
+        "location_name": "Tra Vinh",
+        "country_id": 1
+      },
+      {
+        "location_id": 27,
+        "location_name": "Tuyen Quang",
+        "country_id": 1
+      },
+      {
+        "location_id": 70,
+        "location_name": "Vinh Long",
+        "country_id": 1
+      },
+      {
+        "location_id": 211,
+        "location_name": "Vinh Phuc",
+        "country_id": 1
+      },
+      {
+        "location_id": 29,
+        "location_name": "Yen Bai",
+        "country_id": 1
+      },
+      {
+        "location_id": 1043,
+        "location_name": "Hokkaido",
+        "country_id": 2
+      },
+      {
+        "location_id": 1001,
+        "location_name": "Tokyo",
+        "country_id": 2
+      },
+      {
+        "location_id": 1002,
+        "location_name": "Yokohama",
+        "country_id": 2
+      },
+      {
+        "location_id": 1019,
+        "location_name": "Kuala Lumpur",
+        "country_id": 9
+      },
+      {
+        "location_id": 1078,
+        "location_name": "Malaysia",
+        "country_id": 9
+      },
+      {
+        "location_id": 1040,
+        "location_name": "Singapore",
+        "country_id": 10
+      },
+      {
+        "location_id": 1020,
+        "location_name": "Bangkok",
+        "country_id": 11
+      },
+      {
+        "location_id": 1034,
+        "location_name": "Chicago",
+        "country_id": 13
+      },
+      {
+        "location_id": 1077,
+        "location_name": "Florida",
+        "country_id": 13
+      },
+      {
+        "location_id": 1033,
+        "location_name": "Miami",
+        "country_id": 13
+      },
+      {
+        "location_id": 1193,
+        "location_name": "New Jersey",
+        "country_id": 13
+      },
+      {
+        "location_id": 1039,
+        "location_name": "San Diego",
+        "country_id": 13
+      },
+      {
+        "location_id": 1098,
+        "location_name": "Banteay Meanchey",
+        "country_id": 14
+      },
+      {
+        "location_id": 1096,
+        "location_name": "Battambang",
+        "country_id": 14
+      },
+      {
+        "location_id": 1092,
+        "location_name": "Kampong Chhnang",
+        "country_id": 14
+      },
+      {
+        "location_id": 1090,
+        "location_name": "Kampong Speu",
+        "country_id": 14
+      },
+      {
+        "location_id": 1085,
+        "location_name": "Kampot",
+        "country_id": 14
+      },
+      {
+        "location_id": 1088,
+        "location_name": "Kandal",
+        "country_id": 14
+      },
+      {
+        "location_id": 1084,
+        "location_name": "Kep",
+        "country_id": 14
+      },
+      {
+        "location_id": 1091,
+        "location_name": "Koh Kong",
+        "country_id": 14
+      },
+      {
+        "location_id": 1093,
+        "location_name": "Kratie",
+        "country_id": 14
+      },
+      {
+        "location_id": 1104,
+        "location_name": "Otdar Meanchey",
+        "country_id": 14
+      },
+      {
+        "location_id": 1103,
+        "location_name": "Pailin",
+        "country_id": 14
+      },
+      {
+        "location_id": 1041,
+        "location_name": "Phnompenh",
+        "country_id": 14
+      },
+      {
+        "location_id": 1099,
+        "location_name": "Preah Vihear",
+        "country_id": 14
+      },
+      {
+        "location_id": 1089,
+        "location_name": "Prey Veng",
+        "country_id": 14
+      },
+      {
+        "location_id": 1097,
+        "location_name": "Siem Reap",
+        "country_id": 14
+      },
+      {
+        "location_id": 1100,
+        "location_name": "Stung Treng",
+        "country_id": 14
+      },
+      {
+        "location_id": 1087,
+        "location_name": "Svay Rieng",
+        "country_id": 14
+      },
+      {
+        "location_id": 1082,
+        "location_name": "Tbong Khmum",
+        "country_id": 14
+      },
+      {
+        "location_id": 1044,
+        "location_name": "Philippines",
+        "country_id": 15
+      },
+      {
+        "location_id": 1053,
+        "location_name": "Kharkiv",
+        "country_id": 16
+      },
+      {
+        "location_id": 1055,
+        "location_name": "Qatar",
+        "country_id": 17
+      },
+      {
+        "location_id": 1106,
+        "location_name": "Attapeu",
+        "country_id": 19
+      },
+      {
+        "location_id": 1107,
+        "location_name": "Bokeo",
+        "country_id": 19
+      },
+      {
+        "location_id": 1109,
+        "location_name": "Champasak",
+        "country_id": 19
+      },
+      {
+        "location_id": 1110,
+        "location_name": "Houaphanh",
+        "country_id": 19
+      },
+      {
+        "location_id": 1111,
+        "location_name": "Khammouane",
+        "country_id": 19
+      },
+      {
+        "location_id": 1113,
+        "location_name": "Luang Prabang",
+        "country_id": 19
+      },
+      {
+        "location_id": 1115,
+        "location_name": "Phongsaly",
+        "country_id": 19
+      },
+      {
+        "location_id": 1059,
+        "location_name": "Vientiane",
+        "country_id": 19
+      },
+      {
+        "location_id": 1120,
+        "location_name": "Xiangkhouang",
+        "country_id": 19
+      },
+      {
+        "location_id": 1320,
+        "location_name": "Yangon",
+        "country_id": 21
+      },
+      {
+        "location_id": 1073,
+        "location_name": "Oversea",
+        "country_id": 23
+      },
+      {
+        "location_id": 1079,
+        "location_name": "HongKong",
+        "country_id": 24
+      },
+      {
+        "location_id": 1322,
+        "location_name": "Indonesia",
+        "country_id": 113
+      },
+      {
+        "location_id": 1368,
+        "location_name": "Jakarta",
+        "country_id": 113
+      },
+      {
+        "location_id": 1373,
+        "location_name": "Kyrgyzstan",
+        "country_id": 126
+      },
+      {
+        "location_id": 1374,
+        "location_name": "Mozambique",
+        "country_id": 153
+      },
+      {
+        "location_id": 1318,
+        "location_name": "Other",
+        "country_id": 169
+      }
+    ]
+  },
+  "metadata": {
+    "timestamp": 1780752717024,
+    "version": "prd-05062601",
+    "path": "/api/v1/cs/jsk/locations"
+  }
+}

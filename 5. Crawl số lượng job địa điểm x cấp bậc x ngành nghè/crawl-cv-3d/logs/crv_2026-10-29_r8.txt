@@ -1,0 +1,19 @@
+
+============================================================
+  CareerViet CV Crawler — 2026-10-30 04:27
+============================================================
+
+[1/3] Kiểm tra session...
+[auth] Cookie hợp lệ, bắt đầu crawl...
+
+[2/3] Lấy danh sách ngành nghề, địa điểm, cấp bậc...
+      70 ngành — 71 địa điểm — 7 cấp bậc
+      ~4970 cặp (Ngành × ĐĐ), ước tính ~149 phút
+
+[3/3] Bắt đầu crawl (checkpoint mỗi 200 hàng)...
+
+[crv] Resume: đã có 4970 cặp (Ngành × ĐĐ) hôm nay — skip
+
+  Hoàn thành trong 0 phút.
+============================================================
+

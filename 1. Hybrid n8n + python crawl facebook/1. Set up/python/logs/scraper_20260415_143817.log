@@ -1,0 +1,56 @@
+2026-04-15 14:38:17,363 - INFO - ============================================================
+2026-04-15 14:38:17,363 - INFO - FB GROUP SCRAPER - Chỉ lấy bài có EMAIL (dedup)
+2026-04-15 14:38:17,363 - INFO - Thời gian: 2026-04-15 14:38:17
+2026-04-15 14:38:17,363 - INFO - ============================================================
+2026-04-15 14:38:17,405 - INFO - Sẽ cào 1 groups (KHÔNG đăng nhập)
+2026-04-15 14:38:17,405 - INFO - Chỉ lấy bài có EMAIL liên hệ
+2026-04-15 14:38:17,911 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 14:38:27,450 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 14:38:30,625 - INFO -   Scroll 1/15 - Thấy 4 bài, tiềm năng: 4
+2026-04-15 14:38:33,765 - INFO -   Scroll 2/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:36,869 - INFO -   Scroll 3/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:39,994 - INFO -   Scroll 4/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:43,096 - INFO -   Scroll 5/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:46,201 - INFO -   Scroll 6/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:49,300 - INFO -   Scroll 7/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:52,405 - INFO -   Scroll 8/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:55,558 - INFO -   Scroll 9/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:38:58,684 - INFO -   Scroll 10/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:39:01,805 - INFO -   Scroll 11/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:39:04,905 - INFO -   Scroll 12/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:39:08,009 - INFO -   Scroll 13/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:39:11,109 - INFO -   Scroll 14/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:39:14,209 - INFO -   Scroll 15/15 - Thấy 7 bài, tiềm năng: 7
+2026-04-15 14:39:14,209 - INFO -   Lọc sơ bộ: 7/7 bài có từ khóa tuyển dụng
+2026-04-15 14:39:14,210 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 14:39:14,210 - INFO -   [1/7] Đang xử lý...
+2026-04-15 14:39:19,726 - INFO -   ✅ Email: thao.ntp1@altius-link.vn
+2026-04-15 14:39:20,239 - INFO -   [2/7] Đang xử lý...
+2026-04-15 14:39:25,522 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:39:25,522 - INFO -   [3/7] Đang xử lý...
+2026-04-15 14:39:30,850 - INFO -   ⏭ Bỏ qua (email trùng: thao.ntp1@altius-link.vn)
+2026-04-15 14:39:30,850 - INFO -   [4/7] Đang xử lý...
+2026-04-15 14:39:36,109 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:39:36,109 - INFO -   [5/7] Đang xử lý...
+2026-04-15 14:39:41,425 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:39:41,425 - INFO -   [6/7] Đang xử lý...
+2026-04-15 14:39:46,705 - INFO -   ⏭ Bỏ qua (email trùng: thao.ntp1@altius-link.vn)
+2026-04-15 14:39:46,706 - INFO -   [7/7] Đang xử lý...
+2026-04-15 14:39:51,291 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 14:39:51,291 - INFO -   Bỏ qua 4 bài không có email
+2026-04-15 14:39:51,292 - INFO -   Bỏ qua 2 bài email trùng
+2026-04-15 14:39:51,292 - INFO -   → Lấy được 1 bài có email từ Group tuyển dụng 1
+2026-04-15 14:39:54,376 - INFO - 
+=== KẾT QUẢ ===
+2026-04-15 14:39:54,376 - INFO - Tổng: 1 bài có email từ 1 groups
+2026-04-15 14:39:54,376 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-15 14:39:54,376 - INFO - 
+Thời gian cào: 97 giây (1.6 phút)
+2026-04-15 14:39:54,376 - INFO - 
+Đang upload lên Google Drive...
+2026-04-15 14:39:54,741 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 14:39:58,834 - INFO - Đã upload: fb_posts_20260415.json
+2026-04-15 14:39:58,834 - INFO - Link: https://drive.google.com/file/d/1_NqwnfVhvhkypiSKk105qfNh4UpN3G7M/view?usp=drivesdk
+2026-04-15 14:39:58,835 - INFO - 
+=== HOÀN TẤT ===

@@ -1,0 +1,475 @@
+{
+  "name": "FB Scraper - Tuyển Dụng → Google Sheets",
+  "nodes": [
+    {
+      "parameters": {
+        "url": "https://www.googleapis.com/drive/v3/files",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "googleDriveOAuth2Api",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "q",
+              "value": "='1MrjKnFoSt259LR6lZY2jLhT29jh9Ifuq' in parents and trashed = false and createdTime > '{{ new Date(Date.now() - 24*60*60*1000).toISOString() }}'"
+            },
+            {
+              "name": "fields",
+              "value": "files(id,name,createdTime)"
+            },
+            {
+              "name": "orderBy",
+              "value": "createdTime desc"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -3296,
+        176
+      ],
+      "id": "48bc08fc-2588-416e-8f8e-f4f5c41ccd20",
+      "name": "Lấy file trong drive",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "37Co5rnVptXwpuPQ",
+          "name": "apìy"
+        },
+        "googleDriveOAuth2Api": {
+          "id": "la3IQB3BNZh48oyV",
+          "name": "Hundrek"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "appendOrUpdate",
+        "documentId": {
+          "__rl": true,
+          "value": "10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog",
+          "mode": "list",
+          "cachedResultName": "Tự động lấy Mã số thuế ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1018372948,
+          "mode": "list",
+          "cachedResultName": "Crawl bài đăng facebook ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit#gid=1018372948"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Nội dung bài viết ": "={{ $json.text }}",
+            "Địa chỉ": "={{ $json.diaChi }}",
+            "Tên công ty": "={{ $json.tenCongTy }}",
+            "STT": "==Row()-1",
+            "SĐT": "={{ $json.phone }}",
+            "Email": "={{ $json.email }}",
+            "Thời gian crawl": "={{ $json.scrapedAt }}",
+            "Link bài viết": "={{ $json.postUrl }}",
+            "Ngày đăng bài ": "={{ $json.ngayDang }}"
+          },
+          "matchingColumns": [
+            "Link bài viết"
+          ],
+          "schema": [
+            {
+              "id": "STT",
+              "displayName": "STT",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Tên công ty",
+              "displayName": "Tên công ty",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Địa chỉ",
+              "displayName": "Địa chỉ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Nội dung bài viết ",
+              "displayName": "Nội dung bài viết ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "SĐT",
+              "displayName": "SĐT",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Email",
+              "displayName": "Email",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Ngày đăng bài ",
+              "displayName": "Ngày đăng bài ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Thời gian crawl",
+              "displayName": "Thời gian crawl",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Link bài viết",
+              "displayName": "Link bài viết",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        -1488,
+        336
+      ],
+      "id": "dcb85d50-35d4-46ad-b5ef-97876e55d197",
+      "name": "TỰ động điền",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "v0I6RIlaIZ9QNKjH",
+          "name": "Hundrek"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "=https://www.googleapis.com/drive/v3/files/{{ $json.id }}?alt=media",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "googleDriveOAuth2Api",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "text"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -2832,
+        176
+      ],
+      "id": "449c330d-a366-4431-85c8-fb05a07d12bc",
+      "name": "HTTP Request",
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "la3IQB3BNZh48oyV",
+          "name": "Hundrek"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "var results = [];\n\n// ════════════════════════════════════════\n// 1. CLEAN TEXT\n// ════════════════════════════════════════\nfunction cleanText(text) {\n  if (!text) return '';\n\n  text = text.replace(\n    /^[\\s\\S]*?·\\n\\s*(?:\\d+\\s*(?:phút|giờ|ngày|tuần|tháng|giây)|(?:\\d{1,2}\\s+Tháng\\s+\\d{1,2}[^\\n]*))\\s*\\n\\s*·\\s*\\n/i,\n    ''\n  );\n\n  text = text.replace(\n    /\\n?\\s*(?:Tất cả cảm xúc[\\s\\S]*|\\d+\\s*(?:bình luận|lượt chia sẻ)\\s*\\nThích[\\s\\S]*|(?:^|\\n)Thích\\nBình luận\\nChia sẻ[\\s\\S]*)/im,\n    ''\n  );\n\n  var boldMap = {\n    '𝐀':'A','𝐁':'B','𝐂':'C','𝐃':'D','𝐄':'E','𝐅':'F','𝐆':'G','𝐇':'H',\n    '𝐈':'I','𝐉':'J','𝐊':'K','𝐋':'L','𝐌':'M','𝐍':'N','𝐎':'O','𝐏':'P',\n    '𝐐':'Q','𝐑':'R','𝐒':'S','𝐓':'T','𝐔':'U','𝐕':'V','𝐖':'W','𝐗':'X',\n    '𝐘':'Y','𝐙':'Z','𝐚':'a','𝐛':'b','𝐜':'c','𝐝':'d','𝐞':'e','𝐟':'f',\n    '𝐠':'g','𝐡':'h','𝐢':'i','𝐣':'j','𝐤':'k','𝐥':'l','𝐦':'m','𝐧':'n',\n    '𝐨':'o','𝐩':'p','𝐪':'q','𝐫':'r','𝐬':'s','𝐭':'t','𝐮':'u','𝐯':'v',\n    '𝐰':'w','𝐱':'x','𝐲':'y','𝐳':'z','𝟎':'0','𝟏':'1','𝟐':'2','𝟑':'3',\n    '𝟒':'4','𝟓':'5','𝟔':'6','𝟕':'7','𝟖':'8','𝟗':'9'\n  };\n  text = text.split('').map(function(c) { return boldMap[c] || c; }).join('');\n\n  return text.replace(/\\n{3,}/g, '\\n\\n').trim();\n}\n\n\n// ════════════════════════════════════════\n// 2. NGÀY ĐĂNG\n// ════════════════════════════════════════\nfunction extractNgayDang(post) {\n  var text = post.text || '';\n  var scrapedDate = post.scrapedAt\n    ? new Date(post.scrapedAt).toISOString().split('T')[0]\n    : new Date().toISOString().split('T')[0];\n\n  var timeMatch = text.match(/·\\n(\\d+\\s*(?:phút|giờ|giây))\\s*\\n/i);\n  var dateMatch = text.match(/·\\n(\\d{1,2}\\s+Tháng\\s+\\d{1,2}(?:\\s+lúc\\s+[\\d:]+)?)\\s*\\n/i);\n  var daysMatch = text.match(/·\\n(\\d+)\\s*ngày\\s*\\n/i);\n  var weekMatch = text.match(/·\\n(\\d+)\\s*tuần\\s*\\n/i);\n\n  if (timeMatch) return scrapedDate;\n  if (dateMatch) return dateMatch[1].trim();\n  if (daysMatch) {\n    var d1 = new Date(post.scrapedAt || new Date());\n    d1.setDate(d1.getDate() - parseInt(daysMatch[1]));\n    return d1.toISOString().split('T')[0];\n  }\n  if (weekMatch) {\n    var d2 = new Date(post.scrapedAt || new Date());\n    d2.setDate(d2.getDate() - parseInt(weekMatch[1]) * 7);\n    return d2.toISOString().split('T')[0];\n  }\n  return (post.postTime && post.postTime.trim()) ? post.postTime.trim() : scrapedDate;\n}\n\n\n// ════════════════════════════════════════\n// 3. ĐỊA CHỈ\n// ════════════════════════════════════════\nfunction normalizeAddr(str) {\n  if (!str) return '';\n  str = str.replace(/^[•\\-\\*\\s\\[]+/, '');\n  str = str.replace(/[\\]\\s]+$/, '');\n  str = str.replace(/\\bTPHCM\\b/gi, 'TP. Hồ Chí Minh');\n  str = str.replace(/\\bTP\\.\\s*HCM\\b/gi, 'TP. Hồ Chí Minh');\n  str = str.replace(/\\bTP\\.HCM\\b/gi, 'TP. Hồ Chí Minh');\n  str = str.replace(/\\bHCM\\b/g, 'TP. Hồ Chí Minh');\n  str = str.replace(/\\bHN\\b/g, 'Hà Nội');\n  str = str.replace(/\\bĐN\\b/g, 'Đà Nẵng');\n  str = str.replace(/\\bBD\\b/g, 'Bình Dương');\n  str = str.replace(/\\bHP\\b/g, 'Hải Phòng');\n  str = str.replace(/TP\\.\\s+TP\\./gi, 'TP.');\n  str = str.replace(/^làm\\s*việc\\s+/i, '');\n  str = str.replace(/[,;\\s\\.]+$/, '').trim();\n  return str;\n}\n\nfunction isValidAddr(str, hasKeyword) {\n  if (!str || str.length < 3) return false;\n  if (str.includes('@') || str.includes('http')) return false;\n  if (/thứ\\s*\\d|chủ\\s*nhật|giờ\\s*hành\\s*chính|sáng|chiều/i.test(str)) return false;\n  if (hasKeyword) return true;\n  var geoWords = [\n    'hà nội', 'hồ chí minh', 'đà nẵng', 'hải phòng', 'cần thơ',\n    'bình dương', 'đồng nai', 'nghệ an', 'thanh hóa', 'quảng ninh',\n    'thái nguyên', 'nam định', 'khánh hòa', 'lâm đồng', 'bắc ninh',\n    'sài gòn', 'thủ đức', 'tân bình', 'hoàng mai', 'thanh xuân',\n    'đống đa', 'cầu giấy', 'mỹ đình', 'nam từ liêm', 'duy tân',\n    'gò vấp', 'tân phú', 'bình thạnh', 'hạ long', 'thanh trì',\n    'ninh kiều', 'biên hòa', 'vĩnh hưng', 'khuất duy tiến',\n    'thạch thất', 'hoàng quốc việt', 'nguyễn trãi', 'lê văn lương',\n    'phạm văn đồng', 'trần duy hưng', 'xuân thủy', 'cầu diễn',\n    'nguyễn xiển', 'lê đức thọ', 'nguyễn huy tưởng', 'duy tân',\n    'quận', 'huyện', 'phường', 'đường', 'phố', 'ngõ', 'ngách',\n    'tòa', 'lô', 'số ', 'tp.', 'tỉnh',\n    'q1','q2','q3','q4','q5','q6','q7','q8','q9','q10','q11','q12',\n    'q.1','q.2','q.3','q.4','q.5','q.6','q.7','q.8','q.9','q.10','q.11','q.12'\n  ];\n  var lower = str.toLowerCase();\n  return geoWords.some(function(w) { return lower.indexOf(w) !== -1; });\n}\n\nfunction extractDiaChi(text) {\n  if (!text) return '';\n  var m, addr;\n\n  // ── P1: Keyword + giá trị CÙNG DÒNG ──\n  var kwPatterns = [\n    /(?:•\\s*)?(?:\\*{1,2})?(?:địa\\s*(?:chỉ|điểm)(?:\\s*làm\\s*việc)?)\\s*[:\\-]\\s*([^\\n]{3,150})/i,\n    /(?:làm\\s*việc\\s*tại|trụ\\s*sở)\\s*[:\\-]\\s*([^\\n]{3,120})/i,\n    /(?:\\*\\s*)?ĐỊA\\s*CHỈ\\s*[:\\-]\\s*([^\\n]{3,120})/i,\n  ];\n  for (var i = 0; i < kwPatterns.length; i++) {\n    m = text.match(kwPatterns[i]);\n    if (m && m[1]) {\n      addr = normalizeAddr(m[1].trim());\n      if (isValidAddr(addr, true)) return addr;\n    }\n  }\n\n  // ── P2: Keyword trên dòng riêng, địa chỉ dòng tiếp ──\n  m = text.match(/(?:địa\\s*(?:chỉ|điểm)(?:\\s*làm\\s*việc)?|ĐỊA\\s*ĐIỂM\\s*LÀM\\s*VIỆC)[:\\s]*\\n\\s*(?:[-•]\\s*)?([^\\n]{3,150})/i);\n  if (m && m[1]) {\n    addr = normalizeAddr(m[1].trim());\n    if (isValidAddr(addr, true)) return addr;\n  }\n\n  // ── P3: \"khu vực X, Y\" ──\n  m = text.match(/khu\\s*vực\\s+([^\\n,]{3,40},\\s*[^\\n]{3,40})/i);\n  if (m && m[1]) {\n    addr = normalizeAddr(m[1].trim());\n    if (isValidAddr(addr, false)) return addr;\n  }\n\n  // ── P4: \"(LOẠI) - khu vực X\" hoặc địa danh cuối tiêu đề ──\n  m = text.match(/\\([^)]+\\)\\s*-\\s*(?:khu\\s*vực\\s+)?([^\\n]{5,60})/i);\n  if (m && m[1]) {\n    addr = normalizeAddr(m[1].trim());\n    if (isValidAddr(addr, false)) return addr;\n  }\n\n  // ── P4b: \"ĐỊA DANH/ĐỊA DANH (VỊ TRÍ)\" ở dòng đầu ──\n  // VD: \"THẠCH THẤT/HÀ NỘI (HR CHIEF)\" → \"Thạch Thất/Hà Nội\"\n  // VD: \"HCM/HÀ NỘI\" → \"TP. Hồ Chí Minh/Hà Nội\"\n  var firstLine4b = text.split('\\n')[0] || '';\n  m = firstLine4b.match(/^([^\\n(\\[\\]]{3,30}\\/[^\\n(\\[\\]]{2,25})(?:\\s*\\([^)]*\\))?$/);\n  if (m && m[1]) {\n    addr = normalizeAddr(m[1].trim());\n    if (addr.length <= 40 && isValidAddr(addr, false)) return addr;\n  }\n\n  // ── P5: Phần cuối dòng đầu sau dấu - hoặc – ──\n  var firstLine = text.split('\\n')[0] || '';\n  var parts = firstLine.split(/\\s*[-–—]\\s*/);\n  if (parts.length >= 2) {\n    var lastPart = normalizeAddr(parts[parts.length - 1].trim());\n    if (isValidAddr(lastPart, false) && lastPart.length <= 30) {\n      return lastPart;\n    }\n  }\n\n  // ── P6: Bracket đầu text ──\n  m = text.match(/^\\[([^\\]]{2,60})\\]/);\n  if (m && m[1]) {\n    var inner = m[1];\n    if (!/tuyển|dụng|group/i.test(inner)) {\n      addr = normalizeAddr(inner.trim());\n      // FIX: strip text thừa sau Q\\d+ trước khi swap (VD: \"TP. Hồ Chí Minh Q1 Tuyển...\")\n      addr = addr.replace(/^(TP\\.[^\\d,]+)\\s+(Q\\d+).*$/i, '$2, $1');\n      addr = addr.replace(/^(Q\\d+)[^,]*,\\s*(TP\\..+)$/, '$1, $2'); // giữ sạch nếu đã đúng thứ tự\n      if (isValidAddr(addr, false)) return addr;\n    } else {\n      var dashPart = inner.match(/-\\s*([^-\\]]+?)(?:\\s+TUYỂN|\\s+CẦN|$)/i);\n      if (dashPart && dashPart[1]) {\n        addr = normalizeAddr(dashPart[1].trim());\n        if (isValidAddr(addr, false)) return addr;\n      }\n      var lamViec = inner.match(/làm\\s*việc\\s+(.+)/i);\n      if (lamViec && lamViec[1]) {\n        addr = normalizeAddr(lamViec[1].trim());\n        if (isValidAddr(addr, false)) return addr;\n      }\n    }\n  }\n\n  // ── P7: Số nhà + đường + quận + tỉnh ──\n  m = text.match(/(\\d+[A-Za-z\\/\\-]*\\s+[^\\n,@]{3,40},\\s*[^\\n,@]{3,40},\\s*[^\\n@]{3,40})/);\n  if (m && m[1]) {\n    addr = normalizeAddr(m[1].trim());\n    if (isValidAddr(addr, false) && !addr.includes('@')) return addr;\n  }\n\n  // ── P8: Tòa nhà X, địa chỉ ──\n  m = text.match(/tòa\\s+nhà\\s+[^\\n,]{2,30},\\s*[^\\n]{5,80}/i);\n  if (m && m[0]) {\n    addr = normalizeAddr(m[0].trim());\n    if (isValidAddr(addr, false)) return addr;\n  }\n\n  // ── P9: Quận/khu vực + tỉnh thành cụ thể ──\n  var cityList = [\n    'TP\\\\. Hồ Chí Minh', 'Hà Nội', 'Đà Nẵng', 'Hải Phòng',\n    'Bình Dương', 'Cần Thơ', 'Đồng Nai', 'Nghệ An',\n    'Thanh Hóa', 'Quảng Ninh'\n  ];\n  for (var c = 0; c < cityList.length; c++) {\n    var cityRe = new RegExp('(?:^|\\\\n)\\\\s*([^\\\\n\\\\d@,]{2,30},\\\\s*' + cityList[c] + ')\\\\s*(?:\\\\n|$)', 'im');\n    m = text.match(cityRe);\n    if (m && m[1]) {\n      addr = normalizeAddr(m[1].trim());\n      if (isValidAddr(addr, false)) return addr;\n    }\n  }\n\n  return '';\n}\n\n\n// ════════════════════════════════════════\n// 4. TÊN CÔNG TY\n// ════════════════════════════════════════\n\nvar GEO_NAMES = [\n  'HN','HCM','ĐN','BD','HP','CT',\n  'Hà Nội','Sài Gòn','TPHCM','TP.HCM','TP. HCM',\n  'Hồ Chí Minh','Đà Nẵng','Hải Phòng','Bình Dương',\n  'HÀ NỘI','SÀI GÒN','ĐÀ NẴNG','HẢI PHÒNG','BÌNH DƯƠNG',\n  'Cần Thơ','CẦN THƠ','Đồng Nai','ĐỒNG NAI',\n  'TPHCM','TP.HCM',\n  'HOÀNG QUỐC VIỆT','Hoàng Quốc Việt',\n  'NGUYỄN TRÃI','PHẠM VĂN ĐỒNG','LÊ VĂN LƯƠNG',\n  'TRẦN DUY HƯNG','XUÂN THỦY','DUY TÂN',\n  'NGUYỄN XIỂN','LÊ ĐỨC THỌ'\n];\n\nfunction isGeoName(name) {\n  var trimmed = name.trim();\n  for (var g = 0; g < GEO_NAMES.length; g++) {\n    if (trimmed === GEO_NAMES[g]) return true;\n  }\n  return false;\n}\n\nfunction isValidCompanyName(name) {\n  if (!name || name.length < 2) return false;\n  if (name.split(' ').length > 7) return false;\n  if (/^\\d/.test(name)) return false;\n  if (isGeoName(name)) return false;\n\n  var invalidPatterns = [\n    /\\[/, /\\]/,\n    /tiêu\\s*đề/i,\n    /họ\\s*tên/i,\n    /vị\\s*trí\\s*ứng/i,\n    /tên\\s*công\\s*ty/i,\n    /xem\\s*thêm/i,\n    /nếu\\s*bạn/i,\n    /khu\\s*vực/i,\n    /team\\s*mình/i,\n    /không\\s*yêu\\s*cầu/i,\n    /thứ\\s*\\d/i,\n    /chủ\\s*nhật/i\n  ];\n  for (var i = 0; i < invalidPatterns.length; i++) {\n    if (invalidPatterns[i].test(name)) return false;\n  }\n  return true;\n}\n\nfunction extractTenCongTy(text) {\n  if (!text) return '';\n\n  var blacklistWords = [\n    'gmail','yahoo','hotmail','tham gia','bình luận','chia sẻ','thích',\n    'xem thêm','tác giả','facebook','youtube','tiktok','mxh',\n    'để hoàn thiện','trang bị','mình đã','ứng viên','ứng tuyển',\n    'môi trường','quyền lợi','yêu cầu','mô tả','không yêu cầu',\n    'phúc lợi','công việc chính',\n    'nếu bạn','chúng tôi','team mình','khu vực',\n    'tuyển dụng video','tuyển dụng nhân','tuyển dụng việc'\n  ];\n\n  function isBlack(s) {\n    var lower = s.toLowerCase();\n    return blacklistWords.some(function(b) { return lower.indexOf(b) !== -1; });\n  }\n\n  function clean(s) {\n    return s\n      .replace(/\\s*\\([^)]*\\)\\s*$/, '')\n      .replace(/\\s+/g, ' ')\n      .replace(/[:\\-\\s!]+$/, '')\n      .trim();\n  }\n\n  function tryReturn(candidate) {\n    var name = clean(candidate);\n    if (!name) return null;\n    if (!isValidCompanyName(name)) return null;\n    if (isBlack(name)) return null;\n    // Reject neu sau normalize la dia danh hop le\n    // VD: \"HCM Q1\" -> normalizeAddr -> \"TP. Ho Chi Minh Q1\" -> isValidAddr -> true -> reject\n    var nameNorm = normalizeAddr(name);\n    if (nameNorm !== name && isValidAddr(nameNorm, false)) return null;\n    return name;\n  }\n\n  var lines = text.split('\\n').map(function(l) { return l.trim(); }).filter(function(l) { return l.length > 0; });\n  var firstLine = lines[0] || '';\n  var firstLineClean = firstLine.replace(/\\s*\\([^)]*\\)\\s*$/, '').trim();\n  var m, name;\n\n  // ── P1: [TÊN TUYỂN...] ── chỉ search trong 300 ký tự đầu\n  var textHead = text.substring(0, 300);\n  m = textHead.match(/\\[([^\\]]{2,40})\\]\\s+(?:TUYỂN|CẦN\\s+TUYỂN)/i);\n  if (m && m[1]) {\n    var namePart = m[1].split(/\\s*-\\s*/)[0];\n    name = tryReturn(namePart);\n    if (name) return name;\n  }\n  m = textHead.match(/\\[([^\\]]{2,60}?)(?:\\s+TUYỂN|\\s+CẦN\\s+TUYỂN)/i);\n  if (m && m[1]) {\n    var namePart1b = m[1].split(/\\s*[-–]\\s*/)[0].trim();\n    name = tryReturn(namePart1b);\n    if (name) return name;\n  }\n\n  // ── P2: [TÊN] đứng riêng ──\n  m = text.match(/^\\[([^\\]]{2,40})\\](?!\\s*(?:tuyển|cần|mô\\s*tả))/i);\n  if (m && m[1]) {\n    var bracketContent = m[1].trim();\n    // Normalize trước khi check geo (VD: \"HCM Q1\" → \"TP. Hồ Chí Minh Q1\")\n    var bracketNorm = normalizeAddr(bracketContent);\n    var isGeo = isGeoName(bracketContent) ||\n                isGeoName(bracketNorm) ||\n                isValidAddr(bracketNorm, false) ||\n                /làm việc|tuyển dụng|group|ứng tuyển/i.test(bracketContent);\n    if (!isGeo) {\n      name = tryReturn(bracketContent);\n      if (name) return name;\n    }\n  }\n\n  // ── P3: **Công ty: TÊN ──\n  m = text.match(/\\*{1,2}công\\s*ty\\s*[:\\s]+([^\\n*\\-]{2,50})/i);\n  if (m && m[1]) {\n    name = tryReturn(m[1]);\n    if (name) return name;\n  }\n\n  // ── P4: Công ty TNHH/CP TÊN tuyển ──\n  m = text.match(/công\\s*ty\\s+(?:tnhh\\s+|cổ\\s*phần\\s+|cp\\s+|mtv\\s+)?([^\\n,\\-]{2,50}?)\\s+tuyển/i);\n  if (m && m[1]) {\n    name = tryReturn(m[1]);\n    if (name) return name;\n  }\n\n  // ── P5: LĨNH VỰC X - TÊN TUYỂN ──\n  m = text.match(/lĩnh\\s*vực[^\\n]*-\\s*([^\\n]{2,40}?)\\s+tuyển/i);\n  if (m && m[1]) {\n    name = tryReturn(m[1]);\n    if (name) return name;\n  }\n\n  // ── P6: TÊN - TUYỂN DỤNG (dòng đầu) ──\n  m = firstLineClean.match(/^(.{2,50}?)\\s*[-–]\\s*(?:TUYỂN|CẦN TUYỂN)/);\n  if (m && m[1]) {\n    name = tryReturn(m[1]);\n    if (name) return name;\n  }\n\n  // ── P6b: TÊN ĐANG TÌM BẠN / TÊN ĐANG TUYỂN ──\n  m = text.match(/(?:^|\\n)\\s*([A-ZÀ-ỹ][A-ZÀ-ỹ ]{1,30}[A-ZÀ-ỹ])\\s+ĐANG\\s+(?:TÌM|TUYỂN)/);\n  if (m && m[1]) {\n    name = tryReturn(m[1].trim());\n    if (name) return name;\n  }\n\n  // ── P9: \"X là trung tâm/công ty/tập đoàn\" ──\n  m = text.match(/([A-Z][A-Z ]{0,20}[A-Z])\\s+là\\s+(?:trung\\s*tâm|công\\s*ty|tập\\s*đoàn|thương\\s*hiệu)/);\n  if (m && m[1]) {\n    var candidate9 = m[1].trim();\n    if (!/chúng\\s*tôi|đây|bạn|ứng\\s*viên/i.test(candidate9)) {\n      name = tryReturn(candidate9);\n      if (name) return name;\n    }\n  }\n\n  // ── P7: TÊN TUYỂN ... (dòng đầu) ──\n  var firstForP7 = firstLineClean.replace(/^\\[[^\\]]*\\]\\s*/, '').trim();\n  m = firstForP7.match(/^(.+?)\\s+(?:TUYỂN\\s+DỤNG|TUYỂN\\s+GẤP|CẦN\\s+TUYỂN\\s+GẤP|CẦN\\s+TUYỂN|TUYỂN)/);\n  if (m && m[1]) {\n    name = tryReturn(m[1]);\n    if (name) return name;\n  }\n\n  // ── P8: Dòng IN HOA ngắn đứng TRƯỚC dòng có chữ TUYỂN ──\n  for (var i = 0; i < lines.length - 1; i++) {\n    var curr = lines[i];\n    var next = lines[i + 1];\n    if (/^[#\\d\\-•\\*\\[\\@]/.test(curr)) continue;\n    if (curr.split(' ').length > 6) continue;\n    if (curr.length < 2 || curr.length > 60) continue;\n    if (curr !== curr.toUpperCase()) continue;\n    if (!/tuyển/i.test(next)) continue;\n    name = tryReturn(curr);\n    if (name) return name;\n  }\n\n  return '';\n}\n\n\n// ════════════════════════════════════════\n// 5. MAIN\n// ════════════════════════════════════════\nvar GENERIC_DOMAINS = ['gmail','yahoo','hotmail','outlook','icloud'];\n\nfunction capitalizeDomain(domain) {\n  if (domain.indexOf('-') !== -1) return domain;\n  return domain.toUpperCase();\n}\n\nvar SKIP_DOMAIN_KEYWORDS = ['school','edu','ac','gov','org','uni','college','giadinh'];\nfunction isSkipDomain(domain) {\n  var lower = domain.toLowerCase();\n  return SKIP_DOMAIN_KEYWORDS.some(function(s) { return lower.indexOf(s) !== -1; });\n}\n\nvar allItems = $input.all();\nfor (var idx = 0; idx < allItems.length; idx++) {\n  var item = allItems[idx];\n  try {\n    var jsonString = item.json.data || item.json;\n    var parsed = JSON.parse(\n      typeof jsonString === 'string' ? jsonString : JSON.stringify(jsonString)\n    );\n\n    for (var j = 0; j < parsed.length; j++) {\n      var post = parsed[j];\n      var cleaned = cleanText(post.text);\n\n      var tenCongTy = extractTenCongTy(cleaned);\n\n      if (!tenCongTy && post.emails && post.emails.length > 0) {\n        var emailParts = (post.emails[0].split('@')[1] || '').split('.');\n        var emailDomain = emailParts[0].toLowerCase();\n        if (emailDomain &&\n            GENERIC_DOMAINS.indexOf(emailDomain) === -1 &&\n            !isSkipDomain(emailDomain)) {\n          tenCongTy = capitalizeDomain(emailDomain);\n        }\n      }\n\n      results.push({\n        json: {\n          postId:    post.postId,\n          postUrl:   post.postUrl,\n          groupName: post.groupName,\n          email:     (post.emails || []).join(', '),\n          phone:     (post.phones || []).join(', '),\n          ngayDang:  extractNgayDang(post),\n          tenCongTy: tenCongTy,\n          diaChi:    extractDiaChi(cleaned),\n          scrapedAt: post.scrapedAt,\n          text:      cleaned\n        }\n      });\n    }\n  } catch(e) {\n    results.push({ json: { error: e.message } });\n  }\n}\n\nreturn results;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -2560,
+        176
+      ],
+      "id": "cac0e8b3-22f4-4fe0-9c3f-54a8c8819a80",
+      "name": "Lọc trường1"
+    },
+    {
+      "parameters": {
+        "fieldToSplitOut": "files",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        -3120,
+        176
+      ],
+      "id": "9e2a868a-be36-4afb-aae5-b7c6bf354315",
+      "name": "Split Out"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        -2368,
+        352
+      ],
+      "id": "1d8be846-8e91-4f86-9066-278c532059af",
+      "name": "Merge"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "loose",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "b9926a15-a286-4866-9349-eb9cb8cd95d0",
+              "leftValue": "={{ $json.isDuplicate }}",
+              "rightValue": "=true",
+              "operator": {
+                "type": "string",
+                "operation": "notEquals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "looseTypeValidation": true,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        -1856,
+        352
+      ],
+      "id": "b6342a27-b933-465c-ba31-7da3e116da6e",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog",
+          "mode": "list",
+          "cachedResultName": "Tự động lấy Mã số thuế ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1018372948,
+          "mode": "list",
+          "cachedResultName": "Crawl bài đăng facebook ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/10LMBLQ7xLqfjHe1rMnY_oK3tQtRpStbsHlaaPSwbnog/edit#gid=1018372948"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        -2752,
+        368
+      ],
+      "id": "97efb01d-2582-4b32-8c40-a1e85b4ede9a",
+      "name": "Lấy data",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "v0I6RIlaIZ9QNKjH",
+          "name": "Hundrek"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Lấy tất cả items từ cả 2 input\nconst allItems = $input.all();\n\n// Phân loại: item có 'Link bài viết' = từ Sheet, item có 'postUrl' = từ Lọc trường1\nconst sheetUrls = new Set(\n  allItems\n    .filter(i => i.json['Link bài viết'] !== undefined)\n    .map(i => (i.json['Link bài viết'] || '').trim())\n    .filter(Boolean)\n);\n\n// Chỉ xử lý items từ Lọc trường1 (có postUrl)\nconst newItems = allItems.filter(i => i.json['postUrl'] !== undefined);\n\nreturn newItems.map(item => {\n  const postUrl = (item.json['postUrl'] || '').trim();\n  return {\n    json: {\n      ...item.json,\n      isDuplicate: sheetUrls.has(postUrl)\n    }\n  };\n});"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -2112,
+        352
+      ],
+      "id": "095ad8ec-8b74-4ee5-9397-07161a724e5b",
+      "name": "Gộp"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 6
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -3712,
+        368
+      ],
+      "id": "e29178eb-31c8-4a3d-8e00-f11ec570d160",
+      "name": "Schedule Trigger"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Lấy file trong drive": {
+      "main": [
+        [
+          {
+            "node": "Split Out",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "TỰ động điền": {
+      "main": [
+        []
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "Lọc trường1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lọc trường1": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Out": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Gộp",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lấy data": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Gộp": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "TỰ động điền",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Lấy file trong drive",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Lấy data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "42ebf518-8228-4039-afa0-f18ef3b30671",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "c9c652f57af3e8a9c90039f53fcb548ec96000345af77971219f207a5d4e2193"
+  },
+  "id": "gu8DfY1VHF0mVHTi",
+  "tags": []
+}

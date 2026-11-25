@@ -1,0 +1,2405 @@
+2026-11-20 09:00:04,368 - INFO - ============================================================
+2026-11-20 09:00:04,368 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 09:00:04,368 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 09:00:04,368 - INFO - ============================================================
+2026-11-20 09:00:06,637 - INFO - Email đã có trong CSV: 5942
+2026-11-20 09:00:06,638 - INFO - 
+============================================================
+2026-11-20 09:00:06,638 - INFO - LẦN CHẠY #1 | 09:00
+2026-11-20 09:00:06,638 - INFO - ============================================================
+2026-11-20 09:00:06,785 - INFO - File output: fb_posts_20261120_0900.json
+2026-11-20 09:00:06,786 - INFO - Email đã lấy từ trước: 5942
+2026-11-20 09:00:09,012 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-11-20 09:00:21,147 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:00:24,223 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:00:24,223 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:00:25,287 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:00:25,287 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 09:00:26,353 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:00:26,354 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:00:34,572 - INFO -   Scroll 4/5 - Thấy 8 bài, tiềm năng: 6
+2026-11-20 09:00:42,766 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 6
+2026-11-20 09:00:42,767 - INFO -   Lọc sơ bộ: 6/8 bài có từ khóa tuyển dụng
+2026-11-20 09:00:42,767 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:00:42,767 - INFO -   [1/6] Đang xử lý...
+2026-11-20 09:00:48,448 - INFO -   ✅ Bài có liên hệ: hr.idtvina@gmail.com
+2026-11-20 09:00:48,957 - INFO -   [2/6] Đang xử lý...
+2026-11-20 09:00:54,648 - INFO -   ✅ Bài có liên hệ: hr.idtvina@gmail.com
+2026-11-20 09:00:55,157 - INFO -   [3/6] Đang xử lý...
+2026-11-20 09:01:00,571 - INFO -   ✅ Bài có liên hệ: hr.idtvina@gmail.com
+2026-11-20 09:01:01,073 - INFO -   [4/6] Đang xử lý...
+2026-11-20 09:01:05,331 - INFO - ============================================================
+2026-11-20 09:01:05,331 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 09:01:05,332 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 09:01:05,332 - INFO - ============================================================
+2026-11-20 09:01:05,522 - INFO - Email đã có trong CSV: 5942
+2026-11-20 09:01:05,522 - INFO - 
+============================================================
+2026-11-20 09:01:05,522 - INFO - LẦN CHẠY #1 | 09:01
+2026-11-20 09:01:05,522 - INFO - ============================================================
+2026-11-20 09:01:05,609 - INFO - File output: fb_posts_20261120_0901.json
+2026-11-20 09:01:05,609 - INFO - Email đã lấy từ trước: 5942
+2026-11-20 09:01:06,540 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-11-20 09:01:06,990 - INFO -   ✅ Bài có liên hệ: hr.idtvina@gmail.com
+2026-11-20 09:01:07,501 - INFO -   [5/6] Đang xử lý...
+2026-11-20 09:01:12,389 - INFO -   ✅ Bài có liên hệ: 0364205844
+2026-11-20 09:01:12,905 - INFO -   [6/6] Đang xử lý...
+2026-11-20 09:01:18,213 - INFO -   ✅ Bài có liên hệ: hr.jtangel@gmail.com
+2026-11-20 09:01:18,634 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:01:18,714 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:01:19,310 - INFO -   → Group tuyển dụng 1: 6 bài có liên hệ
+2026-11-20 09:01:19,694 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:01:19,694 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:01:20,809 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:01:20,810 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:01:21,293 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 6) → fb_leads_20261120_0900.csv
+2026-11-20 09:01:29,021 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:01:30,636 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-11-20 09:01:37,248 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:01:43,504 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:01:45,410 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:01:45,411 - INFO -   Lọc sơ bộ: 1/4 bài có từ khóa tuyển dụng
+2026-11-20 09:01:45,411 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:01:45,411 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:01:46,616 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:01:46,616 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:01:47,829 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:01:47,829 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:01:51,138 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:01:51,139 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 trùng link
+2026-11-20 09:01:51,675 - INFO -   → Group tuyển dụng 2: 0 bài có liên hệ
+2026-11-20 09:01:56,245 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:01:57,488 - INFO - 
+Đang cào: Tìm việc làm tại TP.HCM ✅
+2026-11-20 09:02:04,746 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:02:06,446 - INFO - ============================================================
+2026-11-20 09:02:06,447 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 09:02:06,447 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 09:02:06,448 - INFO - ============================================================
+2026-11-20 09:02:06,649 - INFO - Email đã có trong CSV: 5942
+2026-11-20 09:02:06,649 - INFO - 
+============================================================
+2026-11-20 09:02:06,649 - INFO - LẦN CHẠY #1 | 09:02
+2026-11-20 09:02:06,649 - INFO - ============================================================
+2026-11-20 09:02:06,747 - INFO - File output: fb_posts_20261120_0902.json
+2026-11-20 09:02:06,747 - INFO - Email đã lấy từ trước: 5942
+2026-11-20 09:02:07,671 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-11-20 09:02:09,506 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:02:13,149 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:02:13,150 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 09:02:13,150 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:02:13,151 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:02:13,635 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 09:02:13,636 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:02:16,838 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:02:16,839 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:02:18,793 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:02:21,877 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:02:21,877 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:02:22,955 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:02:22,955 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:02:24,013 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:02:24,014 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:02:25,080 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:02:25,080 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:02:25,174 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 09:02:33,243 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:02:33,244 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-11-20 09:02:33,244 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:02:33,245 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:02:33,415 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 09:02:41,663 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 09:02:41,663 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-11-20 09:02:41,664 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:02:41,664 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:02:43,388 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 09:02:43,605 - INFO -   ✅ Bài có liên hệ: 0933447119
+2026-11-20 09:02:44,120 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:02:44,695 - INFO -   → Group tuyển dụng 3: 1 bài có liên hệ
+2026-11-20 09:02:46,613 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0902.csv
+2026-11-20 09:02:56,426 - INFO - 
+Đang cào: Việc Làm Hải Dương
+2026-11-20 09:03:07,524 - INFO - ============================================================
+2026-11-20 09:03:07,525 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 09:03:07,525 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 09:03:07,525 - INFO - ============================================================
+2026-11-20 09:03:07,728 - INFO - Email đã có trong CSV: 5942
+2026-11-20 09:03:07,728 - INFO - 
+============================================================
+2026-11-20 09:03:07,728 - INFO - LẦN CHẠY #1 | 09:03
+2026-11-20 09:03:07,728 - INFO - ============================================================
+2026-11-20 09:03:07,835 - INFO - File output: fb_posts_20261120_0903.json
+2026-11-20 09:03:07,835 - INFO - Email đã lấy từ trước: 5942
+2026-11-20 09:03:08,525 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:03:08,777 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-11-20 09:03:11,829 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:03:11,829 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:03:12,906 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:03:12,906 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 09:03:14,041 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:03:14,042 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 09:03:20,861 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:03:22,312 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 09:03:25,030 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 09:03:25,031 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:03:26,195 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:03:26,196 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:03:30,561 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 09:03:30,562 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-11-20 09:03:30,562 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:03:30,563 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:03:34,619 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 09:03:36,558 - INFO -   ✅ Bài có liên hệ: 0394248098
+2026-11-20 09:03:37,059 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:03:42,683 - INFO -   ✅ Bài có liên hệ: 0981506024
+2026-11-20 09:03:42,994 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 09:03:43,186 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:03:48,720 - INFO -   ✅ Bài có liên hệ: 0394248098
+2026-11-20 09:03:49,227 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:03:51,487 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 09:03:51,488 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 09:03:51,488 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:03:51,488 - INFO -   [1/4] Đang xử lý...
+2026-11-20 09:03:54,614 - INFO -   ✅ Bài có liên hệ: 0961467159
+2026-11-20 09:03:55,120 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:04:00,994 - INFO -   ✅ Bài có liên hệ: 0966810648
+2026-11-20 09:04:01,506 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:04:02,144 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 09:04:02,184 - INFO -   → Việc Làm Hải Dương: 5 bài có liên hệ
+2026-11-20 09:04:02,489 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:04:02,489 - INFO -   [2/4] Đang xử lý...
+2026-11-20 09:04:04,557 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 3) → fb_leads_20261120_0902.csv
+2026-11-20 09:04:19,151 - INFO - 
+Đang cào: Việc Làm Phú Mỹ - BRVT
+2026-11-20 09:04:31,289 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:04:34,502 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:04:34,503 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:04:35,590 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:04:35,591 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:04:36,699 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:04:36,700 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 09:04:43,857 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 09:04:44,234 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:04:44,235 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:04:44,954 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 09:04:53,313 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 09:04:53,313 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-11-20 09:04:53,313 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:04:53,314 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:04:59,013 - INFO -   ✅ Bài có liên hệ: 0974598880
+2026-11-20 09:04:59,523 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:05:04,152 - INFO -   ✅ Bài có liên hệ: 0974598880
+2026-11-20 09:05:04,666 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:05:10,038 - INFO -   ✅ Bài có liên hệ: 0974598880
+2026-11-20 09:05:10,541 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:05:11,074 - INFO -   → Việc Làm Phú Mỹ - BRVT: 3 bài có liên hệ
+2026-11-20 09:05:13,078 - INFO -   Đã ghi 2 dòng (lead mới 1, bổ sung 1, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0902.csv
+2026-11-20 09:05:24,504 - INFO - 
+Đang cào: Việc làm Chăm sóc Khách hàng
+2026-11-20 09:05:37,854 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:05:40,926 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:05:40,926 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:05:41,994 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:05:41,995 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:05:43,072 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:05:43,073 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:05:51,357 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:05:53,237 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 09:05:53,484 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:05:53,485 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:05:59,576 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:05:59,576 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-11-20 09:05:59,577 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:05:59,577 - INFO -   [1/4] Đang xử lý...
+2026-11-20 09:06:05,093 - INFO -   ✅ Bài có liên hệ: 0967761305
+2026-11-20 09:06:05,599 - INFO -   [2/4] Đang xử lý...
+2026-11-20 09:06:11,726 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:06:11,727 - INFO -   [3/4] Đang xử lý...
+2026-11-20 09:06:18,080 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 09:06:18,147 - INFO -   ✅ Bài có liên hệ: 0965685027
+2026-11-20 09:06:18,655 - INFO -   [4/4] Đang xử lý...
+2026-11-20 09:06:23,314 - INFO -   ✅ Bài có liên hệ: 0768125652
+2026-11-20 09:06:23,816 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 09:06:24,341 - INFO -   → Việc làm Chăm sóc Khách hàng: 3 bài có liên hệ
+2026-11-20 09:06:26,213 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0902.csv
+2026-11-20 09:06:39,851 - INFO - 
+Đang cào: Việc Làm TP.HCM
+2026-11-20 09:06:51,970 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:06:56,062 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 09:06:56,063 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:06:58,156 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:06:58,157 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-11-20 09:07:01,303 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:07:01,303 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:07:02,522 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:07:02,523 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 09:07:03,860 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 09:07:04,205 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:07:04,205 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:07:10,938 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-11-20 09:07:10,939 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-11-20 09:07:10,939 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:07:10,939 - INFO -   [1/4] Đang xử lý...
+2026-11-20 09:07:20,086 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 09:07:20,504 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:07:20,505 - INFO -   [2/4] Đang xử lý...
+2026-11-20 09:08:04,219 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 09:08:04,482 - INFO -   ✅ Bài có liên hệ: 0764149541, 0788887665, 0869643818, 0399616062, 0944908079
+2026-11-20 09:08:04,984 - INFO -   [3/4] Đang xử lý...
+2026-11-20 09:08:14,415 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 09:08:14,919 - INFO -   ✅ Bài có liên hệ: 0367207608, 0938837853, 0901069300
+2026-11-20 09:08:15,424 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:08:21,056 - INFO -   ✅ Bài có liên hệ: 0936066363
+2026-11-20 09:08:21,557 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:08:26,950 - INFO -   ✅ Bài có liên hệ: 0909170850
+2026-11-20 09:08:27,458 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:08:28,017 - INFO -   → Tìm việc làm tại TP.HCM ✅: 3 bài có liên hệ
+2026-11-20 09:08:29,888 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0901.csv
+2026-11-20 09:08:32,450 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 09:08:32,813 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:08:32,814 - INFO -   [3/4] Đang xử lý...
+2026-11-20 09:08:39,409 - INFO - 
+Đang cào: Việc Làm Long An
+2026-11-20 09:08:51,567 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:08:54,648 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:08:54,648 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:08:55,707 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:08:55,707 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-11-20 09:08:56,784 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:08:56,785 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 09:09:04,587 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 09:09:04,868 - INFO -   ✅ Bài có liên hệ: yenbinh.neverlandedu@gmail.com
+2026-11-20 09:09:04,998 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:09:05,383 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:09:13,184 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:09:13,184 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-11-20 09:09:13,185 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:09:13,185 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:09:18,732 - INFO -   ✅ Bài có liên hệ: 0356247273
+2026-11-20 09:09:19,235 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:09:19,750 - INFO -   → Việc Làm Long An: 1 bài có liên hệ
+2026-11-20 09:09:21,619 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0901.csv
+2026-11-20 09:09:29,936 - INFO - 
+Đang cào: TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅
+2026-11-20 09:09:42,081 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:09:43,182 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:09:43,182 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:09:44,294 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:09:44,294 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:09:52,519 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:10:00,716 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:10:08,916 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:10:08,917 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-11-20 09:10:08,917 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:10:08,917 - INFO -   [1/4] Đang xử lý...
+2026-11-20 09:10:14,895 - INFO -   ✅ Bài có liên hệ: AnhDH3@mannet.tech
+2026-11-20 09:10:15,403 - INFO -   [2/4] Đang xử lý...
+2026-11-20 09:10:51,968 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 09:10:52,261 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:10:52,261 - INFO -   [3/4] Đang xử lý...
+2026-11-20 09:10:57,707 - INFO -   ✅ Bài có liên hệ: ThanhVT34@fpt.com
+2026-11-20 09:10:58,214 - INFO -   [4/4] Đang xử lý...
+2026-11-20 09:11:03,501 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 09:11:03,675 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:11:03,676 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 trùng link
+2026-11-20 09:11:04,051 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:11:04,052 - INFO -   [4/4] Đang xử lý...
+2026-11-20 09:11:04,221 - INFO -   → TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅: 2 bài có liên hệ
+2026-11-20 09:11:06,287 - INFO -   Đã ghi 2 dòng (lead mới 1, bổ sung 1, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0901.csv
+2026-11-20 09:11:19,685 - INFO - 
+Đang cào: Việc Làm Việt Trì - Phú Thọ
+2026-11-20 09:11:31,791 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:11:34,866 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:11:34,866 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:11:35,927 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:11:35,928 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:11:44,120 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:11:52,310 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:12:00,503 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:12:00,503 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-11-20 09:12:00,504 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:12:00,504 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:12:06,325 - INFO -   ✅ Bài có liên hệ: 0375501405
+2026-11-20 09:12:06,829 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:12:07,415 - INFO -   → Việc Làm Việt Trì - Phú Thọ: 1 bài có liên hệ
+2026-11-20 09:12:09,372 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0901.csv
+2026-11-20 09:12:24,798 - INFO - 
+Đang cào: TUYỂN DỤNG KẾ TOÁN
+2026-11-20 09:12:36,905 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:12:40,022 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:12:40,022 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:12:42,153 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:12:42,154 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:12:50,531 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:12:58,774 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:13:07,008 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:13:07,009 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 09:13:07,009 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:13:07,010 - INFO -   [1/6] Đang xử lý...
+2026-11-20 09:13:13,106 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:13:13,107 - INFO -   [2/6] Đang xử lý...
+2026-11-20 09:13:18,940 - INFO -   ✅ Bài có liên hệ: tuyendung.hr@itmv.vn
+2026-11-20 09:13:19,444 - INFO -   [3/6] Đang xử lý...
+2026-11-20 09:13:25,228 - INFO -   ✅ Bài có liên hệ: tuyendungthegioinem@gmail.com
+2026-11-20 09:13:25,739 - INFO -   [4/6] Đang xử lý...
+2026-11-20 09:13:31,346 - INFO -   ✅ Bài có liên hệ: tuyendungapexvn@gmail.com
+2026-11-20 09:13:31,861 - INFO -   [5/6] Đang xử lý...
+2026-11-20 09:13:36,499 - INFO -   ✅ Bài có liên hệ: tuyendungapexvn@gmail.com
+2026-11-20 09:13:37,010 - INFO -   [6/6] Đang xử lý...
+2026-11-20 09:13:37,482 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 09:13:38,065 - INFO -   ✅ Bài có liên hệ: yenbinh.neverlandedu@gmail.com
+2026-11-20 09:13:38,579 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 trùng link
+2026-11-20 09:13:39,185 - INFO -   → Group tuyển dụng 5: 2 bài có liên hệ
+2026-11-20 09:13:41,194 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0900.csv
+2026-11-20 09:13:42,592 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:13:42,593 - INFO -   Bỏ qua: 2 không có email/SĐT, 0 trùng link
+2026-11-20 09:13:43,119 - INFO -   → TUYỂN DỤNG KẾ TOÁN: 4 bài có liên hệ
+2026-11-20 09:13:45,000 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0901.csv
+2026-11-20 09:13:51,073 - INFO - 
+Đang cào: TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS
+2026-11-20 09:13:57,998 - INFO - 
+Đang cào: Việc Làm BMT Đắk Lắk
+2026-11-20 09:14:03,194 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:14:04,257 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:14:04,258 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:14:06,393 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:14:06,393 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:14:08,051 - INFO -   Đã click 10 nút Xem thêm
+2026-11-20 09:14:08,585 - INFO -   ✅ Bài có liên hệ: 0388144564
+2026-11-20 09:14:09,100 - INFO -   [4/4] Đang xử lý...
+2026-11-20 09:14:10,073 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:14:12,315 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:14:12,315 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 09:14:14,501 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:14:14,502 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 09:14:14,626 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 2
+2026-11-20 09:14:14,874 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:14:14,874 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 trùng link
+2026-11-20 09:14:15,398 - INFO -   → Group tuyển dụng 4: 2 bài có liên hệ
+2026-11-20 09:14:17,316 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0903.csv
+2026-11-20 09:14:22,814 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:14:22,893 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 2
+2026-11-20 09:14:31,148 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 2
+2026-11-20 09:14:31,149 - INFO -   Lọc sơ bộ: 2/7 bài có từ khóa tuyển dụng
+2026-11-20 09:14:31,149 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:14:31,150 - INFO -   [1/2] Đang xử lý...
+2026-11-20 09:14:31,150 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:14:32,939 - INFO - 
+Đang cào: Việc Làm Phổ Yên - Thái Nguyên
+2026-11-20 09:14:38,319 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:14:38,320 - INFO -   [2/2] Đang xử lý...
+2026-11-20 09:14:39,522 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:14:39,523 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 09:14:39,523 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:14:39,524 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:14:43,142 - INFO -   ✅ Bài có liên hệ: oanhkieu.forwork@gmail.com
+2026-11-20 09:14:43,653 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 trùng link
+2026-11-20 09:14:44,059 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:14:44,378 - INFO -   → TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS: 1 bài có liên hệ
+2026-11-20 09:14:45,335 - INFO -   ✅ Bài có liên hệ: 0703930705
+2026-11-20 09:14:45,839 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:14:46,727 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0900.csv
+2026-11-20 09:14:47,213 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:14:47,214 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:14:48,344 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:14:48,345 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:14:49,497 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:14:49,498 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 09:14:51,719 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:14:51,719 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:14:56,304 - INFO - 
+Đang cào: Việc Làm Đồng Hới - Quảng Bình
+2026-11-20 09:14:57,995 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:14:59,764 - INFO -   ✅ Bài có liên hệ: 0862615839
+2026-11-20 09:15:00,271 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:15:06,937 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 09:15:07,124 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:15:07,125 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:15:08,164 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:15:08,167 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-11-20 09:15:08,168 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:15:08,170 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:15:09,314 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:15:11,575 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:15:11,576 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:15:12,630 - INFO -   ✅ Bài có liên hệ: 0907296569
+2026-11-20 09:15:13,141 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 trùng link
+2026-11-20 09:15:13,749 - INFO -   → Việc Làm BMT Đắk Lắk: 3 bài có liên hệ
+2026-11-20 09:15:14,150 - INFO -   ✅ Bài có liên hệ: 0339605640
+2026-11-20 09:15:14,656 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:15:16,636 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0901.csv
+2026-11-20 09:15:19,858 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:15:20,310 - INFO -   ✅ Bài có liên hệ: 0346592955
+2026-11-20 09:15:20,821 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:15:28,068 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:15:29,788 - INFO - 
+Đang cào: Việc Làm Sinh Viên TP.HCM
+2026-11-20 09:15:36,325 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:15:41,870 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:15:44,478 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:15:44,479 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-11-20 09:15:44,479 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:15:44,479 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:15:44,975 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:15:44,976 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:15:46,219 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:15:46,219 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:15:47,479 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:15:47,479 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:15:50,247 - INFO -   ✅ Bài có liên hệ: 0946919777
+2026-11-20 09:15:50,760 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:15:56,009 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:15:56,639 - INFO -   ✅ Bài có liên hệ: 0946919777
+2026-11-20 09:15:57,147 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:16:02,599 - INFO -   ✅ Bài có liên hệ: hcns@omodajaecooquangbinh.com.vn
+2026-11-20 09:16:03,104 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:16:03,666 - INFO -   → Việc Làm Đồng Hới - Quảng Bình: 3 bài có liên hệ
+2026-11-20 09:16:04,444 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:16:04,445 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-11-20 09:16:04,445 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:16:04,445 - INFO -   [1/4] Đang xử lý...
+2026-11-20 09:16:05,778 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0900.csv
+2026-11-20 09:16:18,726 - INFO - 
+Đang cào: Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️
+2026-11-20 09:16:30,806 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:16:33,903 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:16:33,904 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:16:35,030 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:16:35,031 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:16:36,167 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:16:36,168 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:16:44,539 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 09:16:50,837 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 09:16:51,074 - INFO -   ✅ Bài có liên hệ: 0966704444
+2026-11-20 09:16:51,583 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:16:52,219 - INFO -   → Việc Làm Phổ Yên - Thái Nguyên: 3 bài có liên hệ
+2026-11-20 09:16:52,782 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 09:16:52,782 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 09:16:52,783 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:16:52,783 - INFO -   [1/2] Đang xử lý...
+2026-11-20 09:16:54,600 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0903.csv
+2026-11-20 09:16:58,331 - INFO -   ✅ Bài có liên hệ: tuyendungvlink@gmail.com
+2026-11-20 09:16:58,846 - INFO -   [2/2] Đang xử lý...
+2026-11-20 09:17:04,217 - INFO -   ✅ Bài có liên hệ: 0867092801
+2026-11-20 09:17:04,722 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:17:05,247 - INFO -   → Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️: 2 bài có liên hệ
+2026-11-20 09:17:07,141 - INFO - 
+Đang cào: Việc Làm Hà Đông - Hà Nội
+2026-11-20 09:17:08,261 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0900.csv
+2026-11-20 09:17:19,224 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:17:20,204 - INFO - 
+Đang cào: Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội
+2026-11-20 09:17:22,438 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:17:22,438 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:17:23,553 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:17:23,554 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:17:31,966 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:17:32,377 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:17:35,487 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:17:35,487 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:17:36,550 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:17:36,551 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:17:37,570 - INFO -   Đã click 7 nút Xem thêm
+2026-11-20 09:17:38,076 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:17:38,077 - INFO -   Bỏ qua: 0 không có email/SĐT, 4 trùng link
+2026-11-20 09:17:38,659 - INFO -   → Việc Làm TP.HCM: 0 bài có liên hệ
+2026-11-20 09:17:40,248 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:17:44,821 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 09:17:48,481 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:17:48,482 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-11-20 09:17:48,482 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:17:48,483 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:17:52,972 - INFO - 
+Đang cào: Việc Làm Tiếng Anh
+2026-11-20 09:17:53,083 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 09:17:54,351 - INFO -   ✅ Bài có liên hệ: 0374088240
+2026-11-20 09:17:54,857 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:18:00,290 - INFO -   ✅ Bài có liên hệ: punmin02@gmail.com
+2026-11-20 09:18:00,791 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:18:01,466 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 09:18:01,467 - INFO -   Lọc sơ bộ: 1/6 bài có từ khóa tuyển dụng
+2026-11-20 09:18:01,467 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:18:01,468 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:18:04,058 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:18:07,043 - INFO -   ✅ Bài có liên hệ: 0378948299
+2026-11-20 09:18:07,166 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:18:07,167 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:18:07,547 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:18:08,119 - INFO -   → Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội: 1 bài có liên hệ
+2026-11-20 09:18:08,169 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 09:18:08,229 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:18:08,229 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:18:08,338 - INFO -   ✅ Bài có liên hệ: punmin02@gmail.com
+2026-11-20 09:18:08,846 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:18:09,438 - INFO -   → Việc Làm Hà Đông - Hà Nội: 3 bài có liên hệ
+2026-11-20 09:18:10,280 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0900.csv
+2026-11-20 09:18:11,743 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0903.csv
+2026-11-20 09:18:16,494 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 09:18:18,611 - INFO - 
+Đang cào: VIỆC LÀM SALES & MARKETING
+2026-11-20 09:18:21,913 - INFO - 
+Đang cào: Việc làm Long Biên - Gia Lâm - Đông Anh
+2026-11-20 09:18:24,776 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 09:18:30,804 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:18:33,000 - INFO -   ⚡ Load xong sau 2s
+bài, tiềm năng: 3
+2026-11-20 09:18:33,000 - INFO -   Lọc sơ bộ: 3/5 bài có từ khóa tuyển dụng
+2026-11-20 09:18:33,001 - INFO -   Scroll 1/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:18:33,001 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:18:33,001 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:18:34,031 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:18:34,219 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:18:34,219 - INFO -   Scroll 2/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:18:37,196 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:18:37,197 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:18:38,264 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:18:38,265 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:18:38,923 - INFO -   ✅ Bài có liên hệ: Laibinhhue@gmail.com
+2026-11-20 09:18:39,437 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:18:40,408 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:18:40,409 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 09:18:41,633 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:18:41,633 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 5
+2026-11-20 09:18:42,594 - INFO -   Scroll 3/5 - Thấy 9 bài, tiềm năng: 8
+2026-11-20 09:18:44,833 - INFO -   ✅ Bài có liên hệ: jyslearn@gmail.com
+2026-11-20 09:18:45,347 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:18:49,900 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:18:49,901 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 09:18:49,901 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:18:49,902 - INFO -   [1/6] Đang xử lý...
+2026-11-20 09:18:50,599 - INFO -   ✅ Bài có liên hệ: Laibinhhue@gmail.com
+2026-11-20 09:18:50,897 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 8
+2026-11-20 09:18:51,105 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:18:51,688 - INFO -   → Việc Làm Tiếng Anh: 3 bài có liên hệ
+2026-11-20 09:18:53,685 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0902.csv
+2026-11-20 09:18:55,469 - INFO -   ✅ Bài có liên hệ: 0985533893
+2026-11-20 09:18:55,971 - INFO -   [2/6] Đang xử lý...
+2026-11-20 09:18:59,185 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 8
+2026-11-20 09:18:59,185 - INFO -   Lọc sơ bộ: 8/9 bài có từ khóa tuyển dụng
+2026-11-20 09:18:59,186 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:18:59,186 - INFO -   [1/8] Đang xử lý...
+2026-11-20 09:19:00,758 - INFO -   ✅ Bài có liên hệ: 0985533893
+2026-11-20 09:19:01,266 - INFO -   [3/6] Đang xử lý...
+2026-11-20 09:19:05,228 - INFO -   ✅ Bài có liên hệ: 0389408961
+2026-11-20 09:19:05,742 - INFO -   [2/8] Đang xử lý...
+2026-11-20 09:19:05,878 - INFO -   ✅ Bài có liên hệ: 0985533893
+2026-11-20 09:19:06,397 - INFO -   [4/6] Đang xử lý...
+2026-11-20 09:19:06,812 - INFO - 
+Đang cào: Việc Làm Phan Rang - Tháp Chàm - Ninh Thuận
+2026-11-20 09:19:11,218 - INFO -   ✅ Bài có liên hệ: chung.tri@goldengrowth.vn
+2026-11-20 09:19:11,721 - INFO -   [3/8] Đang xử lý...
+2026-11-20 09:19:13,157 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 09:19:13,631 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:19:13,632 - INFO -   [5/6] Đang xử lý...
+2026-11-20 09:19:16,963 - INFO -   ✅ Bài có liên hệ: 0768125652
+2026-11-20 09:19:17,479 - INFO -   [4/8] Đang xử lý...
+2026-11-20 09:19:17,909 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:19:21,011 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:19:21,012 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:19:22,067 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:19:22,068 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:19:22,746 - INFO -   ✅ Bài có liên hệ: 0826150644
+2026-11-20 09:19:23,128 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:19:23,128 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:19:23,261 - INFO -   [5/8] Đang xử lý...
+2026-11-20 09:19:23,841 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 09:19:24,213 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:19:24,213 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:19:24,253 - INFO -   ✅ Bài có liên hệ: 0398148652, 0373982896, 0383582099, 0849026886, 0868250895
+2026-11-20 09:19:24,769 - INFO -   [6/6] Đang xử lý...
+2026-11-20 09:19:28,135 - INFO -   ✅ Bài có liên hệ: 0389408961
+2026-11-20 09:19:28,648 - INFO -   [6/8] Đang xử lý...
+2026-11-20 09:19:30,237 - INFO -   ✅ Bài có liên hệ: 0911342859
+2026-11-20 09:19:30,739 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 09:19:31,235 - INFO -   → Việc làm Long Biên - Gia Lâm - Đông Anh: 5 bài có liên hệ
+2026-11-20 09:19:32,433 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:19:32,434 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-11-20 09:19:32,434 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:19:32,434 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:19:33,202 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0903.csv
+2026-11-20 09:19:33,997 - INFO -   ✅ Bài có liên hệ: chung.tri@goldengrowth.vn
+2026-11-20 09:19:34,510 - INFO -   [7/8] Đang xử lý...
+2026-11-20 09:19:37,980 - INFO -   ✅ Bài có liên hệ: 0933245056
+2026-11-20 09:19:38,485 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:19:38,998 - INFO -   → Việc Làm Phan Rang - Tháp Chàm - Ninh Thuận: 1 bài có liên hệ
+2026-11-20 09:19:39,722 - INFO -   ✅ Bài có liên hệ: jobvietnam.hr@gmail.com
+2026-11-20 09:19:40,238 - INFO -   [8/8] Đang xử lý...
+2026-11-20 09:19:40,839 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0902.csv
+2026-11-20 09:19:42,105 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI
+2026-11-20 09:19:44,864 - INFO -   ✅ Bài có liên hệ: chung.tri@goldengrowth.vn
+2026-11-20 09:19:45,372 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:19:45,912 - INFO -   → VIỆC LÀM SALES & MARKETING: 8 bài có liên hệ
+2026-11-20 09:19:47,616 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 6) → fb_leads_20261120_0900.csv
+2026-11-20 09:19:48,173 - INFO - 
+Đang cào: Việc Làm Sông Công - Thái Nguyên
+2026-11-20 09:19:54,199 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:19:57,304 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:19:57,305 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:19:59,456 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:19:59,457 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:20:00,295 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:20:02,226 - INFO - 
+Đang cào: Việc Làm Phủ Lý - Hà Nam
+2026-11-20 09:20:04,440 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 09:20:04,442 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:20:05,561 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:20:05,562 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:20:06,653 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:20:06,654 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:20:07,793 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:20:07,843 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:20:07,844 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 09:20:13,360 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:20:16,074 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:20:16,250 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 5
+2026-11-20 09:20:16,250 - INFO -   Lọc sơ bộ: 5/9 bài có từ khóa tuyển dụng
+2026-11-20 09:20:16,251 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:20:16,251 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:20:16,493 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:20:16,494 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:20:17,603 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:20:17,603 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:20:19,832 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:20:19,833 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:20:20,555 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:20:20,556 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:20:24,302 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:20:24,302 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 09:20:24,303 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:20:24,303 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:20:26,095 - INFO -   ✅ Bài có liên hệ: 0789271485
+2026-11-20 09:20:26,597 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:20:28,155 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 09:20:29,919 - INFO -   ✅ Bài có liên hệ: 0986368359, 0862088604
+2026-11-20 09:20:30,425 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:20:31,996 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:20:31,996 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:20:36,457 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 09:20:36,457 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-11-20 09:20:36,457 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:20:36,458 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:20:36,583 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 09:20:37,059 - INFO -   ✅ Bài có liên hệ: 0329942422, 0348770583
+2026-11-20 09:20:37,380 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:20:37,381 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:20:37,562 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:20:42,153 - INFO -   ✅ Bài có liên hệ: 0898723530
+2026-11-20 09:20:42,659 - INFO -   Bỏ qua: 3 không có email/SĐT, 0 trùng link
+2026-11-20 09:20:43,200 - INFO -   ✅ Bài có liên hệ: 0879901234
+2026-11-20 09:20:43,245 - INFO -   → Việc Làm Sông Công - Thái Nguyên: 2 bài có liên hệ
+2026-11-20 09:20:43,715 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:20:45,498 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0902.csv
+2026-11-20 09:20:49,482 - INFO -   ✅ Bài có liên hệ: 0981488930
+2026-11-20 09:20:49,986 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:20:52,469 - INFO - 
+Đang cào: TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA
+2026-11-20 09:20:55,586 - INFO -   ✅ Bài có liên hệ: 0914916123
+2026-11-20 09:20:56,100 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:20:56,578 - INFO -   → TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI: 5 bài có liên hệ
+2026-11-20 09:20:58,388 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 5) → fb_leads_20261120_0903.csv
+2026-11-20 09:21:03,549 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:21:05,472 - INFO - 
+Đang cào: HỘI VIỆC LÀM TIẾNG TRUNG
+2026-11-20 09:21:06,678 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:21:06,680 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:21:07,974 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:21:07,974 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 09:21:09,131 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:21:09,131 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 5
+2026-11-20 09:21:17,487 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:21:17,647 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:21:20,757 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:21:20,758 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:21:21,823 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:21:21,824 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-11-20 09:21:22,915 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:21:22,915 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 0
+2026-11-20 09:21:25,829 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:21:25,829 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 09:21:25,830 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:21:25,830 - INFO -   [1/6] Đang xử lý...
+2026-11-20 09:21:31,133 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:21:34,023 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 09:21:34,448 - INFO -   ✅ Bài có liên hệ: 0333918498
+2026-11-20 09:21:34,959 - INFO -   [2/6] Đang xử lý...
+2026-11-20 09:21:39,393 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:21:39,394 - INFO -   Lọc sơ bộ: 1/4 bài có từ khóa tuyển dụng
+2026-11-20 09:21:39,394 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:21:39,394 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:21:43,069 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 09:21:43,335 - INFO -   ✅ Bài có liên hệ: 0333918498
+2026-11-20 09:21:43,846 - INFO -   [3/6] Đang xử lý...
+2026-11-20 09:21:44,995 - INFO -   ✅ Bài có liên hệ: jobvietnam.hr@gmail.com
+2026-11-20 09:21:45,506 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:21:46,083 - INFO -   → HỘI VIỆC LÀM TIẾNG TRUNG: 1 bài có liên hệ
+2026-11-20 09:21:48,128 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0903.csv
+2026-11-20 09:21:48,485 - INFO -   ✅ Bài có liên hệ: 0702079934
+2026-11-20 09:21:48,999 - INFO -   [4/6] Đang xử lý...
+2026-11-20 09:21:54,519 - INFO -   ✅ Bài có liên hệ: 0702079934
+2026-11-20 09:21:55,021 - INFO -   [5/6] Đang xử lý...
+2026-11-20 09:21:59,574 - INFO -   ✅ Bài có liên hệ: 0333918498
+2026-11-20 09:22:00,080 - INFO -   [6/6] Đang xử lý...
+2026-11-20 09:22:00,514 - INFO - 
+Đang cào: NGHIỆP VỤ XUẤT NHẬP KHẨU - LOGISTICS
+2026-11-20 09:22:05,784 - INFO -   ✅ Bài có liên hệ: Le.htm@sevapack.com
+2026-11-20 09:22:06,295 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:22:06,900 - INFO -   → TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA: 6 bài có liên hệ
+2026-11-20 09:22:09,277 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 4) → fb_leads_20261120_0902.csv
+2026-11-20 09:22:12,613 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:22:15,696 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:22:15,697 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:22:17,821 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:22:17,821 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 09:22:18,858 - INFO - 
+Đang cào: Thiết Kế ( Logo, Bộ Nhận Diện, Ấn Phẩm Mkt..) - In Ấn - Bảo Hộ Thương Hiệu
+2026-11-20 09:22:26,138 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 09:22:31,011 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:22:34,154 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:22:34,155 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:22:34,409 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 09:22:36,826 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 09:22:37,433 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:22:37,451 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 09:22:37,895 - INFO -   ✅ Bài có liên hệ: 0981405275, 0869931468, 0914835297, 0967112314, 0975266743, 0981019716, 0989867785
+2026-11-20 09:22:38,398 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:22:42,766 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 09:22:42,767 - INFO -   Lọc sơ bộ: 0/7 bài có từ khóa tuyển dụng
+2026-11-20 09:22:42,767 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:22:42,767 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:22:43,307 - INFO -   → NGHIỆP VỤ XUẤT NHẬP KHẨU - LOGISTICS: 0 bài có liên hệ
+2026-11-20 09:22:46,044 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 09:22:50,945 - INFO - 
+Đang cào: Việc Làm Đông Triều - Quảng Ninh
+2026-11-20 09:22:54,290 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 09:23:02,554 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 09:23:02,557 - INFO -   Lọc sơ bộ: 0/7 bài có từ khóa tuyển dụng
+2026-11-20 09:23:02,557 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:23:02,558 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:23:03,075 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:23:03,658 - INFO -   → Thiết Kế ( Logo, Bộ Nhận Diện, Ấn Phẩm Mkt..) - In Ấn - Bảo Hộ Thương Hiệu: 0 bài có liên hệ
+2026-11-20 09:23:06,215 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:23:06,215 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:23:08,324 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:23:08,324 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-11-20 09:23:13,213 - INFO - 
+Đang cào: Việc làm IT - Tuyển dụng C/C++,Java, HMTL, CSS, PHP, .Net, Android, IOS, AI
+2026-11-20 09:23:16,590 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 09:23:24,805 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 09:23:25,286 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:23:28,378 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:23:28,378 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:23:29,499 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:23:29,499 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:23:30,672 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:23:30,672 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 09:23:33,005 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 09:23:33,006 - INFO -   Lọc sơ bộ: 1/6 bài có từ khóa tuyển dụng
+2026-11-20 09:23:33,006 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:23:33,007 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:23:38,433 - INFO -   ✅ Bài có liên hệ: 0977150800
+2026-11-20 09:23:38,941 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:23:39,056 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 09:23:39,537 - INFO -   → Việc Làm Đông Triều - Quảng Ninh: 1 bài có liên hệ
+2026-11-20 09:23:41,522 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0903.csv
+2026-11-20 09:23:47,442 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 09:23:47,459 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-11-20 09:23:47,486 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:23:47,515 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:23:47,542 - INFO - 
+Đang cào: Việc Làm Ngã Bảy - Hậu Giang
+2026-11-20 09:23:53,822 - INFO -   ✅ Bài có liên hệ: 0981276620
+2026-11-20 09:23:54,325 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:23:58,594 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:24:00,399 - INFO -   ✅ Bài có liên hệ: 0981823597
+2026-11-20 09:24:00,904 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:24:01,751 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:24:01,752 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:24:03,898 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:24:03,898 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-11-20 09:24:04,976 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:24:04,976 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 09:24:06,300 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:24:06,300 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:24:11,756 - INFO -   ✅ Bài có liên hệ: Quynh.hua@tdconsulting.vn
+2026-11-20 09:24:12,263 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:24:13,159 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 0
+2026-11-20 09:24:18,043 - INFO -   ✅ Bài có liên hệ: 0822533171
+2026-11-20 09:24:18,548 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 trùng link
+2026-11-20 09:24:19,179 - INFO -   → Việc làm IT - Tuyển dụng C/C++,Java, HMTL, CSS, PHP, .Net, Android, IOS, AI: 4 bài có liên hệ
+2026-11-20 09:24:21,193 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 3) → fb_leads_20261120_0902.csv
+2026-11-20 09:24:21,377 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 0
+2026-11-20 09:24:21,377 - INFO -   Lọc sơ bộ: 0/5 bài có từ khóa tuyển dụng
+2026-11-20 09:24:21,377 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:24:21,378 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:24:21,950 - INFO -   → Việc Làm Ngã Bảy - Hậu Giang: 0 bài có liên hệ
+2026-11-20 09:24:28,544 - INFO - 
+Đang cào: làm video bằng AI
+2026-11-20 09:24:33,384 - INFO - 
+Đang cào: Việc Làm Tiếng Hàn Quốc - Korean Jobs
+2026-11-20 09:24:39,641 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:24:42,747 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:24:42,748 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:24:43,838 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:24:43,839 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:24:44,492 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:24:45,609 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:24:45,610 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:24:45,704 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:24:45,705 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 09:24:47,775 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:24:47,775 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:24:54,016 - INFO -   Scroll 4/5 - Thấy 9 bài, tiềm năng: 4
+2026-11-20 09:24:56,041 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:25:02,284 - INFO -   Scroll 5/5 - Thấy 9 bài, tiềm năng: 4
+2026-11-20 09:25:02,285 - INFO -   Lọc sơ bộ: 4/9 bài có từ khóa tuyển dụng
+2026-11-20 09:25:02,285 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:25:02,285 - INFO -   [1/4] Đang xử lý...
+2026-11-20 09:25:04,313 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:25:08,239 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:25:08,240 - INFO -   [2/4] Đang xử lý...
+2026-11-20 09:25:12,675 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:25:12,675 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 09:25:12,676 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:25:12,676 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:25:13,768 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:25:13,769 - INFO -   [3/4] Đang xử lý...
+2026-11-20 09:25:18,460 - INFO -   ✅ Bài có liên hệ: inha.hanoi@gmail.com
+2026-11-20 09:25:18,661 - INFO -   ✅ Bài có liên hệ: nhanhg01071997@gmail.com
+2026-11-20 09:25:18,969 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:25:19,171 - INFO -   [4/4] Đang xử lý...
+2026-11-20 09:25:23,898 - INFO -   ✅ Bài có liên hệ: hr@tungdining.com
+2026-11-20 09:25:24,246 - INFO -   ✅ Bài có liên hệ: Duhochanquocse@gmail.com
+2026-11-20 09:25:24,404 - INFO -   Bỏ qua: 2 không có email/SĐT, 0 trùng link
+2026-11-20 09:25:24,747 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:25:24,952 - INFO -   → làm video bằng AI: 2 bài có liên hệ
+2026-11-20 09:25:26,973 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0903.csv
+2026-11-20 09:25:31,162 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:25:31,163 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:25:35,443 - INFO - 
+Đang cào: Việc Làm Hạ Long - Quảng Ninh
+2026-11-20 09:25:36,647 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:25:36,648 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:25:42,113 - INFO -   ✅ Bài có liên hệ: 0332226561
+2026-11-20 09:25:42,625 - INFO -   Bỏ qua: 2 không có email/SĐT, 0 trùng link
+2026-11-20 09:25:43,200 - INFO -   → Việc Làm Tiếng Hàn Quốc - Korean Jobs: 3 bài có liên hệ
+2026-11-20 09:25:45,477 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0902.csv
+2026-11-20 09:25:47,532 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:25:50,624 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:25:50,624 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:25:51,684 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:25:51,684 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:25:52,715 - INFO - Đã lưu 31 bài → fb_posts_20261120_0902.json
+2026-11-20 09:25:52,715 - INFO - Xong lần #1: 31 bài mới | 1426s (23.8 phút)
+2026-11-20 09:25:53,784 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:25:53,784 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 09:25:54,864 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:25:54,865 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:26:03,073 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 2
+2026-11-20 09:26:03,074 - INFO -   Lọc sơ bộ: 2/7 bài có từ khóa tuyển dụng
+2026-11-20 09:26:03,074 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:26:03,074 - INFO -   [1/2] Đang xử lý...
+2026-11-20 09:26:08,740 - INFO -   ✅ Bài có liên hệ: 0981982729
+2026-11-20 09:26:09,241 - INFO -   [2/2] Đang xử lý...
+2026-11-20 09:26:09,756 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 09:26:10,295 - INFO -   ✅ Bài có liên hệ: 0819095798, 0979717787, 0398593342, 0357766656, 0338411297
+2026-11-20 09:26:10,805 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:26:12,121 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 09:26:12,647 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:26:12,648 - INFO -   [2/4] Đang xử lý...
+2026-11-20 09:26:14,918 - INFO -   ✅ Bài có liên hệ: 0769433617
+2026-11-20 09:26:15,424 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:26:15,986 - INFO -   → Việc Làm Hạ Long - Quảng Ninh: 2 bài có liên hệ
+2026-11-20 09:26:17,987 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0903.csv
+2026-11-20 09:26:30,989 - INFO - 
+Đang cào: Việc Làm Quảng Ninh
+2026-11-20 09:26:43,111 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:26:45,229 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:26:45,229 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:26:46,303 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:26:46,304 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 09:26:47,411 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:26:47,411 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 09:26:48,584 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:26:48,585 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 5
+2026-11-20 09:26:56,838 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 6
+2026-11-20 09:26:56,839 - INFO -   Lọc sơ bộ: 6/6 bài có từ khóa tuyển dụng
+2026-11-20 09:26:56,839 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:26:56,839 - INFO -   [1/6] Đang xử lý...
+2026-11-20 09:27:02,384 - INFO -   ✅ Bài có liên hệ: 0983187875
+2026-11-20 09:27:02,899 - INFO -   [2/6] Đang xử lý...
+2026-11-20 09:27:08,290 - INFO -   ✅ Bài có liên hệ: 0983187875
+2026-11-20 09:27:08,797 - INFO -   [3/6] Đang xử lý...
+2026-11-20 09:27:13,430 - INFO -   ✅ Bài có liên hệ: 0898723530
+2026-11-20 09:27:13,944 - INFO -   [4/6] Đang xử lý...
+2026-11-20 09:27:19,231 - INFO -   ✅ Bài có liên hệ: 0833210308
+2026-11-20 09:27:19,740 - INFO -   [5/6] Đang xử lý...
+2026-11-20 09:27:25,020 - INFO -   ✅ Bài có liên hệ: 0898723530
+2026-11-20 09:27:25,524 - INFO -   [6/6] Đang xử lý...
+2026-11-20 09:27:30,762 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:27:30,762 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 09:27:31,327 - INFO -   → Việc Làm Quảng Ninh: 5 bài có liên hệ
+2026-11-20 09:27:33,307 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 4) → fb_leads_20261120_0903.csv
+2026-11-20 09:27:40,818 - INFO -   Đã click 7 nút Xem thêm
+2026-11-20 09:27:41,169 - INFO -   ✅ Bài có liên hệ: 0338134984, 0961595651, 0948209555, 0338411297, 0857527905, 0915561478
+2026-11-20 09:27:41,681 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:27:42,172 - INFO -   → Việc Làm Phủ Lý - Hà Nam: 3 bài có liên hệ
+2026-11-20 09:27:44,331 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0900.csv
+2026-11-20 09:27:44,477 - INFO - Đã lưu 29 bài → fb_posts_20261120_0903.json
+2026-11-20 09:27:44,478 - INFO - Xong lần #1: 29 bài mới | 1477s (24.6 phút)
+2026-11-20 09:27:56,252 - INFO - 
+Đang cào: Việc Làm Bỉm Sơn - Thanh Hóa
+2026-11-20 09:28:08,386 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:28:11,473 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:28:11,474 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:28:12,550 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:28:12,551 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:28:20,794 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:28:29,055 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:28:37,273 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:28:37,274 - INFO -   Lọc sơ bộ: 2/4 bài có từ khóa tuyển dụng
+2026-11-20 09:28:37,274 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:28:37,275 - INFO -   [1/2] Đang xử lý...
+2026-11-20 09:28:44,452 - INFO -   ✅ Bài có liên hệ: thanhnguyenbow@gmail.com
+2026-11-20 09:28:44,958 - INFO -   [2/2] Đang xử lý...
+2026-11-20 09:28:51,634 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 09:28:52,666 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:28:52,666 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 09:28:53,614 - INFO -   → Việc Làm Bỉm Sơn - Thanh Hóa: 1 bài có liên hệ
+2026-11-20 09:28:56,042 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0900.csv
+2026-11-20 09:29:05,632 - INFO - 
+Đang cào: Hội việc làm Logistics_Xuất Nhập Khẩu_KCN
+2026-11-20 09:29:17,706 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:29:20,789 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:29:20,790 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:29:21,859 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:29:21,860 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:29:23,998 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:29:23,999 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 09:29:25,383 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:29:25,383 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 09:29:33,673 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 09:29:33,674 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-11-20 09:29:33,674 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:29:33,674 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:29:39,567 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:29:39,567 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:29:45,061 - INFO -   ✅ Bài có liên hệ: hr.taothigroup@gmail.com
+2026-11-20 09:29:45,571 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:29:50,803 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:29:50,804 - INFO -   Bỏ qua: 2 không có email/SĐT, 0 trùng link
+2026-11-20 09:29:51,406 - INFO -   → Hội việc làm Logistics_Xuất Nhập Khẩu_KCN: 1 bài có liên hệ
+2026-11-20 09:29:53,300 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0900.csv
+2026-11-20 09:30:05,260 - INFO - 
+Đang cào: Việc Làm Bà Rịa - Vũng Tàu
+2026-11-20 09:30:17,397 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:30:20,498 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:30:20,499 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:30:21,621 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:30:21,622 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 09:30:22,764 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:30:22,765 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 2
+2026-11-20 09:30:31,012 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 09:30:39,227 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 09:30:39,227 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-11-20 09:30:39,228 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:30:39,228 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:30:45,027 - INFO -   ✅ Bài có liên hệ: thuhien@leeandtee.com, thuyhang@leeandtee.com
+2026-11-20 09:30:45,531 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:30:50,873 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:30:50,874 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:30:56,256 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:30:56,256 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 trùng link
+2026-11-20 09:30:56,853 - INFO -   → Việc Làm Bà Rịa - Vũng Tàu: 1 bài có liên hệ
+2026-11-20 09:30:58,874 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0900.csv
+2026-11-20 09:31:12,560 - INFO - 
+Đang cào: Việc Làm Thủ Dầu Một - Bình Dương
+2026-11-20 09:31:23,655 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:31:24,786 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:31:24,787 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:31:26,952 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:31:26,952 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:31:29,115 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:31:29,116 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:31:31,300 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:31:31,301 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:31:32,643 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:31:32,644 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:31:32,644 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 09:31:32,644 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:31:32,645 - INFO -   [1/5] Đang xử lý...
+2026-11-20 09:31:38,613 - INFO -   ✅ Bài có liên hệ: 0359419280, 0348432120
+2026-11-20 09:31:39,115 - INFO -   [2/5] Đang xử lý...
+2026-11-20 09:34:32,573 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 09:34:33,183 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:34:33,183 - INFO -   [3/4] Đang xử lý...
+2026-11-20 09:37:42,200 - INFO -   Đã click 7 nút Xem thêm
+2026-11-20 09:37:42,882 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:37:42,883 - INFO -   [3/5] Đang xử lý...
+2026-11-20 09:37:57,906 - INFO -   Đã click 9 nút Xem thêm
+2026-11-20 09:37:58,389 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:37:58,390 - INFO -   [4/5] Đang xử lý...
+2026-11-20 09:41:29,795 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 09:41:30,348 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:41:30,349 - INFO -   [5/5] Đang xử lý...
+2026-11-20 09:41:36,676 - INFO -   ✅ Bài có liên hệ: 0974784293
+2026-11-20 09:41:37,177 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 trùng link
+2026-11-20 09:41:37,683 - INFO -   → Việc Làm Thủ Dầu Một - Bình Dương: 2 bài có liên hệ
+2026-11-20 09:41:39,604 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_0900.csv
+2026-11-20 09:41:48,335 - INFO - 
+Đang cào: Việc Làm BMT - Đắk Lắk
+2026-11-20 09:42:00,463 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:42:03,610 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:42:03,611 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:42:04,735 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:42:04,736 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:42:13,036 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:42:21,286 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:42:29,549 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:42:29,549 - INFO -   Lọc sơ bộ: 3/4 bài có từ khóa tuyển dụng
+2026-11-20 09:42:29,550 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:42:29,550 - INFO -   [1/3] Đang xử lý...
+2026-11-20 09:42:37,679 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 09:42:38,343 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:42:38,343 - INFO -   [4/4] Đang xử lý...
+2026-11-20 09:43:41,775 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 09:43:42,141 - INFO -   ✅ Bài có liên hệ: 0943613323, 0353756313, 0947578585
+2026-11-20 09:43:42,644 - INFO -   [2/3] Đang xử lý...
+2026-11-20 09:48:41,443 - INFO -   Đã click 9 nút Xem thêm
+2026-11-20 09:48:41,922 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:48:41,923 - INFO -   Bỏ qua: 0 không có email/SĐT, 4 trùng link
+2026-11-20 09:48:42,434 - INFO -   → Việc Làm Sinh Viên TP.HCM: 0 bài có liên hệ
+2026-11-20 09:48:55,574 - INFO - 
+Đang cào: TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA
+2026-11-20 09:49:07,651 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:49:10,763 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:49:10,764 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:49:13,382 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:49:13,384 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:49:21,838 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:49:30,171 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:49:38,515 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:49:38,516 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 09:49:38,516 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:49:38,516 - INFO -   [1/6] Đang xử lý...
+2026-11-20 09:49:45,753 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 09:49:46,373 - INFO -   ✅ Bài có liên hệ: 0886885339, 0969843813
+2026-11-20 09:49:46,880 - INFO -   [3/3] Đang xử lý...
+2026-11-20 09:49:52,240 - INFO -   ✅ Bài có liên hệ: 0869041823
+2026-11-20 09:49:52,755 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:49:53,299 - INFO -   → Việc Làm BMT - Đắk Lắk: 3 bài có liên hệ
+2026-11-20 09:49:55,273 - INFO -   Đã ghi 3 dòng (lead mới 2, bổ sung 1, trùng hoàn toàn bỏ 0) → fb_leads_20261120_0900.csv
+2026-11-20 09:50:07,107 - INFO - Đã lưu 34 bài → fb_posts_20261120_0900.json
+2026-11-20 09:50:07,108 - INFO - Xong lần #1: 34 bài mới | 3000s (50.0 phút)
+2026-11-20 09:50:46,609 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 09:50:47,041 - INFO -   ✅ Bài có liên hệ: admin@limproduction.vn
+2026-11-20 09:50:47,547 - INFO -   [2/6] Đang xử lý...
+2026-11-20 09:51:55,427 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 09:51:56,107 - INFO -   ✅ Bài có liên hệ: admin@limproduction.vn
+2026-11-20 09:51:56,620 - INFO -   [3/6] Đang xử lý...
+2026-11-20 09:53:04,443 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 09:53:04,818 - INFO -   ✅ Bài có liên hệ: admin@limproduction.vn
+2026-11-20 09:53:05,320 - INFO -   [4/6] Đang xử lý...
+2026-11-20 09:53:15,102 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 09:53:15,600 - INFO -   ✅ Bài có liên hệ: admin@limproduction.vn
+2026-11-20 09:53:16,117 - INFO -   [5/6] Đang xử lý...
+2026-11-20 09:53:21,442 - INFO -   ✅ Bài có liên hệ: lananhmaket123456@gmail.com
+2026-11-20 09:53:21,948 - INFO -   [6/6] Đang xử lý...
+2026-11-20 09:54:29,814 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 09:54:30,299 - INFO -   ✅ Bài có liên hệ: admin@limproduction.vn
+2026-11-20 09:54:30,801 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:54:31,307 - INFO -   → TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA: 6 bài có liên hệ
+2026-11-20 09:54:33,238 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 4) → fb_leads_20261120_0901.csv
+2026-11-20 09:54:48,782 - INFO - 
+Đang cào: Việc Làm Gò Công - Tiền Giang
+2026-11-20 09:54:59,882 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:55:03,006 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:55:03,007 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 09:55:04,074 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:55:04,074 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 09:55:06,190 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 09:55:06,190 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 09:55:14,516 - INFO -   Scroll 4/5 - Thấy 8 bài, tiềm năng: 7
+2026-11-20 09:55:22,784 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 7
+2026-11-20 09:55:22,785 - INFO -   Lọc sơ bộ: 7/8 bài có từ khóa tuyển dụng
+2026-11-20 09:55:22,785 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:55:22,785 - INFO -   [1/7] Đang xử lý...
+2026-11-20 09:55:28,570 - INFO -   ✅ Bài có liên hệ: 0706240026
+2026-11-20 09:55:29,071 - INFO -   [2/7] Đang xử lý...
+2026-11-20 09:55:34,642 - INFO -   ✅ Bài có liên hệ: 0706240026
+2026-11-20 09:55:35,144 - INFO -   [3/7] Đang xử lý...
+2026-11-20 09:55:40,464 - INFO -   ✅ Bài có liên hệ: 0386954677
+2026-11-20 09:55:40,971 - INFO -   [4/7] Đang xử lý...
+2026-11-20 09:55:45,601 - INFO -   ✅ Bài có liên hệ: 0386954677
+2026-11-20 09:55:46,116 - INFO -   [5/7] Đang xử lý...
+2026-11-20 09:55:51,566 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:55:51,567 - INFO -   [6/7] Đang xử lý...
+2026-11-20 09:55:57,414 - INFO -   ✅ Bài có liên hệ: 0706240026
+2026-11-20 09:55:57,919 - INFO -   [7/7] Đang xử lý...
+2026-11-20 09:56:03,486 - INFO -   ✅ Bài có liên hệ: 0706240026
+2026-11-20 09:56:04,002 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 09:56:04,479 - INFO -   → Việc Làm Gò Công - Tiền Giang: 6 bài có liên hệ
+2026-11-20 09:56:06,283 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 5) → fb_leads_20261120_0901.csv
+2026-11-20 09:56:12,814 - INFO - 
+Đang cào: Việc Làm Tiếng Anh - English Jobs
+2026-11-20 09:56:25,954 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:56:29,053 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:56:29,053 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 09:56:30,144 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:56:30,145 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 09:56:31,238 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:56:31,239 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:56:39,486 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:56:47,685 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 09:56:47,685 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 09:56:47,685 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:56:47,686 - INFO -   [1/6] Đang xử lý...
+2026-11-20 09:56:53,345 - INFO -   ✅ Bài có liên hệ: 0972383051
+2026-11-20 09:56:53,851 - INFO -   [2/6] Đang xử lý...
+2026-11-20 09:56:59,275 - INFO -   ✅ Bài có liên hệ: 0972383051
+2026-11-20 09:56:59,784 - INFO -   [3/6] Đang xử lý...
+2026-11-20 09:57:05,168 - INFO -   ✅ Bài có liên hệ: 0867607433
+2026-11-20 09:57:05,681 - INFO -   [4/6] Đang xử lý...
+2026-11-20 09:57:10,291 - INFO -   ✅ Bài có liên hệ: Laibinhhue@gmail.com
+2026-11-20 09:57:10,799 - INFO -   [5/6] Đang xử lý...
+2026-11-20 09:57:16,222 - INFO -   ✅ Bài có liên hệ: 0972383051
+2026-11-20 09:57:16,731 - INFO -   [6/6] Đang xử lý...
+2026-11-20 09:57:22,247 - INFO -   ✅ Bài có liên hệ: tuyendung@thnetwork.co
+2026-11-20 09:57:22,754 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 09:57:23,196 - INFO -   → Việc Làm Tiếng Anh - English Jobs: 6 bài có liên hệ
+2026-11-20 09:57:25,046 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 6) → fb_leads_20261120_0901.csv
+2026-11-20 09:57:39,034 - INFO - 
+Đang cào: Việc Làm Hà Nam
+2026-11-20 09:57:51,136 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:57:54,219 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:57:54,220 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:57:55,318 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:57:55,319 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:58:03,654 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:58:11,853 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:58:20,036 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 09:58:20,037 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-11-20 09:58:20,037 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:58:20,037 - INFO -   [1/1] Đang xử lý...
+2026-11-20 09:58:25,765 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 09:58:25,765 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 trùng link
+2026-11-20 09:58:26,280 - INFO -   → Việc Làm Hà Nam: 0 bài có liên hệ
+2026-11-20 09:58:39,169 - INFO - 
+Đang cào: Việc Làm Đống Đa - Hà Nội
+2026-11-20 09:58:51,247 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 09:58:54,344 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 09:58:54,345 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 09:58:55,408 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:58:55,408 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 09:58:56,486 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:58:56,486 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 09:58:57,586 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:58:57,587 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 09:58:58,709 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 09:58:58,710 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 09:58:58,710 - INFO -   Lọc sơ bộ: 4/5 bài có từ khóa tuyển dụng
+2026-11-20 09:58:58,710 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 09:58:58,711 - INFO -   [1/4] Đang xử lý...
+2026-11-20 09:59:04,238 - INFO -   ✅ Bài có liên hệ: 0921297368
+2026-11-20 09:59:04,752 - INFO -   [2/4] Đang xử lý...
+2026-11-20 09:59:10,036 - INFO -   ✅ Bài có liên hệ: 0865873923
+2026-11-20 09:59:10,536 - INFO -   [3/4] Đang xử lý...
+2026-11-20 09:59:15,101 - INFO -   ✅ Bài có liên hệ: 0848081999
+2026-11-20 09:59:15,605 - INFO -   [4/4] Đang xử lý...
+2026-11-20 09:59:20,032 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 09:59:20,033 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 09:59:20,489 - INFO -   → Việc Làm Đống Đa - Hà Nội: 3 bài có liên hệ
+2026-11-20 09:59:22,313 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_0901.csv
+2026-11-20 09:59:33,365 - INFO - Đã lưu 35 bài → fb_posts_20261120_0901.json
+2026-11-20 09:59:33,366 - INFO - Xong lần #1: 35 bài mới | 3508s (58.5 phút)
+2026-11-20 15:00:04,689 - INFO - ============================================================
+2026-11-20 15:00:04,689 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 15:00:04,690 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 15:00:04,690 - INFO - ============================================================
+2026-11-20 15:00:06,777 - INFO - Email đã có trong CSV: 6062
+2026-11-20 15:00:06,777 - INFO - 
+============================================================
+2026-11-20 15:00:06,778 - INFO - LẦN CHẠY #1 | 15:00
+2026-11-20 15:00:06,778 - INFO - ============================================================
+2026-11-20 15:00:06,907 - INFO - File output: fb_posts_20261120_1500.json
+2026-11-20 15:00:06,908 - INFO - Email đã lấy từ trước: 6062
+2026-11-20 15:00:08,626 - INFO - 
+Đang cào: TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA
+2026-11-20 15:00:19,751 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:00:22,832 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:00:22,833 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:00:24,944 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:00:24,945 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:00:33,190 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:00:41,368 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:00:49,541 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:00:49,542 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-11-20 15:00:49,543 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:00:49,543 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:00:55,661 - INFO -   ✅ Bài có liên hệ: 0987302272
+2026-11-20 15:00:56,173 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:01:01,560 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:01:01,560 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:01:05,650 - INFO - ============================================================
+2026-11-20 15:01:05,651 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 15:01:05,651 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 15:01:05,651 - INFO - ============================================================
+2026-11-20 15:01:05,805 - INFO - Email đã có trong CSV: 6062
+2026-11-20 15:01:05,805 - INFO - 
+============================================================
+2026-11-20 15:01:05,806 - INFO - LẦN CHẠY #1 | 15:01
+2026-11-20 15:01:05,806 - INFO - ============================================================
+2026-11-20 15:01:05,880 - INFO - File output: fb_posts_20261120_1501.json
+2026-11-20 15:01:05,880 - INFO - Email đã lấy từ trước: 6062
+2026-11-20 15:01:06,126 - INFO -   ✅ Bài có liên hệ: 0396057110
+2026-11-20 15:01:06,487 - INFO - 
+Đang cào: Việc Làm Ngã Bảy - Hậu Giang
+2026-11-20 15:01:06,630 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:01:07,231 - INFO -   → TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA: 2 bài có liên hệ
+2026-11-20 15:01:09,350 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1500.csv
+2026-11-20 15:01:15,477 - INFO - 
+Đang cào: Thiết Kế ( Logo, Bộ Nhận Diện, Ấn Phẩm Mkt..) - In Ấn - Bảo Hộ Thương Hiệu
+2026-11-20 15:01:19,119 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:01:22,222 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:01:22,223 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:01:23,274 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:01:23,274 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:01:24,364 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:01:24,365 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:01:25,471 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:01:25,471 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:01:30,238 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:01:33,723 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 15:01:33,724 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-11-20 15:01:33,724 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:01:33,724 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:01:34,353 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 15:01:34,353 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:01:36,440 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:01:36,440 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 15:01:39,486 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:01:39,487 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:01:44,624 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 15:01:44,891 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:01:44,891 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:01:51,123 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 15:01:51,198 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:01:51,198 - INFO -   Bỏ qua: 3 không có email/SĐT, 0 trùng link
+2026-11-20 15:01:51,695 - INFO -   → Việc Làm Ngã Bảy - Hậu Giang: 0 bài có liên hệ
+2026-11-20 15:01:52,810 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 15:02:00,957 - INFO - 
+Đang cào: làm video bằng AI
+2026-11-20 15:02:01,013 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 15:02:01,052 - INFO -   Lọc sơ bộ: 0/7 bài có từ khóa tuyển dụng
+2026-11-20 15:02:01,084 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:02:01,113 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:02:01,714 - INFO -   → Thiết Kế ( Logo, Bộ Nhận Diện, Ấn Phẩm Mkt..) - In Ấn - Bảo Hộ Thương Hiệu: 0 bài có liên hệ
+2026-11-20 15:02:06,715 - INFO - ============================================================
+2026-11-20 15:02:06,715 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 15:02:06,716 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 15:02:06,716 - INFO - ============================================================
+2026-11-20 15:02:06,880 - INFO - Email đã có trong CSV: 6064
+2026-11-20 15:02:06,881 - INFO - 
+============================================================
+2026-11-20 15:02:06,881 - INFO - LẦN CHẠY #1 | 15:02
+2026-11-20 15:02:06,881 - INFO - ============================================================
+2026-11-20 15:02:06,956 - INFO - File output: fb_posts_20261120_1502.json
+2026-11-20 15:02:06,957 - INFO - Email đã lấy từ trước: 6064
+2026-11-20 15:02:07,643 - INFO - 
+Đang cào: Hội việc làm Logistics_Xuất Nhập Khẩu_KCN
+2026-11-20 15:02:12,491 - INFO - 
+Đang cào: Việc làm IT - Tuyển dụng C/C++,Java, HMTL, CSS, PHP, .Net, Android, IOS, AI
+2026-11-20 15:02:13,109 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:02:16,245 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:02:16,246 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:02:18,344 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:02:18,345 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 15:02:18,772 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:02:21,878 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:02:21,878 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:02:23,607 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:02:24,000 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:02:24,001 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 15:02:25,080 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:02:25,081 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 5
+2026-11-20 15:02:26,525 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 15:02:26,699 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:02:26,699 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:02:27,789 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:02:27,790 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:02:33,267 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:02:34,743 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 15:02:35,962 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:02:41,475 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:02:41,475 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 15:02:41,475 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:02:41,476 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:02:42,932 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 15:02:42,932 - INFO -   Lọc sơ bộ: 0/7 bài có từ khóa tuyển dụng
+2026-11-20 15:02:42,933 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:02:42,933 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:02:43,463 - INFO -   → làm video bằng AI: 0 bài có liên hệ
+2026-11-20 15:02:44,184 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:02:49,192 - INFO -   ✅ Bài có liên hệ: nguyen.yen@tollgroup.com
+2026-11-20 15:02:49,694 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:02:52,399 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:02:52,399 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 15:02:52,400 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:02:52,400 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:02:54,988 - INFO -   ✅ Bài có liên hệ: nguyen.yen@tollgroup.com
+2026-11-20 15:02:55,502 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:02:56,698 - INFO - 
+Đang cào: Việc Làm Hạ Long - Quảng Ninh
+2026-11-20 15:02:58,051 - INFO -   ✅ Bài có liên hệ: hanldb@lighthuman.vn
+2026-11-20 15:02:58,560 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:03:01,097 - INFO -   ✅ Bài có liên hệ: nguyen.yen@tollgroup.com
+2026-11-20 15:03:01,612 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:03:04,049 - INFO -   ✅ Bài có liên hệ: ThanhVT34@fpt.com
+2026-11-20 15:03:04,562 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:03:05,033 - INFO -   → Việc làm IT - Tuyển dụng C/C++,Java, HMTL, CSS, PHP, .Net, Android, IOS, AI: 2 bài có liên hệ
+2026-11-20 15:03:06,253 - INFO -   ✅ Bài có liên hệ: uyen.pham@tollgroup.com
+2026-11-20 15:03:06,767 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:03:06,787 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1500.csv
+2026-11-20 15:03:07,895 - INFO - ============================================================
+2026-11-20 15:03:07,896 - INFO - FB GROUP SCRAPER - Chạy liên tục mỗi 30 phút
+2026-11-20 15:03:07,896 - INFO - Nhấn Ctrl+C để dừng
+2026-11-20 15:03:07,896 - INFO - ============================================================
+2026-11-20 15:03:08,106 - INFO - Email đã có trong CSV: 6064
+2026-11-20 15:03:08,106 - INFO - 
+============================================================
+2026-11-20 15:03:08,106 - INFO - LẦN CHẠY #1 | 15:03
+2026-11-20 15:03:08,106 - INFO - ============================================================
+2026-11-20 15:03:08,245 - INFO - File output: fb_posts_20261120_1503.json
+2026-11-20 15:03:08,246 - INFO - Email đã lấy từ trước: 6064
+2026-11-20 15:03:08,867 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:03:09,567 - INFO - 
+Đang cào: Việc Làm Gò Công - Tiền Giang
+2026-11-20 15:03:12,037 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:03:12,038 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 0
+2026-11-20 15:03:12,167 - INFO -   ✅ Bài có liên hệ: 0325254598
+2026-11-20 15:03:12,674 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:03:13,113 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:13,114 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-11-20 15:03:13,438 - INFO -   → Hội việc làm Logistics_Xuất Nhập Khẩu_KCN: 5 bài có liên hệ
+2026-11-20 15:03:16,385 - INFO -   Đã ghi 3 dòng (lead mới 2, bổ sung 1, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1502.csv
+2026-11-20 15:03:17,196 - INFO - 
+Đang cào: Việc Làm Tiếng Hàn Quốc - Korean Jobs
+2026-11-20 15:03:21,421 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:03:24,196 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:03:25,208 - INFO - 
+Đang cào: Việc Làm Bà Rịa - Vũng Tàu
+2026-11-20 15:03:27,282 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:03:27,283 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:03:28,383 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:28,383 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:03:28,485 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:03:29,471 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:29,471 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:03:29,577 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:03:30,575 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:30,575 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 15:03:31,664 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:31,664 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:03:31,665 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 15:03:31,665 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:03:31,665 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:03:32,581 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 15:03:32,582 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:03:33,626 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:33,626 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-11-20 15:03:34,687 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:34,687 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 0
+2026-11-20 15:03:35,747 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:03:35,747 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 0
+2026-11-20 15:03:37,688 - INFO -   ✅ Bài có liên hệ: 0336513652
+2026-11-20 15:03:37,727 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:03:37,728 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 15:03:37,728 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:03:37,728 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:03:38,208 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:03:42,997 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:03:43,427 - INFO -   ✅ Bài có liên hệ: 0338448289
+2026-11-20 15:03:43,600 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:03:43,600 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:03:43,938 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:03:43,946 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 0
+2026-11-20 15:03:43,946 - INFO -   Lọc sơ bộ: 0/7 bài có từ khóa tuyển dụng
+2026-11-20 15:03:43,947 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:03:43,947 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:03:44,432 - INFO -   → Việc Làm Tiếng Hàn Quốc - Korean Jobs: 0 bài có liên hệ
+2026-11-20 15:03:46,093 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:03:46,093 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:03:48,186 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:03:48,187 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:03:49,039 - INFO -   ✅ Bài có liên hệ: 0336513652
+2026-11-20 15:03:49,537 - INFO -   ✅ Bài có liên hệ: 0987434999
+2026-11-20 15:03:49,546 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:03:50,043 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:03:50,551 - INFO -   → Việc Làm Hạ Long - Quảng Ninh: 2 bài có liên hệ
+2026-11-20 15:03:52,225 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1501.csv
+2026-11-20 15:03:52,895 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-11-20 15:03:55,083 - INFO -   ✅ Bài có liên hệ: 0336513652
+2026-11-20 15:03:55,594 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:03:56,255 - INFO -   → Việc Làm Gò Công - Tiền Giang: 3 bài có liên hệ
+2026-11-20 15:03:56,381 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 15:03:58,128 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 3) → fb_leads_20261120_1503.csv
+2026-11-20 15:04:04,590 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 15:04:05,694 - INFO - 
+Đang cào: Việc Làm Quảng Ninh
+2026-11-20 15:04:06,052 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:04:08,123 - INFO - 
+Đang cào: Việc Làm Tiếng Anh - English Jobs
+2026-11-20 15:04:09,132 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:04:09,133 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:04:10,179 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:04:10,187 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:04:11,284 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:04:11,284 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:04:12,767 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 15:04:12,768 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-11-20 15:04:12,768 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:04:12,768 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:04:17,194 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:04:18,883 - INFO -   ✅ Bài có liên hệ: liennguyen@apexstudy.edu.vn
+2026-11-20 15:04:19,263 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:04:19,389 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:04:19,457 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:04:20,316 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:04:20,317 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:04:22,348 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:04:22,348 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:04:22,455 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:04:22,455 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:04:23,405 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:04:23,406 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:04:23,517 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:04:23,518 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 15:04:25,031 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:04:25,031 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:04:27,607 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:04:27,608 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 15:04:27,608 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:04:27,608 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:04:29,568 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:04:29,568 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 trùng link
+2026-11-20 15:04:30,057 - INFO -   → Việc Làm Bà Rịa - Vũng Tàu: 1 bài có liên hệ
+2026-11-20 15:04:31,579 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:04:31,699 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1502.csv
+2026-11-20 15:04:31,704 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:04:33,596 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:04:33,596 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:04:39,136 - INFO -   ✅ Bài có liên hệ: 0374232186
+2026-11-20 15:04:39,644 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:04:39,747 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:04:39,900 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:04:39,901 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 15:04:39,901 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:04:39,902 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:04:40,179 - INFO -   → Group tuyển dụng 1: 1 bài có liên hệ
+2026-11-20 15:04:42,204 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1500.csv
+2026-11-20 15:04:44,134 - INFO - 
+Đang cào: Việc Làm Thủ Dầu Một - Bình Dương
+2026-11-20 15:04:46,570 - INFO -   ✅ Bài có liên hệ: anh.nguyen@jobsgo.vn
+2026-11-20 15:04:47,072 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:04:47,958 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:04:47,959 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 15:04:47,959 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:04:47,960 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:04:51,221 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-11-20 15:04:54,178 - INFO -   ✅ Bài có liên hệ: 0867607433
+2026-11-20 15:04:54,257 - INFO -   ✅ Bài có liên hệ: hr_qn@scotsenglish.com
+2026-11-20 15:04:54,693 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:04:54,771 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:04:56,463 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:05:00,251 - INFO -   ✅ Bài có liên hệ: 0908059887
+2026-11-20 15:05:00,301 - INFO -   ✅ Bài có liên hệ: 0867607433
+2026-11-20 15:05:00,595 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 15:05:00,596 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:05:00,761 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:05:00,808 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:05:01,355 - INFO -   → Việc Làm Tiếng Anh - English Jobs: 2 bài có liên hệ
+2026-11-20 15:05:02,722 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:05:02,723 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 15:05:03,196 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1503.csv
+2026-11-20 15:05:03,861 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:05:03,862 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 15:05:03,976 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:05:05,483 - INFO -   ✅ Bài có liên hệ: hr_qn@scotsenglish.com
+2026-11-20 15:05:05,992 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:05:06,099 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:05:06,100 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 15:05:07,284 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:05:07,285 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 5
+2026-11-20 15:05:07,285 - INFO -   Lọc sơ bộ: 5/5 bài có từ khóa tuyển dụng
+2026-11-20 15:05:07,285 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:05:07,286 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:05:10,156 - INFO -   ⚡ Load xong sau 6s
+2026-11-20 15:05:10,156 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:05:10,539 - INFO - 
+Đang cào: Việc Làm Hà Nam
+2026-11-20 15:05:11,444 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:05:11,445 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:05:13,765 - INFO -   ✅ Bài có liên hệ: hr_qn@scotsenglish.com
+2026-11-20 15:05:14,278 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:05:14,783 - INFO -   → Việc Làm Quảng Ninh: 5 bài có liên hệ
+2026-11-20 15:05:16,898 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 4) → fb_leads_20261120_1501.csv
+2026-11-20 15:05:19,984 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:05:24,069 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:05:27,140 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:05:27,140 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:05:28,250 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:05:28,257 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:05:28,258 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-11-20 15:05:29,035 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-11-20 15:05:36,522 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 0
+2026-11-20 15:05:36,587 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:05:36,587 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 15:05:36,587 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:05:36,588 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:05:40,170 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:05:43,243 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:05:43,244 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:05:44,330 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:05:44,330 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 15:05:44,722 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 0
+2026-11-20 15:05:52,487 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:05:52,903 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 0
+2026-11-20 15:05:52,904 - INFO -   Lọc sơ bộ: 0/5 bài có từ khóa tuyển dụng
+2026-11-20 15:05:52,904 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:05:52,904 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:05:53,417 - INFO -   → Việc Làm Hà Nam: 0 bài có liên hệ
+2026-11-20 15:06:00,633 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:06:02,543 - INFO - 
+Đang cào: Việc Làm Đống Đa - Hà Nội
+2026-11-20 15:06:08,793 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:06:08,793 - INFO -   Lọc sơ bộ: 1/4 bài có từ khóa tuyển dụng
+2026-11-20 15:06:08,794 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:06:08,794 - INFO -   [1/1] Đang xử lý...
+2026-11-20 15:06:12,469 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:06:12,469 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:06:13,003 - INFO -   → Group tuyển dụng 2: 0 bài có liên hệ
+2026-11-20 15:06:13,690 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:06:16,810 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:06:16,811 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:06:17,867 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:06:17,868 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 15:06:18,957 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:06:18,957 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:06:20,055 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:06:20,055 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:06:22,456 - INFO - 
+Đang cào: Tìm việc làm tại TP.HCM ✅
+2026-11-20 15:06:28,248 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 3
+2026-11-20 15:06:28,248 - INFO -   Lọc sơ bộ: 3/8 bài có từ khóa tuyển dụng
+2026-11-20 15:06:28,249 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:06:28,249 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:06:33,564 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:06:33,891 - INFO -   ✅ Bài có liên hệ: 0394461632
+2026-11-20 15:06:34,402 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:06:36,652 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:06:36,652 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:06:37,318 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 15:06:37,741 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:06:37,741 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:06:38,748 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:06:38,749 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:06:39,881 - INFO -   ✅ Bài có liên hệ: 0982735930
+2026-11-20 15:06:40,386 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:06:45,790 - INFO -   ✅ Bài có liên hệ: 0849833583
+2026-11-20 15:06:46,302 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:06:46,856 - INFO -   → Việc Làm Đống Đa - Hà Nội: 3 bài có liên hệ
+2026-11-20 15:06:46,953 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 15:06:48,517 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1503.csv
+2026-11-20 15:06:50,253 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 15:06:50,529 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:06:50,529 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:06:55,118 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 15:07:02,313 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-11-20 15:07:03,325 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 15:07:03,325 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-11-20 15:07:03,326 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:07:03,326 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:07:03,634 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 15:07:03,988 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:07:03,989 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:07:09,668 - INFO -   ✅ Bài có liên hệ: 0365980962
+2026-11-20 15:07:10,179 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:07:13,999 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:07:14,757 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 15:07:15,075 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:07:15,075 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:07:15,607 - INFO -   ✅ Bài có liên hệ: 0936126490
+2026-11-20 15:07:16,111 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:07:17,074 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:07:17,075 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:07:19,204 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:07:19,205 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:07:20,422 - INFO -   ✅ Bài có liên hệ: 0974784293
+2026-11-20 15:07:20,612 - INFO -   ✅ Bài có liên hệ: 0936126490
+2026-11-20 15:07:20,936 - INFO -   Bỏ qua: 0 không có email/SĐT, 4 trùng link
+2026-11-20 15:07:21,123 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:07:21,478 - INFO -   → Việc Làm Thủ Dầu Một - Bình Dương: 1 bài có liên hệ
+2026-11-20 15:07:23,168 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1502.csv
+2026-11-20 15:07:26,349 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:07:26,350 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:07:27,440 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 2
+2026-11-20 15:07:30,781 - INFO -   ✅ Bài có liên hệ: 0908564170
+2026-11-20 15:07:31,292 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:07:31,813 - INFO -   → Tìm việc làm tại TP.HCM ✅: 4 bài có liên hệ
+2026-11-20 15:07:33,625 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 3) → fb_leads_20261120_1501.csv
+2026-11-20 15:07:34,283 - INFO - 
+Đang cào: Việc Làm BMT - Đắk Lắk
+2026-11-20 15:07:35,702 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 2
+2026-11-20 15:07:36,936 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:07:37,178 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:07:37,179 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:07:41,109 - INFO - 
+Đang cào: Việc Làm Long An
+2026-11-20 15:07:43,517 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 15:07:43,591 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:07:43,592 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:07:44,022 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 2
+2026-11-20 15:07:44,023 - INFO -   Lọc sơ bộ: 2/6 bài có từ khóa tuyển dụng
+2026-11-20 15:07:44,023 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:07:44,023 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:07:46,405 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:07:49,534 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:07:49,535 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:07:49,782 - INFO -   ✅ Bài có liên hệ: 0823338493, 0981843005
+2026-11-20 15:07:50,288 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:07:50,652 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:07:50,652 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:07:51,895 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:07:51,895 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:07:52,226 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:07:55,295 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:07:55,296 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:07:56,372 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:07:56,372 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 15:07:57,439 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:07:57,439 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:07:57,626 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 15:07:57,775 - INFO -   ✅ Bài có liên hệ: 0981494742, 0562198211, 0392289295, 0981843005
+2026-11-20 15:07:58,277 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:07:58,530 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:07:58,530 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:07:58,804 - INFO -   → Group tuyển dụng 4: 2 bài có liên hệ
+2026-11-20 15:08:00,174 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:08:00,442 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1503.csv
+2026-11-20 15:08:06,738 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:08:06,738 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 15:08:06,738 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:08:06,739 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:08:08,425 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:08:08,425 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 15:08:08,426 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:08:08,426 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:08:09,713 - INFO - 
+Đang cào: Việc Làm Phổ Yên - Thái Nguyên
+2026-11-20 15:08:12,390 - INFO -   ✅ Bài có liên hệ: 0336547435
+2026-11-20 15:08:12,904 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:08:18,269 - INFO -   ✅ Bài có liên hệ: 0336547435
+2026-11-20 15:08:18,777 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:08:20,824 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:08:23,952 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:08:23,952 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:08:24,151 - INFO -   ✅ Bài có liên hệ: 0336547435
+2026-11-20 15:08:24,661 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:08:25,010 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:08:25,011 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 15:08:26,095 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:08:26,096 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 15:08:27,187 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:08:27,187 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 15:08:29,491 - INFO -   ✅ Bài có liên hệ: 0946550306
+2026-11-20 15:08:30,004 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:08:30,499 - INFO -   → Việc Làm Long An: 4 bài có liên hệ
+2026-11-20 15:08:32,144 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 3) → fb_leads_20261120_1501.csv
+2026-11-20 15:08:35,431 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 5
+2026-11-20 15:08:35,431 - INFO -   Lọc sơ bộ: 5/5 bài có từ khóa tuyển dụng
+2026-11-20 15:08:35,431 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:08:35,432 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:08:38,698 - INFO - 
+Đang cào: TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅
+2026-11-20 15:08:49,837 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:08:52,937 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:08:52,938 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:08:53,072 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:08:53,257 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:08:53,258 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:08:54,007 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:08:54,008 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:08:55,125 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:08:55,125 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:09:03,388 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 15:09:11,625 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 3
+2026-11-20 15:09:11,625 - INFO -   Lọc sơ bộ: 3/6 bài có từ khóa tuyển dụng
+2026-11-20 15:09:11,626 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:09:11,626 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:09:17,108 - INFO -   ✅ Bài có liên hệ: 0776407777
+2026-11-20 15:09:17,618 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:09:22,330 - INFO -   ✅ Bài có liên hệ: hoangdung061122@gmail.com
+2026-11-20 15:09:22,835 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:09:29,185 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 15:09:29,288 - INFO -   ✅ Bài có liên hệ: 0973863943
+2026-11-20 15:09:29,798 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:09:30,288 - INFO -   → TUYỂN DỤNG DEV, TESTER, QA, BA, QC ✅✅✅: 3 bài có liên hệ
+2026-11-20 15:09:32,649 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1501.csv
+2026-11-20 15:09:44,474 - INFO - 
+Đang cào: Việc Làm Việt Trì - Phú Thọ
+2026-11-20 15:09:55,586 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:09:58,647 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:09:58,647 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:09:59,693 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:09:59,694 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 0
+2026-11-20 15:10:07,827 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 15:10:15,968 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 15:10:24,119 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 15:10:24,120 - INFO -   Lọc sơ bộ: 0/4 bài có từ khóa tuyển dụng
+2026-11-20 15:10:24,120 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:10:24,120 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:10:24,629 - INFO -   → Việc Làm Việt Trì - Phú Thọ: 0 bài có liên hệ
+2026-11-20 15:10:31,458 - INFO - 
+Đang cào: TUYỂN DỤNG KẾ TOÁN
+2026-11-20 15:10:35,791 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 15:10:36,079 - INFO -   ✅ Bài có liên hệ: hcns.levelervn@gmail.com
+2026-11-20 15:10:36,590 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:10:41,951 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:10:41,951 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:10:42,549 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:10:45,635 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:10:45,636 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:10:46,709 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:10:46,709 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 3
+2026-11-20 15:10:48,781 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:10:48,782 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 15:10:49,206 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 15:10:49,347 - INFO -   ✅ Bài có liên hệ: 0988548466
+2026-11-20 15:10:49,850 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:10:53,617 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 15:10:53,828 - INFO -   ✅ Bài có liên hệ: yenbinh.neverlandedu@gmail.com
+2026-11-20 15:10:54,339 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:10:55,276 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:10:55,276 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:10:56,963 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:11:00,572 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:11:00,573 - INFO -   Bỏ qua: 3 không có email/SĐT, 0 trùng link
+2026-11-20 15:11:01,044 - INFO -   → Việc Làm Phổ Yên - Thái Nguyên: 2 bài có liên hệ
+2026-11-20 15:11:02,684 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1503.csv
+2026-11-20 15:11:05,162 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:11:05,163 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 15:11:05,163 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:11:05,164 - INFO -   [1/6] Đang xử lý...
+2026-11-20 15:11:13,065 - INFO -   ✅ Bài có liên hệ: tuyendung.hr@itmv.vn
+2026-11-20 15:11:13,449 - INFO - 
+Đang cào: Việc Làm Hà Đông - Hà Nội
+2026-11-20 15:11:13,566 - INFO -   [2/6] Đang xử lý...
+2026-11-20 15:11:18,811 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:11:18,812 - INFO -   [3/6] Đang xử lý...
+2026-11-20 15:11:23,564 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:11:24,100 - INFO -   ✅ Bài có liên hệ: tuyendungthegioinem@gmail.com
+2026-11-20 15:11:24,605 - INFO -   [4/6] Đang xử lý...
+2026-11-20 15:11:26,668 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:11:26,669 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:11:28,790 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:11:28,791 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:11:29,921 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:11:29,922 - INFO -   [5/6] Đang xử lý...
+2026-11-20 15:11:35,305 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:11:35,305 - INFO -   [6/6] Đang xử lý...
+2026-11-20 15:11:37,013 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:11:40,503 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:11:40,503 - INFO -   Bỏ qua: 1 không có email/SĐT, 3 trùng link
+2026-11-20 15:11:40,967 - INFO -   → TUYỂN DỤNG KẾ TOÁN: 2 bài có liên hệ
+2026-11-20 15:11:42,600 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1501.csv
+2026-11-20 15:11:45,205 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:11:51,659 - INFO - 
+Đang cào: Việc Làm BMT Đắk Lắk
+2026-11-20 15:11:53,414 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 5
+2026-11-20 15:11:53,415 - INFO -   Lọc sơ bộ: 5/6 bài có từ khóa tuyển dụng
+2026-11-20 15:11:53,415 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:11:53,415 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:12:00,336 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 15:12:00,520 - INFO -   ✅ Bài có liên hệ: 0987537642
+2026-11-20 15:12:01,029 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:12:02,793 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:12:05,865 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:12:05,865 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:12:06,322 - INFO -   ✅ Bài có liên hệ: 0969822916
+2026-11-20 15:12:06,828 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:12:06,975 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:12:06,976 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:12:08,073 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:12:08,073 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:12:11,273 - INFO -   ✅ Bài có liên hệ: 0384338201
+2026-11-20 15:12:11,782 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:12:16,322 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-11-20 15:12:17,217 - INFO -   ✅ Bài có liên hệ: 0869674782
+2026-11-20 15:12:17,729 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:12:23,047 - INFO -   ✅ Bài có liên hệ: nhansu2@ivy.com.vn
+2026-11-20 15:12:23,556 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:12:24,054 - INFO -   → Việc Làm Hà Đông - Hà Nội: 5 bài có liên hệ
+2026-11-20 15:12:24,564 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-11-20 15:12:24,564 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-11-20 15:12:24,565 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:12:24,565 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:12:25,754 - INFO -   Đã ghi 4 dòng (lead mới 4, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1503.csv
+2026-11-20 15:12:30,340 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:12:30,340 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:12:35,225 - INFO - 
+Đang cào: Việc làm Long Biên - Gia Lâm - Đông Anh
+2026-11-20 15:12:43,054 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 15:12:43,439 - INFO -   ✅ Bài có liên hệ: S.ladiebmt@gmail.com
+2026-11-20 15:12:43,947 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:12:48,014 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:12:49,371 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:12:49,372 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:12:51,096 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:12:51,097 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:12:53,213 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:12:53,214 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:12:54,322 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:12:54,322 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:12:54,772 - INFO -   ✅ Bài có liên hệ: 0914069513
+2026-11-20 15:12:55,277 - INFO -   Bỏ qua: 2 không có email/SĐT, 0 trùng link
+2026-11-20 15:12:55,802 - INFO -   → Việc Làm BMT Đắk Lắk: 2 bài có liên hệ
+2026-11-20 15:12:57,614 - INFO -   Đã ghi 2 dòng (lead mới 1, bổ sung 1, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1501.csv
+2026-11-20 15:13:02,565 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 15:13:10,801 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 15:13:10,801 - INFO -   Đã click 5 nút Xem thêm
+2026-11-20 15:13:10,801 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-11-20 15:13:10,802 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:13:10,802 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:13:11,075 - INFO -   ✅ Bài có liên hệ: 0377752694, 0339073456, 0377977036
+2026-11-20 15:13:11,580 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:13:12,783 - INFO - 
+Đang cào: Việc Làm Sinh Viên TP.HCM
+2026-11-20 15:13:16,580 - INFO -   ✅ Bài có liên hệ: 0365920168
+2026-11-20 15:13:17,096 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:13:22,442 - INFO -   ✅ Bài có liên hệ: 0365920168
+2026-11-20 15:13:22,888 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:13:22,949 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:13:25,966 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:13:25,967 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:13:28,038 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:13:28,038 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:13:29,177 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:13:29,178 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:13:33,569 - INFO -   Đã click 7 nút Xem thêm
+2026-11-20 15:13:33,887 - INFO -   ✅ Bài có liên hệ: 0395837269, 0876812190, 0358298028, 0356852415, 0334121600, 0984731092, 0369964918
+2026-11-20 15:13:34,396 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:13:37,436 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:13:39,768 - INFO -   ✅ Bài có liên hệ: thuthuy@vnj-jp.com
+2026-11-20 15:13:40,275 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:13:45,559 - INFO -   ✅ Bài có liên hệ: 0981410421
+2026-11-20 15:13:45,686 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:13:45,687 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 15:13:45,687 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:13:45,687 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:13:46,069 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:13:46,560 - INFO -   → Việc làm Long Biên - Gia Lâm - Đông Anh: 5 bài có liên hệ
+2026-11-20 15:13:48,246 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1503.csv
+2026-11-20 15:13:51,446 - INFO -   ✅ Bài có liên hệ: 0936061630
+2026-11-20 15:13:51,956 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:13:57,288 - INFO -   ✅ Bài có liên hệ: hr@gold-pharma.vn
+2026-11-20 15:13:57,800 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:13:58,424 - INFO - 
+Đang cào: TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI
+2026-11-20 15:14:08,553 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:14:09,544 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 15:14:09,896 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:14:09,897 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:14:11,647 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:14:11,647 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:14:13,760 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:14:13,760 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 15:14:21,338 - INFO -   Đã click 7 nút Xem thêm
+2026-11-20 15:14:21,506 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:14:21,506 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 trùng link
+2026-11-20 15:14:21,975 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:14:22,061 - INFO -   → Việc Làm Sinh Viên TP.HCM: 2 bài có liên hệ
+2026-11-20 15:14:23,723 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1501.csv
+2026-11-20 15:14:30,216 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:14:38,396 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:14:38,396 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 15:14:38,396 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:14:38,397 - INFO -   [1/6] Đang xử lý...
+2026-11-20 15:14:38,660 - INFO - 
+Đang cào: TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA
+2026-11-20 15:14:45,513 - INFO -   ✅ Bài có liên hệ: 0963195868
+2026-11-20 15:14:46,013 - INFO -   [2/6] Đang xử lý...
+2026-11-20 15:14:51,689 - INFO -   ✅ Bài có liên hệ: 0963195868
+2026-11-20 15:14:52,196 - INFO -   [3/6] Đang xử lý...
+2026-11-20 15:14:53,167 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:14:56,033 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 15:14:56,235 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:14:56,236 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:14:56,347 - INFO -   ✅ Bài có liên hệ: yenbinh.neverlandedu@gmail.com
+2026-11-20 15:14:56,860 - INFO -   Bỏ qua: 0 không có email/SĐT, 3 trùng link
+2026-11-20 15:14:57,338 - INFO -   → Group tuyển dụng 5: 2 bài có liên hệ
+2026-11-20 15:14:57,792 - INFO -   ✅ Bài có liên hệ: 0976701318
+2026-11-20 15:14:58,295 - INFO -   [4/6] Đang xử lý...
+2026-11-20 15:14:58,335 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:14:58,335 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:14:58,892 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1500.csv
+2026-11-20 15:15:03,995 - INFO -   ✅ Bài có liên hệ: 0333698135, 0981010264
+2026-11-20 15:15:04,497 - INFO -   [5/6] Đang xử lý...
+2026-11-20 15:15:06,628 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:15:10,034 - INFO -   ✅ Bài có liên hệ: 0862850973
+2026-11-20 15:15:10,090 - INFO - 
+Đang cào: TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS
+2026-11-20 15:15:10,574 - INFO -   [6/6] Đang xử lý...
+2026-11-20 15:15:14,842 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:15:17,078 - INFO -   ✅ Bài có liên hệ: kinhdoanhdotuan@gmail.com
+2026-11-20 15:15:17,593 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:15:18,071 - INFO -   → TUYỂN DỤNG - TÌM VIỆC LÀM TẠI HÀ NỘI: 6 bài có liên hệ
+2026-11-20 15:15:19,680 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 6) → fb_leads_20261120_1503.csv
+2026-11-20 15:15:21,287 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:15:23,055 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:15:23,055 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-11-20 15:15:23,056 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:15:23,056 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:15:24,346 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:15:24,346 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:15:29,346 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:15:29,346 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:15:32,525 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:15:33,549 - INFO - 
+Đang cào: HỘI VIỆC LÀM TIẾNG TRUNG
+2026-11-20 15:15:35,969 - INFO -   ✅ Bài có liên hệ: hanhpbh@rikkeiacademy.vn
+2026-11-20 15:15:36,476 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:15:40,669 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:15:43,739 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:15:44,644 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 15:15:44,793 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:15:44,793 - INFO -   Bỏ qua: 1 không có email/SĐT, 1 trùng link
+2026-11-20 15:15:45,325 - INFO -   → TUYỂN DỤNG THIẾT KẾ ĐỒ HỌA: 1 bài có liên hệ
+2026-11-20 15:15:46,808 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:15:46,809 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:15:46,965 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1501.csv
+2026-11-20 15:15:48,827 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:15:48,921 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:15:48,921 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:15:50,029 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:15:50,030 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 15:15:56,967 - INFO -   Scroll 5/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:15:56,967 - INFO -   Lọc sơ bộ: 1/4 bài có từ khóa tuyển dụng
+2026-11-20 15:15:56,967 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:15:56,968 - INFO -   [1/1] Đang xử lý...
+2026-11-20 15:15:58,218 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 4
+2026-11-20 15:16:01,637 - INFO - Đã lưu 25 bài → fb_posts_20261120_1501.json
+2026-11-20 15:16:01,638 - INFO - Xong lần #1: 25 bài mới | 896s (14.9 phút)
+2026-11-20 15:16:03,721 - INFO -   ✅ Bài có liên hệ: recruitment.kvt@karcher.com
+2026-11-20 15:16:04,236 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:16:04,641 - INFO -   → TUYỂN DỤNG VIỆC LÀM XUẤT NHẬP KHẨU, HẢI QUAN, LOGISTICS: 1 bài có liên hệ
+2026-11-20 15:16:06,166 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1500.csv
+2026-11-20 15:16:06,419 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 4
+2026-11-20 15:16:06,420 - INFO -   Lọc sơ bộ: 4/7 bài có từ khóa tuyển dụng
+2026-11-20 15:16:06,420 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:16:06,421 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:16:12,101 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:16:12,101 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:16:16,524 - INFO - 
+Đang cào: Việc Làm Đồng Hới - Quảng Bình
+2026-11-20 15:16:16,819 - INFO -   ✅ Bài có liên hệ: congtydientuvso.hr@gmail.com
+2026-11-20 15:16:17,328 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:16:22,776 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:16:22,777 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:16:27,859 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:16:28,060 - INFO -   ✅ Bài có liên hệ: tuyendung.hanbotech@gmail.com
+2026-11-20 15:16:28,562 - INFO -   Bỏ qua: 2 không có email/SĐT, 0 trùng link
+2026-11-20 15:16:29,081 - INFO -   → HỘI VIỆC LÀM TIẾNG TRUNG: 2 bài có liên hệ
+2026-11-20 15:16:30,689 - INFO -   Đã ghi 1 dòng (lead mới 0, bổ sung 1, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1503.csv
+2026-11-20 15:16:30,977 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:16:30,978 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:16:32,054 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:16:32,054 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:16:33,134 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:16:33,134 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:16:36,795 - INFO - 
+Đang cào: NGHIỆP VỤ XUẤT NHẬP KHẨU - LOGISTICS
+2026-11-20 15:16:41,338 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:16:47,901 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:16:49,514 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:16:49,515 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 15:16:49,515 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:16:49,516 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:16:50,968 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:16:50,969 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:16:52,030 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:16:52,031 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 15:17:00,190 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 15:17:08,361 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 15:17:16,553 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 15:17:16,553 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-11-20 15:17:16,554 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:17:16,554 - INFO -   [1/1] Đang xử lý...
+2026-11-20 15:17:22,022 - INFO -   ✅ Bài có liên hệ: hr@naislogistics.com
+2026-11-20 15:17:22,528 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:17:23,033 - INFO -   → NGHIỆP VỤ XUẤT NHẬP KHẨU - LOGISTICS: 1 bài có liên hệ
+2026-11-20 15:17:24,741 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1503.csv
+2026-11-20 15:17:38,138 - INFO - 
+Đang cào: Việc Làm Đông Triều - Quảng Ninh
+2026-11-20 15:17:43,645 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 15:17:44,006 - INFO -   ✅ Bài có liên hệ: 0838002005, 0979334010
+2026-11-20 15:17:44,509 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:17:50,295 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:17:53,365 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:17:53,366 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:17:54,428 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:17:54,429 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:17:55,529 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:17:55,530 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:18:03,769 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:18:11,953 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:18:11,954 - INFO -   Lọc sơ bộ: 3/5 bài có từ khóa tuyển dụng
+2026-11-20 15:18:11,954 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:18:11,955 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:18:17,667 - INFO -   ✅ Bài có liên hệ: 0964265680
+2026-11-20 15:18:18,170 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:18:23,559 - INFO -   ✅ Bài có liên hệ: 0967932981
+2026-11-20 15:18:24,073 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:18:29,500 - INFO -   ✅ Bài có liên hệ: tuyendung.petcare@gmail.com
+2026-11-20 15:18:30,006 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:18:30,454 - INFO -   → Việc Làm Đông Triều - Quảng Ninh: 3 bài có liên hệ
+2026-11-20 15:18:32,018 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1503.csv
+2026-11-20 15:18:37,926 - INFO - Đã lưu 34 bài → fb_posts_20261120_1503.json
+2026-11-20 15:18:37,927 - INFO - Xong lần #1: 34 bài mới | 930s (15.5 phút)
+2026-11-20 15:19:50,580 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:19:50,755 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:19:50,755 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:19:57,094 - INFO -   ✅ Bài có liên hệ: DuyenTTN3@fpt.com
+2026-11-20 15:19:57,609 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:19:58,063 - INFO -   → Việc Làm Đồng Hới - Quảng Bình: 1 bài có liên hệ
+2026-11-20 15:19:59,639 - INFO -   Đã ghi 1 dòng (lead mới 0, bổ sung 1, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1500.csv
+2026-11-20 15:20:07,605 - INFO - 
+Đang cào: Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️
+2026-11-20 15:20:17,715 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:20:21,798 - INFO -   ⚡ Load xong sau 4s
+2026-11-20 15:20:21,799 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:20:23,975 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:20:23,975 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:20:32,181 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:20:40,394 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:20:48,628 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:20:48,629 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 15:20:48,629 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:20:48,629 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:20:55,675 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 15:20:55,859 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:20:55,860 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:21:04,313 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 15:21:04,442 - INFO -   ✅ Bài có liên hệ: tuyendung@pro-sports.com.vn
+2026-11-20 15:21:04,953 - INFO -   Bỏ qua: 0 không có email/SĐT, 1 trùng link
+2026-11-20 15:21:05,444 - INFO -   → Việc Làm Hành Chính Nhân Sự - HR Việt Nam ☑️: 1 bài có liên hệ
+2026-11-20 15:21:07,087 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1500.csv
+2026-11-20 15:21:20,556 - INFO - 
+Đang cào: Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội
+2026-11-20 15:21:35,877 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:21:38,950 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:21:38,951 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:21:41,051 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:21:41,052 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:21:42,137 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:21:42,137 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 15:21:50,318 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 15:21:58,500 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 15:21:58,500 - INFO -   Lọc sơ bộ: 1/6 bài có từ khóa tuyển dụng
+2026-11-20 15:21:58,501 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:21:58,501 - INFO -   [1/1] Đang xử lý...
+2026-11-20 15:22:08,366 - INFO -   ✅ Bài có liên hệ: 0983247361, 0353474727
+2026-11-20 15:22:08,875 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:22:09,350 - INFO -   → Tuyển Dụng - Việc Làm Times City, Park Hill Và Khu Vực Hà Nội: 1 bài có liên hệ
+2026-11-20 15:22:10,965 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1500.csv
+2026-11-20 15:22:22,503 - INFO - 
+Đang cào: VIỆC LÀM SALES & MARKETING
+2026-11-20 15:22:34,304 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:22:34,619 - INFO -   ✅ Bài có liên hệ: 0377752694, 0339073456, 0377977036
+2026-11-20 15:22:35,123 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:22:35,680 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:22:38,750 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:22:38,751 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:22:39,804 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:22:39,804 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 15:22:40,540 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:22:40,541 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:22:41,024 - INFO -   → Việc Làm BMT - Đắk Lắk: 3 bài có liên hệ
+2026-11-20 15:22:42,726 - INFO -   Đã ghi 2 dòng (lead mới 0, bổ sung 2, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1502.csv
+2026-11-20 15:22:48,042 - INFO -   Scroll 3/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:22:54,096 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-11-20 15:22:56,229 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:23:04,442 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:23:04,443 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 15:23:04,443 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:23:04,443 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:23:06,243 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:23:09,321 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:23:09,322 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:23:10,378 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:23:10,379 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:23:10,748 - INFO -   ✅ Bài có liên hệ: giochacuulong@gmail.com
+2026-11-20 15:23:11,261 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:23:11,425 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:23:11,425 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 15:23:12,487 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:23:12,488 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:23:18,535 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 15:23:18,839 - INFO -   ✅ Bài có liên hệ: 0975023918, 0869923660
+2026-11-20 15:23:19,350 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:23:20,664 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 1
+2026-11-20 15:23:20,664 - INFO -   Lọc sơ bộ: 1/5 bài có từ khóa tuyển dụng
+2026-11-20 15:23:20,665 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:23:20,665 - INFO -   [1/1] Đang xử lý...
+2026-11-20 15:23:26,896 - INFO -   ✅ Bài có liên hệ: 0989524650
+2026-11-20 15:23:27,199 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 15:23:27,385 - INFO -   ✅ Bài có liên hệ: 0345440726, 0975023918
+2026-11-20 15:23:27,410 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:23:27,901 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:23:27,906 - INFO -   → Group tuyển dụng 3: 1 bài có liên hệ
+2026-11-20 15:23:29,589 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1502.csv
+2026-11-20 15:23:34,420 - INFO -   Đã click 1 nút Xem thêm
+2026-11-20 15:23:34,699 - INFO -   ✅ Bài có liên hệ: hr@empowersc.com.vn
+2026-11-20 15:23:35,209 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:23:35,648 - INFO -   → VIỆC LÀM SALES & MARKETING: 4 bài có liên hệ
+2026-11-20 15:23:37,270 - INFO -   Đã ghi 2 dòng (lead mới 0, bổ sung 2, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1500.csv
+2026-11-20 15:23:38,450 - INFO - 
+Đang cào: Việc Làm Hải Dương
+2026-11-20 15:23:49,659 - INFO - 
+Đang cào: Việc Làm Phủ Lý - Hà Nam
+2026-11-20 15:23:50,712 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:23:53,807 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:23:53,808 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:23:54,856 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:23:54,856 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:24:00,799 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:24:03,046 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:24:03,886 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:24:03,887 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 0
+2026-11-20 15:24:04,961 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:24:04,961 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 0
+2026-11-20 15:24:06,050 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:24:06,051 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 0
+2026-11-20 15:24:07,171 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:24:07,172 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 0
+2026-11-20 15:24:08,373 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:24:08,373 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 2
+2026-11-20 15:24:08,374 - INFO -   Lọc sơ bộ: 2/7 bài có từ khóa tuyển dụng
+2026-11-20 15:24:08,374 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:24:08,374 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:24:11,230 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:24:19,395 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:24:19,396 - INFO -   Lọc sơ bộ: 3/5 bài có từ khóa tuyển dụng
+2026-11-20 15:24:19,396 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:24:19,396 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:24:24,967 - INFO -   ✅ Bài có liên hệ: 0968735909, 0927214516
+2026-11-20 15:24:25,470 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:24:31,737 - INFO -   ✅ Bài có liên hệ: 0967532872
+2026-11-20 15:24:32,241 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:24:37,729 - INFO -   ✅ Bài có liên hệ: hcns@myvietgroup.vn
+2026-11-20 15:24:38,237 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:24:38,720 - INFO -   → Việc Làm Hải Dương: 3 bài có liên hệ
+2026-11-20 15:24:40,421 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1502.csv
+2026-11-20 15:24:45,921 - INFO - 
+Đang cào: Việc Làm Phú Mỹ - BRVT
+2026-11-20 15:24:57,037 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:25:00,145 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:25:00,146 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:25:01,219 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:25:01,219 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 2
+2026-11-20 15:25:02,292 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:25:02,292 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 2
+2026-11-20 15:25:03,382 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:25:03,383 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 3
+2026-11-20 15:25:11,640 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:25:11,641 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 15:25:11,641 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:25:11,641 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:25:22,300 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:25:22,453 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:25:22,453 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:25:27,751 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:25:27,752 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:25:36,623 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:25:36,777 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:25:36,778 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:26:45,625 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 15:26:45,826 - INFO -   ✅ Bài có liên hệ: 0854841246
+2026-11-20 15:26:46,341 - INFO -   Bỏ qua: 3 không có email/SĐT, 0 trùng link
+2026-11-20 15:26:46,791 - INFO -   → Việc Làm Phú Mỹ - BRVT: 1 bài có liên hệ
+2026-11-20 15:26:48,406 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1502.csv
+2026-11-20 15:26:59,728 - INFO - 
+Đang cào: Việc làm Chăm sóc Khách hàng
+2026-11-20 15:27:11,839 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:27:14,941 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:27:14,941 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:27:17,052 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:27:17,053 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 4
+2026-11-20 15:27:25,339 - INFO -   Scroll 3/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:27:33,600 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:27:41,848 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 6
+2026-11-20 15:27:41,849 - INFO -   Lọc sơ bộ: 6/7 bài có từ khóa tuyển dụng
+2026-11-20 15:27:41,849 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:27:41,850 - INFO -   [1/6] Đang xử lý...
+2026-11-20 15:29:11,872 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 15:29:12,171 - INFO -   ✅ Bài có liên hệ: 0342368471
+2026-11-20 15:29:12,685 - INFO -   [2/6] Đang xử lý...
+2026-11-20 15:29:21,814 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:29:22,114 - INFO -   ✅ Bài có liên hệ: 0342368471
+2026-11-20 15:29:22,629 - INFO -   [3/6] Đang xử lý...
+2026-11-20 15:29:31,040 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:29:31,345 - INFO -   ✅ Bài có liên hệ: 0342368471
+2026-11-20 15:29:31,851 - INFO -   [4/6] Đang xử lý...
+2026-11-20 15:29:40,950 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:29:41,244 - INFO -   ✅ Bài có liên hệ: 0342368471
+2026-11-20 15:29:41,752 - INFO -   [5/6] Đang xử lý...
+2026-11-20 15:29:47,245 - INFO -   ✅ Bài có liên hệ: hr.lediemphuc@gmail.com
+2026-11-20 15:29:47,749 - INFO -   [6/6] Đang xử lý...
+2026-11-20 15:29:55,786 - INFO -   Đã click 3 nút Xem thêm
+2026-11-20 15:29:56,010 - INFO -   ⏭ Bỏ qua (không có email, không có SĐT)
+2026-11-20 15:29:56,011 - INFO -   Bỏ qua: 1 không có email/SĐT, 0 trùng link
+2026-11-20 15:29:56,432 - INFO -   → Việc làm Chăm sóc Khách hàng: 5 bài có liên hệ
+2026-11-20 15:29:58,060 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 5) → fb_leads_20261120_1502.csv
+2026-11-20 15:30:13,164 - INFO - 
+Đang cào: Việc Làm TP.HCM
+2026-11-20 15:30:26,901 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:30:30,025 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:30:30,026 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:30:31,110 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:30:31,110 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:30:32,309 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:30:32,310 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 4
+2026-11-20 15:30:40,620 - INFO -   Scroll 4/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 15:30:41,790 - INFO -   Đã click 8 nút Xem thêm
+2026-11-20 15:30:42,171 - INFO -   ✅ Bài có liên hệ: 0387104684, 0338411297
+2026-11-20 15:30:42,684 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:30:48,911 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 5
+2026-11-20 15:30:48,912 - INFO -   Lọc sơ bộ: 5/7 bài có từ khóa tuyển dụng
+2026-11-20 15:30:48,912 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:30:48,913 - INFO -   [1/5] Đang xử lý...
+2026-11-20 15:33:19,595 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 15:33:19,957 - INFO -   ✅ Bài có liên hệ: 0347670272, 0366690603
+2026-11-20 15:33:20,461 - INFO -   [2/5] Đang xử lý...
+2026-11-20 15:35:45,078 - INFO -   Đã click 4 nút Xem thêm
+2026-11-20 15:35:45,360 - INFO -   ✅ Bài có liên hệ: 0378430006, 0961087682, 0338770701, 0335940356, 0878433996
+2026-11-20 15:35:45,864 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:35:46,261 - INFO -   → Việc Làm Phủ Lý - Hà Nam: 2 bài có liên hệ
+2026-11-20 15:35:47,840 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 0) → fb_leads_20261120_1500.csv
+2026-11-20 15:36:03,103 - INFO - 
+Đang cào: Việc Làm Bỉm Sơn - Thanh Hóa
+2026-11-20 15:36:15,267 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:36:18,412 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:36:18,413 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:36:20,503 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:36:20,504 - INFO -   Scroll 2/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:36:21,576 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:36:21,577 - INFO -   Scroll 3/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:36:22,663 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:36:22,664 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 2
+2026-11-20 15:36:30,869 - INFO -   Scroll 5/5 - Thấy 7 bài, tiềm năng: 3
+2026-11-20 15:36:30,870 - INFO -   Lọc sơ bộ: 3/7 bài có từ khóa tuyển dụng
+2026-11-20 15:36:30,870 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:36:30,870 - INFO -   [1/3] Đang xử lý...
+2026-11-20 15:36:37,159 - INFO -   ✅ Bài có liên hệ: 0938415222
+2026-11-20 15:36:37,663 - INFO -   [2/3] Đang xử lý...
+2026-11-20 15:36:43,246 - INFO -   ✅ Bài có liên hệ: 0938415222
+2026-11-20 15:36:43,746 - INFO -   [3/3] Đang xử lý...
+2026-11-20 15:36:49,190 - INFO -   ✅ Bài có liên hệ: 0915586789
+2026-11-20 15:36:49,692 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:36:50,101 - INFO -   → Việc Làm Bỉm Sơn - Thanh Hóa: 3 bài có liên hệ
+2026-11-20 15:36:51,750 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1500.csv
+2026-11-20 15:37:05,262 - INFO - Đã lưu 20 bài → fb_posts_20261120_1500.json
+2026-11-20 15:37:05,263 - INFO - Xong lần #1: 20 bài mới | 2218s (37.0 phút)
+2026-11-20 15:39:23,529 - INFO -   Đã click 10 nút Xem thêm
+2026-11-20 15:39:23,929 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:39:23,930 - INFO -   [3/5] Đang xử lý...
+2026-11-20 15:43:25,621 - INFO -   Đã click 9 nút Xem thêm
+2026-11-20 15:43:25,959 - INFO -   ⏭ Bỏ qua (đã lấy bài này trước đó)
+2026-11-20 15:43:25,960 - INFO -   [4/5] Đang xử lý...
+2026-11-20 15:43:32,977 - INFO -   Đã click 2 nút Xem thêm
+2026-11-20 15:43:33,047 - INFO -   ✅ Bài có liên hệ: 0366585804, 0902602943, 0354186309
+2026-11-20 15:43:33,560 - INFO -   [5/5] Đang xử lý...
+2026-11-20 15:43:38,840 - INFO -   ✅ Bài có liên hệ: 0834872757
+2026-11-20 15:43:39,343 - INFO -   Bỏ qua: 0 không có email/SĐT, 2 trùng link
+2026-11-20 15:43:39,788 - INFO -   → Việc Làm TP.HCM: 3 bài có liên hệ
+2026-11-20 15:43:41,453 - INFO -   Đã ghi 2 dòng (lead mới 2, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1502.csv
+2026-11-20 15:43:53,463 - INFO - 
+Đang cào: Việc Làm Tiếng Anh
+2026-11-20 15:44:03,539 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:44:06,634 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:44:06,635 - INFO -   Scroll 1/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:44:07,683 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:44:07,684 - INFO -   Scroll 2/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 15:44:08,758 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:44:08,758 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 1
+2026-11-20 15:44:10,862 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:44:10,863 - INFO -   Scroll 4/5 - Thấy 6 bài, tiềm năng: 1
+2026-11-20 15:44:19,088 - INFO -   Scroll 5/5 - Thấy 8 bài, tiềm năng: 2
+2026-11-20 15:44:19,089 - INFO -   Lọc sơ bộ: 2/8 bài có từ khóa tuyển dụng
+2026-11-20 15:44:19,090 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:44:19,090 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:44:24,572 - INFO -   ✅ Bài có liên hệ: 0938620046
+2026-11-20 15:44:25,081 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:44:29,720 - INFO -   ✅ Bài có liên hệ: 0914302596
+2026-11-20 15:44:30,223 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:44:30,677 - INFO -   → Việc Làm Tiếng Anh: 2 bài có liên hệ
+2026-11-20 15:44:32,273 - INFO -   Đã ghi 0 dòng (lead mới 0, bổ sung 0, trùng hoàn toàn bỏ 2) → fb_leads_20261120_1502.csv
+2026-11-20 15:44:40,597 - INFO - 
+Đang cào: Việc Làm Phan Rang - Tháp Chàm - Ninh Thuận
+2026-11-20 15:44:51,877 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:44:54,942 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:44:54,943 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 0
+2026-11-20 15:44:55,994 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:44:55,995 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:44:57,066 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:44:57,067 - INFO -   Scroll 3/5 - Thấy 3 bài, tiềm năng: 1
+2026-11-20 15:44:58,156 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:44:58,156 - INFO -   Scroll 4/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:45:06,334 - INFO -   Scroll 5/5 - Thấy 5 bài, tiềm năng: 2
+2026-11-20 15:45:06,335 - INFO -   Lọc sơ bộ: 2/5 bài có từ khóa tuyển dụng
+2026-11-20 15:45:06,335 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:45:06,335 - INFO -   [1/2] Đang xử lý...
+2026-11-20 15:45:11,988 - INFO -   ✅ Bài có liên hệ: 0965106153
+2026-11-20 15:45:12,504 - INFO -   [2/2] Đang xử lý...
+2026-11-20 15:45:17,828 - INFO -   ✅ Bài có liên hệ: 0838559217
+2026-11-20 15:45:18,335 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:45:18,789 - INFO -   → Việc Làm Phan Rang - Tháp Chàm - Ninh Thuận: 2 bài có liên hệ
+2026-11-20 15:45:20,440 - INFO -   Đã ghi 1 dòng (lead mới 1, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1502.csv
+2026-11-20 15:45:26,876 - INFO - 
+Đang cào: Việc Làm Sông Công - Thái Nguyên
+2026-11-20 15:45:38,023 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-11-20 15:45:41,126 - INFO -   ⚡ Load xong sau 3s
+2026-11-20 15:45:41,126 - INFO -   Scroll 1/5 - Thấy 1 bài, tiềm năng: 1
+2026-11-20 15:45:42,175 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:45:42,175 - INFO -   Scroll 2/5 - Thấy 2 bài, tiềm năng: 1
+2026-11-20 15:45:44,269 - INFO -   ⚡ Load xong sau 2s
+2026-11-20 15:45:44,270 - INFO -   Scroll 3/5 - Thấy 4 bài, tiềm năng: 2
+2026-11-20 15:45:45,392 - INFO -   ⚡ Load xong sau 1s
+2026-11-20 15:45:45,393 - INFO -   Scroll 4/5 - Thấy 5 bài, tiềm năng: 3
+2026-11-20 15:45:53,574 - INFO -   Scroll 5/5 - Thấy 6 bài, tiềm năng: 4
+2026-11-20 15:45:53,575 - INFO -   Lọc sơ bộ: 4/6 bài có từ khóa tuyển dụng
+2026-11-20 15:45:53,575 - INFO -   Bước 2: Lấy full text và lọc email...
+2026-11-20 15:45:53,575 - INFO -   [1/4] Đang xử lý...
+2026-11-20 15:46:04,430 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 15:46:04,620 - INFO -   ✅ Bài có liên hệ: 0865100242, 0975101688, 0969868810, 0376762307, 0977742880, 0866676108, 0377376582
+2026-11-20 15:46:05,128 - INFO -   [2/4] Đang xử lý...
+2026-11-20 15:46:09,769 - INFO -   ✅ Bài có liên hệ: 0967712443
+2026-11-20 15:46:10,280 - INFO -   [3/4] Đang xử lý...
+2026-11-20 15:46:20,933 - INFO -   Đã click 6 nút Xem thêm
+2026-11-20 15:46:21,132 - INFO -   ✅ Bài có liên hệ: 0865100242, 0975101688, 0969868810, 0376762307, 0977742880, 0866676108, 0377376582
+2026-11-20 15:46:21,642 - INFO -   [4/4] Đang xử lý...
+2026-11-20 15:46:26,947 - INFO -   ✅ Bài có liên hệ: 0334697522
+2026-11-20 15:46:27,456 - INFO -   Bỏ qua: 0 không có email/SĐT, 0 trùng link
+2026-11-20 15:46:27,908 - INFO -   → Việc Làm Sông Công - Thái Nguyên: 4 bài có liên hệ
+2026-11-20 15:46:29,519 - INFO -   Đã ghi 3 dòng (lead mới 3, bổ sung 0, trùng hoàn toàn bỏ 1) → fb_leads_20261120_1502.csv
+2026-11-20 15:46:35,995 - INFO - Đã lưu 31 bài → fb_posts_20261120_1502.json
+2026-11-20 15:46:35,995 - INFO - Xong lần #1: 31 bài mới | 2669s (44.5 phút)

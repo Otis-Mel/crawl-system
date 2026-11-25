@@ -1,0 +1,90 @@
+2026-04-15 15:29:07,943 - INFO - ============================================================
+2026-04-15 15:29:07,943 - INFO - FB GROUP SCRAPER - Smart Wait | Login Detection | Email Filter
+2026-04-15 15:29:07,943 - INFO - Thời gian: 2026-04-15 15:29:07
+2026-04-15 15:29:07,943 - INFO - ============================================================
+2026-04-15 15:29:07,985 - INFO - Sẽ cào 5 groups (KHÔNG đăng nhập)
+2026-04-15 15:29:07,985 - INFO - Chỉ lấy bài có EMAIL | Smart wait tối đa 8s
+2026-04-15 15:29:08,494 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-15 15:29:24,908 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:29:25,954 - INFO -   ⚡ Load xong sau 1s
+2026-04-15 15:29:26,020 - WARNING -   ⚠️ PHÁT HIỆN: Facebook yêu cầu đăng nhập sau scroll 1!
+2026-04-15 15:29:26,020 - WARNING -   ⚠️ Đây là lý do chỉ lấy được ít bài. Cần dùng script có login.
+2026-04-15 15:29:26,021 - WARNING -   Dừng sớm do bị chặn đăng nhập. Xử lý 1 bài đã tìm được.
+2026-04-15 15:29:26,021 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:29:26,021 - INFO -   [1/1] Đang xử lý...
+2026-04-15 15:29:31,391 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:29:31,391 - INFO -   Bỏ qua 1 bài không có email
+2026-04-15 15:29:31,391 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:29:31,391 - INFO -   → Lấy được 0 bài có email từ Group tuyển dụng 1
+2026-04-15 15:29:34,399 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-15 15:29:42,677 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:29:43,737 - INFO -   ⚡ Load xong sau 1s
+2026-04-15 15:29:43,810 - WARNING -   ⚠️ PHÁT HIỆN: Facebook yêu cầu đăng nhập sau scroll 1!
+2026-04-15 15:29:43,810 - WARNING -   ⚠️ Đây là lý do chỉ lấy được ít bài. Cần dùng script có login.
+2026-04-15 15:29:43,810 - WARNING -   Dừng sớm do bị chặn đăng nhập. Xử lý 0 bài đã tìm được.
+2026-04-15 15:29:43,811 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:29:43,811 - INFO -   Bỏ qua 0 bài không có email
+2026-04-15 15:29:43,812 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:29:43,812 - INFO -   → Lấy được 0 bài có email từ Group tuyển dụng 2
+2026-04-15 15:29:46,812 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-15 15:29:55,867 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:29:56,993 - INFO -   ⚡ Load xong sau 1s
+2026-04-15 15:29:57,055 - WARNING -   ⚠️ PHÁT HIỆN: Facebook yêu cầu đăng nhập sau scroll 1!
+2026-04-15 15:29:57,056 - WARNING -   ⚠️ Đây là lý do chỉ lấy được ít bài. Cần dùng script có login.
+2026-04-15 15:29:57,056 - WARNING -   Dừng sớm do bị chặn đăng nhập. Xử lý 5 bài đã tìm được.
+2026-04-15 15:29:57,057 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:29:57,057 - INFO -   [1/5] Đang xử lý...
+2026-04-15 15:30:02,438 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:30:02,439 - INFO -   [2/5] Đang xử lý...
+2026-04-15 15:30:07,017 - INFO -   ✅ Email: trangianglong0717@gmail.com
+2026-04-15 15:30:07,533 - INFO -   [3/5] Đang xử lý...
+2026-04-15 15:30:11,992 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:30:11,993 - INFO -   [4/5] Đang xử lý...
+2026-04-15 15:30:16,458 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:30:16,458 - INFO -   [5/5] Đang xử lý...
+2026-04-15 15:30:20,921 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:30:20,922 - INFO -   Bỏ qua 4 bài không có email
+2026-04-15 15:30:20,922 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:30:20,922 - INFO -   → Lấy được 1 bài có email từ Group tuyển dụng 3
+2026-04-15 15:30:23,934 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-15 15:30:32,184 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:30:34,240 - INFO -   ⚡ Load xong sau 2s
+2026-04-15 15:30:34,303 - WARNING -   ⚠️ PHÁT HIỆN: Facebook yêu cầu đăng nhập sau scroll 1!
+2026-04-15 15:30:34,304 - WARNING -   ⚠️ Đây là lý do chỉ lấy được ít bài. Cần dùng script có login.
+2026-04-15 15:30:34,304 - WARNING -   Dừng sớm do bị chặn đăng nhập. Xử lý 1 bài đã tìm được.
+2026-04-15 15:30:34,304 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:30:34,304 - INFO -   [1/1] Đang xử lý...
+2026-04-15 15:30:39,210 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:30:39,211 - INFO -   Bỏ qua 1 bài không có email
+2026-04-15 15:30:39,211 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:30:39,211 - INFO -   → Lấy được 0 bài có email từ Group tuyển dụng 4
+2026-04-15 15:30:42,217 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-15 15:30:50,535 - INFO -   Bước 1: Scroll và lọc sơ bộ...
+2026-04-15 15:30:51,625 - INFO -   ⚡ Load xong sau 1s
+2026-04-15 15:30:51,692 - WARNING -   ⚠️ PHÁT HIỆN: Facebook yêu cầu đăng nhập sau scroll 1!
+2026-04-15 15:30:51,692 - WARNING -   ⚠️ Đây là lý do chỉ lấy được ít bài. Cần dùng script có login.
+2026-04-15 15:30:51,692 - WARNING -   Dừng sớm do bị chặn đăng nhập. Xử lý 1 bài đã tìm được.
+2026-04-15 15:30:51,693 - INFO -   Bước 2: Lấy full text và lọc bài có email...
+2026-04-15 15:30:51,693 - INFO -   [1/1] Đang xử lý...
+2026-04-15 15:30:57,623 - INFO -   ⏭ Bỏ qua (không có email)
+2026-04-15 15:30:57,623 - INFO -   Bỏ qua 1 bài không có email
+2026-04-15 15:30:57,624 - INFO -   Bỏ qua 0 bài email trùng
+2026-04-15 15:30:57,624 - INFO -   → Lấy được 0 bài có email từ Group tuyển dụng 5
+2026-04-15 15:31:00,712 - INFO - 
+=== KẾT QUẢ ===
+2026-04-15 15:31:00,712 - INFO - Tổng: 1 bài có email từ 5 groups
+2026-04-15 15:31:00,712 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-15 15:31:00,712 - INFO - 
+Thời gian cào: 113 giây (1.9 phút)
+2026-04-15 15:31:00,712 - INFO - 
+Đang upload lên Google Drive...
+2026-04-15 15:31:01,391 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-15 15:31:05,745 - INFO - Đã upload: fb_posts_20260415.json
+2026-04-15 15:31:05,745 - INFO - Link: https://drive.google.com/file/d/1dNzp1AtoUGsjcwDuVFT24cO1iWgjPgw9/view?usp=drivesdk
+2026-04-15 15:31:05,746 - INFO - 
+=== HOÀN TẤT ===

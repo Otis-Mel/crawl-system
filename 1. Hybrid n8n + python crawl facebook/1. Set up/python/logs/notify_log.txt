@@ -1,0 +1,268 @@
+2026-11-03 16:03:32 [info] Thử thông báo: hệ thống crawl FB hoạt động info
+2026-11-03 16:14:20 [info] Lượt 4/4 bắt đầu 16:14: 4 group, 4 tiến trình, dừng lúc 17:55
+2026-11-03 16:17:44 [error] Lượt 4/4 - phần 2/4 HỎNG (mã ). Xem logs\scheduler_part_1_err.txt
+2026-11-03 16:17:45 [error] Lượt 4/4 - phần 3/4 HỎNG (mã ). Xem logs\scheduler_part_2_err.txt
+2026-11-03 16:24:46 [error] Lượt 4/4 - phần 1/4 HỎNG (mã ). Xem logs\scheduler_part_0_err.txt
+2026-11-03 16:28:27 [error] Lượt 4/4 - phần 4/4 HỎNG (mã ). Xem logs\scheduler_part_3_err.txt
+2026-11-03 16:32:54 [error] Lượt 4/4 xong lúc 16:32: 9 lead mới, 0 bổ sung cho lead cũ. Vấn đề: phần 2 hỏng (mã ); phần 3 hỏng (mã ); phần 1 hỏng (mã ); phần 4 hỏng (mã ). | Kho 512 d├▓ng -> 487 cß╗Ñm | Verified ─æß╗º 3/3: 47 | Verified 2/3: 38 | Cß║ºn check: 402 | tra t├¬n ─æ─âng k├╜ lß║ºn n├áy: 64/66 chß╗¥ | nguß╗ôn t├¬n: {'Khß╗¢p t├¬n miß╗ün email': 36, 'Th╞░╞íng hiß╗çu': 19, 'T├¬n ─æ─âng
+2026-11-04 09:01:38 [info] Lượt 1/3 bắt đầu 09:01: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-04 09:37:03 [error] Lượt 1/3 - phần 3/4 xong: 17 lead mới, 0 bổ sung, 10/12 group, lỗi 2 group
+2026-11-04 09:48:23 [ok] Lượt 1/3 - phần 4/4 xong: 31 lead mới, 0 bổ sung, 12/12 group
+2026-11-04 10:05:24 [error] Lượt 1/3 - phần 2/4 xong: 24 lead mới, 0 bổ sung, 11/13 group, lỗi 2 group
+2026-11-04 10:16:05 [ok] Lượt 1/3 - phần 1/4 xong: 23 lead mới, 2 bổ sung, 13/13 group
+2026-11-04 10:17:23 [error] Lượt 1/3 xong lúc 10:17: 95 lead mới, 2 bổ sung cho lead cũ. Vấn đề: 2 group lỗi (phần 3); 2 group lỗi (phần 2). | Kho 609 dòng -> 582 cụm | Verified đủ 3/3: 53 | Verified 2/3: 55 | Cần check: 474 | tra tên đăng ký lần này: 15/81 thương hiệu, 16/145 địa chỉ | nguồn tên: {'Khớp MST/CRM': 22, 'Thương hiệu': 29, 'Khớp tên miền email': 3
+2026-11-04 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-04 12:20:16 [ok] Lượt 2/3 - phần 3/4 xong: 29 lead mới, 0 bổ sung, 12/12 group
+2026-11-04 12:25:37 [ok] Lượt 2/3 - phần 1/4 xong: 19 lead mới, 0 bổ sung, 13/13 group
+2026-11-04 12:34:18 [ok] Lượt 2/3 - phần 2/4 xong: 18 lead mới, 0 bổ sung, 13/13 group
+2026-11-04 12:53:39 [ok] Lượt 2/3 - phần 4/4 xong: 18 lead mới, 2 bổ sung, 12/12 group
+2026-11-04 12:54:41 [ok] Lượt 2/3 xong lúc 12:54: 84 lead mới, 2 bổ sung cho lead cũ. | Lượt 2: 84 lead mới, 2 bổ sung, 50/50 group (0 lỗi). Kho 666 cụm, verified 127.
+2026-11-04 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-04 15:24:07 [ok] Lượt 3/3 - phần 1/4 xong: 25 lead mới, 1 bổ sung, 13/13 group
+2026-11-04 15:34:07 [ok] Lượt 3/3 - phần 4/4 xong: 21 lead mới, 0 bổ sung, 12/12 group
+2026-11-04 15:37:28 [ok] Lượt 3/3 - phần 3/4 xong: 15 lead mới, 0 bổ sung, 12/12 group
+2026-11-04 16:08:49 [ok] Lượt 3/3 - phần 2/4 xong: 33 lead mới, 1 bổ sung, 13/13 group
+2026-11-04 16:11:08 [ok] Lượt 3/3 xong lúc 16:11: 94 lead mới, 2 bổ sung cho lead cũ. | Lượt 3: 94 lead mới, 2 bổ sung, 50/50 group (0 lỗi). Kho 760 cụm, verified 149. Cả ngày: 273 lead mới, 6 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261104.xlsx
+2026-11-04 17:45:02 [error] Tổng kết 2026-11-04: 3/3 lượt chạy, 273 lead mới + 6 bổ sung. Kho: 760 cụm, 149 verified. VẤN ĐỀ: 1 lượt không báo hoàn thành.
+2026-11-05 09:00:02 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-05 09:37:27 [ok] Lượt 1/3 - phần 4/4 xong: 23 lead mới, 1 bổ sung, 12/12 group
+2026-11-05 09:40:48 [ok] Lượt 1/3 - phần 3/4 xong: 13 lead mới, 2 bổ sung, 12/12 group
+2026-11-05 09:52:09 [ok] Lượt 1/3 - phần 1/4 xong: 24 lead mới, 0 bổ sung, 13/13 group
+2026-11-05 10:15:10 [ok] Lượt 1/3 - phần 2/4 xong: 26 lead mới, 1 bổ sung, 13/13 group
+2026-11-05 10:16:25 [ok] Lượt 1/3 xong lúc 10:16: 86 lead mới, 4 bổ sung cho lead cũ. | Lượt 1: 86 lead mới, 4 bổ sung, 50/50 group (0 lỗi). Kho 846 cụm, verified 169.
+2026-11-05 11:18:18 [info] Thử thông báo: nếu thấy toast này là kênh hoạt động
+2026-11-05 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-05 12:15:26 [ok] Lượt 2/3 - phần 3/4 xong: 17 lead mới, 4 bổ sung, 12/12 group
+2026-11-05 12:23:27 [ok] Lượt 2/3 - phần 2/4 xong: 27 lead mới, 0 bổ sung, 13/13 group
+2026-11-05 12:54:08 [ok] Lượt 2/3 - phần 1/4 xong: 17 lead mới, 0 bổ sung, 13/13 group
+2026-11-05 13:00:48 [ok] Lượt 2/3 - phần 4/4 xong: 16 lead mới, 1 bổ sung, 12/12 group
+2026-11-05 13:01:42 [ok] Lượt 2/3 xong lúc 13:01: 77 lead mới, 5 bổ sung cho lead cũ. | Lượt 2: 77 lead mới, 5 bổ sung, 50/50 group (0 lỗi). Kho 923 cụm, verified 186.
+2026-11-05 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-05 15:17:26 [ok] Lượt 3/3 - phần 4/4 xong: 14 lead mới, 1 bổ sung, 12/12 group
+2026-11-05 15:30:47 [ok] Lượt 3/3 - phần 1/4 xong: 15 lead mới, 0 bổ sung, 13/13 group
+2026-11-05 15:39:27 [ok] Lượt 3/3 - phần 3/4 xong: 16 lead mới, 0 bổ sung, 12/12 group
+2026-11-05 16:07:29 [ok] Lượt 3/3 - phần 2/4 xong: 16 lead mới, 3 bổ sung, 13/13 group
+2026-11-05 16:09:21 [ok] Lượt 3/3 xong lúc 16:09: 61 lead mới, 4 bổ sung cho lead cũ. | Lượt 3: 61 lead mới, 4 bổ sung, 50/50 group (0 lỗi). Kho 984 cụm, verified 208. Cả ngày: 224 lead mới, 13 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261105.xlsx
+2026-11-06 09:00:02 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-06 09:46:08 [error] Lượt 1/3 - phần 3/4 xong: 11 lead mới, 1 bổ sung, 8/12 group, lỗi 4 group
+2026-11-06 09:47:49 [error] Lượt 1/3 - phần 4/4 xong: 17 lead mới, 0 bổ sung, 9/12 group, lỗi 3 group
+2026-11-06 09:56:50 [error] Lượt 1/3 - phần 2/4 xong: 18 lead mới, 0 bổ sung, 9/13 group, lỗi 4 group
+2026-11-06 10:27:11 [error] Lượt 1/3 - phần 1/4 xong: 7 lead mới, 6 bổ sung, 11/13 group, lỗi 2 group
+2026-11-06 10:27:44 [error] Lượt 1/3 xong lúc 10:27: 53 lead mới, 7 bổ sung cho lead cũ. Vấn đề: 4 group lỗi (phần 3); 3 group lỗi (phần 4); 4 group lỗi (phần 2); 2 group lỗi (phần 1). | Lượt 1: 53 lead mới, 7 bổ sung, 37/50 group (13 lỗi). Kho 1038 cụm, verified 217.
+2026-11-06 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-06 12:16:07 [ok] Lượt 2/3 - phần 3/4 xong: 13 lead mới, 1 bổ sung, 12/12 group
+2026-11-06 12:40:48 [ok] Lượt 2/3 - phần 2/4 xong: 18 lead mới, 1 bổ sung, 13/13 group
+2026-11-06 12:56:29 [ok] Lượt 2/3 - phần 1/4 xong: 13 lead mới, 1 bổ sung, 13/13 group
+2026-11-06 13:10:10 [ok] Lượt 2/3 - phần 4/4 xong: 13 lead mới, 2 bổ sung, 12/12 group
+2026-11-06 13:11:00 [ok] Lượt 2/3 xong lúc 13:11: 57 lead mới, 5 bổ sung cho lead cũ. | Lượt 2: 57 lead mới, 5 bổ sung, 50/50 group (0 lỗi). Kho 1095 cụm, verified 233.
+2026-11-06 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-06 15:26:07 [error] Lượt 3/3 - phần 4/4 xong: 14 lead mới, 0 bổ sung, 11/12 group, lỗi 1 group
+2026-11-06 15:34:28 [error] Lượt 3/3 - phần 2/4 xong: 14 lead mới, 0 bổ sung, 12/13 group, lỗi 1 group
+2026-11-06 15:39:48 [error] Lượt 3/3 - phần 1/4 xong: 4 lead mới, 1 bổ sung, 9/13 group, lỗi 4 group
+2026-11-06 15:51:09 [error] Lượt 3/3 - phần 3/4 xong: 4 lead mới, 1 bổ sung, 5/12 group, lỗi 7 group
+2026-11-06 15:51:34 [error] Lượt 3/3 xong lúc 15:51: 36 lead mới, 2 bổ sung cho lead cũ. Vấn đề: 1 group lỗi (phần 4); 1 group lỗi (phần 2); 4 group lỗi (phần 1); 7 group lỗi (phần 3). | Lượt 3: 36 lead mới, 2 bổ sung, 37/50 group (13 lỗi). Kho 1131 cụm, verified 242. Cả ngày: 146 lead mới, 14 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261106.xlsx
+2026-11-08 17:54:09 [info] Lượt 3/3 bắt đầu 17:54: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-09 09:00:04 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-09 09:18:08 [ok] Lượt 1/3 - phần 4/4 xong: 20 lead mới, 1 bổ sung, 12/12 group
+2026-11-09 09:39:09 [ok] Lượt 1/3 - phần 3/4 xong: 21 lead mới, 1 bổ sung, 12/12 group
+2026-11-09 09:58:50 [ok] Lượt 1/3 - phần 1/4 xong: 13 lead mới, 2 bổ sung, 13/13 group
+2026-11-09 09:59:31 [ok] Lượt 1/3 - phần 2/4 xong: 24 lead mới, 0 bổ sung, 13/13 group
+2026-11-09 10:00:48 [ok] Lượt 1/3 xong lúc 10:00: 78 lead mới, 4 bổ sung cho lead cũ. | Lượt 1: 78 lead mới, 4 bổ sung, 50/50 group (0 lỗi). Kho 1209 cụm, verified 257.
+2026-11-09 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-09 12:23:07 [ok] Lượt 2/3 - phần 2/4 xong: 14 lead mới, 0 bổ sung, 13/13 group
+2026-11-09 12:32:28 [ok] Lượt 2/3 - phần 3/4 xong: 24 lead mới, 1 bổ sung, 12/12 group
+2026-11-09 12:45:09 [ok] Lượt 2/3 - phần 4/4 xong: 24 lead mới, 4 bổ sung, 12/12 group
+2026-11-09 13:00:30 [ok] Lượt 2/3 - phần 1/4 xong: 14 lead mới, 2 bổ sung, 13/13 group
+2026-11-09 13:02:58 [ok] Lượt 2/3 xong lúc 13:02: 76 lead mới, 7 bổ sung cho lead cũ. | Lượt 2: 76 lead mới, 7 bổ sung, 50/50 group (0 lỗi). Kho 1286 cụm, verified 282.
+2026-11-09 15:00:04 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-09 15:18:08 [ok] Lượt 3/3 - phần 4/4 xong: 19 lead mới, 1 bổ sung, 12/12 group
+2026-11-09 15:29:10 [ok] Lượt 3/3 - phần 3/4 xong: 17 lead mới, 2 bổ sung, 12/12 group
+2026-11-09 15:40:11 [ok] Lượt 3/3 - phần 1/4 xong: 17 lead mới, 0 bổ sung, 13/13 group
+2026-11-09 15:45:32 [ok] Lượt 3/3 - phần 2/4 xong: 6 lead mới, 0 bổ sung, 13/13 group
+2026-11-09 15:46:44 [ok] Lượt 3/3 xong lúc 15:46: 59 lead mới, 3 bổ sung cho lead cũ. | Lượt 3: 59 lead mới, 3 bổ sung, 50/50 group (0 lỗi). Kho 1345 cụm, verified 299. Cả ngày: 213 lead mới, 14 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261109.xlsx
+2026-11-10 09:00:03 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-10 09:16:07 [ok] Lượt 1/3 - phần 3/4 xong: 16 lead mới, 0 bổ sung, 12/12 group
+2026-11-10 09:25:08 [ok] Lượt 1/3 - phần 1/4 xong: 12 lead mới, 5 bổ sung, 13/13 group
+2026-11-10 09:28:29 [ok] Lượt 1/3 - phần 4/4 xong: 19 lead mới, 1 bổ sung, 12/12 group
+2026-11-10 09:37:50 [ok] Lượt 1/3 - phần 2/4 xong: 16 lead mới, 1 bổ sung, 13/13 group
+2026-11-10 09:38:43 [ok] Lượt 1/3 xong lúc 09:38: 63 lead mới, 7 bổ sung cho lead cũ. | Lượt 1: 63 lead mới, 7 bổ sung, 50/50 group (0 lỗi). Kho 1408 cụm, verified 314.
+2026-11-10 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-10 12:15:47 [ok] Lượt 2/3 - phần 3/4 xong: 18 lead mới, 0 bổ sung, 12/12 group
+2026-11-10 12:24:07 [ok] Lượt 2/3 - phần 2/4 xong: 11 lead mới, 1 bổ sung, 13/13 group
+2026-11-10 12:38:08 [ok] Lượt 2/3 - phần 4/4 xong: 15 lead mới, 2 bổ sung, 12/12 group
+2026-11-10 13:12:29 [ok] Lượt 2/3 - phần 1/4 xong: 24 lead mới, 1 bổ sung, 13/13 group
+2026-11-10 13:13:22 [ok] Lượt 2/3 xong lúc 13:13: 68 lead mới, 4 bổ sung cho lead cũ. | Lượt 2: 68 lead mới, 4 bổ sung, 50/50 group (0 lỗi). Kho 1476 cụm, verified 323.
+2026-11-10 15:00:03 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-10 15:21:27 [ok] Lượt 3/3 - phần 4/4 xong: 21 lead mới, 0 bổ sung, 12/12 group
+2026-11-10 15:23:28 [ok] Lượt 3/3 - phần 1/4 xong: 13 lead mới, 0 bổ sung, 13/13 group
+2026-11-10 15:24:28 [ok] Lượt 3/3 - phần 2/4 xong: 11 lead mới, 0 bổ sung, 13/13 group
+2026-11-10 15:48:50 [ok] Lượt 3/3 - phần 3/4 xong: 11 lead mới, 2 bổ sung, 12/12 group
+2026-11-10 15:49:31 [ok] Lượt 3/3 xong lúc 15:49: 56 lead mới, 2 bổ sung cho lead cũ. | Lượt 3: 56 lead mới, 2 bổ sung, 50/50 group (0 lỗi). Kho 1532 cụm, verified 334. Cả ngày: 187 lead mới, 13 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261110.xlsx
+2026-11-11 09:00:23 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-11 09:23:49 [ok] Lượt 1/3 - phần 3/4 xong: 9 lead mới, 1 bổ sung, 12/12 group
+2026-11-11 09:23:50 [ok] Lượt 1/3 - phần 4/4 xong: 13 lead mới, 0 bổ sung, 12/12 group
+2026-11-11 09:44:31 [ok] Lượt 1/3 - phần 2/4 xong: 15 lead mới, 1 bổ sung, 13/13 group
+2026-11-11 09:54:32 [ok] Lượt 1/3 - phần 1/4 xong: 13 lead mới, 2 bổ sung, 13/13 group
+2026-11-11 09:55:02 [ok] Lượt 1/3 xong lúc 09:55: 50 lead mới, 4 bổ sung cho lead cũ. | Lượt 1: 50 lead mới, 4 bổ sung, 50/50 group (0 lỗi). Kho 1582 cụm, verified 346.
+2026-11-11 12:00:03 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-11 12:14:27 [ok] Lượt 2/3 - phần 3/4 xong: 7 lead mới, 1 bổ sung, 12/12 group
+2026-11-11 12:19:48 [ok] Lượt 2/3 - phần 2/4 xong: 14 lead mới, 1 bổ sung, 13/13 group
+2026-11-11 12:26:08 [ok] Lượt 2/3 - phần 4/4 xong: 16 lead mới, 1 bổ sung, 12/12 group
+2026-11-11 12:40:10 [ok] Lượt 2/3 - phần 1/4 xong: 18 lead mới, 2 bổ sung, 13/13 group
+2026-11-11 12:40:41 [ok] Lượt 2/3 xong lúc 12:40: 55 lead mới, 5 bổ sung cho lead cũ. | Lượt 2: 55 lead mới, 5 bổ sung, 50/50 group (0 lỗi). Kho 1637 cụm, verified 354.
+2026-11-11 15:00:03 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-11 15:24:08 [ok] Lượt 3/3 - phần 4/4 xong: 18 lead mới, 0 bổ sung, 12/12 group
+2026-11-11 15:31:29 [ok] Lượt 3/3 - phần 2/4 xong: 16 lead mới, 3 bổ sung, 13/13 group
+2026-11-11 15:32:49 [ok] Lượt 3/3 - phần 1/4 xong: 18 lead mới, 2 bổ sung, 13/13 group
+2026-11-11 15:38:50 [ok] Lượt 3/3 - phần 3/4 xong: 12 lead mới, 2 bổ sung, 12/12 group
+2026-11-11 15:39:46 [ok] Lượt 3/3 xong lúc 15:39: 64 lead mới, 7 bổ sung cho lead cũ. | Lượt 3: 64 lead mới, 7 bổ sung, 50/50 group (0 lỗi). Kho 1702 cụm, verified 374. Cả ngày: 169 lead mới, 16 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261111.xlsx
+2026-11-12 09:00:04 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-12 09:40:09 [ok] Lượt 1/3 - phần 4/4 xong: 14 lead mới, 0 bổ sung, 12/12 group
+2026-11-12 09:45:10 [ok] Lượt 1/3 - phần 3/4 xong: 23 lead mới, 2 bổ sung, 12/12 group
+2026-11-12 09:50:51 [ok] Lượt 1/3 - phần 2/4 xong: 16 lead mới, 5 bổ sung, 13/13 group
+2026-11-12 09:53:51 [ok] Lượt 1/3 - phần 1/4 xong: 9 lead mới, 4 bổ sung, 13/13 group
+2026-11-12 09:55:00 [ok] Lượt 1/3 xong lúc 09:54: 62 lead mới, 11 bổ sung cho lead cũ. | Lượt 1: 62 lead mới, 11 bổ sung, 50/50 group (0 lỗi). Kho 1764 cụm, verified 390.
+2026-11-12 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-12 12:17:47 [ok] Lượt 2/3 - phần 3/4 xong: 8 lead mới, 2 bổ sung, 12/12 group
+2026-11-12 12:38:48 [ok] Lượt 2/3 - phần 2/4 xong: 16 lead mới, 0 bổ sung, 13/13 group
+2026-11-12 12:48:29 [ok] Lượt 2/3 - phần 4/4 xong: 16 lead mới, 2 bổ sung, 12/12 group
+2026-11-12 12:59:29 [ok] Lượt 2/3 - phần 1/4 xong: 14 lead mới, 1 bổ sung, 13/13 group
+2026-11-12 13:00:18 [ok] Lượt 2/3 xong lúc 13:00: 54 lead mới, 5 bổ sung cho lead cũ. | Lượt 2: 54 lead mới, 5 bổ sung, 50/50 group (0 lỗi). Kho 1818 cụm, verified 402.
+2026-11-12 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-12 15:54:48 [error] Lượt 3/3 - phần 3/4 xong: 0 lead mới, 0 bổ sung, 0/12 group, lỗi 12 group
+2026-11-12 15:55:08 [error] Lượt 3/3 - phần 4/4 xong: 0 lead mới, 0 bổ sung, 0/12 group, lỗi 12 group
+2026-11-12 15:57:09 [error] Lượt 3/3 - phần 1/4 xong: 1 lead mới, 1 bổ sung, 1/13 group, lỗi 12 group
+2026-11-12 15:57:09 [error] Lượt 3/3 - phần 2/4 xong: 0 lead mới, 0 bổ sung, 0/13 group, lỗi 13 group
+2026-11-12 15:57:15 [error] Lượt 3/3 xong lúc 15:57: 1 lead mới, 1 bổ sung cho lead cũ. Vấn đề: 12 group lỗi (phần 3); 12 group lỗi (phần 4); 12 group lỗi (phần 1); 13 group lỗi (phần 2). | Lượt 3: 1 lead mới, 1 bổ sung, 1/50 group (49 lỗi). Kho 1819 cụm, verified 403. Cả ngày: 117 lead mới, 17 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261112.xlsx
+2026-11-13 09:00:02 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-13 09:19:26 [ok] Lượt 1/3 - phần 4/4 xong: 16 lead mới, 1 bổ sung, 12/12 group
+2026-11-13 09:24:07 [ok] Lượt 1/3 - phần 3/4 xong: 14 lead mới, 0 bổ sung, 12/12 group
+2026-11-13 09:31:08 [ok] Lượt 1/3 - phần 2/4 xong: 14 lead mới, 2 bổ sung, 13/13 group
+2026-11-13 10:01:49 [ok] Lượt 1/3 - phần 1/4 xong: 17 lead mới, 5 bổ sung, 13/13 group
+2026-11-13 10:02:37 [ok] Lượt 1/3 xong lúc 10:02: 61 lead mới, 8 bổ sung cho lead cũ. | Lượt 1: 61 lead mới, 8 bổ sung, 50/50 group (0 lỗi). Kho 1879 cụm, verified 416.
+2026-11-13 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-13 13:01:55 [error] Lượt 2/3 - phần 3/4 xong: 6 lead mới, 0 bổ sung, 8/12 group, lỗi 4 group
+2026-11-13 13:05:16 [error] Lượt 2/3 - phần 2/4 xong: 9 lead mới, 1 bổ sung, 9/13 group, lỗi 4 group
+2026-11-13 13:20:57 [error] Lượt 2/3 - phần 4/4 xong: 3 lead mới, 1 bổ sung, 5/12 group, lỗi 7 group
+2026-11-13 13:31:18 [error] Lượt 2/3 - phần 1/4 xong: 9 lead mới, 0 bổ sung, 5/13 group, lỗi 8 group
+2026-11-13 13:31:38 [error] Lượt 2/3 xong lúc 13:31: 27 lead mới, 2 bổ sung cho lead cũ. Vấn đề: 4 group lỗi (phần 3); 4 group lỗi (phần 2); 7 group lỗi (phần 4); 8 group lỗi (phần 1). | Lượt 2: 27 lead mới, 2 bổ sung, 27/50 group (23 lỗi). Kho 1906 cụm, verified 422.
+2026-11-13 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-13 15:18:26 [ok] Lượt 3/3 - phần 4/4 xong: 15 lead mới, 1 bổ sung, 12/12 group
+2026-11-13 15:22:47 [ok] Lượt 3/3 - phần 1/4 xong: 18 lead mới, 1 bổ sung, 13/13 group
+2026-11-13 15:24:07 [ok] Lượt 3/3 - phần 2/4 xong: 19 lead mới, 0 bổ sung, 13/13 group
+2026-11-13 15:58:09 [ok] Lượt 3/3 - phần 3/4 xong: 10 lead mới, 5 bổ sung, 12/12 group
+2026-11-13 15:59:09 [ok] Lượt 3/3 xong lúc 15:59: 62 lead mới, 7 bổ sung cho lead cũ. | Lượt 3: 62 lead mới, 7 bổ sung, 50/50 group (0 lỗi). Kho 1968 cụm, verified 435. Cả ngày: 150 lead mới, 17 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261113.xlsx
+2026-11-16 08:37:01 [info] Lượt 1/3 bắt đầu 08:37: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-16 09:22:45 [ok] Lượt 1/3 - phần 4/4 xong: 13 lead mới, 0 bổ sung, 12/12 group
+2026-11-16 09:34:46 [ok] Lượt 1/3 - phần 3/4 xong: 19 lead mới, 1 bổ sung, 12/12 group
+2026-11-16 09:38:47 [ok] Lượt 1/3 - phần 2/4 xong: 15 lead mới, 0 bổ sung, 13/13 group
+2026-11-16 09:58:08 [ok] Lượt 1/3 - phần 1/4 xong: 12 lead mới, 6 bổ sung, 13/13 group
+2026-11-16 09:58:44 [ok] Lượt 1/3 xong lúc 09:58: 59 lead mới, 7 bổ sung cho lead cũ. | Lượt 1: 59 lead mới, 7 bổ sung, 50/50 group (0 lỗi). Kho 2027 cụm, verified 444.
+2026-11-16 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-16 12:16:07 [ok] Lượt 2/3 - phần 3/4 xong: 12 lead mới, 2 bổ sung, 12/12 group
+2026-11-16 12:32:48 [ok] Lượt 2/3 - phần 4/4 xong: 14 lead mới, 1 bổ sung, 12/12 group
+2026-11-16 12:36:28 [ok] Lượt 2/3 - phần 1/4 xong: 19 lead mới, 2 bổ sung, 13/13 group
+2026-11-16 12:38:29 [ok] Lượt 2/3 - phần 2/4 xong: 16 lead mới, 1 bổ sung, 13/13 group
+2026-11-16 12:39:37 [ok] Lượt 2/3 xong lúc 12:39: 61 lead mới, 6 bổ sung cho lead cũ. | Lượt 2: 61 lead mới, 6 bổ sung, 50/50 group (0 lỗi). Kho 2087 cụm, verified 461.
+2026-11-16 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-16 15:27:07 [ok] Lượt 3/3 - phần 4/4 xong: 16 lead mới, 3 bổ sung, 12/12 group
+2026-11-16 15:27:47 [ok] Lượt 3/3 - phần 2/4 xong: 17 lead mới, 2 bổ sung, 13/13 group
+2026-11-16 15:33:08 [ok] Lượt 3/3 - phần 1/4 xong: 15 lead mới, 1 bổ sung, 13/13 group
+2026-11-16 15:39:29 [ok] Lượt 3/3 - phần 3/4 xong: 18 lead mới, 2 bổ sung, 12/12 group
+2026-11-16 15:40:15 [ok] Lượt 3/3 xong lúc 15:40: 66 lead mới, 8 bổ sung cho lead cũ. | Lượt 3: 66 lead mới, 8 bổ sung, 50/50 group (0 lỗi). Kho 2153 cụm, verified 471. Cả ngày: 186 lead mới, 21 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261116.xlsx
+2026-11-17 09:00:03 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-17 09:15:08 [ok] Lượt 1/3 - phần 3/4 xong: 8 lead mới, 0 bổ sung, 12/12 group
+2026-11-17 09:18:29 [ok] Lượt 1/3 - phần 4/4 xong: 14 lead mới, 2 bổ sung, 12/12 group
+2026-11-17 09:23:30 [ok] Lượt 1/3 - phần 2/4 xong: 16 lead mới, 1 bổ sung, 13/13 group
+2026-11-17 09:26:11 [ok] Lượt 1/3 - phần 1/4 xong: 10 lead mới, 3 bổ sung, 13/13 group
+2026-11-17 09:26:42 [ok] Lượt 1/3 xong lúc 09:26: 48 lead mới, 6 bổ sung cho lead cũ. | Lượt 1: 48 lead mới, 6 bổ sung, 50/50 group (0 lỗi). Kho 2200 cụm, verified 479.
+2026-11-17 12:00:03 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-17 12:29:28 [error] Lượt 2/3 - phần 3/4 xong: 7 lead mới, 0 bổ sung, 9/12 group, lỗi 3 group
+2026-11-17 12:32:29 [error] Lượt 2/3 - phần 1/4 xong: 8 lead mới, 1 bổ sung, 9/13 group, lỗi 4 group
+2026-11-17 12:37:29 [error] Lượt 2/3 - phần 2/4 xong: 6 lead mới, 1 bổ sung, 8/13 group, lỗi 5 group
+2026-11-17 12:37:50 [error] Lượt 2/3 - phần 4/4 xong: 5 lead mới, 0 bổ sung, 7/12 group, lỗi 5 group
+2026-11-17 12:38:21 [error] Lượt 2/3 xong lúc 12:38: 26 lead mới, 2 bổ sung cho lead cũ. Vấn đề: 3 group lỗi (phần 3); 4 group lỗi (phần 1); 5 group lỗi (phần 2); 5 group lỗi (phần 4). | Lượt 2: 26 lead mới, 2 bổ sung, 33/50 group (17 lỗi). Kho 2225 cụm, verified 488.
+2026-11-17 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-17 15:36:28 [error] Lượt 3/3 - phần 2/4 xong: 10 lead mới, 1 bổ sung, 8/13 group, lỗi 5 group
+2026-11-17 15:38:29 [error] Lượt 3/3 - phần 1/4 xong: 6 lead mới, 2 bổ sung, 7/13 group, lỗi 6 group
+2026-11-17 15:41:29 [error] Lượt 3/3 - phần 4/4 xong: 8 lead mới, 0 bổ sung, 5/12 group, lỗi 7 group
+2026-11-17 15:57:55 [error] Lượt 3/3 - phần 3/4 xong: 2 lead mới, 2 bổ sung, 4/12 group, lỗi 8 group
+2026-11-17 15:58:23 [error] Lượt 3/3 xong lúc 15:58: 26 lead mới, 5 bổ sung cho lead cũ. Vấn đề: 5 group lỗi (phần 2); 6 group lỗi (phần 1); 7 group lỗi (phần 4); 8 group lỗi (phần 3). | Lượt 3: 26 lead mới, 5 bổ sung, 24/50 group (26 lỗi). Kho 2250 cụm, verified 496. Cả ngày: 100 lead mới, 13 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261117.xlsx
+2026-11-18 09:00:02 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-18 09:58:29 [error] Lượt 1/3 - phần 3/4 xong: 0 lead mới, 0 bổ sung, 0/12 group, lỗi 12 group
+2026-11-18 09:59:09 [error] Lượt 1/3 - phần 4/4 xong: 0 lead mới, 0 bổ sung, 0/12 group, lỗi 12 group
+2026-11-18 10:01:10 [error] Lượt 1/3 - phần 1/4 xong: 0 lead mới, 0 bổ sung, 0/13 group, lỗi 13 group
+2026-11-18 10:01:30 [error] Lượt 1/3 - phần 2/4 xong: 0 lead mới, 0 bổ sung, 0/13 group, lỗi 13 group
+2026-11-18 10:01:33 [error] Lượt 1/3 xong lúc 10:01: 0 lead mới, 0 bổ sung cho lead cũ. Vấn đề: 12 group lỗi (phần 3); 12 group lỗi (phần 4); 13 group lỗi (phần 1); 13 group lỗi (phần 2); không có lead nào. | Lượt 1: 0 lead mới, 0 bổ sung, 0/50 group (50 lỗi). Kho 2250 cụm, verified 496.
+2026-11-18 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-18 12:18:07 [ok] Lượt 2/3 - phần 4/4 xong: 17 lead mới, 5 bổ sung, 12/12 group
+2026-11-18 12:23:07 [ok] Lượt 2/3 - phần 3/4 xong: 16 lead mới, 2 bổ sung, 12/12 group
+2026-11-18 12:29:08 [ok] Lượt 2/3 - phần 2/4 xong: 22 lead mới, 4 bổ sung, 13/13 group
+2026-11-18 12:30:09 [ok] Lượt 2/3 - phần 1/4 xong: 14 lead mới, 1 bổ sung, 13/13 group
+2026-11-18 12:31:22 [ok] Lượt 2/3 xong lúc 12:31: 69 lead mới, 12 bổ sung cho lead cũ. | Lượt 2: 69 lead mới, 12 bổ sung, 50/50 group (0 lỗi). Kho 2320 cụm, verified 516.
+2026-11-18 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-18 15:25:08 [error] Lượt 3/3 - phần 1/4 xong: 8 lead mới, 1 bổ sung, 11/13 group, lỗi 2 group
+2026-11-18 15:32:49 [error] Lượt 3/3 - phần 4/4 xong: 11 lead mới, 2 bổ sung, 8/12 group, lỗi 4 group
+2026-11-18 15:34:10 [error] Lượt 3/3 - phần 2/4 xong: 6 lead mới, 1 bổ sung, 9/13 group, lỗi 4 group
+2026-11-18 15:44:32 [error] Lượt 3/3 - phần 3/4 xong: 3 lead mới, 0 bổ sung, 5/12 group, lỗi 7 group
+2026-11-18 15:44:46 [error] Lượt 3/3 xong lúc 15:44: 28 lead mới, 4 bổ sung cho lead cũ. Vấn đề: 2 group lỗi (phần 1); 4 group lỗi (phần 4); 4 group lỗi (phần 2); 7 group lỗi (phần 3). | Lượt 3: 28 lead mới, 4 bổ sung, 33/50 group (17 lỗi). Kho 2348 cụm, verified 519. Cả ngày: 97 lead mới, 16 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261118.xlsx
+2026-11-19 10:24:17 [info] Lượt 1/3 bắt đầu 10:24: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-19 11:07:43 [error] Lượt 1/3 - phần 3/4 xong: 9 lead mới, 0 bổ sung, 6/12 group, lỗi 6 group
+2026-11-19 11:08:43 [error] Lượt 1/3 - phần 4/4 xong: 6 lead mới, 1 bổ sung, 7/12 group, lỗi 5 group
+2026-11-19 11:19:44 [error] Lượt 1/3 - phần 2/4 xong: 5 lead mới, 2 bổ sung, 8/13 group, lỗi 5 group
+2026-11-19 11:24:05 [error] Lượt 1/3 - phần 1/4 xong: 7 lead mới, 2 bổ sung, 8/13 group, lỗi 5 group
+2026-11-19 11:24:24 [error] Lượt 1/3 xong lúc 11:24: 27 lead mới, 5 bổ sung cho lead cũ. Vấn đề: 6 group lỗi (phần 3); 5 group lỗi (phần 4); 5 group lỗi (phần 2); 5 group lỗi (phần 1). | Lượt 1: 27 lead mới, 5 bổ sung, 29/50 group (21 lỗi). Kho 2375 cụm, verified 522.
+2026-11-19 12:00:02 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-19 12:26:06 [ok] Lượt 2/3 - phần 2/4 xong: 9 lead mới, 4 bổ sung, 13/13 group
+2026-11-19 12:27:27 [ok] Lượt 2/3 - phần 3/4 xong: 9 lead mới, 1 bổ sung, 12/12 group
+2026-11-19 12:38:28 [ok] Lượt 2/3 - phần 1/4 xong: 14 lead mới, 2 bổ sung, 13/13 group
+2026-11-19 13:03:49 [ok] Lượt 2/3 - phần 4/4 xong: 17 lead mới, 2 bổ sung, 12/12 group
+2026-11-19 13:04:36 [ok] Lượt 2/3 xong lúc 13:04: 49 lead mới, 9 bổ sung cho lead cũ. | Lượt 2: 49 lead mới, 9 bổ sung, 50/50 group (0 lỗi). Kho 2424 cụm, verified 532.
+2026-11-19 15:00:02 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-19 15:29:27 [ok] Lượt 3/3 - phần 1/4 xong: 15 lead mới, 2 bổ sung, 13/13 group
+2026-11-19 15:34:48 [ok] Lượt 3/3 - phần 2/4 xong: 14 lead mới, 0 bổ sung, 13/13 group
+2026-11-19 15:38:49 [ok] Lượt 3/3 - phần 4/4 xong: 7 lead mới, 3 bổ sung, 12/12 group
+2026-11-19 15:59:30 [ok] Lượt 3/3 - phần 3/4 xong: 18 lead mới, 3 bổ sung, 12/12 group
+2026-11-19 16:00:36 [ok] Lượt 3/3 xong lúc 16:00: 54 lead mới, 8 bổ sung cho lead cũ. | Lượt 3: 54 lead mới, 8 bổ sung, 50/50 group (0 lỗi). Kho 2478 cụm, verified 545. Cả ngày: 130 lead mới, 22 bổ sung qua 3 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261119.xlsx
+2026-11-20 09:00:03 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-20 09:26:08 [ok] Lượt 1/3 - phần 3/4 xong: 13 lead mới, 1 bổ sung, 12/12 group
+2026-11-20 09:27:49 [ok] Lượt 1/3 - phần 4/4 xong: 11 lead mới, 0 bổ sung, 12/12 group
+2026-11-20 09:50:10 [ok] Lượt 1/3 - phần 1/4 xong: 14 lead mới, 1 bổ sung, 13/13 group
+2026-11-20 09:59:51 [ok] Lượt 1/3 - phần 2/4 xong: 10 lead mới, 1 bổ sung, 13/13 group
+2026-11-20 10:00:29 [ok] Lượt 1/3 xong lúc 10:00: 48 lead mới, 3 bổ sung cho lead cũ. | Lượt 1: 48 lead mới, 3 bổ sung, 50/50 group (0 lỗi). Kho 2526 cụm, verified 554.
+2026-11-20 15:00:03 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-20 15:16:08 [ok] Lượt 3/3 - phần 2/4 xong: 12 lead mới, 1 bổ sung, 13/13 group
+2026-11-20 15:18:49 [ok] Lượt 3/3 - phần 4/4 xong: 16 lead mới, 1 bổ sung, 12/12 group
+2026-11-20 15:37:10 [ok] Lượt 3/3 - phần 1/4 xong: 8 lead mới, 3 bổ sung, 13/13 group
+2026-11-20 15:46:51 [ok] Lượt 3/3 - phần 3/4 xong: 14 lead mới, 3 bổ sung, 12/12 group
+2026-11-20 15:47:29 [ok] Lượt 3/3 xong lúc 15:47: 50 lead mới, 8 bổ sung cho lead cũ. | Lượt 3: 50 lead mới, 8 bổ sung, 50/50 group (0 lỗi). Kho 2576 cụm, verified 566. Cả ngày: 98 lead mới, 11 bổ sung qua 2 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261120.xlsx
+2026-11-22 22:53:33 [info] Lượt 3/3 bắt đầu 22:53: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-23 09:00:04 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55
+2026-11-23 09:31:09 [ok] Lượt 1/3 - phần 4/4 xong: 15 lead mới, 0 bổ sung, 12/12 group
+2026-11-23 09:35:09 [ok] Lượt 1/3 - phần 3/4 xong: 14 lead mới, 0 bổ sung, 12/12 group
+2026-11-23 09:54:30 [ok] Lượt 1/3 - phần 2/4 xong: 12 lead mới, 2 bổ sung, 13/13 group
+2026-11-23 12:00:03 [info] Lượt 2/3 bắt đầu 12:00: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-23 12:17:47 [ok] Lượt 2/3 - phần 3/4 xong: 12 lead mới, 1 bổ sung, 12/12 group
+2026-11-23 12:24:08 [ok] Lượt 2/3 - phần 2/4 xong: 13 lead mới, 2 bổ sung, 13/13 group
+2026-11-23 12:44:49 [ok] Lượt 2/3 - phần 1/4 xong: 15 lead mới, 2 bổ sung, 13/13 group
+2026-11-23 12:47:50 [ok] Lượt 2/3 - phần 4/4 xong: 12 lead mới, 0 bổ sung, 12/12 group
+2026-11-23 12:49:00 [ok] Lượt 2/3 xong lúc 12:48: 52 lead mới, 5 bổ sung cho lead cũ. | Lượt 2: 52 lead mới, 5 bổ sung, 50/50 group (0 lỗi). Kho 2684 cụm, verified 585.
+2026-11-23 15:00:03 [info] Lượt 3/3 bắt đầu 15:00: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-23 15:18:47 [ok] Lượt 3/3 - phần 2/4 xong: 6 lead mới, 0 bổ sung, 13/13 group
+2026-11-23 15:31:08 [ok] Lượt 3/3 - phần 4/4 xong: 10 lead mới, 3 bổ sung, 12/12 group
+2026-11-23 15:40:49 [ok] Lượt 3/3 - phần 1/4 xong: 12 lead mới, 3 bổ sung, 13/13 group
+2026-11-23 15:56:10 [ok] Lượt 3/3 - phần 3/4 xong: 12 lead mới, 0 bổ sung, 12/12 group
+2026-11-23 15:56:41 [ok] Lượt 3/3 xong lúc 15:56: 40 lead mới, 6 bổ sung cho lead cũ. | Lượt 3: 40 lead mới, 6 bổ sung, 50/50 group (0 lỗi). Kho 2724 cụm, verified 594. Cả ngày: 92 lead mới, 11 bổ sung qua 2 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261123.xlsx
+2026-11-24 11:46:17 [info] Lượt 2/3 bắt đầu 11:46: 50 group, 4 tiến trình, dừng lúc 14:55
+2026-11-24 12:17:21 [ok] Lượt 2/3 - phần 3/4 xong: 11 lead mới, 0 bổ sung, 12/12 group
+2026-11-24 12:32:22 [ok] Lượt 2/3 - phần 1/4 xong: 16 lead mới, 0 bổ sung, 13/13 group
+2026-11-24 12:34:23 [ok] Lượt 2/3 - phần 2/4 xong: 16 lead mới, 1 bổ sung, 13/13 group
+2026-11-24 12:45:24 [ok] Lượt 2/3 - phần 4/4 xong: 23 lead mới, 1 bổ sung, 12/12 group
+2026-11-24 12:46:26 [ok] Lượt 2/3 xong lúc 12:46: 66 lead mới, 2 bổ sung cho lead cũ. | Lượt 2: 66 lead mới, 2 bổ sung, 50/50 group (0 lỗi). Kho 2789 cụm, verified 605.
+2026-11-24 15:52:55 [info] Lượt 3/3 bắt đầu 15:52: 50 group, 4 tiến trình, dừng lúc 17:40
+2026-11-24 16:43:40 [error] Lượt 3/3 - phần 2/4 xong: 9 lead mới, 0 bổ sung, 8/13 group, lỗi 5 group
+2026-11-24 16:45:41 [error] Lượt 3/3 - phần 4/4 xong: 5 lead mới, 0 bổ sung, 4/12 group, lỗi 8 group
+2026-11-24 16:51:41 [error] Lượt 3/3 - phần 1/4 xong: 12 lead mới, 0 bổ sung, 6/13 group, lỗi 7 group
+2026-11-24 16:57:22 [error] Lượt 3/3 - phần 3/4 xong: 3 lead mới, 0 bổ sung, 3/12 group, lỗi 9 group
+2026-11-24 16:57:33 [error] Lượt 3/3 xong lúc 16:57: 29 lead mới, 0 bổ sung cho lead cũ. Vấn đề: 5 group lỗi (phần 2); 8 group lỗi (phần 4); 7 group lỗi (phần 1); 9 group lỗi (phần 3). | Lượt 3: 29 lead mới, 0 bổ sung, 21/50 group (29 lỗi). Kho 2818 cụm, verified 608. Cả ngày: 95 lead mới, 2 bổ sung qua 2 lượt. | Báo cáo cả ngày: D:\OneDrive - Kariera Group\handover - MinhCao\Crawl System\1. Hybrid n8n + python crawl facebook\2. Output\bao_cao\BaoCao_FB_Crawl_20261124.xlsx
+2026-11-25 09:00:02 [info] Lượt 1/3 bắt đầu 09:00: 50 group, 4 tiến trình, dừng lúc 11:55

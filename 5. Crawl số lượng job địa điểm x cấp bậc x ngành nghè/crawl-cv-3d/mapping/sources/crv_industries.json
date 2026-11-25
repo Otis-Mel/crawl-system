@@ -1,0 +1,466 @@
+{
+  "success": true,
+  "message": "Success",
+  "data": [
+    {
+      "group_id": 1,
+      "group_name_vn": "Bán hàng / Tiếp thị",
+      "group_name_en": "Sales / Marketing",
+      "industries": [
+        {
+          "industry_id": 4,
+          "industry_name_vn": "Tiếp thị / Marketing",
+          "industry_name_en": "Marketing"
+        },
+        {
+          "industry_id": 30,
+          "industry_name_vn": "Bán lẻ / Bán sỉ",
+          "industry_name_en": "Retail / Wholesale"
+        },
+        {
+          "industry_id": 31,
+          "industry_name_vn": "Bán hàng / Kinh doanh",
+          "industry_name_en": "Sales / Business Development"
+        },
+        {
+          "industry_id": 37,
+          "industry_name_vn": "Tiếp thị trực tuyến",
+          "industry_name_en": "Online Marketing"
+        },
+        {
+          "industry_id": 72,
+          "industry_name_vn": "Bán Hàng Kỹ Thuật",
+          "industry_name_en": "Sales Engineer/ Technical Sales"
+        },
+        {
+          "industry_id": 73,
+          "industry_name_vn": "Thương mại điện tử",
+          "industry_name_en": "Ecommerce"
+        }
+      ]
+    },
+    {
+      "group_id": 2,
+      "group_name_vn": "Chăm sóc sức khỏe",
+      "group_name_en": "Healthcare",
+      "industries": [
+        {
+          "industry_id": 7,
+          "industry_name_vn": "Dược phẩm/ Hóa Mỹ Phẩm",
+          "industry_name_en": "Pharmacy / Chemical Eng. / Cosmetics"
+        },
+        {
+          "industry_id": 56,
+          "industry_name_vn": "Y tế / Chăm sóc sức khỏe / Thẩm mỹ / Làm đẹp",
+          "industry_name_en": "Medical Services/ Healthcare/ Personal Care/ Beauty"
+        }
+      ]
+    },
+    {
+      "group_id": 3,
+      "group_name_vn": "Dịch vụ",
+      "group_name_en": "Services",
+      "industries": [
+        {
+          "industry_id": 9,
+          "industry_name_vn": "Tư vấn",
+          "industry_name_en": "Consulting"
+        },
+        {
+          "industry_id": 12,
+          "industry_name_vn": "Dịch vụ khách hàng",
+          "industry_name_en": "Customer Service"
+        },
+        {
+          "industry_id": 20,
+          "industry_name_vn": "Phi chính phủ / Phi lợi nhuận",
+          "industry_name_en": "NGO / Non-Profit"
+        },
+        {
+          "industry_id": 24,
+          "industry_name_vn": "Luật / Pháp lý",
+          "industry_name_en": "Law / Legal Services"
+        },
+        {
+          "industry_id": 32,
+          "industry_name_vn": "Bưu chính viễn thông",
+          "industry_name_en": "Telecommunications"
+        },
+        {
+          "industry_id": 33,
+          "industry_name_vn": "Vận chuyển / Giao nhận /  Kho vận",
+          "industry_name_en": "Freight / Logistics / Warehouse"
+        },
+        {
+          "industry_id": 44,
+          "industry_name_vn": "Lao động phổ thông",
+          "industry_name_en": "Unskilled Workers"
+        },
+        {
+          "industry_id": 51,
+          "industry_name_vn": "An Ninh / Bảo Vệ",
+          "industry_name_en": "Security"
+        }
+      ]
+    },
+    {
+      "group_id": 4,
+      "group_name_vn": "Giáo dục / Đào tạo",
+      "group_name_en": "Education / Training",
+      "industries": [
+        {
+          "industry_id": 13,
+          "industry_name_vn": "Giáo dục / Đào tạo",
+          "industry_name_en": "Education /Training"
+        },
+        {
+          "industry_id": 57,
+          "industry_name_vn": "Thư viện",
+          "industry_name_en": "Library"
+        }
+      ]
+    },
+    {
+      "group_id": 5,
+      "group_name_vn": "Hàng tiêu dùng",
+      "group_name_en": "FMCG",
+      "industries": [
+        {
+          "industry_id": 10,
+          "industry_name_vn": "Hàng gia dụng / Chăm sóc cá nhân",
+          "industry_name_en": "Household / Personal Care"
+        },
+        {
+          "industry_id": 21,
+          "industry_name_vn": "Thực phẩm & Đồ uống",
+          "industry_name_en": "Food & Beverage (F&B)"
+        }
+      ]
+    },
+    {
+      "group_id": 6,
+      "group_name_vn": "Hành chính / Nhân sự",
+      "group_name_en": "Admin / HR",
+      "industries": [
+        {
+          "industry_id": 3,
+          "industry_name_vn": "Hành chính / Thư ký",
+          "industry_name_en": "Administrative / Clerical"
+        },
+        {
+          "industry_id": 17,
+          "industry_name_vn": "Quản lý điều hành",
+          "industry_name_en": "Executive management"
+        },
+        {
+          "industry_id": 22,
+          "industry_name_vn": "Nhân sự",
+          "industry_name_en": "Human Resources"
+        },
+        {
+          "industry_id": 38,
+          "industry_name_vn": "Biên phiên dịch",
+          "industry_name_en": "Interpreter/ Translator"
+        }
+      ]
+    },
+    {
+      "group_id": 7,
+      "group_name_vn": "Kế toán / Tài chính",
+      "group_name_en": "Accounting / Finance",
+      "industries": [
+        {
+          "industry_id": 2,
+          "industry_name_vn": "Kế toán / Kiểm toán",
+          "industry_name_en": "Accounting / Auditing / Tax"
+        },
+        {
+          "industry_id": 19,
+          "industry_name_vn": "Ngân hàng",
+          "industry_name_en": "Banking"
+        },
+        {
+          "industry_id": 23,
+          "industry_name_vn": "Bảo hiểm",
+          "industry_name_en": "Insurance"
+        },
+        {
+          "industry_id": 46,
+          "industry_name_vn": "Chứng khoán",
+          "industry_name_en": "Stock"
+        },
+        {
+          "industry_id": 59,
+          "industry_name_vn": "Tài chính / Đầu tư",
+          "industry_name_en": "Finance / Investment"
+        }
+      ]
+    },
+    {
+      "group_id": 8,
+      "group_name_vn": "Khách sạn / Du lịch",
+      "group_name_en": "Hospitality / Tourism",
+      "industries": [
+        {
+          "industry_id": 29,
+          "industry_name_vn": "Nhà hàng / Khách sạn",
+          "industry_name_en": "Restaurant / Hotel"
+        },
+        {
+          "industry_id": 34,
+          "industry_name_vn": "Du lịch",
+          "industry_name_en": "Tourism"
+        },
+        {
+          "industry_id": 60,
+          "industry_name_vn": "Hàng không",
+          "industry_name_en": "Aviation"
+        }
+      ]
+    },
+    {
+      "group_id": 9,
+      "group_name_vn": "Khoa học",
+      "group_name_en": "Sciences",
+      "industries": [
+        {
+          "industry_id": 5,
+          "industry_name_vn": "Nông nghiệp",
+          "industry_name_en": "Agriculture"
+        },
+        {
+          "industry_id": 36,
+          "industry_name_vn": "Thống kê",
+          "industry_name_en": "Statistics"
+        },
+        {
+          "industry_id": 49,
+          "industry_name_vn": "Thủy sản / Hải sản",
+          "industry_name_en": "Fishery"
+        },
+        {
+          "industry_id": 50,
+          "industry_name_vn": "Lâm Nghiệp",
+          "industry_name_en": "Forestry"
+        },
+        {
+          "industry_id": 52,
+          "industry_name_vn": "Chăn nuôi / Thú y",
+          "industry_name_en": "Animal Husbandry / Veterinary"
+        },
+        {
+          "industry_id": 53,
+          "industry_name_vn": "Thủy lợi",
+          "industry_name_en": "Irrigation"
+        },
+        {
+          "industry_id": 54,
+          "industry_name_vn": "Trắc địa / Địa Chất",
+          "industry_name_en": "Surveying / Geology"
+        },
+        {
+          "industry_id": 61,
+          "industry_name_vn": "Hàng hải",
+          "industry_name_en": "Marine"
+        },
+        {
+          "industry_id": 69,
+          "industry_name_vn": "Công nghệ sinh học",
+          "industry_name_en": "Biotechnology"
+        },
+        {
+          "industry_id": 70,
+          "industry_name_vn": "Công nghệ thực phẩm / Dinh dưỡng",
+          "industry_name_en": "Food Tech / Nutritionist"
+        }
+      ]
+    },
+    {
+      "group_id": 10,
+      "group_name_vn": "Kỹ thuật",
+      "group_name_en": "Engineering",
+      "industries": [
+        {
+          "industry_id": 14,
+          "industry_name_vn": "Cơ khí / Ô tô / Tự động hóa",
+          "industry_name_en": "Mechanical / Auto / Automotive"
+        },
+        {
+          "industry_id": 16,
+          "industry_name_vn": "Môi trường",
+          "industry_name_en": "Environmental"
+        },
+        {
+          "industry_id": 26,
+          "industry_name_vn": "Dầu khí",
+          "industry_name_en": "Oil / Gas"
+        },
+        {
+          "industry_id": 41,
+          "industry_name_vn": "Hóa học",
+          "industry_name_en": "Chemical Eng."
+        },
+        {
+          "industry_id": 48,
+          "industry_name_vn": "Điện / Điện tử / Điện lạnh / Điện công nghiệp",
+          "industry_name_en": "Electrical / Electronics / Refrigeration / Industrial Electrical"
+        },
+        {
+          "industry_id": 65,
+          "industry_name_vn": "Khoáng sản",
+          "industry_name_en": "Mineral"
+        },
+        {
+          "industry_id": 71,
+          "industry_name_vn": "Bảo trì / Sửa chữa",
+          "industry_name_en": "Maintenance"
+        }
+      ]
+    },
+    {
+      "group_id": 11,
+      "group_name_vn": "Máy tính / Công nghệ thông tin",
+      "group_name_en": "Computer / IT",
+      "industries": [
+        {
+          "industry_id": 1,
+          "industry_name_vn": "CNTT - Phần mềm",
+          "industry_name_en": "IT - Software"
+        },
+        {
+          "industry_id": 63,
+          "industry_name_vn": "CNTT - Phần cứng / Mạng",
+          "industry_name_en": "IT - Hardware / Network"
+        }
+      ]
+    },
+    {
+      "group_id": 12,
+      "group_name_vn": "Truyền thông / Media",
+      "group_name_en": "Communication / Media",
+      "industries": [
+        {
+          "industry_id": 11,
+          "industry_name_vn": "Mỹ thuật / Nghệ thuật / Thiết kế",
+          "industry_name_en": "Arts / Creative Design"
+        },
+        {
+          "industry_id": 15,
+          "industry_name_vn": "Giải trí",
+          "industry_name_en": "Entertainment"
+        },
+        {
+          "industry_id": 66,
+          "industry_name_vn": "Truyền hình / Báo chí / Biên tập",
+          "industry_name_en": "TV / Newspaper / Editors"
+        },
+        {
+          "industry_id": 67,
+          "industry_name_vn": "Quảng cáo / Đối ngoại / Truyền Thông",
+          "industry_name_en": "Advertising / PR / Communications"
+        },
+        {
+          "industry_id": 68,
+          "industry_name_vn": "Tổ chức sự kiện",
+          "industry_name_en": "Event"
+        }
+      ]
+    },
+    {
+      "group_id": 13,
+      "group_name_vn": "Sản xuất",
+      "group_name_en": "Manufacturing",
+      "industries": [
+        {
+          "industry_id": 18,
+          "industry_name_vn": "Xuất nhập khẩu",
+          "industry_name_en": "Import / Export"
+        },
+        {
+          "industry_id": 25,
+          "industry_name_vn": "Sản xuất / Vận hành sản xuất",
+          "industry_name_en": "Manufacturing / Process"
+        },
+        {
+          "industry_id": 35,
+          "industry_name_vn": "Đồ gỗ",
+          "industry_name_en": "Wood"
+        },
+        {
+          "industry_id": 39,
+          "industry_name_vn": "Dệt may / Da giày / Thời trang",
+          "industry_name_en": "Textiles / Garments / Fashion"
+        },
+        {
+          "industry_id": 42,
+          "industry_name_vn": "Quản lý chất lượng (QA/QC)",
+          "industry_name_en": "Quality Control  (QA/QC)"
+        },
+        {
+          "industry_id": 43,
+          "industry_name_vn": "Thu mua / Vật tư",
+          "industry_name_en": "Purchasing / Merchandising"
+        },
+        {
+          "industry_id": 58,
+          "industry_name_vn": "An toàn lao động",
+          "industry_name_en": "HSE"
+        },
+        {
+          "industry_id": 64,
+          "industry_name_vn": "In ấn / Xuất bản",
+          "industry_name_en": "Printing / Publishing"
+        }
+      ]
+    },
+    {
+      "group_id": 14,
+      "group_name_vn": "Xây dựng",
+      "group_name_en": "Building / Construction",
+      "industries": [
+        {
+          "industry_id": 6,
+          "industry_name_vn": "Kiến trúc",
+          "industry_name_en": "Architect"
+        },
+        {
+          "industry_id": 8,
+          "industry_name_vn": "Xây dựng",
+          "industry_name_en": "Civil / Construction"
+        },
+        {
+          "industry_id": 28,
+          "industry_name_vn": "Bất động sản",
+          "industry_name_en": "Real Estate"
+        },
+        {
+          "industry_id": 47,
+          "industry_name_vn": "Nội ngoại thất",
+          "industry_name_en": "Interior / Exterior"
+        }
+      ]
+    },
+    {
+      "group_id": 15,
+      "group_name_vn": "Nhóm ngành khác",
+      "group_name_en": "Others",
+      "industries": [
+        {
+          "industry_id": 27,
+          "industry_name_vn": "Ngành khác",
+          "industry_name_en": "Others"
+        },
+        {
+          "industry_id": 45,
+          "industry_name_vn": "Mới tốt nghiệp / Thực tập",
+          "industry_name_en": "Entry Level / Internship"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "timestamp": 1780752716709,
+    "version": "prd-05062601",
+    "path": "/api/v1/cs/jsk/industries/groups/list"
+  }
+}

@@ -1,0 +1,73 @@
+2026-04-14 15:13:48,295 - INFO - ============================================================
+2026-04-14 15:13:48,297 - INFO - FB GROUP SCRAPER (NO LOGIN)
+2026-04-14 15:13:48,297 - INFO - Thời gian: 2026-04-14 15:13:48
+2026-04-14 15:13:48,297 - INFO - ============================================================
+2026-04-14 15:13:48,395 - INFO - Sẽ cào 5 groups (KHÔNG đăng nhập)
+2026-04-14 15:13:52,067 - INFO - 
+Đang cào: Group tuyển dụng 1
+2026-04-14 15:13:52,067 - INFO - URL: https://www.facebook.com/groups/818173552972432
+2026-04-14 15:15:36,392 - INFO -   Scroll 1/15 - Đã lấy 3 bài
+2026-04-14 15:17:11,450 - INFO -   Scroll 2/15 - Đã lấy 3 bài
+2026-04-14 15:18:46,535 - INFO -   Scroll 3/15 - Đã lấy 3 bài
+2026-04-14 15:20:21,583 - INFO -   Scroll 4/15 - Đã lấy 3 bài
+2026-04-14 15:21:56,644 - INFO -   Scroll 5/15 - Đã lấy 3 bài
+2026-04-14 15:23:31,712 - INFO -   Scroll 6/15 - Đã lấy 3 bài
+2026-04-14 15:25:06,777 - INFO -   Scroll 7/15 - Đã lấy 3 bài
+2026-04-14 15:26:41,841 - INFO -   Scroll 8/15 - Đã lấy 3 bài
+2026-04-14 15:28:16,906 - INFO -   Scroll 9/15 - Đã lấy 3 bài
+2026-04-14 15:29:51,977 - INFO -   Scroll 10/15 - Đã lấy 3 bài
+2026-04-14 15:31:27,053 - INFO -   Scroll 11/15 - Đã lấy 3 bài
+2026-04-14 15:33:02,133 - INFO -   Scroll 12/15 - Đã lấy 3 bài
+2026-04-14 15:34:37,201 - INFO -   Scroll 13/15 - Đã lấy 3 bài
+2026-04-14 15:36:12,265 - INFO -   Scroll 14/15 - Đã lấy 3 bài
+2026-04-14 15:37:47,350 - INFO -   Scroll 15/15 - Đã lấy 3 bài
+2026-04-14 15:37:47,351 - INFO -   → Lấy được 3 bài từ Group tuyển dụng 1
+2026-04-14 15:37:52,352 - INFO - 
+Đang cào: Group tuyển dụng 2
+2026-04-14 15:37:52,352 - INFO - URL: https://www.facebook.com/groups/timvieclamhanoi0
+2026-04-14 15:39:05,735 - INFO -   Scroll 1/15 - Đã lấy 2 bài
+2026-04-14 15:40:10,798 - INFO -   Scroll 2/15 - Đã lấy 2 bài
+2026-04-14 15:41:15,846 - INFO -   Scroll 3/15 - Đã lấy 2 bài
+2026-04-14 15:42:20,903 - INFO -   Scroll 4/15 - Đã lấy 2 bài
+2026-04-14 15:43:25,951 - INFO -   Scroll 5/15 - Đã lấy 2 bài
+2026-04-14 15:44:31,010 - INFO -   Scroll 6/15 - Đã lấy 2 bài
+2026-04-14 15:45:36,069 - INFO -   Scroll 7/15 - Đã lấy 2 bài
+2026-04-14 15:46:41,153 - INFO -   Scroll 8/15 - Đã lấy 2 bài
+2026-04-14 15:47:46,208 - INFO -   Scroll 9/15 - Đã lấy 2 bài
+2026-04-14 15:48:51,270 - INFO -   Scroll 10/15 - Đã lấy 2 bài
+2026-04-14 15:49:56,323 - INFO -   Scroll 11/15 - Đã lấy 2 bài
+2026-04-14 15:51:01,376 - INFO -   Scroll 12/15 - Đã lấy 2 bài
+2026-04-14 15:52:06,451 - INFO -   Scroll 13/15 - Đã lấy 2 bài
+2026-04-14 15:55:33,867 - INFO -   Scroll 14/15 - Đã lấy 2 bài
+2026-04-14 15:56:38,929 - INFO -   Scroll 15/15 - Đã lấy 2 bài
+2026-04-14 15:56:38,930 - INFO -   → Lấy được 2 bài từ Group tuyển dụng 2
+2026-04-14 15:56:43,931 - INFO - 
+Đang cào: Group tuyển dụng 3
+2026-04-14 15:56:43,931 - INFO - URL: https://www.facebook.com/groups/469383163393248
+2026-04-14 15:56:43,952 - ERROR - Lỗi khi cào group Group tuyển dụng 3: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.facebook.com/groups/469383163393248
+Call log:
+  - navigating to "https://www.facebook.com/groups/469383163393248", waiting until "networkidle"
+
+2026-04-14 15:56:43,953 - INFO - 
+Đang cào: Group tuyển dụng 4
+2026-04-14 15:56:43,953 - INFO - URL: https://www.facebook.com/groups/1415057285819366
+2026-04-14 15:56:43,992 - ERROR - Lỗi khi cào group Group tuyển dụng 4: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.facebook.com/groups/1415057285819366
+Call log:
+  - navigating to "https://www.facebook.com/groups/1415057285819366", waiting until "networkidle"
+
+2026-04-14 15:56:43,992 - INFO - 
+Đang cào: Group tuyển dụng 5
+2026-04-14 15:56:43,992 - INFO - URL: https://www.facebook.com/groups/239507464916811
+2026-04-14 15:56:43,998 - ERROR - Lỗi khi cào group Group tuyển dụng 5: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.facebook.com/groups/239507464916811
+Call log:
+  - navigating to "https://www.facebook.com/groups/239507464916811", waiting until "networkidle"
+
+2026-04-14 15:56:44,096 - INFO - 
+=== KẾT QUẢ ===
+2026-04-14 15:56:44,097 - INFO - Tổng: 5 bài post từ 5 groups
+2026-04-14 15:56:44,097 - INFO - File: C:\fb_scraper\fb_posts.json
+2026-04-14 15:56:44,098 - INFO - 
+Thời gian cào: 2576 giây (42.9 phút)
+2026-04-14 15:56:44,098 - INFO - 
+Đang upload lên Google Drive...
+2026-04-14 15:56:45,073 - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=178266154742-0cjmc08kfhk1nvo3abukm5tlv2kq8kpn.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A54476%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=fwxejFgqiUooUL0qdlvCtMKrVUzhkH&code_challenge=BoLEwELIYsx0lSoqDi9bwqoLDDPglIrvtoh25BKiIQ8&code_challenge_method=S256&access_type=offline
